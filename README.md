@@ -2,8 +2,10 @@ This is where I keep my personal website. It's Jekyll-generated and uses modifie
 
 TODO:
 
-Add font support for Japanese text.
+- Add font support for Japanese text.
+- Add Preview for stenoword deck
 
 Possible articles:
-Mahjong font
-が vs. は
+
+- Mahjong font
+- が vs. は

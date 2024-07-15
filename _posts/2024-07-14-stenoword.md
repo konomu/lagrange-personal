@@ -22,9 +22,10 @@ Since I was already familiar with it, I decided to make a custom deck for Stenow
 You can download my finished Stenoword Anki deck with the link below. It has audio for every card, a text input field on the front so that you can try stroking the word to see if you recall it, and a diagram on the back. 
 
 <p style="font-size: 2em; line-height: 1.3em; text-align: center;">
-	<a href="<a href={{ site.github.url }}/assets/files/ステノワード.apkg">
+	<a href="{{ site.github.url }}/assets/files/ステノワード.apkg">
 		Download the deck here!(13.4 MB)<br>
-	    デックのダウンロードはこちら</a>
+	    デックのダウンロードはこちら
+	</a>
 </p>
 
 ## Notes
