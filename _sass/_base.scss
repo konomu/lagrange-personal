@@ -3,10 +3,11 @@
 */
 
 body {
-  font-family: $serif-font-family;
+  font-family: $sans-serif-font-family;
   font-size: 18px;
   color: $body-color;
   line-height: 1.75rem;
+  background: $new-dark-color;
 }
 
 @media (max-width: $elements-responsive-width) {
@@ -29,12 +30,12 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif-font-family;
-  color: $dark-gray-color;
+  color: $body-color;
 }
 
 a {
   text-decoration: underline;
-  color: $dark-gray-color;
+  color: $body-color;
 }
 
 a:hover {

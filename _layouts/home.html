@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-
 {% for post in paginator.posts %}
   <div class="posts-container">
     <h1>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }}</span>
     </h1>
     {% if post.image %}
       <div class="thumbnail-container">
@@ -13,8 +13,7 @@ layout: default
       </div>
     {% endif %}
     <p>
-      {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      {{ post.content | strip_html_headings | strip_sup_tags | strip_html | truncate: 340 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
     </p>
   </div>
 {% endfor %}

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "stenoword and anki | ステノワードのankiデック"
+author: "hedera"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: stenowordcommunication.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
 ## Getting Started
+
+Stenoword (ステノワード) is a Japanese machine stenography system primarily used at NHK Broadcasting Corporation to provide live captioning for their programs. It was probably invented around 1995, when its parent company Speed-WP Inc. was founded.[^1] Information about the details on this system on the Internet is scarce, as with many other systems of Japanese steno. In 2021, 
+
+[^1]: https://www.speed-wp.co.jp/sw-company-information/
+
+I recently reached out to some of the peeps at the Japanese channel in the Plover discord. 
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 

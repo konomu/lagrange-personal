@@ -1,4 +1,15 @@
 /*
+  Front-Img
+*/
+
+.full-width {
+  margin: auto;
+  max-height: 500px;
+  object-fit: contain;
+  position: relative;
+}
+
+/*
   Posts
 */
 
@@ -20,8 +31,8 @@
 }
 
 .thumbnail-container img{
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
+  margin-top: 0%;
+  margin-bottom: 0%;
 }
 
 /*
