@@ -43,6 +43,12 @@ a:hover {
   border-bottom: none;
 }
 
+sup {
+   vertical-align: top;
+   position: relative;
+   top: -0.5em;
+}
+
 img {
   max-width: 100%;
   height: auto;
