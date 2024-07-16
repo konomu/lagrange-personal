@@ -4,6 +4,7 @@ TODO:
 
 - Add font support for Japanese text.
 - Add Preview for stenoword deck
+- Write about and contact page
 
 Possible articles:
 

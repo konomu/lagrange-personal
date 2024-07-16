@@ -5,6 +5,7 @@ layout: default
   <div class="posts-container">
     <h1>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ page.jp-title }}</a>
       <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }}</span>
     </h1>
     {% if post.image %}

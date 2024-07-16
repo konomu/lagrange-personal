@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Stenoword Anki Deck | ステノワードのAnkiデック"
+title: "Learning Stenoword with Anki and Plover | AnkiとPloverでステノワードを学びましょう"
 author: "hedera"
 categories: journal
-tags: [documentation,sample]
+tags: [documentation,anki,steno]
 image: stenowordcommunication.jpg
 ---
 
@@ -13,7 +13,10 @@ Stenoword (ステノワード) is a Japanese [machine stenography](https://en.wi
 
 After learning English steno in 2021 with [Plover](http://www.openstenoproject.org/plover/), I drifted away from the community, only occasionally checking in on the folks at the Plover discord. Recently, I went back to the Japanese channel there and found out that Jen, an admin on the server, had gotten her hands on three Stenoword textbooks (as well as some articles on other Japanese steno systems) and [released its contents at a new website](https://jenchanws.github.io/stenoword/). Both an English and Japanese version are available there. Since 2018, we'd already had a [Stenoword plugin for Plover](https://github.com/na2hiro/plover-japanese-stenoword) (thanks to na2hiro on Github) that came with a dictionary, but having the theory spelled out in bite-sized pieces means that it's infinitely easier to learn if you weren't familiar with the theory already. It might technically be possible to learn a steno theory purely through its dictionary file, but nobody wants to do that!
 
-## Anki
+## Using Plover
+To try out Stenoword, I recommend you use install the stenoword plugin on Plover with the dictionaries from [this repository (Meltedsoftcream on Github)](https://github.com/Meltedsoftcream/Plover_Japanese_StenoWord). Because of the way plover handles text, the sticky non-romaji dictionary is the best option to use out-of-the-box. The dictionaries from the original Stenoword plugin repository are less complete. For instructions on installing this plugin, follow the section under [Plugins not on PyPI](https://plover.wiki/index.php/Plugins#Plugins_not_on_PyPI) at this page on the Plover wiki.
+
+## Using Anki
 
 [Anki](https://apps.ankiweb.net/) is a free and open-source spaced repetition software program. In other words, it's a flashcard program that doesn't suck.
 
@@ -27,5 +30,11 @@ You can download my finished Stenoword Anki deck with the link below. It has aud
 	    デックのダウンロードはこちら
 	</a>
 </p>
+
+## Preview
+<div class="container" style="display:flex; align-items: center; padding-left: 10px;">
+      <div class="image"> <img src="{{ site.github.url }}/assets/img/stenofront.jpg" alt="Front" height="850px"/> </div> 
+      <div class="image"> <img src="{{ site.github.url }}/assets/img/stenoback.jpg" alt="Back" height="850px"/> </div> 
+    </div>
 
 ## Notes
