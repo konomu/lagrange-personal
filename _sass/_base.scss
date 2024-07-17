@@ -45,6 +45,12 @@ a:hover {
   border-bottom: none;
 }
 
+.tile {
+  font-family: $mahjong-font-family;
+  src: url(Tiles-Regularv2.1-SVG.otf);
+  font-size: 2em;
+}
+
 sup {
    vertical-align: top;
    position: relative;
