@@ -4,6 +4,9 @@
 
 .sharing-icons a {
   padding-right: 10px;
+  font-size: 1.6em;
+  position: relative;
+  top: 0.4em;
 }
 
 @mixin social-media-icon($color, $transition){

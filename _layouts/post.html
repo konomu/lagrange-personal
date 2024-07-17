@@ -11,9 +11,11 @@ layout: default
 <article>
   {{ content }}
 </article>
+<br>
 {% if site.hide_post_date != true %}
   {% include post-date.html %}
 {% endif %}
+<br>
 {% if site.hide_post_share != true %}
   {% include social-sharing.html %}
 {% endif %}

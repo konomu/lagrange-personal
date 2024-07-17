@@ -15,9 +15,9 @@ To import a position from XG, you need to change some settings first. Open XG, a
       <div class="image"> <img src="{{ site.github.url }}/assets/img/xgsettings.png" alt="xgsettings" height="850px"/> </div> 
 </div>
 
-To make a new Anki card you need to get the XG position on your clipboard first. You can do this by simply pressing "Ctrl+C" (Command+C for Mac) in the XG window while the position is being displayed. 
+To make a new Anki card you need to get the XG position on your clipboard first. You can do this by simply pressing `Ctrl+C` (`⌘+C` for Mac) in the XG window while the position is being displayed. 
 
-In Anki, click on the BG deck and then click "Add" to open a prompt to edit your new card. Paste the XG position into the card by selecting the "Diagram" field and then pressing "Ctrl+V" (Command+V for Mac). You can then type the answer manually into the "Answer" field and add any notes you want in the "Notes" and "Optional Question" field. The "Optional Question" will show up on the front of the flashcard, and the "Optional Notes" will show up on the back. I think it's useful to put the score/game type in the question field. Once you're done editing, don't forget to save.
+In Anki, click on the BG deck and then click "Add" to open a prompt to edit your new card. Paste the XG position into the card by selecting the "Diagram" field and then pressing `Ctrl+V` (`⌘+V` for Mac). You can then type the answer manually into the "Answer" field and add any notes you want in the "Notes" and "Optional Question" field. The "Optional Question" will show up on the front of the flashcard, and the "Optional Notes" will show up on the back. I think it's useful to put the score/game type in the question field. Once you're done editing, don't forget to save.
 
 <p style="font-size: 2em; line-height: 1.3em; text-align: center;">
    <a href="{{ site.github.url }}/assets/files/BG.apkg">
