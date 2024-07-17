@@ -10,16 +10,6 @@ body {
   background: $new-dark-color;
 }
 
-@media (max-width: $elements-responsive-width) {
-  body {
-    font-size: 14px;
-    line-height: 1.5rem;
-  }
-  body h1 {
-    font-size: 1.5rem;
-  }
-}
-
 h1{
   font-size: 2rem;
 }
@@ -33,6 +23,17 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 2.5rem;
   color: $body-color;
 }
+
+@media (max-width: $elements-responsive-width) {
+  body {
+    font-size: 14px;
+    line-height: 1.5rem;
+  }
+  body h1 {
+    font-size: 1.2rem;
+  }
+}
+
 
 a {
   text-decoration: underline;
@@ -48,6 +49,7 @@ sup {
    vertical-align: top;
    position: relative;
    top: -0.5em;
+   text-decoration: none !important;
 }
 
 img {

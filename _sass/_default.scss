@@ -32,7 +32,7 @@
 }
 
 .header a:hover {
-  color:white;
+  color:$link-color;
 }
 
 .header-title a {
@@ -75,11 +75,16 @@
 
 @media (max-width: $elements-responsive-width) {
   .social-icons {
-    float: left;
+    float: right;
     padding-top: 0px;
   }
-  .menu-content {
-    margin-bottom: 5px;
+  .menu-content a {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+    margin-bottom: 0px;
+  }
+  .header-subtitle {
+    display: block;
   }
 }
 

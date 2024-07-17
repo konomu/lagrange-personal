@@ -3,7 +3,7 @@ layout: post
 title: "Learning Stenoword with Anki and Plover | AnkiとPloverでステノワードを学びましょう"
 author: "hedera"
 categories: journal
-tags: [documentation,anki,steno]
+tags: [documentation,anki,steno,stenoword]
 image: stenowordcommunication.jpg
 ---
 
@@ -24,6 +24,8 @@ Since I was already familiar with it, I decided to make a custom deck for Stenow
 
 You can download my finished Stenoword Anki deck with the link below. It has audio for every card, a text input field on the front so that you can try stroking the word to see if you recall it, and a diagram on the back. 
 
+Because of the nature of drilling steno briefs, I don't recommend using FSRS with these types of notes. Make sure you have FSRS turned off in your deck options.
+
 <p style="font-size: 2em; line-height: 1.3em; text-align: center;">
 	<a href="{{ site.github.url }}/assets/files/ステノワード.apkg">
 		Download the deck here!(13.4 MB)<br>
@@ -32,7 +34,7 @@ You can download my finished Stenoword Anki deck with the link below. It has aud
 </p>
 
 ## Preview
-<div class="container" style="display:flex; align-items: center; padding-left: 10px;">
+<div class="container" style="display:flex; justify-content: center; padding-left: 10px;">
       <div class="image"> <img src="{{ site.github.url }}/assets/img/stenofront.jpg" alt="Front" height="850px"/> </div> 
       <div class="image"> <img src="{{ site.github.url }}/assets/img/stenoback.jpg" alt="Back" height="850px"/> </div> 
     </div>
