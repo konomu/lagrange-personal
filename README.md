@@ -3,14 +3,12 @@ This is where I keep my personal website. It's Jekyll-generated and uses modifie
 TODO:
 
 - Add font support for Japanese text.
-- Write about and contact page
 - Figure out the domain thing
-- Finish the bg article
 - add comments
+- add favicon
 
 Possible articles:
 
-- Mahjong font
 - が vs. は
 - pyaa
 - personal japanese learning
