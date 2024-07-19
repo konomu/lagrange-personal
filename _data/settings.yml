@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: 'hederablog'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: ''
 
 menu:
 - {name: 'about',   url: 'about.html'}
@@ -13,7 +13,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'youtube',    link: 'https://www.github.com/lenpaul'}
+- {icon: 'youtube',    link: 'https://www.youtube.com/@jagmeemees'}
+- {icon: 'github',     link: 'https://github.com/konomu'}
 # - {icon: 'twitter',    link: 'https://twitter.com/paululele'}
 # - {icon: 'linkedin',   link: 'http://www.linkedin.com/in/lenpaul/'}
 # - {icon: 'envelope',   link: 'mailto:l.nguyen.paul@gmail.com'}

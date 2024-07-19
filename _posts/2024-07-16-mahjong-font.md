@@ -12,14 +12,14 @@ A while back when I was working on a translation of a Mahjong textbook, I modifi
 If your browser properly supports displaying Opentype-SVG web fonts, you will see the fonts in action below. 
 
 <div class="container" style="display:flex; text-align: center; flex-wrap: wrap; align-items: center;">
-    <div style="text-align: right; flex: 30%;">Honors:</div>
-    <div class="tile" style="margin-left: 10px; text-align: left; flex: 60%">1234567</div>
     <div style="text-align: right; flex: 30%;">Manzu:</div>
     <div class="tile" style="margin-left: 10px; text-align: left; flex: 60%">qwertyuiop</div>
     <div style="text-align: right; flex: 30%;">Pinzu:</div>
     <div class="tile" style="margin-left: 10px; text-align: left; flex: 60%">asdfghjkl;</div>
     <div style="text-align: right; flex: 30%;">Souzu:</div>
     <div class="tile" style="margin-left: 10px; text-align: left; flex: 60%">zxcvbnm,./</div>
+    <div style="text-align: right; flex: 30%;">Honors:</div>
+    <div class="tile" style="margin-left: 10px; text-align: left; flex: 60%">1234567</div>
 </div>
 
 The honors map onto `1234567`, manzu are `qwertyuiop`, the pinzu are `asdfghjkl;`, and the souzu are `zxcvbnm,./`.
