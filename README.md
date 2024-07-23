@@ -4,8 +4,9 @@ TODO:
 
 - Add font support for Japanese text.
 - Figure out the domain thing
-- add comments
-- add favicon
+- maybe ditch disqus
+- make a better favicon
+- make a better header
 
 Possible articles:
 
