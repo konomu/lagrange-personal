@@ -5,7 +5,7 @@
 .container {
   display: flex;
   flex-direction: row;
-  flex-grow: 1;
+  justify-content: center;
 }
 
 .content-container {
@@ -13,15 +13,15 @@
   flex-grow: 1;
   padding: 0 1rem;
   max-width: 75rem;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /*48em*/
 
 @media (max-width: $container-responsive-width) {
   .container {
-    width: 100vw;
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -32,7 +32,7 @@
 .header {
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem 12.1rem 0rem;
+  padding: 0.5rem 5% 0rem;
   margin-bottom: 4rem;
   max-width: 75rem;
   font-family: $sans-serif-font-family;
@@ -80,31 +80,24 @@
   font-size: 1rem;
 }
 
-.phold {
-  align-self: flex-start;
-  flex-shrink: 1;
-  padding: 1.2rem;
-  position: sticky;
-  top: 2.4rem;
-  width: 18.1rem;
-}
 
 .sidebar-toggle, .sidebar-toggle-label {
   display: none;
 }
 
 .navigation {
+  display: flex;
   align-self: flex-start;
   flex-shrink: 1;
-  padding: 1.2rem;
+  padding: 1rem;
   position: sticky;
   top: 2.4rem;
-  width: 18.1rem;
-}
-
-.navigation li a {
-  padding-left: 10px;
-  padding-right: 10px;
+  right: 0;
+  min-width: 12.1rem;
+  font-size: 0.8em;
+  line-height: 1.8em;
+  box-sizing: border-box;
+  justify-content: right;
 }
 
 .navigation .nav-header {
@@ -119,7 +112,7 @@
   font-weight: bold;
 }
 
-@media (max-width: $elements-responsive-width) {
+@media (max-width: $container-responsive-width) {
   .social-icons {
     float: right;
     padding-top: 0px;
@@ -134,9 +127,6 @@
   }
   .header-subtitle {
     display: block;
-  }
-  .phold {
-    display: none;
   }
   /* Floating Menu Button */
   .sidebar-toggle-label {
@@ -172,6 +162,8 @@
     z-index: 5;
     background-color: $dark-gray-color;
     box-sizing: border-box;
+    font-size: 0.8em;
+    line-height: 1.8em;
   }
 
   .close-btn {
