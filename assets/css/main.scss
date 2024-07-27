@@ -1,5 +1,8 @@
 ---
 ---
+body {
+    margin: 0;
+}
 
 $sans-serif-font-family: "Hack", "Noto Sans JP", monospace;
 $serif-font-family:      "PT Serif", Georgia, "Times New Roman", serif;
@@ -12,7 +15,7 @@ $link-color:             #ed00b5;
 $code-background-color:   #333;
 $pagination-button-color: #e0e0e0;
 
-$dark-gray-color:        #333;
+$dark-gray-color:        #111;
 $light-gray-color:       #999;
 $extra-light-gray-color: #ccc;
 $new-dark-color:         #0F0F0F;

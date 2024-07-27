@@ -81,24 +81,24 @@
 
 .phold {
   align-self: flex-start;
-  flex-shrink: 0;
-  padding: 1.2rem 0;
+  flex-shrink: 1;
+  padding: 1.2rem;
   position: sticky;
   top: 2.4rem;
-  width: 12.1rem;
+  width: 18.1rem;
 }
 
-.sidebar-toggle {
+.sidebar-toggle, .sidebar-toggle-label {
   display: none;
 }
 
 .navigation {
   align-self: flex-start;
-  flex-shrink: 0;
-  padding: 1.2rem 0;
+  flex-shrink: 1;
+  padding: 1.2rem;
   position: sticky;
   top: 2.4rem;
-  width: 12.1rem;
+  width: 18.1rem;
 }
 
 .navigation li a {
@@ -161,14 +161,16 @@
   }
 
   .navigation {
-    left: -12.1rem;
+    left: -18.1rem;
     height: 100%;
     position: fixed;
     top: 0;
     transform: translateX(0);
     transition: transform .25s cubic-bezier(.4,0,.2,1),box-shadow .25s;
-    width: 0;
+    width: 18.1rem;
     z-index: 5;
+    background-color: $dark-gray-color;
+    box-sizing: border-box;
   }
 
   .close-btn {
@@ -177,7 +179,7 @@
   }
 
   #sidebar-toggle:checked ~ .navigation {
-    transform: translateX(12.1rem);
+    transform: translateX(18.1rem);
   }
 }
 
