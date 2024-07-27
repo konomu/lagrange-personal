@@ -2,12 +2,24 @@
 <html>
   {% include head.html %}
   <body>
+    {% include header.html %}
     <div class="container">
-      {% include header.html %}
+      {% if page.layout == "docs" %}
+        <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
+        <label for="sidebar-toggle" class="sidebar-toggle-label">&#9776;</label>
+        <div class="navigation">
+          {% include navigation.html %}
+        </div>
+        {% else %}
+        <div class="phold">
+        </div>
+      {% endif %}
       <div class="content-container">
         {{ content }}
       </div>
-      {% include footer.html %}
+      <div class="phold">
+      </div>
     </div>
+    {% include footer.html %}
   </body>
 </html>

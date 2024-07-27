@@ -3,20 +3,24 @@
 */
 
 .container {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  max-width: 100rem;
   margin-left: auto;
   margin-right: auto;
-  width: 1015px;
 }
 
 .content-container {
   margin-bottom: 4rem;
+  flex-grow: 1;
 }
 
 /*48em*/
 
 @media (max-width: $container-responsive-width) {
   .container {
-    width: 90vw;
+    width: 100vw;
   }
 }
 
@@ -25,9 +29,11 @@
 */
 
 .header {
-  padding-top: 0.5rem;
-  padding-bottom: 0rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5rem 12.1rem 0rem;
   margin-bottom: 4rem;
+  max-width: 100rem;
   font-family: $sans-serif-font-family;
 }
 
@@ -73,6 +79,45 @@
   font-size: 1rem;
 }
 
+.phold {
+  align-self: flex-start;
+  flex-shrink: 0;
+  padding: 1.2rem 0;
+  position: sticky;
+  top: 2.4rem;
+  width: 12.1rem;
+}
+
+.sidebar-toggle {
+  display: none;
+}
+
+.navigation {
+  align-self: flex-start;
+  flex-shrink: 0;
+  padding: 1.2rem 0;
+  position: sticky;
+  top: 2.4rem;
+  width: 12.1rem;
+}
+
+.navigation li a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navigation .nav-header {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.nav-header {
+  font-size: 1em;
+  cursor: default;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 @media (max-width: $elements-responsive-width) {
   .social-icons {
     float: right;
@@ -83,10 +128,59 @@
     line-height: 1.5rem;
     margin-bottom: 0px;
   }
+  .header {
+    padding: 20px;
+  }
   .header-subtitle {
     display: block;
   }
+  .phold {
+    display: none;
+  }
+  /* Floating Menu Button */
+  .sidebar-toggle-label {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  .sidebar-toggle-label:hover {
+    background-color: #555;
+  }
+
+  .navigation {
+    left: -12.1rem;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    transform: translateX(0);
+    transition: transform .25s cubic-bezier(.4,0,.2,1),box-shadow .25s;
+    width: 0;
+    z-index: 5;
+  }
+
+  .close-btn {
+    top: 10px;
+    right: 10px;
+  }
+
+  #sidebar-toggle:checked ~ .navigation {
+    transform: translateX(12.1rem);
+  }
 }
+
 
 /*
   Footer
