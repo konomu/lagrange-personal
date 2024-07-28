@@ -1,31 +1,41 @@
 toc2:
-  - title: Group 1
+  - title: The は/が Series
+  - title: は Structures
     subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
-      - page: Thing 2
-        url: /thing2.html
+      - page: 「父はこの本を買ってくれた。」
+        url: /wa-vs-ga#chichi
+      - page: 「象は鼻が長い。」
+        url: /wa-vs-ga#zou
+      - page: 「かき料理は広島が本場だ。」
+        url: /wa-vs-ga#kaki
+      - page: 「辞書は新しいのがいい。」
+        url: /wa-vs-ga#jisho
+      - page: 「花が咲くのは7月ごろだ。」
+        url: /wa-vs-ga#hana
+      - page: 「このにおいはガスが漏れてるよ。」
+        url: /wa-vs-ga#nioi
         subsubfolderitems:
-          - page: Subthing 1
-            url: /subthing1.html
-          - page: Subthing 2
-            url: /subthing2.html
-      - page: Thing 3
-        url: /thing3.html
-  - title: Group 2
+          - page: The Redundant Type
+            url: /wa-vs-ga#redundant
+          - page: The Omissive Type
+            url: /wa-vs-ga#omissive
+          - page: The Inexact Type
+            url: /wa-vs-ga#inexact
+  - title: が Structures
     subfolderitems:
-      - page: Piece 1
-        url: /piece1.html
-      - page: Piece 2
-        url: /piece2.html
-      - page: Piece 3
-        url: /piece3.html
+      - page: 「富士山が見えるよ。」
+        url: /wa-vs-ga#fuji
         subsubfolderitems:
-          - page: Subpiece 1
-            url: /subpiece1.html
-          - page: Subpiece2
-            url: /subpiece2.html
-  - title: Group 3
+          - page: Descriptions of Something Perceptible
+            url: /wa-vs-ga#desc1
+          - page: Descriptions of Events
+            url: /wa-vs-ga#desc2
+          - page: Descriptions of Consequences
+            url: /wa-vs-ga#desc3
+      - page: 「君が主役だ。」
+        url: /wa-vs-ga#kimi
+        
+  - title: Choosing between は and が
     subfolderitems:
       - page: Widget 1
         url: /widget1.html

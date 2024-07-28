@@ -7,7 +7,7 @@
       {% if page.layout == "docs" %}
         <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
         <label for="sidebar-toggle" class="sidebar-toggle-label">&#9776;</label>
-        <div class="navigation">
+        <div id="navigation" class="navigation">
           {% include navigation.html %}
           <h1>{{ page.food }}</h1>
         </div>
@@ -17,5 +17,17 @@
       </div>
     </div>
     {% include footer.html %}
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const checkbox = document.getElementById('sidebar-toggle');
+        const links = navigation.querySelectorAll('a');
+
+        links.forEach(link => {
+            link.addEventListener('click', (event) => {
+                checkbox.checked = false;
+            });
+        });
+      });
+    </script>
   </body>
 </html>

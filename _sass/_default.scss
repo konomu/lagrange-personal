@@ -15,15 +15,11 @@
   max-width: 75rem;
 }
 
-/*48em*/
-
-@media (max-width: $container-responsive-width) {
-  .container {
-    width: 95vw;
-    margin-left: auto;
-    margin-right: auto;
-  }
+.navigation + .content-container {
+  max-width: 54rem;
 }
+
+/*48em*/
 
 /*
   Header
@@ -32,7 +28,7 @@
 .header {
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem 5% 0rem;
+  padding: 0.5rem 1rem 0rem;
   margin-bottom: 4rem;
   max-width: 75rem;
   font-family: $sans-serif-font-family;
@@ -93,8 +89,8 @@
   position: sticky;
   top: 2.4rem;
   right: 0;
-  min-width: 12.1rem;
-  font-size: 0.8em;
+  min-width: 18.1rem;
+  font-size: 0.9em;
   line-height: 1.8em;
   box-sizing: border-box;
   justify-content: right;
@@ -112,6 +108,16 @@
   font-weight: bold;
 }
 
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 0.8; }
+}
+
+@keyframes fadeOut {
+  0% { opacity: 0.8; }
+  100% { opacity: 0; }
+}
+
 @media (max-width: $container-responsive-width) {
   .social-icons {
     float: right;
@@ -121,9 +127,6 @@
     font-size: 0.8rem;
     line-height: 1.5rem;
     margin-bottom: 0px;
-  }
-  .header {
-    padding: 20px;
   }
   .header-subtitle {
     display: block;
@@ -136,7 +139,7 @@
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: #333;
+    background-color: $link-color;
     color: #fff;
     border: none;
     display: flex;
@@ -144,8 +147,7 @@
     justify-content: center;
     font-size: 24px;
     cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    z-index: 1000;
+    z-index: 5;
   }
   .sidebar-toggle-label:hover {
     background-color: #555;
@@ -158,12 +160,13 @@
     top: 0;
     transform: translateX(0);
     transition: transform .25s cubic-bezier(.4,0,.2,1),box-shadow .25s;
-    width: 18.1rem;
-    z-index: 5;
+    width: 10.1rem;
+    z-index: 1000;
     background-color: $dark-gray-color;
     box-sizing: border-box;
-    font-size: 0.8em;
-    line-height: 1.8em;
+    font-size: 1em;
+    line-height: 1.5em;
+    justify-content: left;
   }
 
   .close-btn {
@@ -174,6 +177,23 @@
   #sidebar-toggle:checked ~ .navigation {
     transform: translateX(18.1rem);
   }
+
+  #sidebar-toggle:checked ~ .sidebar-toggle-label {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    bottom: 0;
+    right: 0;
+    border-radius: 0%;
+    background-color: $dark-gray-color;
+    text-indent: 106vw;
+    opacity: 80%;
+    animation: fadeIn 0.2s;
+    cursor: pointer;
+    z-index: 5;
+  }
+
+
 }
 
 
