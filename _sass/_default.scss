@@ -160,13 +160,14 @@
     top: 0;
     transform: translateX(0);
     transition: transform .25s cubic-bezier(.4,0,.2,1),box-shadow .25s;
-    width: 10.1rem;
+    width: 18.1rem;
     z-index: 1000;
     background-color: $dark-gray-color;
     box-sizing: border-box;
     font-size: 1em;
     line-height: 1.5em;
     justify-content: left;
+    overflow-y: scroll
   }
 
   .close-btn {
@@ -186,6 +187,7 @@
     right: 0;
     border-radius: 0%;
     background-color: $dark-gray-color;
+    content-visibility: hidden;
     text-indent: 106vw;
     opacity: 80%;
     animation: fadeIn 0.2s;

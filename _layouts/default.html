@@ -6,7 +6,11 @@
     <div class="container">
       {% if page.layout == "docs" %}
         <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
-        <label for="sidebar-toggle" class="sidebar-toggle-label">&#9776;</label>
+        <label for="sidebar-toggle" class="sidebar-toggle-label">
+          <svg style="fill: white;" xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 32 32">
+            <path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path>
+          </svg>
+        </label>
         <div id="navigation" class="navigation">
           {% include navigation.html %}
           <h1>{{ page.food }}</h1>
