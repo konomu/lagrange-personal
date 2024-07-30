@@ -87,14 +87,15 @@
   flex-shrink: 1;
   padding: 1rem;
   position: sticky;
-  top: 2.4rem;
+  top: 0;
   right: 0;
+  max-height: 100vh;
   min-width: 18.1rem;
   font-size: 0.9em;
   line-height: 1.8em;
   box-sizing: border-box;
   justify-content: right;
-  overflow-y: scroll
+  overflow-y: auto;
 }
 
 .navigation .nav-header {

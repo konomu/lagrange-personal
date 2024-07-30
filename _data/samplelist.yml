@@ -1,50 +1,57 @@
 toc2:
-  - title: The は/が Series
+  - title: Primary Functions of は/が
+    subfolderitems:
+      - page: Topic-Marking は
+        url: /wa-vs-ga-1#topic-wa
+      - page: Subject-Marking が
+        url: /wa-vs-ga-1#subject-ga
+      - page: Topicalization
+        url: /wa-vs-ga-1#topicalization
+  - title: Secondary Functions of は/が
+    subfolderitems:
+      - page: Contrastive は
+        url: /wa-vs-ga-1#cwa
+      - page: Exclusive が
+        url: /wa-vs-ga-1#xga
+      - page: Contrastive は vs. Exclusive が
+        url: /wa-vs-ga-1#cwa-and-xga
   - title: は Structures
     subfolderitems:
       - page: 「父はこの本を買ってくれた。」
-        url: /wa-vs-ga#chichi
+        url: /wa-vs-ga-1#chichi
       - page: 「象は鼻が長い。」
-        url: /wa-vs-ga#zou
+        url: /wa-vs-ga-1#zou
       - page: 「かき料理は広島が本場だ。」
-        url: /wa-vs-ga#kaki
+        url: /wa-vs-ga-1#kaki
       - page: 「辞書は新しいのがいい。」
-        url: /wa-vs-ga#jisho
+        url: /wa-vs-ga-1#jisho
       - page: 「花が咲くのは7月ごろだ。」
-        url: /wa-vs-ga#hana
+        url: /wa-vs-ga-1#hana
       - page: 「このにおいはガスが漏れてるよ。」
-        url: /wa-vs-ga#nioi
-        subsubfolderitems:
-          - page: The Redundant Type
-            url: /wa-vs-ga#redundant
-          - page: The Omissive Type
-            url: /wa-vs-ga#omissive
-          - page: The Inexact Type
-            url: /wa-vs-ga#inexact
+        url: /wa-vs-ga-1#nioi
   - title: が Structures
     subfolderitems:
       - page: 「富士山が見えるよ。」
-        url: /wa-vs-ga#fuji
-        subsubfolderitems:
-          - page: Descriptions of Something Perceptible
-            url: /wa-vs-ga#desc1
-          - page: Descriptions of Events
-            url: /wa-vs-ga#desc2
-          - page: Descriptions of Consequences
-            url: /wa-vs-ga#desc3
+        url: /wa-vs-ga-1#fuji
       - page: 「君が主役だ。」
-        url: /wa-vs-ga#kimi
-        
+        url: /wa-vs-ga-1#kimi
   - title: Choosing between は and が
     subfolderitems:
-      - page: Widget 1
-        url: /widget1.html
-        subsubfolderitems:
-          - page: Subwidget 1
-            url: /subwidget1.html
-          - page: Subwidget 2
-            url: /subwidget2.html
-      - page: Widget 2
-        url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html
+      - page: The Flowchart Model
+        url: /wa-vs-ga-2#flowchart
+      - page: Subordinate vs. Main Clauses
+        url: /wa-vs-ga-2#sub-main
+      - page: Judgment vs. Phenomenon Sentences
+        url: /wa-vs-ga-2#judge-phen
+      - page: Old vs. New Information
+        url: /wa-vs-ga-2#old-new
+      - page: Specification vs. Supposition
+        url: /wa-vs-ga-2#spec-sup
+  - title: Other Important Usages
+    subfolderitems:
+      - page: Implied Topic
+        url: /wa-vs-ga-2#implied
+      - page: Object-Marking が
+        url: /wa-vs-ga-2#object-ga
+      - page: Negative Statements
+        url: /wa-vs-ga-2#negative
