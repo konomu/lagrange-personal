@@ -1,0 +1,51 @@
+%%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
+flowchart TD
+    A[Start] -->C{{Marks Subject/Topic?}}
+    C -->|No| D{{Principle of Emphasis}}
+    C -->|Yes| E{{Principle of Subordination}}
+    D -->|Contrastive| F(<font size=3>Strongly
+    Contrastive は)
+    D -->|Exclusive| G(<font size=3>Strongly 
+    Exclusive が)
+    E -->|Unable to mark a topic| J(<font size=3>Subject-marking
+    が)
+    E -->|Able to mark a topic| I{{Principle of
+    Topic Presence}}
+    I --> |Topic Absent| J(<font size=3>Subject-marking
+    が)
+    I --> |Topic Present| K{{Principle of 
+    Topic Position}}
+    K --> |Topic is Not the Predicate| N(<font size=3>Topic-marking は or 
+    Weakly Contrastive は)
+    K --> |Topic is the Predicate| M{{<line-height=6px>Principle of 
+    Topic Markedness}}
+    M --> |Topic Marked| N(<font size=3>Topic-marking は or 
+    Weakly Contrastive は)
+    M --> |Topic Unmarked| O(<font size=3>Subject-marking が or 
+    Weakly Exclusive が)
+
+
+%%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
+flowchart TD
+    A[Start] -->C{{Marks Something 
+    Emphasized?}}
+    C -->|Yes| D{{Contrastive or 
+    Exclusive?}}
+    C -->|No| E{{Strongly 
+    Subordinate
+    Clause?}}
+    D -->|Contrastive| F((<font size=6>は))
+    D -->|Exclusive| G((<font size=6>が))
+    E -->|Yes| H((<font size=6>が))
+    E -->|No| I{{Predicate describes
+    a judgment or 
+    permanent state?}}
+    I --> |Yes| J((<font size=6>は))
+    I --> |No| K{{Predicate describes
+    something temporary that the 
+    speaker directly percieves?}}
+    K --> |Yes| L((<font size=6>が))
+    K --> |No| M{{<line-height=6px>Marks Old
+    information?}}
+    M --> |Yes| N((<font size=6>は))
+    M --> |No| O((<font size=6>が))

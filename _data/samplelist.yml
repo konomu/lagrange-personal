@@ -39,18 +39,18 @@ toc2:
     subfolderitems:
       - page: The Flowchart Model
         url: /wa-vs-ga-2#flowchart
-      - page: Subordinate vs. Main Clauses
-        url: /wa-vs-ga-2#sub-main
-      - page: Judgment vs. Phenomenon Sentences
-        url: /wa-vs-ga-2#judge-phen
-      - page: Old vs. New Information
-        url: /wa-vs-ga-2#old-new
-      - page: Specification vs. Supposition
-        url: /wa-vs-ga-2#spec-sup
+      - page: How is it Emphasized?
+        url: /wa-vs-ga-2#emph
+      - page: Can the Clause Have a Topic?
+        url: /wa-vs-ga-2#subord
+      - page: Is There a Topic?
+        url: /wa-vs-ga-2#toppres
+      - page: Which Part is the Topic?
+        url: /wa-vs-ga-2#toppos
   - title: Other Important Usages
     subfolderitems:
       - page: Implied Topic
-        url: /wa-vs-ga-2#implied
+        url: /wa-vs-ga-2#specsup
       - page: Object-Marking が
         url: /wa-vs-ga-2#object-ga
       - page: Negative Statements
