@@ -85,6 +85,11 @@ ul {
   padding-left: 0.5em;
 }
 
+figure {
+  overflow-x: auto;
+  margin: 0;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -124,6 +129,7 @@ table, th, td {
 th, td {
   padding: 10px;
   text-align: left;
+  word-break: keep-all;
 }
 
 /*
