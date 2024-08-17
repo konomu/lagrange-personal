@@ -7,6 +7,15 @@ tags: [japanese]
 published: false
 ---
 
+## Subordinate Sentences
+
+-- Some sentences express a high level of subordination to some other sentence, and thus are only able to take が. They generally fall into three types.
+
+a) Causal (〜からだ and 〜ためだ)
+b) Explanatory (〜のだ and 〜わけだ)
+c) Denying Possibility (〜わけがない and 〜はずがない)
+
+Maybe not lmao
 Notes: 
 
 - Situations where what precedes ga is not the sentence's emphasis
