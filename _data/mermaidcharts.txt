@@ -1,28 +1,23 @@
 %%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
 flowchart TD
-    A[Start] -->C{{Marks Subject/Topic?}}
-    C -->|No| D{{Principle of Emphasis}}
+    A[Start] -->C{{Marks Subject or Topic?}}
+    C -->|No| D{{Marks Object of
+    an Adjective?}}
+    D -->|Yes| M(<font size=3><b>Object-marking が</b>
+    or Contrastive は)
+    D -->|No| N{{Principle of Emphasis}}
     C -->|Yes| E{{Principle of Subordination}}
-    D -->|Contrastive| F(<font size=3>Strongly
-    Contrastive は)
-    D -->|Exclusive| G(<font size=3>Strongly 
-    Exclusive が)
-    E -->|Unable to mark a topic| J(<font size=3>Subject-marking
-    が)
-    E -->|Able to mark a topic| I{{Principle of
-    Topic Presence}}
-    I --> |Topic Absent| J(<font size=3>Subject-marking
-    が)
-    I --> |Topic Present| K{{Principle of 
-    Topic Position}}
-    K --> |Topic is Not the Predicate| N(<font size=3>Topic-marking は or 
-    Weakly Contrastive は)
-    K --> |Topic is the Predicate| M{{<line-height=6px>Principle of 
-    Topic Markedness}}
-    M --> |Topic Marked| N(<font size=3>Topic-marking は or 
-    Weakly Contrastive は)
-    M --> |Topic Unmarked| O(<font size=3>Subject-marking が or 
-    Weakly Exclusive が)
+    N -->|Contrastive| F(<font size=3><b>Contrastive は</b>)
+    N -->|Exclusive| G(<font size=3><b>Exclusive が</b>)
+    E -->|Unable to Mark a Topic| H(<font size=3><b>Subject-marking が</b>)
+    E -->|Able to Mark a Topic| I{{Principle of Topic Presence}}
+    I --> |Topic Absent| J(<font size=3><b>Subject-marking が</b>
+    or Contrastive は)
+    I --> |Topic Present| K{{Principle of Topic Position}}
+    K --> |Topic is Not the Predicate| L(<font size=3><b>Topic-marking は</b>
+    or Contrastive は)
+    K --> |Topic is the Predicate| O(<font size=3><b>Exclusive が</b>
+    or Contrastive は)
 
 
 %%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
