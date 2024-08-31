@@ -1,57 +1,75 @@
 toc2:
-  - title: Primary Functions of は/が
+  - title: 1. The Basics of は/が
     subfolderitems:
-      - page: Topic-Marking は
-        url: /wa-vs-ga-1#topic-wa
-      - page: Subject-Marking が
-        url: /wa-vs-ga-1#subject-ga
+      - page: Primary Functions
+        url: /wa-ga-basics#pri
+      - page: Secondary Functions
+        url: /wa-ga-basics#sec
       - page: Topicalization
-        url: /wa-vs-ga-1#topicalization
-  - title: Secondary Functions of は/が
+        url: /wa-ga-basics#topicalization
+      - page: Basic Topic Sentence Structure
+        url: /wa-ga-basics#topic-sentences
+      - page: Topicless Sentence Structure
+        url: /wa-ga-basics#topicless-sentences
+      - page: Inverted Topic Sentence Structure
+        url: /wa-ga-basics#inverted-sentences
+  - title: 2. The Flowchart Model
     subfolderitems:
-      - page: Contrastive は
-        url: /wa-vs-ga-1#cwa
-      - page: Exclusive が
-        url: /wa-vs-ga-1#xga
-      - page: Contrastive は vs. Exclusive が
-        url: /wa-vs-ga-1#cwa-and-xga
-  - title: は Structures
+      - page: Full Flowchart
+        url: /wa-ga-flowchart
+      - page: Simplified Flowchart
+        url: /wa-ga-flowchart#simplified
+  - title: 3. Principle of Emphasis
     subfolderitems:
-      - page: 「父はこの本を買ってくれた。」
-        url: /wa-vs-ga-1#chichi
-      - page: 「象は鼻が長い。」
-        url: /wa-vs-ga-1#zou
-      - page: 「かき料理は広島が本場だ。」
-        url: /wa-vs-ga-1#kaki
-      - page: 「辞書は新しいのがいい。」
-        url: /wa-vs-ga-1#jisho
-      - page: 「花が咲くのは7月ごろだ。」
-        url: /wa-vs-ga-1#hana
-      - page: 「このにおいはガスが漏れてるよ。」
-        url: /wa-vs-ga-1#nioi
-  - title: が Structures
-    subfolderitems:
-      - page: 「富士山が見えるよ。」
-        url: /wa-vs-ga-1#fuji
-      - page: 「君が主役だ。」
-        url: /wa-vs-ga-1#kimi
-  - title: Choosing between は and が
-    subfolderitems:
-      - page: The Flowchart Model
-        url: /wa-vs-ga-2#flowchart
       - page: How is it Emphasized?
-        url: /wa-vs-ga-2#emph
-      - page: Can the Clause Have a Topic?
-        url: /wa-vs-ga-2#subord
-      - page: Is There a Topic?
-        url: /wa-vs-ga-2#toppres
-      - page: Which Part is the Topic?
-        url: /wa-vs-ga-2#toppos
-  - title: Other Important Usages
+        url: /wa-ga-emphasis
+      - page: Types of Contrast
+        url: /wa-ga-emphasis#contrast-types
+      - page: Negative Contrastive は
+        url: /wa-ga-emphasis#contrast-neg
+      - page: Words Contrastive は Can Mark
+        url: /wa-ga-emphasis#contrast-words
+      - page: Types of Exclusion
+        url: /wa-ga-emphasis#exclusion-types
+      - page: Words Exclusive が Can Mark
+        url: /wa-ga-emphasis#exclusion-words
+      - page: Contrastive は vs. Exclusive が
+        url: /wa-ga-emphasis#cwa-vs-xga
+  - title: 4. Principle of Subordination
     subfolderitems:
-      - page: Implied Topic
-        url: /wa-vs-ga-2#specsup
-      - page: Object-Marking が
-        url: /wa-vs-ga-2#object-ga
-      - page: Negative Statements
-        url: /wa-vs-ga-2#negative
+      - page: Can the Clause Have a Topic?
+        url: /wa-ga-subordination
+      - page: Subject in Subordinate Clauses
+        url: /wa-ga-subordination#subj-subord
+      - page: Levels of Subordination
+        url: /wa-ga-subordination#levels
+  - title: 5. Principle of Topic Presence
+    subfolderitems:
+      - page: Is the Topic Present?
+        url: /wa-ga-topic-presence
+      - page: Topic Sentences
+        url: /wa-ga-topic-presence#topic-sentences
+      - page: Topicless Sentences
+        url: /wa-ga-topic-presence#topicless-sentences
+  - title: 6. Principle of Topic Position
+    subfolderitems:
+      - page: Which Part is the Topic?
+        url: /wa-ga-topic-position
+      - page: Choosing the Topic
+        url: /wa-ga-topic-position#choosing-topic
+      - page: Where is the Topic Placed?
+        url: /wa-ga-topic-position#where-placed
+      - page: How to Tell When Inversion is Possible
+        url: /wa-ga-topic-position#spec-sup
+      - page: When to Use Inverted Sentences
+        url: /wa-ga-topic-position#when-to-invert
+  - title: 7. Other Important Usages
+    subfolderitems:
+      - page: Object-marking が
+        url: /wa-ga-other#object-ga
+      - page: Topic in Questions
+        url: /wa-ga-other#questions
+      - page: Additional は Structures
+        url: /wa-ga-other#additional
+      - page: Citations and Further Reading
+        url: /wa-ga-other#citations

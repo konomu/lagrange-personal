@@ -196,6 +196,49 @@
 
 }
 
+/*
+  Nav arrows
+*/
+
+.arrow-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Allow buttons to wrap */
+  gap: 10px; /* Space between buttons */
+  max-width: 100%; /* Ensure container does not exceed 100% of its parent */
+  padding: 0 10px; /* Add padding inside the container */
+  box-sizing: border-box; /* Include padding and border in the element's width and height */
+  overflow: hidden; /* Prevent content from overflowing */
+}
+
+.nav-arrow {
+  flex-shrink: 1; /* Allow buttons to shrink to prevent overflow */
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid white;
+  font-size: 1rem;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  min-width: 80px; /* Set a minimum width for the buttons */
+}
+
+.nav-arrow:hover {
+  background-color: #fff;
+}
+
+@media (max-width: $container-responsive-width) { /* Adjust to a specific width or use a variable */
+  .arrow-container {
+    flex-direction: column; /* Stack buttons vertically on small screens */
+    align-items: center;
+  }
+
+  .nav-arrow {
+    width: 90%; /* Make buttons full width within the container */
+  }
+}
 
 /*
   Footer

@@ -32,15 +32,15 @@ flowchart TD
     D -->|Contrastive| F((<font size=6>は))
     D -->|Exclusive| G((<font size=6>が))
     E -->|Yes| H((<font size=6>が))
-    E -->|No| I{{Predicate describes
-    a judgment or 
-    permanent state?}}
+    E -->|No| I{{Predicate Describes
+    a Judgment or 
+    Permanent State?}}
     I --> |Yes| J((<font size=6>は))
-    I --> |No| K{{Predicate describes
-    something temporary that the 
-    speaker directly percieves?}}
+    I --> |No| K{{Predicate Describes
+    Something Temporary That the 
+    Speaker Directly Percieves?}}
     K --> |Yes| L((<font size=6>が))
-    K --> |No| M{{<line-height=6px>Marks Old
-    information?}}
+    K --> |No| M{{<line-height=6px>Marks Familiar
+    Information?}}
     M --> |Yes| N((<font size=6>は))
     M --> |No| O((<font size=6>が))
