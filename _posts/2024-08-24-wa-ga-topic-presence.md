@@ -65,7 +65,7 @@ There are many different factors to consider at this stage. Let's summarize all 
   </tr>
 </tbody></table>
 
-## <a name="topic-sentences" style="text-decoration: none;">Topic Sentences
+# <a name="topic-sentences" style="text-decoration: none;">Topic Sentences
 
 Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences, since most nouns don't imply a temporary state. Predicates that are adjectives like "高い" or verbs like "すぐれている" which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
 
@@ -124,7 +124,7 @@ In contrast, sentences with nothing between the subject and the predicate tend t
 
 >11\. <u>オムロンは</u>家庭用向け地震警報装置｢揺れっ太｣を開発、二十日から発売する。<br>*Omron will release its household earthquake warning device "Yuretta" on the 20th.*
 
-## <a name="topicless-sentences" style="text-decoration: none;">Topicless Sentences
+# <a name="topicless-sentences" style="text-decoration: none;">Topicless Sentences
 
 There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it's being percieved**. Sentences of this nature usually have verb predicates, such as "見える", "聞こえる", "ある", and "来る". Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
 
@@ -160,7 +160,7 @@ Just like we saw with topic sentences, there are cases where a sentence is likel
 
 >19\. 地震発生時に、震度に合わせて ｢火を消しなさい｣ などの音声でとるべき行動を指示する、一般家庭用地震警報器 ｢揺れっ太｣ を、<u>オムロンが</u>20日から、通信販売ルートを中心に売り出す。<br>*Omron will begin selling "Yuretta," a household earthquake alarm which gives voice instructions to help you act accordingly based on the seismic intensity when an earthquake occurs, mainly through online sales starting from the 20th.*
 
-# Duality of the Topic
+# <a name="duality" style="text-decoration: none;">Duality of the Topic
 
 From what we have discussed above, we can say that there are **two main reasons** why something in Japanese may become a topic.
 

@@ -12,8 +12,6 @@ tags: [japanese]
 
 *This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
-# Other Important Usages
-
 # <a name="object-ga" style="text-decoration: none;">が as an Object Marker for Adjectives
 
 が has a function that is not usually included in analyses of double subject structures. This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
@@ -167,6 +165,24 @@ The parallel type sentence of this structure, on the other hand, **does not use 
 
 >26\. <u>値段は</u>Lサイズが500円、Sサイスが300円だ。<br>*The large is 500 yen, and the small is 300 yen.*
 
+## <a name="mondai" style="text-decoration: none;">The ｢この問題は解くのが難しい。｣ Structure
+
+> この問題は解くのが難しい。<br>*This problem is hard to solve.*
+
+In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. However, notice that whatever becomes topicalized becomes a subject, similarly to the topicalization process in the other double subject structures.
+
+![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.svg)
+
+In this structure, が is not exclusive.
+
+>31\. 当時、<u>安藤さんは</u>経営していた食料品輸入会社が破産し無一文に近かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
+
+>32\. <u>この問題は</u>解いた人が何人もいる。<br>*Several people have solved this problem.*
+
+>33\. <u>台風は</u>四国に上陸する可能性が高い。<br>*The typhoon has a high chance of making landfall at Shikoku.*
+
+>34\. <u>ゴミの量は</u>増えているのが現状だ。<br>*The current situation is that the amount of garbage is increasing.*
+
 ## <a name="hana" style="text-decoration: none;">The ｢花が咲くのは7月ごろだ。｣ Structure
 
 > 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
@@ -188,24 +204,6 @@ Notice that because we can't put は directly after "花が咲く", we have to n
 >29\. <u>フィリピンで終戦を迎えた竹内鉄男が復員してきたのは</u>、昭和二十一年だった。<br>*Takeuchi Tetsuo, who was in the Philippines when the war ended, was demobilized in 1946.*
 
 >30\. <u>こんなに地球を悪くしているのは</u>、｢アメリカン・ドリーム｣ だ。<br>*The "American Dream" is killing the planet.*
-
-## <a name="mondai" style="text-decoration: none;">The ｢この問題は解くのが難しい。｣ Structure
-
-> この問題は解くのが難しい。<br>*This problem is hard to solve.*
-
-In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. If you wish to do so, you may view this structure as a subset of the basic topic sentence structure.
-
-![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.svg)
-
-In this structure, が is not exclusive.
-
->31\. 当時、<u>安藤さんは</u>経営していた食料品輸入会社が破産し無一文に近かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
-
->32\. <u>この問題は</u>解いた人が何人もいる。<br>*Several people have solved this problem.*
-
->33\. <u>台風は</u>四国に上陸する可能性が高い。<br>*The typhoon has a high chance of making landfall at Shikoku.*
-
->34\. <u>ゴミの量は</u>増えているのが現状だ。<br>*The current situation is that the amount of garbage is increasing.*
 
 
 

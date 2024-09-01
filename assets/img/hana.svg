@@ -1,31 +1,31 @@
-<svg width="799.9999999999998" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="799.9999999999999" height="600" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
-  <rect fill="#ffb22d" stroke="#000" x="190.09764" y="341.51553" width="242.84463" height="102.30793" id="svg_15"/>
-  <rect fill="#bbff00" stroke="#000" x="197.98993" y="350.4759" width="234.6528" height="85.72373" id="svg_9"/>
-  <rect fill="#ff96ed" stroke="#000" x="206.48609" y="358.97205" width="226.15664" height="68.73143" id="svg_5"/>
-  <rect fill="#ff96ed" stroke="#000" x="26.10031" y="111.30805" width="362.80202" height="101.99917" id="svg_29"/>
-  <rect fill="#56d4ff" stroke="#000" x="476.82827" y="341.80465" width="238.49176" height="102.68274" id="svg_28"/>
-  <rect fill="#7f83ff" stroke="#000" x="39.16204" y="126.02678" width="170.21271" height="72.41988" id="svg_2"/>
-  <path fill="#d760ff" stroke="#000" d="m477.0799,360.33579l166.19003,0l0,66.99956l-166.19003,0l0,-66.99956z" id="svg_74" opacity="undefined"/>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="204.80881" y="231.69237" id="svg_7" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">7月ごろ花が咲く(こと)</text>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="292.37962" y="353.19935" id="svg_8" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">花が咲くのは7月ごろだ。</text>
-  <path fill="#ffffff" stroke="#000" d="m228.64818,268.06996l15.68097,16.45002l0,-31.80531l0,-31.80524l9.70727,0l9.70728,0l0,31.44037c0,17.29218 0.49201,31.44034 1.09336,31.44034c0.60134,0 7.65778,-6.88396 15.68097,-15.29767l14.58763,-15.29772l0,14.13977l0,14.13972l-20.55428,21.59455l-20.55427,21.59454l-20.51495,-21.63597l-20.51495,-21.63596l0,-14.88574l0,-14.88577l15.68098,16.45006l0,0.00001l-0.00001,0z" id="svg_41" stroke-width="3"/>
-  <text fill="#000000" stroke="#000" x="350.00512" y="288.88973" id="svg_45" stroke-width="0" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topicalization</text>
-  <line fill="none" stroke="#000" x1="358.62639" y1="111.85107" x2="400.79123" y2="69.68623" id="svg_49" stroke-width="2"/>
-  <path id="svg_52" d="m129.55033,125.0825l36.93481,-36.9348" opacity="undefined" stroke-width="2" stroke="#000" fill="none"/>
-  <line fill="none" stroke="#000" x1="608.51174" y1="426.38636" x2="650.90059" y2="468.77522" id="svg_53" stroke-width="2"/>
-  <path fill="#ffffff" stroke="#000" stroke-width="2" opacity="undefined" d="m465.56456,485.15956" id="svg_55"/>
-  <text fill="#000000" stroke="#000" x="369.81797" y="168.39893" id="svg_60" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Clause</text>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="481.57051" y="419.80247" id="svg_70" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Comment</text>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="508.17597" y="397.58581" id="svg_71" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
-  <text fill="#000000" stroke="#000" x="229.68291" y="162.98099" id="svg_4" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Related to</text>
-  <text fill="#000000" stroke="#000" x="279.94009" y="409.95813" id="svg_16" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topic/Subject</text>
-  <path fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" d="m287.93201,69.83237" id="svg_1"/>
-  <text fill="#000000" stroke="#000" x="229.11978" y="179.08497" id="svg_3" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">the Clause</text>
-  <line fill="none" stroke="#000" stroke-width="2" x1="551.88859" y1="444.99018" x2="618.30465" y2="511.40624" id="svg_22"/>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="250.52362" y="426.93186" id="svg_26" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">(Subordinate Clause)</text>
-  <line fill="none" stroke="#000" x1="333.07581" y1="444.06345" x2="289.82406" y2="487.3152" id="svg_31" stroke-width="2"/>
+  <rect id="svg_15" height="102.30793" width="242.84463" y="341.51553" x="190.09764" stroke="#000" fill="#ffb22d"/>
+  <rect id="svg_9" height="85.72373" width="234.6528" y="350.4759" x="197.98993" stroke="#000" fill="#bbff00"/>
+  <rect id="svg_5" height="68.73143" width="226.15664" y="358.97205" x="206.48609" stroke="#000" fill="#ff96ed"/>
+  <rect id="svg_29" height="101.99917" width="362.80202" y="111.30805" x="26.10031" stroke="#000" fill="#ff96ed"/>
+  <rect id="svg_28" height="102.68274" width="166.54056" y="341.80465" x="476.82827" stroke="#000" fill="#56d4ff"/>
+  <rect id="svg_2" height="72.41988" width="170.21271" y="126.02678" x="39.16204" stroke="#000" fill="#7f83ff"/>
+  <path opacity="undefined" id="svg_74" d="m477.0799,360.33579l166.19003,0l0,66.99956l-166.19003,0l0,-66.99956z" stroke="#000" fill="#d760ff"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_7" y="231.69237" x="204.80881" stroke-width="0" stroke="#000" fill="#000000">7月ごろ花が咲く(こと)</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_8" y="353.19935" x="292.37962" stroke-width="0" stroke="#000" fill="#000000">花が咲くのは7月ごろだ。</text>
+  <path stroke-width="3" id="svg_41" d="m228.64818,271.29578l15.68097,16.45002l0,-31.80531l0,-31.80524l9.70727,0l9.70728,0l0,31.44037c0,17.29218 0.49201,31.44034 1.09336,31.44034c0.60134,0 7.65778,-6.88396 15.68097,-15.29767l14.58763,-15.29772l0,14.13977l0,14.13972l-20.55428,21.59455l-20.55427,21.59454l-20.51495,-21.63597l-20.51495,-21.63596l0,-14.88574l0,-14.88577l15.68098,16.45006l0,0.00001l-0.00001,0z" stroke="#000" fill="#ffffff"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_45" y="290.58226" x="350.00512" stroke="#000" fill="#000000">Topicalization</text>
+  <line stroke-width="2" id="svg_49" y2="69.68623" x2="400.79123" y1="111.85107" x1="358.62639" stroke="#000" fill="none"/>
+  <path fill="none" stroke="#000" stroke-width="2" opacity="undefined" d="m129.55033,125.0825l36.93481,-36.9348" id="svg_52"/>
+  <line stroke-width="2" id="svg_53" y2="487.20442" x2="686.26644" y1="444.81556" x1="643.87759" stroke="#000" fill="none"/>
+  <path id="svg_55" d="m465.56456,485.15956" opacity="undefined" stroke-width="2" stroke="#000" fill="#ffffff"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_60" y="168.39893" x="369.81797" stroke="#000" fill="#000000">Clause</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" id="svg_70" y="407.3253" x="521.88136" stroke-width="0" stroke="#000" fill="#000000">Comment</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" id="svg_71" y="427.33906" x="462.74628" stroke-width="0" stroke="#000" fill="#000000">Predicate</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_4" y="162.98099" x="229.68291" stroke="#000" fill="#000000">Related to</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_16" y="409.95813" x="279.94009" stroke="#000" fill="#000000">Topic/Subject</text>
+  <path id="svg_1" d="m287.93201,69.83237" opacity="undefined" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_3" y="179.08497" x="229.11978" stroke="#000" fill="#000000">the Clause</text>
+  <line id="svg_22" y2="524.82088" x2="598.79245" y1="427.30726" x1="501.27883" stroke-width="2" stroke="#000" fill="none"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" id="svg_26" y="426.93186" x="250.52362" stroke-width="0" stroke="#000" fill="#000000">(Subordinate Clause)</text>
+  <line stroke-width="2" id="svg_31" y2="487.3152" x2="289.82406" y1="444.06345" x1="333.07581" stroke="#000" fill="none"/>
  </g>
 
 </svg>

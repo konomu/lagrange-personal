@@ -23,7 +23,9 @@ The topic is something that you want to talk about, and the comment is something
 
 ![Chart explaining the above rule with the example 父がこの本を買ってくれたのだ。](assets/img/topic.png)
 
-### <a name="choosing-topic" style="text-decoration: none;">Choosing the Topic: Word-level Considerations
+# <a name="choosing-topic" style="text-decoration: none;">Choosing the Topic
+
+### <a name="cwlc" style="text-decoration: none;">Word-level Considerations
 
 There are many rules besides this general one that are useful for choosing the topic and comment. First, we'll take a look at one case which **must** become the comment.
 
@@ -35,7 +37,7 @@ This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marke
 
 >4\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
 
-### <a name="cslc" style="text-decoration: none;">Choosing the Topic: Sentence-level Considerations
+### <a name="cslc" style="text-decoration: none;">Sentence-level Considerations
 
 The next set of rules I'll introduce aren't hard-set, but general tendencies of topics in sentences. They can be summarized in the following table:
 
@@ -106,7 +108,7 @@ The に case is typically expressed before the subject-marking が case in sente
 
 >13\. <u>｢アンチ百恵｣としての聖子には</u>、百恵的エロティシズムを歌わないという宿命がありました。<br>*As the "anti-Momoe", Seiko was destined to never sing with Momoe-esque eroticism.*
 
-### <a name="cclc" style="text-decoration: none;">Choosing the Topic: Context-level Considerations
+### <a name="cclc" style="text-decoration: none;">Context-level Considerations
 
 The concept of **familiar information**, as introduced in [Topic Sentences](#wa-ga-presence#topic-sentences), is also useful for determining the topic of the sentence. Once again, this isn't a hard-set rule, just a broad tendency sentences with a topic have. 
 
@@ -165,7 +167,7 @@ Notice how (2) and (3) have **approximately the same meaning**. In many cases, a
 
 Not all sentences make sense when they're inverted. Before we go over when to use inverted sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
 
-## <a name="spec-sup" style="text-decoration: none;">How to Tell When Inversion is Possible
+# <a name="spec-sup" style="text-decoration: none;">How to Tell When Inversion is Possible
 
 In order to find out when it's possible to invert a sentence, we need to look at the meaning of its topic and comment. In topic sentences, the topic is either **referential** or **predicative**. If the topic is referential, the comment is predicative; and if the comment is referential, then the topic is predicative.
 
@@ -204,7 +206,7 @@ Adjectives and verbs are always predicative in this system. In other words, it's
 
 >27\. <u>いちばんいいのは</u>ダイヤだ。<br>28\. <u>ダイヤが</u>いちばんいい。<br>*Diamonds are the best.*
 
-## <a name="when-to-invert" style="text-decoration: none;">When to Use Inverted Sentences
+# <a name="when-to-invert" style="text-decoration: none;">When to Use Inverted Sentences
 
 When it comes to inversion, there are three types of sentences:
 

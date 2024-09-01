@@ -28,7 +28,7 @@ A **subject** is one of two main components of a sentence, the other being the *
 
 > `Subject` + `が` + `Predicate`
 
-## <a name="topicalization" style="text-decoration: none;">Topicalization
+# <a name="topicalization" style="text-decoration: none;">Topicalization
 
 As we just learned, は is commonly understood to be a topic marker, and all kinds of words may become a topic in Japanese. When は marks some word in Japanese, we say the word has been **topicalized**. In other words, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
 

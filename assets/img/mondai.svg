@@ -1,43 +1,43 @@
 <svg width="799.9999999999998" height="600" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
-  <rect fill="#ffb22d" stroke="#000" x="102.08765" y="363.46177" width="193.86499" height="99.58684" id="svg_15"/>
-  <rect fill="#bbff00" stroke="#000" x="114.74185" y="380.58541" width="180.91123" height="65.99582" id="svg_18"/>
-  <rect fill="#56d4ff" stroke="#000" x="340.51891" y="363.07061" width="329.64832" height="99.96164" id="svg_28"/>
-  <rect fill="#bbff00" stroke="#000" x="98.41528" y="130.245" width="372.7482" height="103.41082" id="svg_17"/>
-  <rect fill="#ff96ed" stroke="#000" x="106.1693" y="138.97171" width="364.61347" height="86.66166" id="svg_6"/>
-  <rect opacity="undefined" fill="#d760ff" stroke="#000" x="338.09735" y="147.57401" width="132.26905" height="67.91755" id="svg_10"/>
-  <rect fill="#bbff00" stroke="#000" x="340.59244" y="380.58541" width="131.93158" height="65.99582" id="svg_9"/>
-  <rect opacity="undefined" fill="#d760ff" stroke="#000" x="515.64857" y="146.21347" width="131.58878" height="71.99918" id="svg_29"/>
-  <rect fill="#ff007f" stroke="#000" x="113.73726" y="147.97301" width="183.1379" height="69.01852" id="svg_2"/>
-  <path fill="#d760ff" stroke="#000" d="m516.96121,380.24121l129.45529,0l0,66.99956l-129.45529,0l0,-66.99956z" id="svg_74" opacity="undefined"/>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="243.93701" y="242.13636" id="svg_7" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">この問題を解くのが難しい(こと)</text>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="244.41782" y="363.64334" id="svg_8" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">この問題は解くのが難しい。</text>
-  <path fill="#ffffff" stroke="#000" d="m186.89674,296.81893l15.68097,16.45002l0,-31.80531l0,-31.80524l9.70727,0l9.70728,0l0,31.44037c0,17.29218 0.49201,31.44034 1.09336,31.44034c0.60134,0 7.65778,-6.88396 15.68097,-15.29767l14.58763,-15.29772l0,14.13977l0,14.13972l-20.55428,21.59455l-20.55427,21.59454l-20.51495,-21.63597l-20.51495,-21.63596l0,-14.88574l0,-14.88577l15.68098,16.45006l0,0.00001l-0.00001,0z" id="svg_41" stroke-width="3"/>
-  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" fill="#000000" stroke="#000" x="328.09893" y="303.97377" id="svg_45" stroke-width="0" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Topicalization</text>
-  <line fill="none" stroke="#000" x1="425.11576" y1="147.32535" x2="467.20318" y2="105.23793" id="svg_49" stroke-width="2"/>
-  <path id="svg_52" d="m647.66345,146.34846l36.93481,-36.9348" opacity="undefined" stroke-width="2" stroke="#000" fill="none"/>
-  <line fill="none" stroke="#000" x1="619.82158" y1="446.29178" x2="662.21043" y2="488.68064" id="svg_53" stroke-width="2"/>
-  <path fill="#ffffff" stroke="#000" stroke-width="2" opacity="undefined" d="m476.8744,505.06498" id="svg_55"/>
-  <text fill="#000000" stroke="#000" x="415.37084" y="188.83686" id="svg_60" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="497.4985" y="435.24343" id="svg_70" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Comment</text>
-  <text fill="#000000" stroke="#000" stroke-width="0" x="516.96544" y="408.74366" id="svg_71" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
-  <text fill="#000000" stroke="#000" x="371.60587" y="165.57261" id="svg_4" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Object</text>
-  <text fill="#000000" stroke="#000" x="204.49497" y="423.25753" id="svg_16" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topic/Subject</text>
-  <path fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" d="m299.24185,89.73779" id="svg_1"/>
-  <line fill="none" stroke="#000" stroke-width="2" x1="548.23244" y1="462.85479" x2="623.49204" y2="538.11439" id="svg_22"/>
-  <line fill="none" stroke="#000" x1="189.96372" y1="463.2886" x2="143.99087" y2="509.26144" id="svg_31" stroke-width="2"/>
-  <text fill="#000000" stroke="#000" x="519.5933" y="189.55071" id="svg_11" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
-  <line fill="none" stroke="#000" x1="297.22447" y1="148.00562" x2="383.52962" y2="63.06102" id="svg_12" stroke-width="2"/>
-  <line fill="none" stroke="#000" stroke-width="2" x1="110.81698" y1="90.06523" x2="150.02213" y2="129.27038" id="svg_13"/>
-  <path id="svg_19" d="m196.08617,457.16614l-43.25175,43.25175" opacity="undefined" stroke-width="0" stroke="#000" fill="#000000"/>
-  <line fill="none" stroke="#000" x1="405.61022" y1="447.64232" x2="362.35847" y2="490.89407" id="svg_20" stroke-width="2"/>
-  <text fill="#000000" stroke="#000" x="239.90008" y="163.43105" id="svg_21" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Subject</text>
-  <text fill="#000000" stroke="#000" x="190.64426" y="179.49273" id="svg_23" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">(Subordinate Clause)</text>
-  <text fill="#000000" stroke="#000" x="331.20378" y="409.33741" id="svg_24" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Subject</text>
-  <line fill="none" stroke="#000" x1="463.89135" y1="509.9108" x2="491.01275" y2="443.33356" id="svg_25" stroke-width="2"/>
-  <text fill="#000000" stroke="#000" x="411.15526" y="420.75905" id="svg_26" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Not</text>
-  <text fill="#000000" stroke="#000" x="381.53038" y="437.17766" id="svg_27" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Exclusive が</text>
+  <rect id="svg_15" height="99.58684" width="193.86499" y="363.46177" x="99.85125" stroke="#000" fill="#ffb22d"/>
+  <rect id="svg_18" height="65.99582" width="180.91123" y="380.58541" x="112.50545" stroke="#000" fill="#bbff00"/>
+  <rect id="svg_28" height="99.96164" width="305.90788" y="363.07061" x="338.28251" stroke="#000" fill="#56d4ff"/>
+  <rect id="svg_17" height="103.41082" width="372.7482" y="130.245" x="96.17888" stroke="#000" fill="#bbff00"/>
+  <rect id="svg_6" height="86.66166" width="364.61347" y="138.97171" x="103.9329" stroke="#000" fill="#ff96ed"/>
+  <rect id="svg_10" height="67.91755" width="132.26905" y="147.57401" x="335.86095" stroke="#000" fill="#d760ff" opacity="undefined"/>
+  <rect id="svg_9" height="65.99582" width="131.93158" y="380.58541" x="338.35604" stroke="#000" fill="#bbff00"/>
+  <rect id="svg_29" height="71.99918" width="131.58878" y="146.21347" x="513.41217" stroke="#000" fill="#d760ff" opacity="undefined"/>
+  <rect id="svg_2" height="69.01852" width="183.1379" y="147.97301" x="111.50086" stroke="#000" fill="#ff007f"/>
+  <path opacity="undefined" id="svg_74" d="m514.72481,380.24121l129.45529,0l0,66.99956l-129.45529,0l0,-66.99956z" stroke="#000" fill="#d760ff"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_7" y="242.13636" x="242.76361" stroke-width="0" stroke="#000" fill="#000000">この問題を解くのが難しい(こと)</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_8" y="363.64334" x="243.24442" stroke-width="0" stroke="#000" fill="#000000">この問題は解くのが難しい。</text>
+  <path stroke-width="3" id="svg_41" d="m184.66034,296.81893l15.68097,16.45002l0,-31.80531l0,-31.80524l9.70727,0l9.70728,0l0,31.44037c0,17.29218 0.49201,31.44034 1.09336,31.44034c0.60134,0 7.65778,-6.88396 15.68097,-15.29767l14.58763,-15.29772l0,14.13977l0,14.13972l-20.55428,21.59455l-20.55427,21.59454l-20.51495,-21.63597l-20.51495,-21.63596l0,-14.88574l0,-14.88577l15.68098,16.45006l0,0.00001l-0.00001,0z" stroke="#000" fill="#ffffff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_45" y="303.97377" x="326.92553" stroke="#000" fill="#000000" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topicalization</text>
+  <line stroke-width="2" id="svg_49" y2="105.23793" x2="464.96678" y1="147.32535" x1="422.87936" stroke="#000" fill="none"/>
+  <path fill="none" stroke="#000" stroke-width="2" opacity="undefined" d="m645.42705,146.34846l36.93481,-36.9348" id="svg_52"/>
+  <line stroke-width="2" id="svg_53" y2="499.47175" x2="681.55625" y1="462.83815" x1="644.92265" stroke="#000" fill="none"/>
+  <path id="svg_55" d="m474.638,505.06498" opacity="undefined" stroke-width="2" stroke="#000" fill="#ffffff"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_60" y="188.83686" x="414.19744" stroke="#000" fill="#000000">Predicate</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" id="svg_70" y="413.72825" x="522.74725" stroke-width="0" stroke="#000" fill="#000000">Comment</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" id="svg_71" y="435.16581" x="493.8994" stroke-width="0" stroke="#000" fill="#000000">Predicate</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_4" y="165.57261" x="370.43247" stroke="#000" fill="#000000">Object</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_16" y="423.25753" x="203.32157" stroke="#000" fill="#000000">Topic/Subject</text>
+  <path id="svg_1" d="m297.00545,89.73779" opacity="undefined" stroke-width="0" stroke="#000" fill="#000000"/>
+  <line id="svg_22" y2="541.71143" x2="633.48555" y1="447.74724" x1="539.52136" stroke-width="2" stroke="#000" fill="none"/>
+  <line stroke-width="2" id="svg_31" y2="509.26144" x2="141.75447" y1="463.2886" x1="187.72732" stroke="#000" fill="none"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_11" y="189.55071" x="518.4199" stroke="#000" fill="#000000">Predicate</text>
+  <line stroke-width="2" id="svg_12" y2="63.06102" x2="381.29322" y1="148.00562" x1="294.98807" stroke="#000" fill="none"/>
+  <line id="svg_13" y2="129.27038" x2="147.78573" y1="90.06523" x1="108.58058" stroke-width="2" stroke="#000" fill="none"/>
+  <path fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" d="m193.84977,457.16614l-43.25175,43.25175" id="svg_19"/>
+  <line stroke-width="2" id="svg_20" y2="490.89407" x2="360.12207" y1="447.64232" x1="403.37382" stroke="#000" fill="none"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_21" y="163.43105" x="238.72668" stroke="#000" fill="#000000">Subject</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_23" y="179.49273" x="189.47086" stroke="#000" fill="#000000">(Subordinate Clause)</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_24" y="409.33741" x="330.03038" stroke="#000" fill="#000000">Subject</text>
+  <line stroke-width="2" id="svg_25" y2="443.33356" x2="488.77635" y1="509.9108" x1="461.65495" stroke="#000" fill="none"/>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_26" y="420.75905" x="409.98186" stroke="#000" fill="#000000">Not</text>
+  <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_27" y="437.17766" x="380.35698" stroke="#000" fill="#000000">Exclusive が</text>
  </g>
 
 </svg>
