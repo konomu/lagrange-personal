@@ -65,6 +65,11 @@
   @include social-media-icon($codepen-color, $icon-transition-time);
 }
 
+.fa-youtube {
+  padding: 5px;
+  @include social-media-icon(rgb(220, 0, 0), $icon-transition-time);
+}
+
 .fa-rss-square {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);

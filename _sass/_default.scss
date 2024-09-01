@@ -25,10 +25,27 @@
   Header
 */
 
+section {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.slanted {
+  display: inline-block; /* Ensures transform applies correctly */
+  transform: rotate(-5deg) skew(-5deg);
+  background-color: magenta;
+  padding: 0.7rem 1.5rem 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+  color: white;
+  font-size: 4rem;
+}
+
 .header {
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem 1rem 0rem;
+  padding: 0.5rem 0.7rem 0rem;
   margin-bottom: 4rem;
   max-width: 75rem;
   font-family: $sans-serif-font-family;
@@ -39,13 +56,38 @@
 }
 
 .header-title a {
-  font-size: 2rem;
   text-decoration: none;
-  color: $body-color;
+}
+
+/*
+
+.header-title::before {
+  content: "日本語上手ですね";
+  position: absolute;
+  top: 2.7rem;
+  left: 6.7rem;
+  font-size: 4rem;
+  text-decoration: none;
+  color: cyan;
+  mix-blend-mode: multiply;
+  z-index: 7;
+  transform: rotate(-5deg) skew(-5deg) translate(2px, 2px);
+}
+*/
+
+.slanted::after {
+  content: "hedera's japanese blog";
+  position: absolute;
+  top: 4rem;
+  left: 4rem;
+  font-size: 1rem;
+  color: white;
+  transform: skew(-5deg);
+  white-space: nowrap;
 }
 
 .header-subtitle {
-  color: $light-gray-color;
+  display: none;
 }
 
 /*
@@ -59,10 +101,11 @@
 
 .menu-content {
   float: left;
+  margin-left: 1.5rem;
 }
 
 .menu-content a {
-  color: $light-gray-color;
+  color: white;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -72,8 +115,8 @@
 }
 
 .social-icons a {
-  color: $light-gray-color;
-  font-size: 1rem;
+  color: white;
+  font-size: 1.3rem;
 }
 
 
@@ -130,9 +173,7 @@
     line-height: 1.5rem;
     margin-bottom: 0px;
   }
-  .header-subtitle {
-    display: block;
-  }
+
   /* Floating Menu Button */
   .sidebar-toggle-label {
     position: fixed;
@@ -192,8 +233,6 @@
     cursor: pointer;
     z-index: 5;
   }
-
-
 }
 
 /*

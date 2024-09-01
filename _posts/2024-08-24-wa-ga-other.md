@@ -70,16 +70,19 @@ However, it is nonetheless possible for these topicless questions to exist if th
 
 # <a name="additional" style="text-decoration: none;">Additional は structures
 
-Of the other six は structures introduced alongside the basic topic sentence structure ｢父はこの本を買ってくれた。｣, four of them (excluding ｢花が咲くのは7月ごろだ。｣ and ｢このにおいはガスが漏れてるよ。｣) can be viewed as **double subject structures**. Double subject structures are clauses that contain two subjects, which is ungrammatical in English, but very common in Japanese.
+Of the other six は structures introduced alongside the basic topic sentence structure ｢父はこの本を買ってくれた。｣, four of them (excluding ｢花が咲くのは7月ごろだ。｣ and ｢このにおいはガスが漏れてるよ。｣) are **double subject structures**. Double subject structures are clauses that contain two subjects, which is ungrammatical in English, but very common in Japanese. They are marked in bold in the following table.
 
-| Structure | Topicalized Element |
+| Structure | Topicalized Part |
 |--|--|
 | ｢父はこの本を買ってくれた。｣| Case-marked Noun or Adverb |
-| ｢象は鼻が長い。｣| Modifier of a Case-marked Noun |
-| ｢かき料理は広島が本場だ。｣| Modifier of the Predicate |
-| ｢辞書は新しいのがいい。｣| Modified Case-marked Noun |
-| ｢この問題は解くのが難しい。｣| Element Inside Clause |
+| **｢象は鼻が長い。｣**| Modifier of a Case-marked Noun |
+| **｢かき料理は広島が本場だ。｣**| Modifier of the Predicate |
+| **｢辞書は新しいのがいい。｣**| Modified Case-marked Noun |
+| **｢この問題は解くのが難しい。｣**| Element Inside Clause |
 | ｢花が咲くのは7月ごろだ。｣| Clause |
+| ｢このにおいはガスが漏れてるよ。｣| *n/a* |
+
+Notice that not all sentences that follow the pattern 〜は〜が... count as double subject structures. For example, in the sentence ｢この本は父が買ってくれた。｣ (introduced in [Basic Topic Sentences](wa-ga-basics#topic-sentences)), "この本" is a topicalized object, not a subject.
 
 ## <a name="zou" style="text-decoration: none;">The ｢象は鼻が長い。｣ Structure
 
