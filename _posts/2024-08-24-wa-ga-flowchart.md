@@ -43,7 +43,7 @@ The names of all of these new principles might sound daunting, but you can actua
 | Emphasis → | "How is it Emphasized?" |
 | Subordination → | "Can the Clause Have a Topic?" |
 | Topic Presence → | "Is there a Topic?" |
-| Topic Position → | "Which Part is the Topic" and "Where Is it Placed?" |
+| Topic Position → | "Which Part is the Topic?" and "Where Is it Placed?" |
 
 We'll take a look at the rules that govern these principles in chapters 2 through 6.
 
@@ -51,15 +51,15 @@ We'll take a look at the rules that govern these principles in chapters 2 throug
 
 The following flowchart is an heavily simplified version that is adapted from the system above.[^1]
 
-[^1]: It's just a coincidence that these two charts have roughly the same shape. Each node of the simplified chart doesn't correspond to the same node in the full chart. If you are using this flowchart to analyze existing sentences, it requires you to immediately recognize exclusive usages of が and contrastive usages of は.
+[^1]: It's just a coincidence that these two charts have roughly the same shape. Each node of the simplified chart doesn't correspond to the same node in the full chart. If you are using this flowchart to analyze existing sentences, it requires you to immediately recognize exclusive usages of が and contrastive usages of は. It also doesn't cover object-marking が.
 
 ![Simplified flowchart](assets/img/simple-flowchart.png)
 
-Because of all of the shortcuts we've made here, I can't guarantee that this chart will always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**[^1]. Even in the full flowchart model, this is unavoidable, since it won't always be clear which path to take.
+Because of all of the shortcuts we've made here, I can't guarantee that this chart will always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even in the full flowchart model, this is unavoidable, since it won't always be clear which path to take.
 
 # Extra: Unpredictability of は and が
 
-There is evidence that usage of は and が is not entirely predictable. The following examples (1) and (2) are introductory sentences from two different newspaper reports about the same story. However (1) is a topicless sentence, and (2) is a topic sentence.
+There is evidence that usage of は and が is not entirely predictable. The following examples (1) and (2) are introductory sentences from two different newspaper reports about the same story. But (1) is a topicless sentence, and (2) is a topic sentence.
 
 > 1\. インドのラオ外相<u>が</u>十七日午後六時前、大阪空港着の日航機で来日した。<br>*Indian Foreign Minister Rao arrived in Japan on a Japan Airlines flight at Osaka Airport just before 6:00 p.m. on the 17th.* - (｢朝日新聞｣ 1982.4.18 新刊 p.2)
 

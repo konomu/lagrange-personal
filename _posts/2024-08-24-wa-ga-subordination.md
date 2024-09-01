@@ -25,7 +25,7 @@ When a sentence has two or more clauses, the clause with its predicate at the en
 
 [^3]: It's also possible for subordinate clauses to be nested within subordinate clauses. In the image, I use the convention that weakly subordinate clauses are not nested within the main clause; while quotations, strongly subordinate clauses and fully subordinate clauses are. Sentences are from 丸山 (2016) and 劉 (2022).
 
-![Various structures of subordinate clauses](assets/img/subord.jpg)
+![Various structures of subordinate clauses](assets/img/subord.svg)
 
 Sometimes, a subordinate clause without a subject will take the subject of the main clause. This is the case for the fifth sentence of the examples above (the subject of "読みながら" is "お父さん").
 
@@ -45,7 +45,7 @@ Consider the following sentences (庵功雄, 2012).
 
 Highlighting the clauses gives us the following diagram.
 
-![太郎は部屋に入ると、すぐに電気をつけた。and 太郎が部屋に入ると、すぐに電気をつけた。](assets/img/subord1.jpg)
+![太郎は部屋に入ると、すぐに電気をつけた。and 太郎が部屋に入ると、すぐに電気をつけた。](assets/img/subord1.svg)
 
 Here are the correct interpretations of these sentences. 
 

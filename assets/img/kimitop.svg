@@ -1,0 +1,26 @@
+<svg width="800.0000000000002" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#56d4ff" stroke="#000" x="199.7307" y="339.17706" width="59.96173" height="99.53178" id="svg_15"/>
+  <rect fill="#bbff00" stroke="#000" x="210.08793" y="354.41399" width="49.30136" height="71.71624" id="svg_10"/>
+  <rect fill="#ffb22d" stroke="#000" x="306.06902" y="339.15211" width="93.63418" height="99.70362" id="svg_28"/>
+  <rect fill="#bbff00" stroke="#000" x="210.98518" y="122.58093" width="50.83333" height="67.3611" id="svg_2"/>
+  <path fill="#d760ff" stroke="#000" d="m306.44075,354.59586l93.26846,0l0,68.41498l-93.26846,0l0,-68.41498z" id="svg_74" opacity="undefined"/>
+  <path fill="#d760ff" stroke="#000" d="m308.24627,123.08708l91.30389,0l0,66.69085l-91.30389,0l0,-66.69085z" id="svg_23" opacity="undefined"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="296.12146" y="229.20541" id="svg_7" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">君が主役(であること)</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="295.53146" y="351.07424" id="svg_8" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">君が主役だ。</text>
+  <path fill="#ffffff" stroke="#000" d="m327.05584,261.66339l15.68097,16.45002l0,-31.80531l0,-31.80524l9.70727,0l9.70728,0l0,31.44037c0,17.29218 0.49201,31.44034 1.09336,31.44034c0.60134,0 7.65778,-6.88396 15.68097,-15.29767l14.58763,-15.29772l0,14.13977l0,14.13972l-20.55428,21.59455l-20.55427,21.59454l-20.51495,-21.63597l-20.51495,-21.63596l0,-14.88574l0,-14.88577l15.68098,16.45006l0,0.00001l-0.00001,0z" id="svg_41" stroke-width="3"/>
+  <text fill="#000000" stroke="#000" x="398.13987" y="284.65385" id="svg_45" stroke-width="0" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topicalization</text>
+  <line fill="none" stroke="#000" x1="350.93589" y1="123.50058" x2="391.96496" y2="82.47152" id="svg_52" stroke-width="2"/>
+  <text fill="#000000" stroke="#000" x="351.99976" y="173.94147" id="svg_66" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
+  <line fill="none" stroke="#000" x1="236.42183" y1="122.01757" x2="197.12459" y2="82.72032" id="svg_5" stroke-width="2"/>
+  <path id="svg_13" d="m231.67649,438.80435l-67.40698,67.40698" opacity="undefined" stroke-width="2" stroke="#000" fill="none"/>
+  <text fill="#000000" stroke="#000" x="254.80367" y="174.30321" id="svg_16" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Subject</text>
+  <text fill="#000000" stroke="#000" x="196.66312" y="421.43115" id="svg_3" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Comment/Subject</text>
+  <line stroke-width="2" id="svg_21" y2="475.98524" x2="436.7342" y1="439.14448" x1="399.89345" stroke="#000" fill="none"/>
+  <text fill="#000000" stroke="#000" x="400.84974" y="405.04228" id="svg_22" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topic/Predicate</text>
+  <line stroke-width="2" id="svg_27" y2="520.4969" x2="342.00118" y1="427.75412" x1="279.64285" stroke="#000" fill="none"/>
+  <text fill="#000000" stroke="#000" x="347.8462" y="426.45309" id="svg_30" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Exclusive が</text>
+ </g>
+
+</svg>

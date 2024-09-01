@@ -21,7 +21,7 @@ This principle is also known as the **principle of topic position**. We use this
 
 The topic is something that you want to talk about, and the comment is something you want to convey about the topic. That means that when choosing what becomes the topic and what becomes the comment, we can follow the general rule that **the comment conveys one option among other options relating to the topic**. 
 
-![Chart explaining the above rule with the example 父がこの本を買ってくれたのだ。](assets/img/topic.jpg)
+![Chart explaining the above rule with the example 父がこの本を買ってくれたのだ。](assets/img/topic.png)
 
 ### <a name="choosing-topic" style="text-decoration: none;">Choosing the Topic: Word-level Considerations
 
@@ -48,15 +48,15 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
 <tbody>
   <tr>
     <td style="text-align: center;" class="tg-0pky" rowspan="3">Noun Predicate</td>
-    <td class="tg-0pky">Words like 特徴 and 原因</td>
+    <td class="tg-0pky">Words like "特徴" and "原因"</td>
     <td class="tg-0pky">The details in question</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Words like 高さ and 色</td>
+    <td class="tg-0pky">Words like "高さ" and "色"</td>
     <td class="tg-0pky">The values in question</td>
   </tr>
   <tr>
-    <td class="tg-0lax">｢～というもの｣</td>
+    <td class="tg-0lax">"～というもの"</td>
     <td class="tg-0lax">The explanation</td>
   </tr>
   <tr>
@@ -84,11 +84,11 @@ The rule for sentences with a **noun predicate** are somewhat self-explanatory a
 
 >7\. <u>このナタデココは</u>、ココナッツミルクを静かに寝かせて発行させたもの。<br>*This nata de coco is made by fermenting coconut milk.*
 
-｢～というものは｣ is commonly shortened to ｢～とは｣.
+"～というものは" is commonly shortened to "～とは".
 
 >8\. <u>炭焼きとは</u>、木材を熱分解して、揮発しやすい成分を可燃性のガスとして燃やしたり、蒸発にして追い出したりした後、炭素が燃えてしまう手前で燃焼を止める作業である。<br>*Sumiyaki is the process of pyrolyzing raw lumber to remove its volatile components to the point just before carbon starts burning away.*
 
-For sentences with **adjective predicates**, we have two different rules. The first one covers adjective sentences that express some kind of comparison, which will often include phrases like ｢～のほうが (adjective)｣ and ｢～がいちばん (adjective)｣. In this case, the adjective becomes the topic, and the noun subject is marked with exclusive が.
+For sentences with **adjective predicates**, we have two different rules. The first one covers adjective sentences that express some kind of comparison, which will often include phrases like "～のほうが (adjective)" and "～がいちばん (adjective)". In this case, the adjective becomes the topic, and the noun subject is marked with exclusive が.
 
 >9\. ｢でも、<u>リカさんと一緒にいる永尾くんが</u>、私の知ってる永尾くんの中で一番元気。｣<br>*"Nagao always looks the happiest when I see him with Rika."*
 
@@ -108,7 +108,7 @@ The に case is typically expressed before the subject-marking が case in sente
 
 ### <a name="cclc" style="text-decoration: none;">Choosing the Topic: Context-level Considerations
 
-The concept of **familiar information**, as introduced in [Is There a Topic?](#toppres), is also useful for determining the topic of the sentence. Once again, this isn't a hard-set rule, just a broad tendency sentences with a topic have. 
+The concept of **familiar information**, as introduced in [Topic Sentences](#wa-ga-presence#topic-sentences), is also useful for determining the topic of the sentence. Once again, this isn't a hard-set rule, just a broad tendency sentences with a topic have. 
 
 Recall our definition for familiar information.
 

@@ -108,13 +108,13 @@ The first structure we'll be learning about is the simplest of all the は struc
 
 The following diagram shows the topicalization of the subject "父" in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢父はこの本を買ってくれた。｣
 
-![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.jpg)
+![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.svg)
 
 The "こと" in the diagram above to represent that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**.
 
 Remember that は can also mark objects, which are generally marked by を. When the object is topicalized, は replaces を. Then, the topic is moved to the beginning of the sentence. Just like the subject, the object doesn't stop being an object when it's topicalized. The following diagram shows the topicalization of the object "この本" in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢この本は父が買ってくれた。｣
 
-![Diagram showing topicalization of この本 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi2.jpg)
+![Diagram showing topicalization of この本 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi2.svg)
 
 ### Examples of Basic Topic Sentences
 
@@ -151,7 +151,7 @@ Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalize
 
  ｢富士山が見えるよ。｣ is a sentence that **does not feature any sort of topic at all**. We call these types of sentences **topicless sentences**. Naturally, all sentences you'll see here will have **subject-marking が**.
 
-![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.jpg)
+![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.svg)
 
 So, how is it possible to make a sentence without a topic? These sentences only come up in certain cases. Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. There are three broad categories of situations where topicless sentences may be used.
 
@@ -201,13 +201,13 @@ We'll learn more about when to use a topic in [Principle of Subordination](wa-ga
 
 The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is actually the predicate, "主役" (lead actor). This is what we call an **inverted sentence**. This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
 
-![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.jpg)
+![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.svg)
 
 Remember that exclusive が functions as a way of **emphasizing** something. With this usage of が, whatever exclusive が marks is singled out from a set of other things. We are specifying that "You, not someone else, are the lead actor." However, the nuance of exclusion in this specific sentence is relatively weak, because we haven't talked about any other person who could be the lead actor in the context of this example (See [Types of Exclusion](/wa-ga-emphasis#exclusion-types)). 
 
 One way of interpreting the sentence ｢君が主役だ。｣ is to derive it from the sentence ｢主役は君だ。｣. **These two sentences have approximately the same meaning.** To achieve this, all we have to do is to reverse the order of the topic and the comment, and then replace は with exclusive が. This process is known as **inversion**, and it's why we call sentences of this structure inverted sentences.
 
-![Diagram showing inversion of 主役は君だ。](assets/img/kimi.jpg)
+![Diagram showing inversion of 主役は君だ。](assets/img/kimi.svg)
 
 A typical topic sentence takes the structure of 
 

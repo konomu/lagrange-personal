@@ -1,0 +1,15 @@
+<svg width="761.0000000000001" height="199.99999999999997" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" id="svg_71" y="222.04598" x="403.12525" stroke-width="0" stroke="#000" fill="#000000">Predicate</text>
+   <text transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="14" stroke-width="0" id="svg_10" y="221.28018" x="280.58652" stroke="#000" fill="#000000">Subject</text>
+   <rect id="svg_17" height="67.22282" width="140.56363" y="32.68381" x="202.01374" stroke="#000" fill="#bbff00"/>
+   <path opacity="undefined" id="svg_74" d="m387.65277,32.17802l131.00767,0l0,68.41498l-131.00767,0l0,-68.41498z" stroke="#000" fill="#d760ff"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="45" id="svg_8" y="84.17254" x="207.40805" stroke-width="0" stroke="#000" fill="#000000">富士山が見えるよ。</text>
+   <path fill="none" stroke="#000" stroke-width="2" opacity="undefined" d="m455.20039,101.05923l33.86881,33.86882" id="svg_53"/>
+   <path id="svg_6" d="m272.78265,100.12993l-33.58252,33.58252" opacity="undefined" stroke-width="2" stroke="#000" fill="none"/>
+  </g>
+ </g>
+
+</svg>

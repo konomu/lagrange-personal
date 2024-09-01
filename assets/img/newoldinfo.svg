@@ -1,0 +1,36 @@
+<svg width="800.0000000000001" height="800.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_3">
+   <text fill="#000000" stroke="#000" stroke-width="0" x="176.04865" y="314.78332" id="svg_36" font-size="30" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">Typical Inverted Sentence</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="202.46626" y="48.32628" id="svg_35" font-size="30" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">Typical Topic Sentence</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="234.78427" y="585.88328" id="svg_37" font-size="30" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">Topicless Sentence</text>
+   <rect fill="#d3f4ff" stroke="#000" x="223.60996" y="611.76142" width="352.96162" height="96.33779" id="svg_17"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="305.26915" y="492.41825" id="svg_21" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">富士山が見える。</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="363.6127" y="775.3851" id="svg_38" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">New Information</text>
+   <line fill="none" stroke="#000" x1="470.1801" y1="742.24316" x2="385.92962" y2="708.92937" id="svg_43" stroke-width="2"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="470.24939" y="514.777" id="svg_31" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Topic/Old Information</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="34.664" y="513.90432" id="svg_34" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Comment/New Information</text>
+   <path fill="none" stroke="#000" stroke-width="2" opacity="undefined" d="m422.01173,439.9022l100.55735,41.90586" id="svg_39"/>
+   <line fill="none" stroke="#000" stroke-width="2" x1="243.18865" y1="476.99531" x2="299.35733" y2="439.49422" id="svg_40"/>
+   <rect fill="#ffd896" stroke="#000" x="114.65658" y="74.37712" width="61.75171" height="94.48598" id="svg_2"/>
+   <rect fill="#ffb22d" stroke="#000" x="126.80379" y="87.65461" width="49.30136" height="68.62988" id="svg_4"/>
+   <rect fill="#d3f4ff" stroke="#000" x="222.78491" y="74.35217" width="469.95515" height="94.62193" id="svg_5"/>
+   <path fill="#56d4ff" stroke="#000" d="m223.1566,88.45375l457.2685,0l0,65.32862l-457.2685,0l0,-65.32862z" id="svg_6"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="251.83386" y="209.49132" id="svg_7" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">父はこの本を買ってくれた。</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="35.67685" y="247.43305" id="svg_30" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Topic/Old Information</text>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="405.36678" y="247.47477" id="svg_32" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Comment/New Information</text>
+   <line fill="none" stroke="#000" x1="480.64305" y1="169.706" x2="579.31092" y2="216.80759" id="svg_42" stroke-width="2"/>
+   <line fill="none" stroke="#000" stroke-width="2" x1="151.93428" y1="169.93102" x2="102.40157" y2="214.10417" id="svg_47"/>
+   <g id="svg_1">
+    <rect fill="#d3f4ff" stroke="#000" x="272.81052" y="342.15561" width="61.75171" height="96.33779" id="svg_15"/>
+    <rect fill="#56d4ff" stroke="#000" x="284.95773" y="356.05036" width="49.30136" height="69.86443" id="svg_10"/>
+    <rect fill="#ffd896" stroke="#000" x="380.93882" y="342.13066" width="93.63418" height="97.09102" id="svg_28"/>
+    <path fill="#ffb22d" stroke="#000" d="m381.31055,356.23224l93.26846,0l0,68.41498l-93.26846,0l0,-68.41498z" id="svg_74"/>
+    <text fill="#000000" stroke="#000" stroke-width="0" x="334.81423" y="350.96121" id="svg_8" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">君が主役だ。</text>
+    <text fill="#000000" stroke="#000" stroke-width="0" x="334.81423" y="350.96121" id="svg_16" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">君が主役だ。</text>
+   </g>
+  </g>
+ </g>
+
+</svg>

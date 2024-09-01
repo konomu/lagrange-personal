@@ -1,0 +1,35 @@
+<svg width="799.9999999999999" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#56d4ff" stroke="#000" x="295.41785" y="350.32304" width="387.65682" height="98.67347" id="svg_28"/>
+  <rect fill="#bbff00" stroke="#000" x="296.12093" y="365.68666" width="46.74153" height="68.33208" id="svg_3"/>
+  <g id="svg_1">
+   <rect fill="#bbff00" stroke="#000" x="23.66693" y="133.93532" width="46.589" height="64.94225" id="svg_29"/>
+   <path fill="#d760ff" stroke="#000" d="m293.26177,133.11852l263.30388,0l0,66.69085l-263.30388,0l0,-66.69085z" id="svg_23" opacity="undefined"/>
+   <path fill="#ff007f" stroke="#000" d="m117.99003,132.81803l132.0177,0l0,67.42867l-132.0177,0l0,-67.42867z" id="svg_21" opacity="undefined"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="195.91552" y="233.94404" id="svg_7" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">父がこの本を買ってくれた(こと)</text>
+   <line fill="none" stroke="#000" x1="44.79157" y1="134.82047" x2="104.19832" y2="75.41372" id="svg_49" stroke-width="2"/>
+   <line fill="none" stroke="#000" x1="182.37825" y1="132.56494" x2="238.15155" y2="76.79164" id="svg_51" stroke-width="2"/>
+   <line fill="none" stroke="#000" x1="423.71882" y1="133.6927" x2="479.13638" y2="78.27514" id="svg_52" stroke-width="2"/>
+   <text fill="#000000" stroke="#000" x="211.17493" y="171.44153" id="svg_60" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Subject</text>
+   <text fill="#000000" stroke="#000" x="308.32435" y="173.06717" id="svg_65" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Object</text>
+   <text fill="#000000" stroke="#000" x="396.6001" y="173.52248" id="svg_66" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
+  </g>
+  <path fill="#d760ff" stroke="#000" d="m389.04556,365.01619l281.40729,0l0,68.41498l-281.40729,0l0,-68.41498z" id="svg_74" opacity="undefined"/>
+  <rect fill="#ffb22d" stroke="#000" x="104.23991" y="350.13765" width="147.46804" height="98.34598" id="svg_15"/>
+  <rect opacity="undefined" fill="#ff007f" stroke="#000" x="116.27349" y="365.68665" width="135.58899" height="68.33208" id="svg_18"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="245.17021" y="355.81287" id="svg_8" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">この本は父が買ってくれた。</text>
+  <path fill="#ffffff" stroke="#000" d="m157.73794,271.36147l15.68097,16.45002l0,-31.80531l0,-31.80524l9.70727,0l9.70728,0l0,31.44037c0,17.29218 0.49201,31.44034 1.09336,31.44034c0.60134,0 7.65778,-6.88396 15.68097,-15.29767l14.58763,-15.29772l0,14.13977l0,14.13972l-20.55428,21.59455l-20.55427,21.59454l-20.51495,-21.63597l-20.51495,-21.63596l0,-14.88574l0,-14.88577l15.68098,16.45006l0,0.00001l-0.00001,0z" id="svg_41" stroke-width="3"/>
+  <text fill="#000000" stroke="#000" x="312.79986" y="290.61672" id="svg_45" stroke-width="0" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topicalization</text>
+  <line fill="none" stroke="#000" x1="612.90789" y1="433.59718" x2="669.63782" y2="490.32712" id="svg_53" stroke-width="2"/>
+  <path fill="none" stroke="#000" stroke-width="2" opacity="undefined" d="m485.1714,449.06563l43.41459,44.38349" id="svg_54"/>
+  <path fill="#ffffff" stroke="#000" stroke-width="2" opacity="undefined" d="m315.66716,433.83109l58.39684,55.30964" id="svg_55"/>
+  <path fill="#ffffff" stroke="#000" opacity="undefined" d="m255.83652,526.00145" id="svg_59" stroke-width="2"/>
+  <text fill="#000000" stroke="#000" x="205.82831" y="425.10545" id="svg_67" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Topic/Object</text>
+  <text fill="#000000" stroke="#000" x="347.23062" y="409.73256" id="svg_69" stroke-width="0" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Subject</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="424.10428" y="410.34106" id="svg_70" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Comment</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="515.05436" y="410.35755" id="svg_71" font-size="14" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.90592, 0, 0, 1.90592, -348.336, -262.152)">Predicate</text>
+  <line fill="none" stroke="#000" x1="188.67809" y1="448.28254" x2="119.3701" y2="517.59053" id="svg_4" stroke-width="2"/>
+ </g>
+
+</svg>
