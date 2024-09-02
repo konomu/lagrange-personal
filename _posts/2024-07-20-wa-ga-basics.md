@@ -31,13 +31,13 @@ A **subject** is one of two main components of a sentence, the other being the *
 
 # <a name="topicalization" style="text-decoration: none;">Topicalization
 
-As we just learned, は is commonly understood to be a topic marker, and all kinds of words may become a topic in Japanese. When は marks some word in Japanese, we say the word has been **topicalized**. In other words, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
+All kinds of words may become a topic in Japanese. When は marks some word in Japanese, we say that the word has been **topicalized**. That is, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
 
 It is very common for は to topicalize a **subject**. This is where confusion between は and が comes from. When は marks a subject, this does **not** mean the subject has ceased to be a subject and is now a topic. It's **both a topic and subject at the same time**. 
 
-The subject is not the only part of a sentence that は can topicalize. The most common parts of the sentence to be topicalized are the **case particles and the nouns that they mark**. Nouns that are marked by case particles are known as **case-marked nouns**. You may already be familiar with all of the case particles. There are nine of them: が, を, に, で, へ, と, から, より, and まで.
+The subject is not the only part of a sentence that は can topicalize. The most common parts of the sentence to be topicalized are **case particles and the nouns that they mark**. Nouns that are marked by case particles are known as **case-marked nouns**. You may already be familiar with all of the case particles. There are nine of them: が, を, に, で, へ, と, から, より, and まで.
 
-What sets が (and を) apart from other common case particles is that when は topicalizes something that is already marked by が (or を), が (or を) is dropped from it completely. In other words, you'll never hear <span style="color: #ff0040"> ｢×ここがは～｣</span> or <span style="color: #ff0040"> ｢×ここをは～｣</span>. The case particles に, で, and へ are also often dropped.
+What sets が and を apart from other common case particles is that they are deleted from the noun completely when the noun they are marking is topicalized. In other words, you'll never hear <span style="color: #ff0040"> ｢×ここがは～｣</span> or <span style="color: #ff0040"> ｢×ここをは～｣</span>. The case particles に, で, and へ are also often deleted.
 
 
 | Case Marked Element + は      | Topicalized Result      |
@@ -51,7 +51,7 @@ What sets が (and を) apart from other common case particles is that when は 
 | ここから + は | ここからは |
 | ここまで + は | ここまでは |
 
-The topic and the subject exist on different dimensions in Japanese.[^1] Unlike the case particles, は is classified as a binding particle, similarly to も and こそ. Some word may be a topic and subject at the same time, but the subject is not necessarily a topic, and a topic is not necessarily a subject. You will see examples of this in the topicalization diagrams once we start covering basic sentence structures.
+The topic and the subject exist on different dimensions in Japanese.[^1] A word can be a topic and subject at the same time, but all subjects are not necessarily topics, and all topics are not necessarily subjects. You will see examples of this dynamic in the topicalization diagrams once we start covering basic sentence structures.
 
 [^1]: Noda proposes that topic-marking は exists on the lowest "situational mood layer", while subject-marking が exists on the highest "voice layer". Contrastive は and exclusive が exist between the two, on the "polarity layer" (as in affirmative/negative predicates).
 
@@ -105,7 +105,7 @@ By familiarizing yourself with the prototypical sentence structures of Japanese 
 
 > 父はこの本を買ってくれた。<br>*My dad bought this book for me.*
 
-The first structure we'll be learning about is the simplest of all the は structures. It's what we get when we topicalize a **case-marked noun** (anything marked by the case particles が, を, に, etc.) or an **adverb**.
+The first structure we'll learn about is the simplest of all the は structures. It's what we get when we topicalize a **case-marked noun** (anything marked by the case particles が, を, に, etc.) or an **adverb**.
 
 The following diagram shows the topicalization of the subject "父" in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢父はこの本を買ってくれた。｣
 
