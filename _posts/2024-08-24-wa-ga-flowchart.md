@@ -1,17 +1,18 @@
 ---
 layout: docs
-title: "は vs. が - The Flowchart Model"
+title: "は and が - The Flowchart Model"
 author: "hedera"
 categories: journal
 tags: [japanese]
+hidden: true
 ---
+
+*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 <div class="arrow-container">
         <a href="wa-ga-basics.html" class="nav-arrow">← 1. The Basics of は and が</a>
         <a href="wa-ga-emphasis.html" class="nav-arrow">3. Principle of Emphasis →</a>
 </div>
-
-*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 # The Flowchart Model
 

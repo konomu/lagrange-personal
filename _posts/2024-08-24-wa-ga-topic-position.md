@@ -1,17 +1,18 @@
 ---
 layout: docs
-title: "は vs. が - Principle of Topic Position"
+title: "は and が - Principle of Topic Position"
 author: "hedera"
 categories: journal
 tags: [japanese]
+hidden: true
 ---
+
+*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 <div class="arrow-container">
         <a href="wa-ga-topic-presence.html" class="nav-arrow">← 5. Principle of Topic Presence</a>
         <a href="wa-ga-other.html" class="nav-arrow">7. Other Usages and More は Structures </a>
 </div>
-
-*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 ![Location of page content in flowchart](assets/img/flowchart_topic_position.png)
 
@@ -35,7 +36,7 @@ There are many rules besides this general one that are useful for choosing the t
 
 This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see it with は, it'll always be contrastive は, not topic-marking は.
 
->4\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
+>1\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
 
 ### <a name="cslc" style="text-decoration: none;">Sentence-level Considerations
 
@@ -80,33 +81,33 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
 
 The rule for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. They often fit into the [｢かき料理は広島が本場だ。｣ structure](wa-ga-other/#kaki). Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー often become the topic, while their content becomes the comment. These are sentences like:
 
->5\. <u>アジア人の食生活の特徴は</u>、主食があることです。<br>*What's different about Asian diets is the abundance of staple foods.* 
+>2\. <u>アジア人の食生活の特徴は</u>、主食があることです。<br>*What's different about Asian diets is the abundance of staple foods.* 
 
->6\. <u>普通のコースターの所要時間は</u>約3分ほどだ。<br>*Each ride lasts about 3 minutes.*
+>3\. <u>普通のコースターの所要時間は</u>約3分ほどだ。<br>*Each ride lasts about 3 minutes.*
 
->7\. <u>このナタデココは</u>、ココナッツミルクを静かに寝かせて発行させたもの。<br>*This nata de coco is made by fermenting coconut milk.*
+>4\. <u>このナタデココは</u>、ココナッツミルクを静かに寝かせて発行させたもの。<br>*This nata de coco is made by fermenting coconut milk.*
 
 "～というものは" is commonly shortened to "～とは".
 
->8\. <u>炭焼きとは</u>、木材を熱分解して、揮発しやすい成分を可燃性のガスとして燃やしたり、蒸発にして追い出したりした後、炭素が燃えてしまう手前で燃焼を止める作業である。<br>*Sumiyaki is the process of pyrolyzing raw lumber to remove its volatile components to the point just before carbon starts burning away.*
+>5\. <u>炭焼きとは</u>、木材を熱分解して、揮発しやすい成分を可燃性のガスとして燃やしたり、蒸発にして追い出したりした後、炭素が燃えてしまう手前で燃焼を止める作業である。<br>*Sumiyaki is the process of pyrolyzing raw lumber to remove its volatile components to the point just before carbon starts burning away.*
 
 For sentences with **adjective predicates**, we have two different rules. The first one covers adjective sentences that express some kind of comparison, which will often include phrases like "～のほうが (adjective)" and "～がいちばん (adjective)". In this case, the adjective becomes the topic, and the noun subject is marked with exclusive が.
 
->9\. ｢でも、<u>リカさんと一緒にいる永尾くんが</u>、私の知ってる永尾くんの中で一番元気。｣<br>*"Nagao always looks the happiest when I see him with Rika."*
+>6\. ｢でも、<u>リカさんと一緒にいる永尾くんが</u>、私の知ってる永尾くんの中で一番元気。｣<br>*"Nagao always looks the happiest when I see him with Rika."*
 
->10\. ｢お茶にする、お酒にする？｣<br>｢<u>お茶が</u>いい｣<br>*"Would you like tea or sake?"*<br>*"Tea, please."*
+>7\. ｢お茶にする、お酒にする？｣<br>｢<u>お茶が</u>いい｣<br>*"Would you like tea or sake?"*<br>*"Tea, please."*
 
 The second rule concerns adjective sentences that express no such comparison. These sentences will likely take the noun subject as its topic, marked by は.
 
->11\. <u><ruby>亭主関白<rt>ていしゅかんぱく</rt></ruby>の家は</u>暗い。<br>*Households with domineering husbands are depressing.*
+>8\. <u><ruby>亭主関白<rt>ていしゅかんぱく</rt></ruby>の家は</u>暗い。<br>*Households with domineering husbands are depressing.*
 
-Sentences with **verb predicates** often have multiple case-marked nouns. The general rule with verb sentences is that whatever comes earliest in basic sentence order (subject-object-verb) becomes the topic. In (12), the subject (instead of the object) is the topic because it comes earlier in the SOV order.
+Sentences with **verb predicates** often have multiple case-marked nouns. The general rule with verb sentences is that whatever comes earliest in basic sentence order (subject-object-verb) becomes the topic. In (9), the subject (instead of the object) is the topic because it comes earlier in the SOV order.
 
->12\. その頃、<u>三郎は</u>刑務所の係長の部屋で<ruby>茶坊主<rt>ちゃぼうず</rt></ruby>をしていた。<br>*At that time, Saburou spent his days at the head of the jail's room, tending to his every need.*
+>9\. その頃、<u>三郎は</u>刑務所の係長の部屋で<ruby>茶坊主<rt>ちゃぼうず</rt></ruby>をしていた。<br>*At that time, Saburou spent his days at the head of the jail's room, tending to his every need.*
 
-The に case is typically expressed before the subject-marking が case in sentences with predicate ある (as in ～に～がある), so ～に is topicalized in (13).
+The に case is typically expressed before the subject-marking が case in sentences with predicate ある (as in ～に～がある), so ～に is topicalized in (10).
 
->13\. <u>｢アンチ百恵｣としての聖子には</u>、百恵的エロティシズムを歌わないという宿命がありました。<br>*As the "anti-Momoe", Seiko was destined to never sing with Momoe-esque eroticism.*
+>10\. <u>｢アンチ百恵｣としての聖子には</u>、百恵的エロティシズムを歌わないという宿命がありました。<br>*As the "anti-Momoe", Seiko was destined to never sing with Momoe-esque eroticism.*
 
 ### <a name="cclc" style="text-decoration: none;">Context-level Considerations
 
@@ -131,9 +132,9 @@ Recall our definition for familiar information.
  
 As mentioned in the table, familiar information tends to become the topic. Consider the following examples.
 
->14\. <u>俺は</u>中卒さ。<br>*I'm a middle-school graduate, you see.*
+>11\. <u>俺は</u>中卒さ。<br>*I'm a middle-school graduate, you see.*
 
->15\. 途中に<ruby>西宮名塩<rt>にしのみやなじお</rt></ruby>がある。<u>同駅は</u>複線電化時に名塩の各住宅団地のために作られた。<br>*Nishinomiya-Najio is on the way there. The station of the same name was built when the line was electrified and double-tracked for the neighborhoods of Najio.*
+>12\. 途中に<ruby>西宮名塩<rt>にしのみやなじお</rt></ruby>がある。<u>同駅は</u>複線電化時に名塩の各住宅団地のために作られた。<br>*Nishinomiya-Najio is on the way there. The station of the same name was built when the line was electrified and double-tracked for the neighborhoods of Najio.*
 
 In the first example, "俺" (I) is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized, because the speaker and the listener are always going to exist in the context of the sentence.
 
@@ -141,23 +142,23 @@ In the second example, "同駅" (the station of the same name) is topicalized be
 
 Some sentences violate this rule. In this next example, an inverted sentence, familiar information is marked by exclusive が, making it the comment.
 
->16\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes in weather. This is why weather forecasts are sometimes off.*
+>13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes in weather. This is why weather forecasts are sometimes off.*
 
-The reason why "これ" in (16) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule in this case. In fact, it is very common for inverted sentences to express familiar information as the comment.
+The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule in this case. In fact, it is very common for inverted sentences to express familiar information as the comment.
 
 # <a name="where-placed" style="text-decoration: none;">Where is the Topic Placed?
 
 In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall back to Part 1 when we saw the topicalization of "この本" (this book) in the case structure "父がこの本を買ってくれた(こと)".
 
->1\. <u>この本</u><b>は</b>父が買ってくれた。
+>14\. <u>この本</u><b>は</b>父が買ってくれた。
 
 Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", and we'll see that it's also placed at the front. This is the same structure as the one we saw for ｢花が咲くのは7月ごろだ。｣.
 
->2\. <u>この本を買ってくれたの</u><b>は</b>父だ。
+>15\. <u>この本を買ってくれたの</u><b>は</b>父だ。
 
 [Inverting](wa-ga-basics/#kimi) this sentence will then give us
 
->3\. 父<b>が</b><u>この本を買ってくれたのだ</u>。
+>16\. 父<b>が</b><u>この本を買ってくれたのだ</u>。
 
 which is the same structure as ｢君が主役だ。｣. 
 

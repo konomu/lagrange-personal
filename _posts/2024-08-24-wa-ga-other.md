@@ -1,16 +1,17 @@
 ---
 layout: docs
-title: "は vs. が - Other Usages and More は Structures"
+title: "は and が - Other Usages and More は Structures"
 author: "hedera"
 categories: journal
 tags: [japanese]
+hidden: true
 ---
+
+*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 <div style="justify-content: flex-start !important;" class="arrow-container">
         <a href="wa-ga-topic-position.html" class="nav-arrow">← 6. Principle of Topic Position</a>
 </div>
-
-*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 # <a name="object-ga" style="text-decoration: none;">が as an Object Marker for Adjectives
 
@@ -96,7 +97,7 @@ Thus, the ｢象は鼻が長い。｣ structure is just another way of topicaliz
 
 [^2]: There are other types of modifiers in Japanese, but these are the only types that fit in our structures.
 
-![Diagram showing topicalization of 象 in the case structure 象の鼻が長い(こと)](assets/img/zou.svg)
+![Diagram showing topicalization of 象 in the case structure 象の鼻が長い(こと)](assets/img/zou.png)
 
 Notice that the が in this structure is just a subject-marking が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
 
@@ -122,7 +123,7 @@ If we try anyway, we get <span style="color: #ff0040">｢かき料理の広島�
 
 ｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. [^3] The predicate of this structure will always be a noun.
 
-![Diagram showing topicalization of かき料理 in the case structure 広島がかき料理の本場(であること)](assets/img/kaki.svg)
+![Diagram showing topicalization of かき料理 in the case structure 広島がかき料理の本場(であること)](assets/img/kaki.png)
 
 [^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double subject stages in the other structures. They are awkward and you probably won't see them often.
 
@@ -144,7 +145,7 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 Here's another structure that has the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい", and the noun that was topicalized is "辞書". To derive this sentence from its original case structure, we topicalize some **case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
-![Diagram showing topicalization of 辞書 in the case structure 新しい辞書がいい(こと)](assets/img/jisho.svg)
+![Diagram showing topicalization of 辞書 in the case structure 新しい辞書がいい(こと)](assets/img/jisho.png)
 
 There are two types of sentences that fall into this structure: the selective type and the parallel type.
 
@@ -174,7 +175,7 @@ The parallel type sentence of this structure, on the other hand, **does not use 
 
 In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. However, notice that whatever becomes topicalized becomes a subject, similarly to the topicalization process in the other double subject structures.
 
-![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.svg)
+![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.png)
 
 In this structure, が is not exclusive.
 
@@ -192,7 +193,7 @@ In this structure, が is not exclusive.
 
 What sets this structure apart from the other structures introduced in this chapter is that the topic in this one is a **clause**. Also, it is not a double subject structure.
 
-![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.svg)
+![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
 The function of this sentence is that the predicate (7月ごろ) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic (花が咲く) without using exclusive が.
 

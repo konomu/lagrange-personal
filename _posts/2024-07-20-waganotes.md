@@ -170,6 +170,20 @@ It's much less common to see neutral-description が in adjectival sentences tha
 
 ## Object-marking Ga
 
+subject green: 8bffcc
+
+topic pink: fbafff
+
+comment indigo: 7aedff 8290ff
+
+object blue: 8ea7ff 72e7ff ffbb72
+
+modifier yellow: ffff70
+
+predicate red: ff7777
+
+subordinate blue: b2ffff
+
 
 
 # Verbal Sentences

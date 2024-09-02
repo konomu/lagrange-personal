@@ -1,17 +1,18 @@
 ---
 layout: docs
-title: "は vs. が - Principle of Emphasis"
+title: "は and が - Principle of Emphasis"
 author: "hedera"
 categories: journal
 tags: [japanese]
+hidden: true
 ---
+
+*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 <div class="arrow-container">
         <a href="wa-ga-flowchart.html" class="nav-arrow">← 2. The Flowchart Model</a>
         <a href="wa-ga-subordination.html" class="nav-arrow">4. Principle of Subordination →</a>
 </div>
-
-*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 ![Location of page content in flowchart](assets/img/flowchart_emphasis.png)
 

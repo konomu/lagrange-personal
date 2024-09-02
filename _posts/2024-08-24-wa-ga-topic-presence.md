@@ -1,17 +1,18 @@
 ---
 layout: docs
-title: "は vs. が - Principle of Topic Presence"
+title: "は and が - Principle of Topic Presence"
 author: "hedera"
 categories: journal
 tags: [japanese]
+hidden: true
 ---
+
+*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 <div class="arrow-container">
         <a href="wa-ga-subordination.html" class="nav-arrow">← 4. Principle of Subordination</a>
         <a href="wa-ga-topic-position.html" class="nav-arrow">6. Principle of Topic Position →</a>
 </div>
-
-*This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 ![Location of page content in flowchart](assets/img/flowchart_topic_presence.png)
 
@@ -192,9 +193,11 @@ While these generalizations are true for some sentences, there are many, many se
 
 The following is a chart marking the topic, comment, new information, and old information in our three most important sentence structures. Remember that inverted sentences are also topic sentences.
 
-![Locations of New/Old Information in topic sentences, inverted sentences, and topicless sentences.](assets/img/newoldinfo.svg)
+![Locations of New/Old Information in topic sentences, inverted sentences, and topicless sentences.](assets/img/newoldinfo.png)
 
-The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. There is absolutely no nuance in this sentence that we are emphasizing "富士山" as new information. However, it is nonetheless marked by が. This is not an exceptional instance. Instead, we must recognize the **entirety** of the sentence ｢富士山が見える。｣ as new information. This makes grammatical sense, since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. In the example, there is absolutely no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. We must recognize the **entirety** of the sentence ｢富士山が見える。｣ as new information. This makes grammatical sense, since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+
+[^7]: The exclusive interpretation (marking "富士山" as new information) is sometimes possible, but this is not usually the case.
 
 <h1 style="text-align:right;">
   <a href="/wa-ga-topic-position">Continued in 6. The Principle of Topic Position…</a>

@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'ヘデラ'
-description:	       '日本語上手ですね'
+description:	       'hedera&#39;s japanese blog'
 author:              'hedera © 2024'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

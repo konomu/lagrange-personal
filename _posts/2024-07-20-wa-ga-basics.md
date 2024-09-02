@@ -1,22 +1,23 @@
 ---
 layout: docs
-title: "は vs. が - The Basics of は and が"
+title: "は and が - An Explanation"
 author: "hedera"
 categories: journal
 tags: [japanese]
+image: hatoga.jpg
 ---
+
+This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚史) published works『｢は｣ と ｢が｣』(1996) and『文の構造と機能からみた日本語の主題』(1998), including his model for the nine sentence structures and their syntax. The flowchart model is loosely based on the flowchart in these books. Unless explicitly mentioned, all examples I feature here are examples from these two books. If you wish to go further into this topic, I recommend purchasing [a copy of 『｢は｣ と ｢が｣』](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X).
 
 <div style="justify-content: flex-end !important;" class="arrow-container">
         <a href="wa-ga-flowchart.html" class="nav-arrow">2. The Flowchart Model →</a>
-</div>
-
-This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚史) published works『｢は｣ と ｢が｣』(1996) and『文の構造と機能からみた日本語の主題』(1998), including his model for the nine sentence structures and their syntax. The flowchart model is loosely based on the flowchart in these books. Unless explicitly mentioned, all examples I feature here are examples from these two books. If you wish to go further into this topic, I recommend purchasing [a copy of 『｢は｣ と ｢が｣』](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X).
+</div>  
 
 # <a name="pri" style="margin: 0; text-decoration: none;">The Primary Functions of は and が
 
 ## Topic-marking は
 
-The Japanese language has a special concept known as the **topic**. As its name implies, the topic simply something that the speaker is broadly talking about. It can even extend across sentences and set the general theme for sentences that follow afterward. In Japanese, the topic is typically marked by は. That means whatever comes immediately before は is a topic. Almost all sentences that have a topic marked by は in Japanese take the structure of:
+The Japanese language has a special concept known as the **topic**. As its name implies, the topic is simply something that the speaker is broadly talking about. In Japanese, the topic is typically marked by は. That means whatever comes immediately before は is a topic. Once a topic has been introduced in Japanese, it can even persist across the end of its sentence and set the general theme for sentences that follow afterward. Almost all sentences that have a topic marked by は in Japanese take the structure of:
 
 > `Topic` + `は` + `Comment`
 
@@ -108,13 +109,13 @@ The first structure we'll be learning about is the simplest of all the は struc
 
 The following diagram shows the topicalization of the subject "父" in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢父はこの本を買ってくれた。｣
 
-![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.svg)
+![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.png)
 
 The "こと" in the diagram above to represent that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**.
 
 Remember that は can also mark objects, which are generally marked by を. When the object is topicalized, は replaces を. Then, the topic is moved to the beginning of the sentence. Just like the subject, the object doesn't stop being an object when it's topicalized. The following diagram shows the topicalization of the object "この本" in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢この本は父が買ってくれた。｣
 
-![Diagram showing topicalization of この本 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi2.svg)
+![Diagram showing topicalization of この本 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi2.png)
 
 ### Examples of Basic Topic Sentences
 
@@ -151,7 +152,7 @@ Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalize
 
  ｢富士山が見えるよ。｣ is a sentence that **does not feature any sort of topic at all**. We call these types of sentences **topicless sentences**. Naturally, all sentences you'll see here will have **subject-marking が**.
 
-![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.svg)
+![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.png)
 
 So, how is it possible to make a sentence without a topic? These sentences only come up in certain cases. Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. There are three broad categories of situations where topicless sentences may be used.
 
@@ -201,13 +202,13 @@ We'll learn more about when to use a topic in [Principle of Subordination](wa-ga
 
 The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is actually the predicate, "主役" (lead actor). This is what we call an **inverted sentence**. This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
 
-![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.svg)
+![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.png)
 
 Remember that exclusive が functions as a way of **emphasizing** something. With this usage of が, whatever exclusive が marks is singled out from a set of other things. We are specifying that "You, not someone else, are the lead actor." However, the nuance of exclusion in this specific sentence is relatively weak, because we haven't talked about any other person who could be the lead actor in the context of this example (See [Types of Exclusion](/wa-ga-emphasis#exclusion-types)). 
 
 One way of interpreting the sentence ｢君が主役だ。｣ is to derive it from the sentence ｢主役は君だ。｣. **These two sentences have approximately the same meaning.** To achieve this, all we have to do is to reverse the order of the topic and the comment, and then replace は with exclusive が. This process is known as **inversion**, and it's why we call sentences of this structure inverted sentences.
 
-![Diagram showing inversion of 主役は君だ。](assets/img/kimi.svg)
+![Diagram showing inversion of 主役は君だ。](assets/img/kimi.png)
 
 A typical topic sentence takes the structure of 
 
