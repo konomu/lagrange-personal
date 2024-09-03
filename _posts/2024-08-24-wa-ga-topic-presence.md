@@ -181,7 +181,7 @@ But new information may sometimes be familiar information, such as "君" in the 
 
 A common explanation about は/が is that "Important information comes after は and before が." Another common one you might hear is that "は marks old information, and が marks new information."
 
-[^6]: 上林 (1988) talks about this in more detail. Noda completely discards the concept of new/old information in his description, although he mentions it as foundational research. He only asks of the readers to consider what is and isn't old information (but does not use the term "old information").
+[^6]: 上林 (1988) talks about this in more detail. Noda completely discards the concept of new/old information in his description, although he mentions it as foundational research.
 
 While these generalizations are true for some sentences, there are many, many sentences to which they don't apply. These rules fail because:
 

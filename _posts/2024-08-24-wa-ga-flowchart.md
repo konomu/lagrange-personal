@@ -66,7 +66,7 @@ There is evidence that the usage of は and が is not entirely predictable. The
 
 > 2\. インドのナラシマ・ラオ外相<u>は</u>十七日午後六時前、大阪空港着の日航機で来日した。<br>*Indian Foreign Minister Narasimha Rao arrived in Japan on a Japan Airlines flight at Osaka Airport just before 6:00 p.m. on the 17th.* - (｢毎日新聞｣ 1982.4.18 新刊 p.2)
 
-長友和彦 (1991) conducted a survey asking people to answer whether they would use は or が within the brackets【 &nbsp;&nbsp;】in the passage below (from『雪国』by 川端康成).
+Here is another example. 長友和彦 (1991) conducted a survey asking people to answer whether they would use は or が within the brackets【 &nbsp;&nbsp;】in the passage below (from『雪国』by 川端康成).
 
 >3\. 汽車が動き出しても、彼女は窓から胸をいれなかった。そうして路線の下を歩いている駅長に追いつくと、<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;｢駅長さん、今度の休みの日に家へお帰りって、弟に言ってやってください。｣<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;｢はあい。｣ と、駅長【  &nbsp;&nbsp;】声を張りあげた。<br>*Even as the train began to move, she kept her body out of the window. As she passed the conductor walking below the tracks, she yelled,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mr. Conductor! Tell my brother to come back home when he can!"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I will!" the conductor shouted back.*
 

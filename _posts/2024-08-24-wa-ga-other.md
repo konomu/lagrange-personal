@@ -17,7 +17,7 @@ hidden: true
 
 が has a function that is not usually included in analyses of double-subject structures. This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
 
-[^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example あなたは日本語が分かりますか？ where he describes 日本語 as an object and あなた as a subject for the predicate 分かる. However, we can still recognize が as a subject if we recognize あなた as a topicalized に-case (where に has been deleted).
+[^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example ｢あなたは日本語が分かりますか？｣ (Do you understand Japanese?) where he describes "日本語" (Japanese) as an object and "あなた" (you) as a subject for the predicate "分かる" (understand). However, we can still recognize "日本語" as a subject if we recognize "あなた" as a topicalized に-element expressing an agent (where に has been deleted). The case structure would then be ｢あなたに日本語が分かる(こと)｣
 
 <ol type="a">
   <li>Competence: adjectives like 上手, 苦手, 下手, 得意, うまい, etc.</li>
@@ -91,7 +91,7 @@ Notice that not all sentences that follow the pattern 〜は〜が... count as d
 
 The sentence ｢象は鼻が長い。｣ is famous in discussions of Japanese grammar because of linguist Akira Mikami. In 1960, Mikami published『象ハ鼻ガ長イナア！』, in which he proposed that this sentence has no subject and advocated for the dismissal of the idea of the subject in Japanese. We'll subscribe to Mikami's interpretation of the sentence but keep the idea of the subject intact.
 
-According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case structure "象の鼻が長い(こと)" by topicalizing the modifier "象の". A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
+According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case structure "象の鼻が長い(こと)" by topicalizing the modifier "象の" (of elephants). A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
 
 Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case structures. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
 
@@ -143,7 +143,7 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 > 辞書は新しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
-Here's another structure that has the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい", and the noun that was topicalized is "辞書". To derive this sentence from its original case structure, we topicalize some **case-marked noun**, and the modifier of that element becomes the subject in the comment.
+Here's another structure that has the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case structure, we topicalize some **case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
 ![Diagram showing topicalization of 辞書 in the case structure 新しい辞書がいい(こと)](assets/img/jisho.png)
 
@@ -151,7 +151,7 @@ There are two types of sentences that fall into this structure: the selective ty
 
 ### The Selective Type
 
- ｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure. The nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. Thus, selective-type sentences of this structure **use exclusive が**. Here are some more examples of selective-type sentences:
+｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure. The nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. Thus, selective-type sentences of this structure **use exclusive が**. Here are some more examples of selective-type sentences:
 
 >23\. <u>温泉は</u>、高台にある女性専用の露天風呂がお勧めだ。<br>*As for onsen, I recommend the open-air womens' baths that are high up.*
 
@@ -195,7 +195,7 @@ What sets this structure apart from the other structures introduced in this chap
 
 ![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
-The function of this sentence is that the predicate (7月ごろ) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic (花が咲く) without using exclusive が.
+The function of this sentence is that the predicate "7月ごろ" (around July) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (flowers bloom) without using exclusive が.
 
 The "Related to the Clause" part of the chart is commonly some kind of word/phrase that expresses the reason or time for whatever is in the clause. It can be a case-marked noun (like a subject) or an adverb.
 
@@ -219,7 +219,7 @@ This structure is the rarest of all the ones we've seen so far. Some linguists e
 
 If we try to work backward to uncover the case structure of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case structure.
 
-The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been additionally altered. We can't construct a topicalization chart for this structure, so instead, here's a primer on the three major types of this structure you will encounter.
+The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. We can't construct a topicalization chart for this structure, so instead, here's a primer on the three major types of this structure you will encounter.
 
 ### The Redundant Type
 
@@ -227,7 +227,7 @@ Sometimes, we cannot reduce a sentence to its basic case marker structure becaus
 
 >34\. <u>500円硬貨の両替は</u>、左側5番の機械で両替してください。<br>*To exchange 500 yen coins, please exchange them at machine number 5 to your left.*
 
-The redundant portion of this sentence is 両替. This sentence is an overlapping of the two following sentences:
+The redundant portion of (34) is "両替" (exchange). This sentence is an overlapping of (35) and (36).
 
 >35\. <u>500円硬貨の両替は</u>、左側5番の機械でしてください。<br>*To exchange 500 yen coins, please refer to machine number 5 to your left.*
 
@@ -241,17 +241,19 @@ Another reason we might not be able to reduce a sentence to its case structure i
 
 >37\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なんですね。<br>*What's great about our company is it's easygoing.*
 
-This sentence would be typical if we instead structured it like in (38).
+(37) would be typical if we instead structured it like in (38).
 
 >38\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なことなんですね。<br>*What's great about our company is that it's easygoing.*
 
-You might have heard of the so-called "うなぎ文" before when discussing topic-marking は. 
+You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topic-marking は. These sentences get their name from the prototypical sentence in (39).
 
->39\. ｢<u>僕は</u>うなぎだ。｣<br>*I'm having eel.*
+>39\. ｢<u>僕は</u>うなぎだ。｣<br>*"I'm eating eel."*
 
-The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" is the subject of this sentence, because then the sentence would literally mean, "I am an eel." ｢僕はうなぎだ。｣ is an example of an omissive type sentence of this structure. It is constructed by omitting "を食べている" from the end of the sentence.
+The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" (I) is the subject of this sentence, because then the sentence would literally mean, "I am an eel." 
 
->40\. ｢<u>僕は</u>うなぎを食べている。｣<br>*I'm having eel.*
+We can say that eel sentences are omissive-type sentences of this structure. (39) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence.
+
+>40\. ｢<u>僕は</u>うなぎを食べている。｣<br>*"I'm eating eel."*
 
 This type of sentence occurs often in spoken Japanese. 
 
@@ -261,9 +263,9 @@ Sentences with a comment that don't semantically serve as an exact explanation o
 
 >41\. <u>作り方は</u>、材料を弱火で1時間ほど煮込みます。<br>*As for its recipe, simmer the ingredients on low heat for one hour.*
 
->42\. <u>練習は</u>、聞きだす回数を徐々に減らしていきましょう。<br>*As you practice more, try gradually reducing the amount of questions you ask.*
+>42\. <u>練習は</u>、聞きだす回数を徐々に減らしていきましょう。<br>*As you practice, try gradually reducing the amount of questions you ask.*
 
-The topics in these examples, "作り方" and "練習", only serve as a rough "headline" for the entire sentence that follows it.
+The topics in (41) and (42), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
 
 # <a name="citations" style="text-decoration: none;">Citations
 

@@ -149,7 +149,7 @@ The more of these properties a sentence has, the stronger its contrastive nuance
 
 When there are two or more elements in a sentence marked by は, the one closer to the predicate takes on a more contrastive nuance. This happens because the emphasized portion of the sentence when contrastive は appears is not just the element marked by contrastive は, but also all of the content after the element until the end of its predicate. It is easier to pick up on contrastive nuance if the emphasized portion is uninterrupted. 
 
-Thus, in example (19), it's easy to interpret that the speaker is clarifying that he cannot answer **that question** specifically. In (20), it's easy to interpret that the speaker is clarifying that **he**, specifically, cannot answer the question.
+Thus, in example (19), it's natural to interpret that the speaker is clarifying that he cannot answer **that question** specifically. In (20), it's natural to interpret that the speaker is clarifying that **he**, specifically, cannot answer the question.
 
 However, you may notice that in (19), the more contrastive は marks a 〜に element, while in (20), the more contrastive は marks a subject. As we know from the table above, contrastive は tends to mark objects, 〜に elements, or adverbs, instead of subjects. As a result, it is possible to interpret that there is almost no contrastive nuance in (20), but incredibly unnatural to interpret that there is no contrastive nuance in (19).
 

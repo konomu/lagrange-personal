@@ -34,7 +34,7 @@ Many rules besides this general one are useful for choosing the topic and commen
 | ------------------- |
 | Interrogative Word (e.g. 誰, どれ, どこ, 何)|
 
-This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see it with は, it'll always be contrastive は, not topic-marking は.
+This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see an interrogative word with は, it'll always be contrastive は, not topic-marking は, as is the case in (1).
 
 >1\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
 
@@ -154,7 +154,9 @@ In typical sentences with a topic, the topic is placed at the front of the sente
 
 >14\. <u>この本</u><b>は</b>父が買ってくれた。
 
-Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", and we'll see that it's also placed at the front. This is the same structure as the one we saw for ｢花が咲くのは7月ごろだ。｣.
+Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", and we'll see that it's also placed at the front.[^5]
+
+[^5]:This sentence fits into [the ｢花が咲くのは7月ごろだ。｣ structure](wa-ga-other#hana).
 
 >15\. <u>この本を買ってくれたの</u><b>は</b>父だ。
 
