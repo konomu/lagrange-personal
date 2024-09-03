@@ -178,7 +178,7 @@ However, we are not always strongly conscious of this implicitly contrasted stat
 
 >27\. 人間の麻薬には中毒がつきものだが、猫のマタタビには<u>中毒は</u>ない。<br>*Human drugs are addictive, but there is no addictiveness in silver vine for cats.*
 
-In example (27), there is explicit contrast between "人間の麻薬には" (in human drugs) and "猫のマタタビには" (in silver vine for cats). However, it's hard to imagine some explicit state that can be contrasted with 中毒は (addictiveness).
+In example (27), there is explicit contrast between "人間の麻薬には" (in human drugs) and "猫のマタタビには" (in silver vine for cats). However, it's hard to imagine some explicit state that can be contrasted with "中毒は" (addictiveness).
 
 Thus, when contrastive は is used with negative statements, the nuance of contrast is often weaker than that of positive statements, or completely absent, as is the case in (27). 
 
@@ -214,7 +214,7 @@ The second case listed in the table, where the negative predicate is strongly bo
 
 >30\. 野上は、学生の頃から、<u>女がいないことが</u>なかった...それも、いつも複数で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
-The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Can the Clause Have a Topic?](#subord)). The が after こと, however, is present because it belongs to the set phrase "ことがない". Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
+The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Can the Clause Have a Topic?](#subord)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
 
 # <a name="contrast-words" style="text-decoration: none;">Types of Words Contrastive は Can Mark
 
