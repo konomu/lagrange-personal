@@ -232,7 +232,7 @@ whereas the inversion of this topic sentence will take on the structure
 
 Sometimes, this structure can be used even if there is little exclusive nuance, as in (27). It is used in this case so that the topic, "淀川" (Yodo River) can be placed towards the end, closer to its following sentences which also take "淀川" as a topic.
 
-You'll learn more about inverted sentences in [When to Use Inverted Sentences](/wa-ga-topic-position#when-to-invert)
+You'll learn more about inverted sentences in [When to Use Inverted Sentences](/wa-ga-topic-position#when-to-invert).
 
 
 <h1 style="text-align:right;">

@@ -51,11 +51,11 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
 <tbody>
   <tr>
     <td style="text-align: center;" class="tg-0pky" rowspan="3">Noun Predicate</td>
-    <td class="tg-0pky">Words like "特徴" and "原因"</td>
+    <td class="tg-0pky">Words like 特徴 and 原因</td>
     <td class="tg-0pky">The details in question</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Words like "高さ" and "色"</td>
+    <td class="tg-0pky">Words like 高さ and 色</td>
     <td class="tg-0pky">The values in question</td>
   </tr>
   <tr>
@@ -225,13 +225,13 @@ We just learned how to identify sentences that can't be inverted (a). Now, let's
 | ---- |
 | - Sentences with a noun topic<br>- Sentences with a verb topic (nominalized or not)<br>- Sentences in which the comments are the details of topics like 特徴 or 原因  | - Sentences with an adjective topic (nominalized or not)<br>- Sentences in which the comment is familiar information<br>- Sentences in which the comment is an interrogative word |
 
-Example (23) falls into type (b) (sometimes inverted sentences) because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than the inversion ｢漏電がその火事の原因だ。｣
+Example (23) falls into type (b) (sometimes inverted sentences) because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than the inversion ｢漏電がその火事の原因だ。｣.
 
 (29) also falls into type (b), because it has a verb topic (nominalized).
 
 >29\. <u>そう言ったのは</u>山田だ。<br>*Yamada said that.*
 
-You are more likely to see ｢そう言ったのは山田だ。｣ than the inversion ｢山田がそう言ったのだ。｣
+You are more likely to see ｢そう言ったのは山田だ。｣ than the inversion ｢山田がそう言ったのだ。｣.
 
 In (30), the second sentence is type (c). 
 

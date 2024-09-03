@@ -68,7 +68,7 @@ There are many different factors to consider at this stage. Let's summarize all 
 
 # <a name="topic-sentences" style="text-decoration: none;">Topic Sentences
 
-Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state. Predicates that are adjectives like "高い" or verbs like "すぐれている" which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
+Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
 
 >1\. <u>バクテリア類が生物生態系全体の中で果たしている役割は</u>たいへん重要である。<br>*The role bacteria play in our entire ecosystem is incredibly important.*
 
@@ -125,7 +125,7 @@ By contrast, sentences with nothing between the subject and the predicate tend t
 
 # <a name="topicless-sentences" style="text-decoration: none;">Topicless Sentences
 
-There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as "見える", "聞こえる", "ある", and "来る". Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
+There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある, and 来る. Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
 
 >12\. るり子ーッ、 <u>高原さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 
