@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "は and が - Principle of Subordination"
-author: "hedera"
+author: "konomu"
 categories: journal
 tags: [japanese]
 hidden: true
@@ -20,11 +20,11 @@ hidden: true
 
 This principle is also known as the **principle of subordination**. We use this to decide **whether the clause the marked word is in can hold a topic**. If the clause cannot hold a topic, we know that the word must be marked by subject-marking が.
 
-A clause is a unit of the language which is **shorter than a sentence** and **longer than its words or phrases**. In its most typical form, each clause in Japanese contains a **subject and a predicate**. It may also contain other case-marked nouns or adverbs. Keep in mind that you will come across clauses where the subject isn't explicitly present. Omitting the subject is much more common in Japanese than it is in English.
+A clause is a unit of the language that is **shorter than a sentence** and **longer than its words or phrases**. In its most typical form, each clause in Japanese contains a **subject and a predicate**. It may also contain other case-marked nouns or adverbs. Keep in mind that you will come across clauses where the subject isn't explicitly present. Omitting the subject is much more common in Japanese than it is in English.
 
 When a sentence has two or more clauses, the clause with its predicate at the end of the sentence is usually the **main clause**. All clauses that are nested within it or come before it are **subordinate clauses**.[^3] If a sentence only has one clause, then that clause is the main clause. Take a look at the following sentences with their clauses highlighted.
 
-[^3]: It's also possible for subordinate clauses to be nested within subordinate clauses. In the image, I use the convention that weakly subordinate clauses are not nested within the main clause; while quotations, strongly subordinate clauses and fully subordinate clauses are. Sentences are from 丸山 (2016) and 劉 (2022).
+[^3]: It's also possible for subordinate clauses to be nested within subordinate clauses. Sentences are from 丸山 (2016) and 劉 (2022).
 
 ![Various structures of subordinate clauses](assets/img/subord.png)
 
@@ -36,7 +36,7 @@ The method for choosing は vs. が in the main clause is generally the same one
 
 There's a general rule that when は marks a subject at the start of a sentence with multiple clauses, it usually marks the subject of all of the clauses.[^1] が, on the other hand, usually only marks the subject within its own clause. In other words, whatever は marks is relevant to everything until the end of the sentence, while whatever が marks stays in its own clause. 
 
-[^1]: This general rule doesn't apply for weakly subordinate clauses or quotative clauses.
+[^1]: This general rule doesn't apply to weakly subordinate clauses or quotative clauses.
 
 This general rule works because **が is most commonly used in subordinate clauses**.
 
@@ -56,9 +56,9 @@ Here are the correct interpretations of these sentences.
 
 We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic 太郎 **cannot** be a part of the subordinate clause 部屋に入ると. This is only possible when 太郎 is not a topic and marked by が. 
 
-Thus, in (1), 太郎 is seen as the subject of both the subordinate clause and the main clause. In (2), 太郎 is only seen as the subject of the subordinate clause. The subject of the main clause is instead omitted, so it should be clear through context **who else** turned the light on. Strictly speaking, it doesn't have to be "I", the speaker, who turned the light on. It could be someone else in the context of the sentence. But when Japanese speakers omit a subject, they're commonly referring to themselves.
+Thus, in (1), 太郎 is seen as the subject of both the subordinate clause and the main clause. In (2), 太郎 is only seen as the subject of the subordinate clause. The subject of the main clause is instead omitted, so it should be clear through context **who else** turned the light on. Strictly speaking, it doesn't have to be "I", the speaker, who turned the light on. It could be someone else in the context of the sentence. But when Japanese speakers omit a subject, it's likely that they're referring to themselves.
 
-The subordinate clause in both (1) and (2) can't contain a topic. But this isn't true of all subordinate clauses. These subordinate clauses in particular are **strongly subordinate**, which means they can't exist without the main clause. 
+The subordinate clause in both (1) and (2) can't contain a topic. But this isn't true of all subordinate clauses. These subordinate clauses in particular are **strongly subordinate**, which means they can't exist without the main clause.
 
 # <a name="levels" style="text-decoration: none;">Levels of Subordination
 
@@ -71,7 +71,7 @@ There are four **levels of subordination**, described in the following table.
 |Weak Subordination | The subordinate clause functions like a separate sentence, but still makes up one sentence with the main clause. It can contain a subject or a topic. Rules for choosing between は/が are generally the same as those for the main clause. |
 |Quotative | The subordinate clause is a quote. It can contain a subject or a topic. Rules for choosing between は/が are generally the same as those for the main clause.|
 
-We can usually figure out a subordinate clause's level of subordination by looking at how it ends. The chart below gives common examples of subordinate clauses, as well as its level of subordination and whether that clause is able to contain subject-marking が and topic-marking は.
+We can usually figure out a subordinate clause's level of subordination by looking at how it ends. The chart below gives common examples of subordinate clauses, as well as their level of subordination and whether that clause is able to contain subject-marking が and topic-marking は.
 
 <table class="tg" style="overflow-x: auto; width: 100%">
     <colgroup>

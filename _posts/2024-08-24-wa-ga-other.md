@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "は and が - Other Usages and More は Structures"
-author: "hedera"
+author: "konomu"
 categories: journal
 tags: [japanese]
 hidden: true
@@ -15,7 +15,7 @@ hidden: true
 
 # <a name="object-ga" style="text-decoration: none;">が as an Object Marker for Adjectives
 
-が has a function that is not usually included in analyses of double subject structures. This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
+が has a function that is not usually included in analyses of double-subject structures. This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
 
 [^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example あなたは日本語が分かりますか？ where he describes 日本語 as an object and あなた as a subject for the predicate 分かる. However, we can still recognize が as a subject if we recognize あなた as a topicalized に-case (where に has been deleted).
 
@@ -71,7 +71,7 @@ However, it is nonetheless possible for these topicless questions to exist if th
 
 # <a name="additional" style="text-decoration: none;">Additional は structures
 
-Of the other six は structures introduced alongside the basic topic sentence structure ｢父はこの本を買ってくれた。｣, four of them (excluding ｢花が咲くのは7月ごろだ。｣ and ｢このにおいはガスが漏れてるよ。｣) are **double subject structures**. Double subject structures are clauses that contain two subjects, which is ungrammatical in English, but very common in Japanese. They are marked in bold in the following table.
+Of the other six は structures introduced alongside the basic topic sentence structure ｢父はこの本を買ってくれた。｣, four of them (excluding ｢花が咲くのは7月ごろだ。｣ and ｢このにおいはガスが漏れてるよ。｣) are **double-subject structures**. Double-subject structures are clauses that contain two subjects, which is ungrammatical in English, but quite common in Japanese. They are marked in bold in the following table.
 
 | Structure | Topicalized Part |
 |--|--|
@@ -83,7 +83,7 @@ Of the other six は structures introduced alongside the basic topic sentence st
 | ｢花が咲くのは7月ごろだ。｣| Clause |
 | ｢このにおいはガスが漏れてるよ。｣| *n/a* |
 
-Notice that not all sentences that follow the pattern 〜は〜が... count as double subject structures. For example, in the sentence ｢この本は父が買ってくれた。｣ (introduced in [Basic Topic Sentences](wa-ga-basics#topic-sentences)), "この本" is a topicalized object, not a subject.
+Notice that not all sentences that follow the pattern 〜は〜が... count as double-subject structures. For example, in the sentence ｢この本は父が買ってくれた。｣ (introduced in [Basic Topic Sentences](wa-ga-basics#topic-sentences)), "この本" is a topicalized object, not a subject.
 
 ## <a name="zou" style="text-decoration: none;">The ｢象は鼻が長い。｣ Structure
 
@@ -91,7 +91,7 @@ Notice that not all sentences that follow the pattern 〜は〜が... count as d
 
 The sentence ｢象は鼻が長い。｣ is famous in discussions of Japanese grammar because of linguist Akira Mikami. In 1960, Mikami published『象ハ鼻ガ長イナア！』, in which he proposed that this sentence has no subject and advocated for the dismissal of the idea of the subject in Japanese. We'll subscribe to Mikami's interpretation of the sentence but keep the idea of the subject intact.
 
-According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case structure "象の鼻が長い(こと)" by topicalizing the modifier "象の". A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
+According to Mikami's view, ｢象は鼻が長い。｣ is a sentence formed from the case structure "象の鼻が長い(こと)" by topicalizing the modifier "象の". A **modifier** is anything that modifies the meaning of something in the sentence. It can be an い-adjective, a な-adjective, or something marked by の.[^2]  But in this structure, the modifier will always be a `noun` + `の`. 
 
 Thus, the ｢象は鼻が長い。｣ structure is just another way of topicalizing a part of existing case structures. The noun being topicalized in this structure is **the modifier of a case-marked noun**.
 
@@ -117,7 +117,7 @@ Sentences that derive from topicalization of the modifier marked by の in ｢�
 
 > かき料理は広島が本場だ。<br>*Hiroshima is the place for oyster cuisine.*
 
-At first glance, this sentence seems to fit into the ｢象は鼻が長い。｣ structure we just saw because of the ｢～は～が...｣ pattern. However, we can't work backwards to find the untopicalized structure by just replacing ｢～は～が...｣ with ｢～の～が...｣ like we did with ｢象は鼻が長い。｣
+At first glance, this sentence seems to fit into the ｢象は鼻が長い。｣ structure we just saw because of the ｢～は～が...｣ pattern. However, we can't work backward to find the untopicalized structure by just replacing ｢～は～が...｣ with ｢～の～が...｣ like we did with ｢象は鼻が長い。｣
 
 If we try anyway, we get <span style="color: #ff0040">｢かき料理の広島が本場(であること)｣</span>, which makes no sense.
 
@@ -125,7 +125,7 @@ If we try anyway, we get <span style="color: #ff0040">｢かき料理の広島�
 
 ![Diagram showing topicalization of かき料理 in the case structure 広島がかき料理の本場(であること)](assets/img/kaki.png)
 
-[^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double subject stages in the other structures. They are awkward and you probably won't see them often.
+[^3]: Although it is technically possible to construe the topic in this structure as a subject, in practice this is somewhat irrelevant. In the model of generative grammar that Noda accepts, ｢かき料理は広島が本場だ。｣ passes through the stage ｢かき料理が広島が本場(であること)｣, and ｢辞書は新しいのがいい。｣ passes through the stage ｢辞書が新しいのがいい(こと)｣, but Noda says that these are highly unstable stages compared to the double-subject stages in the other structures. They are awkward and you probably won't see them often.
 
 The が in this structure is a strongly exclusive が. This is a major difference between this structure and the ｢象は鼻が長い。｣ structure. We're specifying that it's Hiroshima, not any other place like Sendai or Hamamatsu, that's famous for its oyster dishes. 
 
@@ -173,7 +173,7 @@ The parallel type sentence of this structure, on the other hand, **does not use 
 
 > この問題は解くのが難しい。<br>*This problem is hard to solve.*
 
-In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. However, notice that whatever becomes topicalized becomes a subject, similarly to the topicalization process in the other double subject structures.
+In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. However, notice that whatever becomes topicalized becomes a subject, similar to the topicalization process in the other double-subject structures.
 
 ![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.png)
 
@@ -191,7 +191,7 @@ In this structure, が is not exclusive.
 
 > 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
 
-What sets this structure apart from the other structures introduced in this chapter is that the topic in this one is a **clause**. Also, it is not a double subject structure.
+What sets this structure apart from the other structures introduced in this chapter is that the topic in this one is a **clause**. Also, it is not a double-subject structure.
 
 ![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
@@ -215,9 +215,9 @@ Notice that because we can't put は directly after "花が咲く", we have to n
 
 > このにおいはガスが漏れてるよ。<br>*This smell must be a gas leak.*
 
-This structure is the rarest of all the ones we've seen so far. In fact, some linguists consider it ungrammatical. But as you will see later, these sentences have legitimate functions. This structure covers sentences like ｢このにおいはガスが漏れてるよ。｣. 
+This structure is the rarest of all the ones we've seen so far. Some linguists even consider it ungrammatical. But as you will see later, these sentences have legitimate functions. This structure covers sentences like ｢このにおいはガスが漏れてるよ。｣. 
 
-If we try to work backwards to uncover the case structure of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case structure.
+If we try to work backward to uncover the case structure of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case structure.
 
 The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been additionally altered. We can't construct a topicalization chart for this structure, so instead, here's a primer on the three major types of this structure you will encounter.
 
@@ -233,11 +233,11 @@ The redundant portion of this sentence is 両替. This sentence is an overlappin
 
 >36\. <u>500円硬貨は</u>、左側5番の機械で両替してください。<br>*As for 500 yen coins, please exchange them at machine number 5 to your left.*
 
-By repeating the redundant portion, we can tell that the speaker may have been trying to make their message clearer.
+By repeating a portion of this sentence, we can tell that the speaker may have been trying to make their message clearer.
 
 ### The Omissive Type
 
-Another reason we might not be able to reduce a sentence is because some portion of the sentence has been left out.
+Another reason we might not be able to reduce a sentence to its case structure is because some portion of the sentence has been left out.
 
 >37\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なんですね。<br>*What's great about our company is it's easygoing.*
 
@@ -249,7 +249,7 @@ You might have heard of the so-called "うなぎ文" before when discussing topi
 
 >39\. ｢<u>僕は</u>うなぎだ。｣<br>*I'm having eel.*
 
-The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" is the subject of this sentence, because then the sentence would literally mean, "I am an eel." ｢僕はうなぎだ。｣ is an example of an ommisive type sentence of this structure. It is constructed by omitting "を食べている" from the end of the sentence.
+The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" is the subject of this sentence, because then the sentence would literally mean, "I am an eel." ｢僕はうなぎだ。｣ is an example of an omissive type sentence of this structure. It is constructed by omitting "を食べている" from the end of the sentence.
 
 >40\. ｢<u>僕は</u>うなぎを食べている。｣<br>*I'm having eel.*
 
@@ -257,7 +257,7 @@ This type of sentence occurs often in spoken Japanese.
 
 ### The Inexact Type
 
-Sentences with a predicate that don't semantically serve as an exact explanation of the topic fall into this category.
+Sentences with a comment that don't semantically serve as an exact explanation of the topic fall into this category.
 
 >41\. <u>作り方は</u>、材料を弱火で1時間ほど煮込みます。<br>*As for its recipe, simmer the ingredients on low heat for one hour.*
 

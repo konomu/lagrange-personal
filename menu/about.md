@@ -5,13 +5,11 @@ permalink: /about
 image: keeb.jpg
 ---
 
-I'm hedera <span style="color:rgb(136, 136, 136)">(he/him)</span>. I made this place partly out of the passion I have for everything I write about here, and partly because I'm fed up with what the Internet is becoming. If this little corner of the web has any negating effect on the enshittification of the web, however small, it will have served its purpose.
+I'm konomu <span style="color:rgb(136, 136, 136)">(he/him)</span>. I made this place partly out of the passion I have for everything I write about here, and partly because I'm fed up with what the Internet is becoming. If this little corner of the web has any negating effect on the enshittification of the web, however small, it will have served its purpose.
 
 Here's a little bit about me...
 
 I'm 23 years old (as of July 2024) and I've been using the Internet since I was quite literally 4 (I remember my favorite site being enchantedlearning.com). Somewhere in an old family album there's a pic of baby me sat in front of a desktop PC in a chair that's too low, computer mouse in my tiny hand, playing a Barbie flash game.
-
-I began learning Japanese by myself at the tail end of 2015 in my freshman year of high school and I earned my JLPT N1 certification in March of 2024. At this point, the process of learning Japanese has become a practice that's comforting to me and I can honestly say it's my life's passion. There aren't any articles about my learning journey here for now, but I hope to write about it soon.
 
 It's weird to think that I've been on the Internet for such a long time. You might expect me to have a huge digital footprint, but the truth is I don't have much to show for it. Most of my time online has been consuming other people's content, enjoying other people's art, and never really creating anything myself. I never aspired to be an artist or developed a strong personality online and in real life (or at least, one I was comfortable in). I've spent way too many hours on YouTube, Reddit, and Discord wasting my time and contributing nothing. Mostly Youtube.
 

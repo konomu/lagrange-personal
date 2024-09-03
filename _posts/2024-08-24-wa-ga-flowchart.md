@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "は and が - The Flowchart Model"
-author: "hedera"
+author: "konomu"
 categories: journal
 tags: [japanese]
 hidden: true
@@ -24,7 +24,7 @@ We can broadly categorize prior research findings about the Japanese topic into 
 4. Old Information vs. New Information (松下大三郎 1930) 
 5. Specification vs. Supposition (三上章 1953)
 
-Further research into the role of は and が in Japanese syntax structures has made it possible to construct a hierarchy of priorities each of these principles take when it comes to choosing between the two particles. We can use this hierarchy to construct a flowchart, but we'll have to change up these principles so that they play nice with each other.
+Further research into the role of は and が in Japanese syntax structures has made it possible to construct a hierarchy of priorities each of these principles take when it comes to choosing between the two particles. We can use this hierarchy to construct a flowchart, but we'll have to change up these principles so that they play nicely with each other.
 
 | Foundational Research →    | New Principles     |
 | -------------: | ------------- |
@@ -60,7 +60,7 @@ Because of all of the shortcuts we've made here, I can't guarantee that this cha
 
 # Extra: Unpredictability of は and が
 
-There is evidence that usage of は and が is not entirely predictable. The following examples (1) and (2) are introductory sentences from two different newspaper reports about the same story. But (1) is a topicless sentence, and (2) is a topic sentence.
+There is evidence that the usage of は and が is not entirely predictable. The following examples (1) and (2) are introductory sentences from two different newspaper reports about the same story. But (1) is a topicless sentence, and (2) is a topic sentence.
 
 > 1\. インドのラオ外相<u>が</u>十七日午後六時前、大阪空港着の日航機で来日した。<br>*Indian Foreign Minister Rao arrived in Japan on a Japan Airlines flight at Osaka Airport just before 6:00 p.m. on the 17th.* - (｢朝日新聞｣ 1982.4.18 新刊 p.2)
 
@@ -72,7 +72,7 @@ There is evidence that usage of は and が is not entirely predictable. The fol
 
 30% of those surveyed responded that they would use が (which was what was originally in the text), and 70% responded that they would use は.
 
-In our flowchart, this unpredictability in the examples above stem from the "Principle of Topic Presence" stage. However, there is slight unpredictability at all stages of the flowchart.
+In our flowchart, this unpredictability in the examples above stems from the "Principle of Topic Presence" stage. However, there is slight unpredictability at all stages of the flowchart.
 
 <h1 style="text-align:right;">
   <a href="/wa-ga-emphasis">Continued in 3. The Principle of Emphasis…</a>

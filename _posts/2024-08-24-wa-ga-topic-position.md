@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "は and が - Principle of Topic Position"
-author: "hedera"
+author: "konomu"
 categories: journal
 tags: [japanese]
 hidden: true
@@ -20,7 +20,7 @@ hidden: true
 
 This principle is also known as the **principle of topic position**. We use this to decide **which part of the clause/sentence is the topic and where we should place it**.
 
-The topic is something that you want to talk about, and the comment is something you want to convey about the topic. That means that when choosing what becomes the topic and what becomes the comment, we can follow the general rule that **the comment conveys one option among other options relating to the topic**. 
+The topic is something that you want to talk about, and the comment is something you want to convey about the topic. So when choosing what becomes the topic and what becomes the comment, we can follow the general rule that **the comment conveys one option among other options relating to the topic**. 
 
 ![Chart explaining the above rule with the example 父がこの本を買ってくれたのだ。](assets/img/topic.png)
 
@@ -28,7 +28,7 @@ The topic is something that you want to talk about, and the comment is something
 
 ### <a name="cwlc" style="text-decoration: none;">Word-level Considerations
 
-There are many rules besides this general one that are useful for choosing the topic and comment. First, we'll take a look at one case which **must** become the comment.
+Many rules besides this general one are useful for choosing the topic and comment. First, we'll take a look at one case that **must** become a comment.
 
 | A noun will always be the comment if it is an:  |
 | ------------------- |
@@ -79,7 +79,9 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
   </tr>
 </tbody></table>
 
-The rule for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. They often fit into the [｢かき料理は広島が本場だ。｣ structure](wa-ga-other/#kaki). Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー often become the topic, while their content becomes the comment. These are sentences like:
+The rules for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー frequently become the topic, while their content becomes the comment.[^1] These are sentences like:
+
+[^1]: These sentences fit into the [｢かき料理は広島が本場だ。｣ structure](wa-ga-other/#kaki).
 
 >2\. <u>アジア人の食生活の特徴は</u>、主食があることです。<br>*What's different about Asian diets is the abundance of staple foods.* 
 
@@ -111,7 +113,7 @@ The に case is typically expressed before the subject-marking が case in sente
 
 ### <a name="cclc" style="text-decoration: none;">Context-level Considerations
 
-The concept of **familiar information**, as introduced in [Topic Sentences](#wa-ga-presence#topic-sentences), is also useful for determining the topic of the sentence. Once again, this isn't a hard-set rule, just a broad tendency sentences with a topic have. 
+The concept of **familiar information**, as introduced in [Topic Sentences](#wa-ga-presence#topic-sentences), is also useful for determining the topic. Once again, this isn't a hard-set rule, just a broad tendency topic sentences have. 
 
 Recall our definition for familiar information.
 
@@ -136,15 +138,15 @@ As mentioned in the table, familiar information tends to become the topic. Consi
 
 >12\. 途中に<ruby>西宮名塩<rt>にしのみやなじお</rt></ruby>がある。<u>同駅は</u>複線電化時に名塩の各住宅団地のために作られた。<br>*Nishinomiya-Najio is on the way there. The station of the same name was built when the line was electrified and double-tracked for the neighborhoods of Najio.*
 
-In the first example, "俺" (I) is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized, because the speaker and the listener are always going to exist in the context of the sentence.
+In (11), "俺" (I) is topicalized as familiar information because it refers to the speaker, who is by definition present at the scene of the conversation. It's very common for first and second-person pronouns to be topicalized because the speaker and the listener are always going to exist in the context of the sentence.
 
-In the second example, "同駅" (the station of the same name) is topicalized because it's related to "西宮名塩" (Nishinomiya-Najio), a town which was mentioned in the previous sentence.
+In (12), "同駅" (the station of the same name) is topicalized because it is related to "西宮名塩" (Nishinomiya-Najio), a town which was mentioned in the previous sentence.
 
 Some sentences violate this rule. In this next example, an inverted sentence, familiar information is marked by exclusive が, making it the comment.
 
 >13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes in weather. This is why weather forecasts are sometimes off.*
 
-The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule in this case. In fact, it is very common for inverted sentences to express familiar information as the comment.
+The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule in this case. In fact, it is very common for inverted sentences to express familiar information as its comment.
 
 # <a name="where-placed" style="text-decoration: none;">Where is the Topic Placed?
 
@@ -162,7 +164,7 @@ Likewise, we can topicalize the clause "この本を買ってくれた" (bought 
 
 which is the same structure as ｢君が主役だ。｣. 
 
-Thus, usage of は/が changes depending on what part of the sentence the topic is in. If the topic is **before** the predicate, it is marked by は. If the topic **is** the predicate, the subject will be marked with exclusive が. Remember that sentences with the topic in the predicate are called **inverted sentences**.
+Thus, the usage of は/が changes depending on what part of the sentence the topic is in. If the topic is **before** the predicate, it is marked by は. If the topic **is** the predicate, the subject will be marked with exclusive が. Remember that sentences with the topic in the predicate are called **inverted sentences**.
 
 Notice how (2) and (3) have **approximately the same meaning**. In many cases, a sentence and its inversion are interchangeable, but there are certain tendencies towards which version of the sentence is more likely to be expressed depending on context and what kinds of words are contained in it.
 
@@ -170,7 +172,7 @@ Not all sentences make sense when they're inverted. Before we go over when to us
 
 # <a name="spec-sup" style="text-decoration: none;">How to Tell When Inversion is Possible
 
-In order to find out when it's possible to invert a sentence, we need to look at the meaning of its topic and comment. In topic sentences, the topic is either **referential** or **predicative**. If the topic is referential, the comment is predicative; and if the comment is referential, then the topic is predicative.
+To find out when it's possible to invert a sentence, we need to look at the meaning of its topic and comment. In topic sentences, the topic is either **referential** or **predicative**. If the topic is referential, the comment is predicative; and if the comment is referential, then the topic is predicative.
 
 |  | Definition | If Topicalized |
 | :----: | ---- |
@@ -183,9 +185,9 @@ Let's look at a sentence that can't be inverted. Consider sentence (17) and its 
 
 >18\. <span style="color: #ff0040">×85mがビルの高さです。</span>
 
-The topic in (17) and (18) is "ビルの高さ" (the height of the building), and the comment is "85m" (85 meters). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized can't be inverted**, which is why (18) sounds awkward.
+The topic in (17) and (18) is "ビルの高さ" (the height of the building), and the comment is "85m" (85 meters). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
 
-Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (you) is the referential element and "主役" (lead actor) is the predicative element. Since the predicative element is the topic, this sentence can be inverted.
+Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (you) is the referential element, and "主役" (lead actor) is the predicative element. Since the predicative element is the topic, this sentence can be inverted.
 
 >19\. <u>主役は</u>君だ。<br>20\. <u>君が</u>主役だ。<br>*You're the lead actor.*
 
@@ -223,7 +225,7 @@ We just learned how to identify sentences that can't be inverted (a). Now, let's
 | ---- |
 | - Sentences with a noun topic<br>- Sentences with a verb topic (nominalized or not)<br>- Sentences in which the comments are the details of topics like 特徴 or 原因  | - Sentences with an adjective topic (nominalized or not)<br>- Sentences in which the comment is familiar information<br>- Sentences in which the comment is an interrogative word |
 
-Example (23) falls into type (b) (sometimes inverted sentences), because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than the inversion ｢漏電がその火事の原因だ。｣
+Example (23) falls into type (b) (sometimes inverted sentences) because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than the inversion ｢漏電がその火事の原因だ。｣
 
 (29) also falls into type (b), because it has a verb topic (nominalized).
 

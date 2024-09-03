@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: "は and が - An Explanation"
-author: "hedera"
+title: "は and が - An In-Depth Guide"
+author: "konomu"
 categories: journal
 tags: [japanese]
 image: hatoga.jpg
@@ -17,7 +17,7 @@ This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚�
 
 ## Topic-marking は
 
-The Japanese language has a special concept known as the **topic**. As its name implies, the topic is simply something that the speaker is broadly talking about. In Japanese, the topic is typically marked by は. That means whatever comes immediately before は is a topic. Once a topic has been introduced in Japanese, it can even persist across the end of its sentence and set the general theme for sentences that follow afterward. Almost all sentences that have a topic marked by は in Japanese take the structure of:
+The Japanese language has a special concept known as the **topic**. As its name implies, the topic is simply something that the speaker is broadly talking about. In Japanese, the topic is typically marked by は. That means whatever comes immediately before は is a topic. Once a topic has been introduced in Japanese, it can even persist across the end of its sentence and set the general theme for the following sentences. Almost all sentences that have a topic marked by は in Japanese take the structure of:
 
 > `Topic` + `は` + `Comment`
 
@@ -25,7 +25,7 @@ Whatever comes after topic-marking は is known as a **comment**, which is **som
 
 ## Subject-marking が
 
-A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is typically a noun, and the predicate is typically a noun, adjective, or verb. The subject is sometimes left out of the sentence. As you may already know, the subject in Japanese is typically marked by が. A Japanese sentence with a subject may look like:
+A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is usually a noun; and the predicate is usually a noun, adjective, or verb. As you may already know, the subject in Japanese is typically marked by が. A Japanese sentence with a subject may look like:
 
 > `Subject` + `が` + `Predicate`
 
@@ -33,7 +33,7 @@ A **subject** is one of two main components of a sentence, the other being the *
 
 All kinds of words may become a topic in Japanese. When は marks some word in Japanese, we say that the word has been **topicalized**. That is, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
 
-It is very common for は to topicalize a **subject**. This is where confusion between は and が comes from. When は marks a subject, this does **not** mean the subject has ceased to be a subject and is now a topic. It's **both a topic and subject at the same time**. 
+It is very common for は to topicalize a **subject**. This is where the confusion between は and が comes from. When a subject is marked by は, this does **not** mean it has ceased to be a subject. **It is both a topic and subject at the same time**. 
 
 The subject is not the only part of a sentence that は can topicalize. The most common parts of the sentence to be topicalized are **case particles and the nouns that they mark**. Nouns that are marked by case particles are known as **case-marked nouns**. You may already be familiar with all of the case particles. There are nine of them: が, を, に, で, へ, と, から, より, and まで.
 
@@ -59,7 +59,7 @@ The topic and the subject exist on different dimensions in Japanese.[^1] A word 
 
 ## Contrastive は
 
-Contrastive は is a special usage of は that **contrasts** what it's marking with something else. When a speaker uses contrastive は, they're pointing out a difference about what it marks with some other thing, whether that other thing is explicitly mentioned or not.
+Contrastive は is a special usage of は that **contrasts** what it's marking with something else. When a speaker uses contrastive は, they're pointing out a difference about what it marks with some other thing, whether or not that other thing is explicitly mentioned.
 
 >1\. 子供たちは<u>カレーは</u>作っているが、<u>ごはんは</u>まだ炊いていない。<br>*The kids are making curry, but the rice is not even cooked yet.*
 
@@ -97,9 +97,9 @@ All sentences in Japanese that use は or が can be categorized into one of nin
   <b><li>｢君が主役だ。｣</li></b>
 </ol>
 
-The first seven structures are called は structures because they all contain topic-marking は. The last two structures are called が structures, because they only contain が. **viii** uses subject-marking が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold, as these are the most basic and common sentence structures of Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other/#additional).
+The first seven structures are called は structures because they all contain topic-marking は. The last two structures are called が structures because they only contain が. **viii** uses subject-marking が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold, as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other/#additional).
 
-By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out **what** は or が is doing in that sentence. In chapter 2 through 6 of this series, you'll learn **why** one particle is used over the other, and how we can use that knowledge to choose between using は and が.
+By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out **what** は or が is doing in that sentence. In chapters 2 through 6 of this series, you'll learn **why** one particle is used over the other, and how we can use that knowledge to choose between using は and が.
 
 # <a name="topic-sentences" style="text-decoration: none;">｢父はこの本を買ってくれた。｣: Basic Topic Sentences
 
@@ -111,7 +111,7 @@ The following diagram shows the topicalization of the subject "父" in the case 
 
 ![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.png)
 
-The "こと" in the diagram above to represent that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**.
+The "こと" in the diagram above represents that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**.
 
 Remember that は can also mark objects, which are generally marked by を. When the object is topicalized, は replaces を. Then, the topic is moved to the beginning of the sentence. Just like the subject, the object doesn't stop being an object when it's topicalized. The following diagram shows the topicalization of the object "この本" in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢この本は父が買ってくれた。｣
 
@@ -119,7 +119,7 @@ Remember that は can also mark objects, which are generally marked by を. When
 
 ### Examples of Basic Topic Sentences
 
-Below are examples of sentences where elements marked with other cases markers are topicalized. Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**.
+Below are examples of sentences where elements marked with other case markers are topicalized. Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**.
 
 >4\. 日本に温泉が多い(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本には</u>温泉が多い。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本は</u>温泉が多い。<br>*There are a lot of onsen in Japan.*
 
@@ -158,7 +158,7 @@ So, how is it possible to make a sentence without a topic? These sentences only 
 
 #### Descriptions of Something Perceptible
 
-A sentence fits into this category when it describes something that the speaker can directly see or percieve. These sentences appear often in spoken Japanese.
+A sentence fits into this category when it describes something that the speaker can directly see or perceive. These sentences appear often in spoken Japanese.
 
 >14\. 何か<u>音が</u>聞こえるわ。耳を澄ませて!<br>*I hear something. Listen closely!*
 
@@ -170,7 +170,7 @@ Sentences that describe perceptible events that will happen very soon also fall 
 
 #### Descriptions of Events
 
-A sentence fits into this category when it describes an event that the speaker cannot directly see or percieve. This may be something that happened in the past, right now, or even in the future that the speaker cannot percieve. The event cannot be permanent, it has to happen within a given frame of time. These sentences appear often in written Japanese.
+A sentence fits into this category when it describes an event that the speaker cannot directly see or perceive. This may be something that happened in the past, right now, or even in the future that the speaker cannot perceive. The event cannot be permanent, it has to happen within a given frame of time. These sentences appear often in written Japanese.
 
 >17\. きのう<u>合格発表が</u>あった。<br>*The exam results were announced yesterday.*
 
@@ -200,7 +200,7 @@ We'll learn more about when to use a topic in [Principle of Subordination](wa-ga
 
 > 君が主役だ。<br>*You're the lead actor.*
 
-The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is actually the predicate, "主役" (lead actor). This is what we call an **inverted sentence**. This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
+The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is the predicate, "主役" (lead actor). This is what we call an **inverted sentence**. This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
 
 ![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.png)
 

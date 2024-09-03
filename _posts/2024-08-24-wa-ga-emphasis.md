@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: "は and が - Principle of Emphasis"
-author: "hedera"
+author: "konomu"
 categories: journal
 tags: [japanese]
 hidden: true
@@ -100,7 +100,7 @@ In the following examples, (9) shows opposite contrast, and (10) shows adjacent 
 
 >10\. 私は<u>肉は</u>スーパーで買い、<u>魚は</u>市場で買う。<br>*I buy meat at the supermarket, but I buy fish at the street market.*
 
-In sentences with opposite contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate, or predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (like) and "好きではない" (don't like). In sentences with adjacent contrast, the predicates are similar, but express some subtle difference. This is illustrated in example (10), where the predicates are both "買う" (buy), but the location the food is bought at is different. Opposite contrast is more common than adjacent contrast.
+In sentences with opposite contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate. They may also be predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (like) and "好きではない" (don't like). In sentences with adjacent contrast, the predicates of the contrasted elements are similar but express some subtle differences. This is illustrated in example (10), where the predicates are both "買う" (buy), but the location where the food is bought is different. Opposite contrast is more common than adjacent contrast.
 
 These usages of contrastive は are often connected with 〜が or 〜けど clauses. 
 
@@ -109,7 +109,7 @@ Both (9) and (10) show contrastive は marking objects, while the topic of the s
 
 ### Misfortunate Contrast
 
-This is a relatively minor usage of contrastive は that appears when something with negative connotations are being described. It is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
+This is a relatively minor usage of contrastive は that appears when something with negative connotations is being described. It is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
 
 >11\. <u>家は</u>取られ、<u>妻には</u>逃げられた。<br>*They took my house, and my wife left me.<br>*
 
@@ -151,7 +151,7 @@ When there are two or more elements in a sentence marked by は, the one closer 
 
 Thus, in example (19), it's easy to interpret that the speaker is clarifying that he cannot answer **that question** specifically. In (20), it's easy to interpret that the speaker is clarifying that **he**, specifically, cannot answer the question.
 
-However, you may notice that in (19), the more contrastive は marks a 〜に element, while in (20), the more contrastive は marks a subject. As we know from the table above, contrastive は tends to mark objects, 〜に elements, or adverbs, instead of subjects. As a result, it is possible to interpret that there is almost no contrastive nuance in (20), but it's incredibly difficult to interpret that there is no contrastive nuance in (19).
+However, you may notice that in (19), the more contrastive は marks a 〜に element, while in (20), the more contrastive は marks a subject. As we know from the table above, contrastive は tends to mark objects, 〜に elements, or adverbs, instead of subjects. As a result, it is possible to interpret that there is almost no contrastive nuance in (20), but incredibly unnatural to interpret that there is no contrastive nuance in (19).
 
 ### More Examples of Implicit Contrast
 
@@ -208,7 +208,7 @@ The contrastive は is added as a result of ない acting upon the portion シ�
 
 > ```ホタル``` + ```が``` + (```いる``` + ```ない```)
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known). However, exclusive が is used here because "この点" (this detail) is the comment of the sentence. More details on the difference between topicless sentences and inverted topic sentences will be discussed in [Principle of Topic Presence](wa-ga-topic-presence).
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known). However, exclusive が is used here because "この点" (this detail) is the comment of the sentence. More details about the difference between topicless sentences and inverted topic sentences will be discussed in [Principle of Topic Presence](wa-ga-topic-presence).
 
 The second case listed in the table, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
@@ -234,7 +234,7 @@ However, contrastive は cannot attach to the following cases:
 
 >33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u>休まなかった。</span>
 
-If the speaker is mentioning some condition instead of a matter of fact, however, then it is possible for contrastive は to attach to these cases. 
+If the speaker is mentioning some condition instead of a matter of fact, however, then contrastive は can attach to these cases. 
 
 >34\. 頂上までは、<u>車では</u>行けない。<br>*You can't get to the peak with a car.*
 
@@ -263,13 +263,13 @@ Now, let's take a look at which adverbs contrastive は can mark.
 
 >41\. <u>全部は</u>食べなかった。<br>*I didn't eat all of it.*
 
-Generally speaking, the only adverbs that can be marked by は are ones that express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, similarly to (34) and (35).
+Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, similarly to (34) and (35).
 
 >42\. <span style="color: #ff0040"> ×<u>そっとは</u>手渡さなかった。</span>
 
 >43\. <u>そっとは</u>手渡せない。<br>*We can't hand it over without putting up a fight.*
 
-Contrastive は may also mark 〜て appearing as successive phrases (See [Successive Phrases](/wa-ga-subordination/#successive-phrases)).
+Contrastive は may also mark 〜て appearing in successive phrases (See [Successive Phrases](/wa-ga-subordination/#successive-phrases)).
 
 >44\. かすかな音を立てて降りそそぐ雨が、<u>睡蓮の葉に似た輪を描いては</u>消えて行く。<br>*The rain falls with a soft sound, making circles on the water like lily leaves.*
 
@@ -292,7 +292,7 @@ All forms of exclusive が can have one of two forms of exclusion: strong or wea
 |Strong Exclusion|One option is picked out of a pool of other options to be marked by exclusive が, and those other options are **apparent**.|
 |Weak Exclusion|One option is picked out of a pool of other options to be marked by exclusive が, but those other options are **not apparent**.|
 
-While strong exclusion may be indicated by subjectivising exclusive が (the one after "Principle of Emphasis" in the flowchart) or exclusive が marking a subject (the one after "Principle of Topic Position" in the flowchart), weak exclusion may only be indicated by exclusive が marking a subject.
+While strong exclusion may be indicated by subjectivizing exclusive が (the one after "Principle of Emphasis" in the flowchart) or exclusive が marking a subject (the one after "Principle of Topic Position" in the flowchart), weak exclusion may only be indicated by exclusive が marking a subject.
 
 ## Strong Exclusion
 
@@ -314,49 +314,49 @@ With weak exclusion, whatever is marked by exclusive が is still being singled 
 
 (51) and (52) are both inverted sentences. Sentences with weak exclusion will always be inverted sentences, but not all inverted sentences will exhibit weak exclusion.
 
-Another case where weak exclusion appears is in commands where the subject is explicitly stated. It's rare for the subject be mentioned in commands, so when it is, it's likely because the speaker is specifying who should carry out the command, adding exclusive nuance.
+Another case where weak exclusion appears is in commands where the subject is explicitly stated. It's rare for the subject to be mentioned in commands, so when it is, it's likely because the speaker is specifying who should carry out the command, adding exclusive nuance.
 
 >53\. ｢どいて｣<br>と、桃子は、良介のショッピングカーをつついた。<br>｢<u>そっちが</u>どけや｣<br>*"Move," said Momoko, nudging Ryosuke's shopping cart.<br>"You move."*
 
 # <a name="exclusion-words" style="text-decoration: none;">Types of Words Exclusive が Can Mark
 
-We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivising exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart.
+We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart.
 
-Unlike contrastive は, the set of case-marked nouns that subjectivising exclusive が can mark is much more limited. For example, it may not mark objects.
+Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusive が can mark is much more limited. For example, it may not mark objects.
 
 >54\. わたしは<u>ジュースは</u>飲んだが、お酒は飲まなかった。<br>*I had juice, but no alcohol.*
 
 >55\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span>
 
-The following table details the markers of case-marked nouns that subjectivising exclusive が may replace. The original case particles must be deleted and replaced with が.
+The following table details the markers of case-marked nouns that subjectivizing exclusive が may replace. The original case particles must be deleted and replaced with が.
 
 |Exclusive が can usually replace|
 |--|
 |- の expressing possession <br> - に expressing time, location, or direction <br> - で expressing location |
 
-(54) is an example where の expressing possession has been replaced by subjectivising exclusive が.
+(54) is an example where の expressing possession has been replaced by subjectivizing exclusive が.
 
 >56\. だが、現在はまだ<u>北の高気圧の方が</u>勢力が強い。<br>*But for the time being, the high-pressure system in the north is still the most severe.*
 
-(55) is an example where に expressing location has been replaced by subjectivising exclusive が.
+(55) is an example where に expressing location has been replaced by subjectivizing exclusive が.
 
 >57\. 広島は<u><ruby><rb>流川</rb><rt>ながれかわ</rt></ruby>あたりが</u>バーや飲屋がおおいが、広島駅のすぐそばの<ruby><rb>駅西</rb><rt>えきにし</rt></ruby>の路地で飲んだ。<br>*In Hiroshima, there are many bars and drinking establishments around Nagarekawa, but we drank in an alley shop at Ekinishi, which is very close to Hiroshima Station.*
 
-(56) is an example where に expressing direction has been replaced by subjectivising exclusive が.
+(56) is an example where に expressing direction has been replaced by subjectivizing exclusive が.
 
 >58\. <u>六本木のディスコが</u>芸能人がよく来る。<br>*Celebrities come to the discotheques in Roppongi often.*
 
-(57) is an example where で expressing location has been replaced by subjectivising exclusive が.
+(57) is an example where で expressing location has been replaced by subjectivizing exclusive が.
 
 >59\. <u>この店が</u>つけで買物できる。<br>*You can shop on credit here.*
 
-The set of adverbs that subjectivising exclusive が can mark is also narrower than that of contrastive は. Generally, only adverbs that express **tense**, such as 今 or ことし, may be marked.
+The set of adverbs that subjectivizing exclusive が can mark is also narrower than that of contrastive は. Generally, only adverbs that express **tense**, such as 今 or ことし, may be marked.
 
 >60\. 洗濯屋さんは<u>いまが</u>一年で一番忙しい。<br>*The cleaners are at their busiest at this time of year.*
 
 # <a name="cwa-vs-xga" style="text-decoration: none;">Contrastive は and Exclusive が In Negative Statements
 
-Learners are often confused about the difference between contrastive は and exclusive が when they are first introduced to the concept. This is understandable, since there are some circumstances where the two are interchangeable. However, the nuance is still different. Consider the two following sentences:
+Consider the two following sentences:
 
 >61\. <u>あいつが</u>許せない。<br>*__He__ is unforgivable.*
 
@@ -364,7 +364,7 @@ Learners are often confused about the difference between contrastive は and exc
 
 The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this usage of contrastive は makes no implications about other people. 
 
-Thus, contrastive は can't replace exclusive が in statements that specify something out of a pool of other things, as in:
+Thus, contrastive は is not interchageoble with exclusive が in statements that specify something out of a pool of other things, as in:
 
 >63\. こいつより<u>あいつが</u>許せない。<br>*She's okay, but he's unforgiveable.*
 

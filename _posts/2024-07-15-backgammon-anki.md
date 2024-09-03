@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Studying Backgammon Positions with XG and Anki | XGとAnkiのバックギャモン勉強法"
-author: "hedera"
+author: "konomu"
 categories: journal
 tags: [documentation,anki,backgammon]
 image: bg.jpg

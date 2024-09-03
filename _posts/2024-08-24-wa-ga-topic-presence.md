@@ -18,11 +18,11 @@ hidden: true
 
 # Is There a Topic?
 
-This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For the sake of brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that it'll always be marked by subject-marking が (sometimes contrastive は) and never topic-marking は.
+This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that it'll always be marked by subject-marking が (sometimes contrastive は) and never topic-marking は.
 
-Once we arrive at this stage in the flowchart, the next step is to distinguish topic sentences from topicless sentences. Topicless sentences fit into the ｢富士山が見えるよ。｣ structure, and topic sentences fit into all other structures.
+Once we arrive at this stage in the flowchart, the next step is to distinguish topic sentences from topicless sentences. Topicless sentences fit into [the ｢富士山が見えるよ。｣ structure](wa-ga-basics#topicless-sentences), and topic sentences fit into all other structures.
 
-There are many different factors to consider at this stage. Let's summarize all of them in a simple table. The cells in bold are cases where the sentence/clause will **always** fall into the category it is under. The cases that aren't in bold will sometimes fall into the other category. If a sentence fulfills a property but is expressed under the other category, it is usually because it also fulfills some properties listed under that other category.
+There are many different factors to consider at this stage. Let's summarize all of them in a simple table. The cells in bold are cases where the sentence/clause will **always** fall into the category it is under. The cases that aren't in bold will sometimes fall into the other category. If a sentence fulfills a property but is expressed under the other category, that is usually because it also fulfills some properties in that other category.
 
 <table class="tg"><thead>
   <tr>
@@ -42,8 +42,8 @@ There are many different factors to consider at this stage. Let's summarize all 
   </tr>
   <tr>
     <td style="text-align: center;" class="tg-0lax" rowspan="2">Subject/Topic</td>
-    <td class="tg-0lax"><b>Interrogative Word (e.g. 誰, どれ, どこ, 何)</b></td>
-    <td class="tg-0lax"><b>Indefinite Pronoun (e.g. 誰か, 何か, 知らない人)</b></td>
+    <td class="tg-0lax"><b>Interrogative word (e.g. 誰, どれ, どこ, 何)</b></td>
+    <td class="tg-0lax"><b>Unidentified noun (e.g. 誰か, 何か, 知らない人)</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">Familiar Information</td>
@@ -68,7 +68,7 @@ There are many different factors to consider at this stage. Let's summarize all 
 
 # <a name="topic-sentences" style="text-decoration: none;">Topic Sentences
 
-Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences, since most nouns don't imply a temporary state. Predicates that are adjectives like "高い" or verbs like "すぐれている" which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
+Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state. Predicates that are adjectives like "高い" or verbs like "すぐれている" which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
 
 >1\. <u>バクテリア類が生物生態系全体の中で果たしている役割は</u>たいへん重要である。<br>*The role bacteria play in our entire ecosystem is incredibly important.*
 
@@ -76,7 +76,7 @@ When the predicate expresses some action or temporary state, the sentence might 
 
 >2\. <u>ゴリラは</u>、毎日昼と夜の二回寝床をつくって寝る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
 
-The next case which necessitates that the sentence/clause has a topic are those which contain an **interrogative word**. These are words like 誰, どれ, どこ, and 何. Remember that inverted sentences count as topic sentences. When exclusive が marks one of these words, the interrogative word is the comment, and the predicate is the topic.
+The next case that necessitates that the sentence/clause has a topic are those that contain an **interrogative word**. These are words like 誰, どれ, どこ, and 何. Remember that inverted sentences count as topic sentences. When exclusive が marks one of these words, the interrogative word is the comment, and the predicate is the topic.
 
 >3\. ｢<u>誰が</u>やったんだと思う？｣<br>*"Who do you think did it?"*
 
@@ -96,7 +96,7 @@ Familiar information is defined in the following table:
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">- Anything present at the scene of the conversation.<br>- Anything previously mentioned.<br>- Anything related to something previously mentioned or present at the scene of the conversation.<br>- Anything the listener is aware of.</td>
+    <td class="tg-0lax">- Anything present at the scene of the conversation.<br>- Anything previously mentioned.<br>- Anything related to something previously mentioned or present at the scene of the conversation.<br>- Anything the speaker knows the listener is aware of.</td>
   </tr>
 </tbody>
 </table>
@@ -105,19 +105,17 @@ Familiar information is defined in the following table:
 
 >6\. ｢<u>これが</u>あのサントス・エルナンデスの、変わり果てた姿かね。｣<br>*"So this is what has become of the great Santos Hernandez?"*
 
-The topic in (6) is actually the predicate, and not the familiar information, but it is nonetheless a (inverted) topic sentence. Inverted sentences commonly express familiar information as its subject.
+The topic in (6) is the predicate and not the familiar information, but it is nonetheless a (inverted) topic sentence. Inverted sentences commonly express familiar information as their subject. For this reason, you shouldn't get into the habit of thinking everything that can be construed as familiar information will be marked as a topic.
 
 >7\. パイロットの家庭は、大変なんだ。<u>原因は</u>すべて時差にある。<br>*Being in a pilot's family is tough. It's all because of the time difference.*
 
 >8\. <u>気象庁は</u>七日、阪神大震災(兵庫県南部地震)の現地調査結果を発表しました。<br>*The Japan Meteorological Agency announced the findings from its investigation into the Great Hanshin earthquake on the 7th.*
 
-It is best not to get into the habit of thinking everything that can be construed as familiar information should be a topic. We will go over reasons for this in [Misconceptions About Familiar Information and New/Old Information](#newold).
-
 - The subject/topic is separated from the predicate by many words (the sentence explains something about some topic).
 
 >9\. <u>日本公開が間近に迫った ｢ジュラシック・パーク｣ は</u>、人気作家マイケル・クライトンのベストセラーの映画化というだけでなく、ダイナミックなビジネス展開でも注目を集めている。<br>*Jurassic Park, scheduled to premiere in Japan soon, isn't just turning heads as a movie adaptation of Michael Crichton's bestselling novel, but also as a bold business decision.*
 
-In contrast, sentences with nothing between the subject and the predicate tend to be topicless.
+By contrast, sentences with nothing between the subject and the predicate tend to be topicless.
 
 >10\. 最近、｢特定の食物｣ 摂取後の運動、あるいは食事内容によらず<u>｢食後二時間以内｣の運動中に出るショックが</u>注目されている。<br>*As of late, attention has been brought to the dangers associated with exercise after eating certain diet foods, or exercise within two hours of eating regardless of the meal.*
 
@@ -127,19 +125,19 @@ In contrast, sentences with nothing between the subject and the predicate tend t
 
 # <a name="topicless-sentences" style="text-decoration: none;">Topicless Sentences
 
-There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it's being percieved**. Sentences of this nature usually have verb predicates, such as "見える", "聞こえる", "ある", and "来る". Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
+There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as "見える", "聞こえる", "ある", and "来る". Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
 
 >12\. るり子ーッ、 <u>高原さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 
-A sentence with an adjective predicate is more likely when the speaker is describing something that is directly observable, and spoken/narrated as it’s being percieved
+Topicless sentences with an adjective predicate like (13) are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived.
 
 >13\. ほーら、<u>月が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
 
-Example (14) shows a topicless sentence with a noun predicate, which are rare. These sentences violate the rule about permanent states and are easy to mistake as inverted sentences, but we can tell that this one is not an inverted sentence because its predicate is not a topic.
+Example (14) shows a topicless sentence with a noun predicate, which is rare. These sentences violate the rule about permanent states and are easy to mistake as inverted sentences, but we can tell that this one is not an inverted sentence because its predicate is not a topic.
 
 >14\. <u>そこに現れたのが</u>陽子だった。<br>*It was Yoko that showed up there.*
 
-The other case that necessitates a topicless sentence is when the subject is an **indefinite pronoun**. This includes words such as 誰か, なにか, and 知らない人.
+The other case that necessitates a topicless sentence is when the subject is an **unidentified noun**. This includes words such as 誰か, なにか, and 知らない人.
 
 >15\. 十一時に<u>誰かが</u>やってきた。<br>*Someone came at eleven o'clock.*
 
@@ -177,7 +175,7 @@ Of these two reasons, the one that takes priority is (a). In other words, even i
 
 ## <a name="new-old" style="text-decoration: none;">Extra: Misconceptions About Familiar Information and New/Old Information
 
-The concept of new/old information is not used in this book. We have instead opted for another concept, that of "familiar information". Notice that when discussing what become topics in topic sentences, and what becomes subjects in topicless sentences, we did not talk about "old" or "new information", but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other. [^6] Some textbooks may even define old information in the same way we defined familiar information. 
+The concept of new/old information is not used in this book. We have instead opted for another concept, that of "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other. [^6] Some textbooks may even define old information in the same way that we defined familiar information. 
 
 But new information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣ The idea behind new information in the new/old dichotomy is that it refers to knowledge the listener does not know, regardless if they are aware of what is being marked.
 
@@ -185,17 +183,17 @@ A common explanation about は/が is that "Important information comes after �
 
 [^6]: 上林 (1988) talks about this in more detail. Noda completely discards the concept of new/old information in his description, although he mentions it as foundational research. He only asks of the readers to consider what is and isn't old information (but does not use the term "old information").
 
-While these generalizations are true for some sentences, there are many, many sentences for which they don't apply. These rules fail because:
+While these generalizations are true for some sentences, there are many, many sentences to which they don't apply. These rules fail because:
 
 - The concept of new/old information doesn't apply in subordinate clauses
 - Old information doesn't appear at all in topicless sentences.
-- Sometimes, contrastive は doesn't mark old information.
+- Contrastive は and exclusive が may violate this principle.
 
 The following is a chart marking the topic, comment, new information, and old information in our three most important sentence structures. Remember that inverted sentences are also topic sentences.
 
 ![Locations of New/Old Information in topic sentences, inverted sentences, and topicless sentences.](assets/img/newoldinfo.png)
 
-The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. In the example, there is absolutely no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. We must recognize the **entirety** of the sentence ｢富士山が見える。｣ as new information. This makes grammatical sense, since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. We must recognize the **entirety** of the sentence ｢富士山が見える。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
 
 [^7]: The exclusive interpretation (marking "富士山" as new information) is sometimes possible, but this is not usually the case.
 
