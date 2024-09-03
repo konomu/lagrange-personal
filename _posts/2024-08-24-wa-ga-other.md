@@ -49,7 +49,7 @@ hidden: true
   <blockquote>
   <p>9. 僕は<u>泳ぐことが</u>好きだ。<br><em>I like swimming.</em></p>
   </blockquote>
-  <li>〜たい Derivatives: words like 読みたい, 食べたい, etc.</li>
+  <li>〜たい Derivatives: adjectives like 読みたい, 食べたい, etc.</li>
   <blockquote>
   <p>10. 僕は<u>映画が</u>見たい。<br><em>I want to watch a movie.</em></p>
   </blockquote>

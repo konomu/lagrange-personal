@@ -25,7 +25,7 @@ Whatever comes after topic-marking は is known as a **comment**, which is **som
 
 ## Subject-marking が
 
-A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is usually a noun; and the predicate is usually a noun, adjective, or verb. As you may already know, the subject in Japanese is typically marked by が. A Japanese sentence with a subject may look like:
+A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is usually a noun; and the predicate is usually a noun, adjective, or verb. The subject in Japanese is typically marked by が. A Japanese sentence with a subject may look like:
 
 > `Subject` + `が` + `Predicate`
 
@@ -40,7 +40,7 @@ The subject is not the only part of a sentence that は can topicalize. The most
 What sets が and を apart from other common case particles is that they are deleted from the noun completely when the noun they are marking is topicalized. In other words, you'll never hear <span style="color: #ff0040"> ｢×ここがは～｣</span> or <span style="color: #ff0040"> ｢×ここをは～｣</span>. The case particles に, で, and へ are also often deleted.
 
 
-| Case Marked Element + は      | Topicalized Result      |
+| Case-Marked Noun + は      | Topicalized Result      |
 | ------------- | ------------- |
 | ここが   + は | <span style="color: #a5fc67">ここは</span> |
 | ここを   + は | <span style="color: #a5fc67">ここは</span> |

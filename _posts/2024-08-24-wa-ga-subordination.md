@@ -50,13 +50,13 @@ Highlighting the clauses gives us the following diagram.
 
 Here are the correct interpretations of these sentences. 
 
->1'\. 太郎<u>は</u>部屋に入ると、すぐに電気をつけた。<br>*As soon as Tarou entered the room, <b><u>he</u></b> turned on the light.*
+>1'\. 太郎<u>は</u>部屋に入ると、すぐに電気をつけた。<br>*After Tarou entered the room, <b><u>he</u></b> turned on the light.*
 
->2'\. 太郎<u>が</u>部屋に入ると、すぐに電気をつけた。<br>*As soon as Tarou entered the room, <b><u>I</u></b> turned on the light.*
+>2'\. 太郎<u>が</u>部屋に入ると、すぐに電気をつけた。<br>*After Tarou entered the room, <b><u>I</u></b> turned on the light.*
 
-We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic 太郎 **cannot** be a part of the subordinate clause 部屋に入ると. This is only possible when 太郎 is not a topic and marked by が. 
+We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic "太郎" (Tarou) **cannot** be a part of the subordinate clause "部屋に入ると" (after × entered the room). This is only possible when "太郎" is not a topic and marked by が. 
 
-Thus, in (1), 太郎 is seen as the subject of both the subordinate clause and the main clause. In (2), 太郎 is only seen as the subject of the subordinate clause. The subject of the main clause is instead omitted, so it should be clear through context **who else** turned the light on. Strictly speaking, it doesn't have to be "I", the speaker, who turned the light on. It could be someone else in the context of the sentence. But when Japanese speakers omit a subject, it's likely that they're referring to themselves.
+Thus, "太郎" is seen as the subject of both the subordinate clause and the main clause in (1). In (2), 太郎 is only seen as the subject of the subordinate clause. The subject of the main clause is instead **omitted**, so it should be clear through context who else turned the light on. Strictly speaking, it doesn't have to be "I", the speaker, who turned the light on. It could be someone else, depending on the context of the sentence. But when Japanese speakers omit a subject, it's likely that they're referring to themselves.
 
 The subordinate clause in both (1) and (2) can't contain a topic. But this isn't true of all subordinate clauses. These subordinate clauses in particular are **strongly subordinate**, which means they can't exist without the main clause.
 
