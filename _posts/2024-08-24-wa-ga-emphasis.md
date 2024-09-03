@@ -104,7 +104,7 @@ In sentences with opposite contrast, the predicates of the contrasted elements a
 
 These usages of contrastive は are often connected with 〜が or 〜けど clauses. 
 
-Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is 私 (I). Thus, all usages of contrastive は in (9) and (10) don't mark a topic. But generally speaking, non-topical contrastive は is more common in sentences with opposite contrast than it is in ones with adjacent contrast.
+Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (I). Thus, all usages of contrastive は in (9) and (10) don't mark a topic. But generally speaking, non-topical contrastive は is more common in sentences with opposite contrast than it is in ones with adjacent contrast.
 
 
 ### Misfortunate Contrast
@@ -121,7 +121,7 @@ This is a relatively minor usage of contrastive は that appears when something 
 
 >14\. ｢<u>風は</u>冷たいけど、ええ天気や。｣<br>*"The wind is cold, but it's nice out."*
 
-Although there is only one instance of contrastive は in (14), it still has explicit contrast, because 風は冷たい (the wind is cold) and ええ天気 (nice weather) are approximately opposite in meaning. They are being explicitly contrasted.
+Although there is only one instance of contrastive は in (14), it still has explicit contrast, because "風は冷たい" (the wind is cold) and "ええ天気" (nice weather) are approximately opposite in meaning. They are being explicitly contrasted.
 
 >15\. <u>雨は</u>降っているが、<u>雪は</u>降っていない。<br>*It's raining, but not snowing.*
 
@@ -198,7 +198,7 @@ Some statements will not contain contrastive は even when it is negative. Such 
 
 >29\. ウイルスのプログラムは、単に行動形態がウイルスに似ているから、そう名付けられているだけで、あらかじめプログラムの上で決められた行動をする以外の何者でもない。そして、自然界に存在するウイルスと違って、人間が作ったものだということである。<u>この点が</u>、意外と知られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
-(28) is a topicless sentence, while (29) is an inverted topic sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word いない, but unlike in negative statements with contrastive は, this effect does not extend to other words. いない may be viewed as one component separate from all other phrases, similarly to the word 不在 (absent). 
+(28) is a topicless sentence, while (29) is an inverted topic sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
 
 Look at the structure of ｢日本の老人はシャワーではがまんできない。｣
 
@@ -214,7 +214,7 @@ The second case listed in the table, where the negative predicate is strongly bo
 
 >30\. 野上は、学生の頃から、<u>女がいないことが</u>なかった...それも、いつも複数で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
-The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Can the Clause Have a Topic?](#subord)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
+The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Can the Clause Have a Topic?](#subord)). The が after こと, however, is present because it belongs to the set phrase "ことがない". Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
 
 # <a name="contrast-words" style="text-decoration: none;">Types of Words Contrastive は Can Mark
 

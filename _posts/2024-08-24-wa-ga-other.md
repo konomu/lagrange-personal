@@ -301,8 +301,6 @@ Susumu Kuno - The Structure of the Japanese Language (1973)
 
 野田尚史 - 『文の構造と機能からみた日本語の主題』(1998)
 
-Susumu Kuno - The Structure of the Japanese Language (1973)
-
 Masayoshi Shibatani, Shigeru Miyagawa, Hisashi Noda -  Handbook of Japanese Syntax (2017)
 
 庵功雄 - [｢は｣ と ｢が｣ の使い分けを学習者に伝えるための試み (2020)](https://hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/71055/gengo0057000250.pdf)
