@@ -25,7 +25,7 @@ Whatever comes after topic-marking は is known as a **comment**, which is **som
 
 ## Subject-marking が
 
-A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is usually a noun; and the predicate is usually a noun, adjective, or verb. The subject in Japanese is typically marked by が. A Japanese sentence with a subject may look like:
+A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is usually a noun; and the predicate is usually a noun, adjective, or verb. The subject in Japanese is typically marked by が. A sentence with a subject may look like:
 
 > `Subject` + `が` + `Predicate`
 
@@ -53,7 +53,7 @@ What sets が and を apart from other common case particles is that they are de
 
 The topic and the subject exist on different dimensions in Japanese.[^1] A word can be a topic and subject at the same time, but all subjects are not necessarily topics, and all topics are not necessarily subjects. You will see examples of this dynamic in the topicalization diagrams once we start covering basic sentence structures.
 
-[^1]: Noda proposes that topic-marking は exists on the lowest "situational mood layer", while subject-marking が exists on the highest "voice layer". Contrastive は and exclusive が exist between the two, on the "polarity layer" (as in affirmative/negative predicates).
+[^1]: Noda (1996) proposes that topic-marking は exists on the lowest "situational mood layer", while subject-marking が exists on the highest "voice layer". Contrastive は and exclusive が exist between the two, on the "polarity layer" (as in affirmative/negative predicates).
 
 # <a name="sec" style="text-decoration: none;">The Secondary Functions of は and が
 
