@@ -334,19 +334,19 @@ The following table details the markers of case-marked nouns that subjectivizing
 |--|
 |- の expressing possession <br> - に expressing time, location, or direction <br> - で expressing location |
 
-(54) is an example where の expressing possession has been replaced by subjectivizing exclusive が.
+(56) is an example where の expressing possession has been replaced by subjectivizing exclusive が.
 
 >56\. だが、現在はまだ<u>北の高気圧の方が</u>勢力が強い。<br>*But for the time being, the high-pressure system in the north is still the most severe.*
 
-(55) is an example where に expressing location has been replaced by subjectivizing exclusive が.
+(57) is an example where に expressing location has been replaced by subjectivizing exclusive が.
 
 >57\. 広島は<u><ruby><rb>流川</rb><rt>ながれかわ</rt></ruby>あたりが</u>バーや飲屋がおおいが、広島駅のすぐそばの<ruby><rb>駅西</rb><rt>えきにし</rt></ruby>の路地で飲んだ。<br>*In Hiroshima, there are many bars and drinking establishments around Nagarekawa, but we drank in an alley shop at Ekinishi, which is very close to Hiroshima Station.*
 
-(56) is an example where に expressing direction has been replaced by subjectivizing exclusive が.
+(58) is an example where に expressing direction has been replaced by subjectivizing exclusive が.
 
 >58\. <u>六本木のディスコが</u>芸能人がよく来る。<br>*Celebrities come to the discotheques in Roppongi often.*
 
-(57) is an example where で expressing location has been replaced by subjectivizing exclusive が.
+(59) is an example where で expressing location has been replaced by subjectivizing exclusive が.
 
 >59\. <u>この店が</u>つけで買物できる。<br>*You can shop on credit here.*
 

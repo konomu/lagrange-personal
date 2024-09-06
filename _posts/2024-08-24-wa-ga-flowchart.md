@@ -43,8 +43,8 @@ The names of all of these new principles might sound daunting, but you can actua
 | -------------: | ------------- |
 | Emphasis → | "How is it Emphasized?" |
 | Subordination → | "Can the Clause Have a Topic?" |
-| Topic Presence → | "Is there a Topic?" |
-| Topic Position → | "Which Part is the Topic?" and "Where Is it Placed?" |
+| Topic Presence → | "Is the Topic Present?" |
+| Topic Position → | "Which Part is the Topic?" and "Where is it Placed?" |
 
 We'll take a look at the rules that govern these principles in chapters 2 through 6.
 
