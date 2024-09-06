@@ -271,7 +271,7 @@ Generally speaking, the only adverbs that can be marked by は express tense or 
 
 Contrastive は may also mark 〜て appearing in successive phrases (See [Successive Phrases](/wa-ga-subordination/#successive-phrases)).
 
->44\. かすかな音を立てて降りそそぐ雨が、<u>睡蓮の葉に似た輪を描いては</u>消えて行く。<br>*The rain falls with a soft sound, making circles on the water like lily leaves.*
+>44\. かすかな音を立てて降りそそぐ雨が、<u>睡蓮の葉に似た輪を描いては</u>消えて行く。<br>*The rain falls with a soft sound, making short-lived circles on the water like lily leaves.*
 
 Contrastive は may also mark conditional clauses. When it marks 〜たら, 〜(れ)ば, or 〜と, the clause ending must change into 〜ては. When it marks 〜なら, the clause ending must change into 〜のでは.
 
