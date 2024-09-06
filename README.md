@@ -5,11 +5,8 @@ TODO:
 - Add font support for Japanese text.
 - Figure out the domain thing
 - maybe ditch disqus
-- make a better favicon
-- make a better header
 
 Possible articles:
 
-- が vs. は
 - pyaa
 - personal japanese learning

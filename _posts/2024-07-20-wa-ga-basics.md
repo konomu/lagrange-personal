@@ -63,7 +63,7 @@ Contrastive は is a special usage of は that **contrasts** what it's marking w
 
 >1\. 子供たちは<u>カレーは</u>作っているが、<u>ごはんは</u>まだ炊いていない。<br>*The kids are making curry, but the rice is not even cooked yet.*
 
-The two underlined は in example (1) above are uses of contrastive は. This sentence contrasts the state of the curry "カレーは作っている" (*the curry is being made*) with the state of the rice "ごはんはまだ炊いていない" (*the rice is not cooked yet*). In general, when there are two or more は in a sentence, the first は may or may not be contrastive, and the は following the first は are increasingly contrastive.
+The two underlined は in example (1) above are uses of contrastive は. This sentence contrasts the state of the curry "カレーは作っている" (*the curry is being made*) with the state of the rice "ごはんはまだ炊いていない" (*the rice is not cooked yet*). In general, when there are two or more は in a clause, the first は may or may not be contrastive, and the は following the first は are increasingly contrastive.
 
 >2\.  子供たちは<u>カレーは</u>作っている。<br>*The kids are making curry, but...*
 
