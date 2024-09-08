@@ -175,13 +175,13 @@ Of these two reasons, the one that takes priority is (a). In other words, even i
 
 ## <a name="new-old" style="text-decoration: none;">Extra: Misconceptions About Familiar Information and New/Old Information
 
-The concept of new/old information is not used in this book. We have instead opted for another concept, that of "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other. [^6] Some textbooks may even define old information in the same way that we defined familiar information. 
+The concept of new/old information is not used in this book. We have instead opted for another concept, that of "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
 
-But new information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣ The idea behind new information in the new/old dichotomy is that it refers to knowledge the listener does not know, regardless if they are aware of what is being marked.
+As 上林 (1988) points out, the definition of this new/old distinction has never been made clear and fails if we simply define old information in the same way that we define familiar information. One idea behind new information in the new/old dichotomy is that it refers to knowledge the listener does not know, regardless of whether or not they are aware of it. For this reason, new/old information is also sometimes called unknown/known information.[^6]
 
 A common explanation about は/が is that "Important information comes after は and before が." Another common one you might hear is that "は marks old information, and が marks new information."
 
-[^6]: 上林 (1988) talks about this in more detail. 野田 (1996) completely discards the concept of new/old information in his description, although he mentions it as foundational research.
+[^6]: But, even this definition of new/old information fails in certain cases (as discussed in 上林 (1988)). For a more recently proposed model, see 天野 (1998). 野田 (1996) discards the concept of new/old information in his description, although he builds off of it as foundational research.
 
 While these generalizations are true for some sentences, there are many, many sentences to which they don't apply. These rules fail because:
 
@@ -193,7 +193,8 @@ The following is a chart marking the topic, comment, new information, and old in
 
 ![Locations of New/Old Information in topic sentences, inverted sentences, and topicless sentences.](assets/img/newoldinfo.png)
 
-The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. We must recognize the **entirety** of the sentence ｢富士山が見える。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+New information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣.
+Thus, the two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. We must recognize the **entirety** of the sentence ｢富士山が見える。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
 
 [^7]: The exclusive interpretation (marking "富士山" as new information) is sometimes possible, but this is not usually the case.
 

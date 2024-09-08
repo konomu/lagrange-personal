@@ -7,7 +7,7 @@ tags: [japanese]
 image: hatoga.jpg
 ---
 
-This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚史) published works『｢は｣ と ｢が｣』(1996) and『文の構造と機能からみた日本語の主題』(1998), including his model for the nine sentence structures and their syntax. The flowchart model is loosely based on the flowchart in these books. Unless explicitly mentioned, all examples I feature here are examples from these two books. If you wish to go further into this topic, I recommend purchasing [a copy of 『｢は｣ と ｢が｣』](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X).
+This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚史) published works『｢は｣ と ｢が｣』(1996) and『文の構造と機能からみた日本語の主題』(1998), including his model for the nine sentence structures and their syntax. The flowchart model is loosely based on the flowchart in these books. Unless explicitly mentioned, all examples I feature here are examples from these two books. If you wish to go further into this topic, I recommend purchasing [a copy of『｢は｣ と ｢が｣』](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X).
 
 <div style="justify-content: flex-end !important;" class="arrow-container">
         <a href="wa-ga-flowchart.html" class="nav-arrow">2. The Flowchart Model →</a>
@@ -97,7 +97,7 @@ All sentences in Japanese that use は or が can be categorized into one of nin
   <b><li>｢君が主役だ。｣</li></b>
 </ol>
 
-The first seven structures are called は structures because they all contain topic-marking は. The last two structures are called が structures because they only contain が. **viii** uses subject-marking が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold, as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other/#additional).
+The first seven structures are called は structures because they all contain topic-marking は. The last two structures are called が structures because they only contain が. **viii** uses subject-marking が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold, as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other#additional).
 
 By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out **what** は or が is doing in that sentence. In chapters 2 through 6 of this series, you'll learn **why** one particle is used over the other, and how we can use that knowledge to choose between using は and が.
 
