@@ -150,11 +150,13 @@ Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalize
 
 > 富士山が見えるよ。<br>*I can see Mount Fuji.*
 
- ｢富士山が見えるよ。｣ is a sentence that **does not feature any sort of topic at all**. We call these types of sentences **topicless sentences**. Naturally, all sentences you'll see here will have **subject-marking が**.
+ ｢富士山が見えるよ。｣ is a sentence that **does not feature a topic within it**. We call these types of sentences **topicless sentences**. Naturally, the sentences of this structure will have **subject-marking が**. 
 
 ![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.png)
 
-So, how is it possible to make a sentence without a topic? These sentences only come up in certain cases. Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. There are three broad categories of situations where topicless sentences may be used.
+Topicless sentences rely on previous sentences or the environmental context as their topic. We call them topicless sentences because the topic isn't contained within them, but strictly speaking, they are stand-alone comments which mention something about a topic. For example, the topic of ｢富士山が見えるよ。｣ may be a previous sentence like, ｢そこの景色はどうだ？｣ ("How's the view over there?"). Previous sentences do not need to contain topic-marking は to establish a topic.
+
+These sentences only come up in certain cases. Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. There are three broad categories of situations where topicless sentences may be used.
 
 #### Descriptions of Something Perceptible
 
