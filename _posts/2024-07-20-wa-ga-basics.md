@@ -200,9 +200,9 @@ We'll learn more about when to use a topic in [Principle of Subordination](wa-ga
 
 > 君が主役だ。<br>*You're the lead actor.*
 
-The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is the predicate, "主役" (lead actor). This is what we call an **inverted sentence**. This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
+The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is the predicate, "主役" (lead actor). This is what we call an **inverted sentence**.[^5] This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
 
-[^5]:This term is a personal choice and may be confusing to people who are already familiar with research in Japanese grammar. This structure is known as a specificational sentence (指定文), which is the inverse of inverted specificational sentences (倒置指定文). Both the predicational sentence (措定文) and the inverted specificational sentence take the structure of ｢AはBだ。｣, while specificational sentences take the structure of ｢AがBだ。｣.
+[^5]:This term is a personal choice and may be confusing to people who are already familiar with research in Japanese grammar. This structure is known as a specificational sentence (指定文), which is the inverse of inverted specificational sentences (倒置指定文). Both the predicational sentence (措定文) and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
 
 ![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.png)
 
