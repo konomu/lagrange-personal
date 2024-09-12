@@ -35,7 +35,7 @@ hidden: true
   </blockquote>
   <li>Feeling: adjectives like 好き, 嫌い, ほしい, 怖い, etc.</li>
   <blockquote>
-  <p>5. ジョンが<u>メアリーが</u>好きなことはことはよく知っています。<br><em>I know very well that John likes Mary.</em></p>
+  <p>5. ジョンが<u>メアリーが</u>好きなことはよく知っています。<br><em>I know very well that John likes Mary.</em></p>
   </blockquote>
   <blockquote>
   <p>6. 僕は<u>メアリー</u>が怖い。<br><em>I'm afraid of Mary.</em></p>
