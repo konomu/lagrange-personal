@@ -133,7 +133,7 @@ Topicless sentences with an adjective predicate like (13) are more likely when t
 
 >13\. ほーら、<u>月が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
 
-Example (14) shows a topicless sentence with a noun predicate, which is rare. These sentences violate the rule about permanent states and are easy to mistake as inverted sentences, but we can tell that this one is not an inverted sentence because its predicate is not a topic.
+Example (14) shows a topicless sentence with a noun predicate, which is relatively rare. These sentences violate the rule about permanent states and are easy to mistake as inverted sentences, but we can tell that this one is not an inverted sentence because its predicate is not a topic.
 
 >14\. <u>そこに現れたのが</u>陽子だった。<br>*It was Yoko that showed up there.*
 
