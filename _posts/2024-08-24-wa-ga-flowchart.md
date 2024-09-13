@@ -48,7 +48,7 @@ The names of all of these new principles might sound daunting, but you can actua
 
 We'll take a look at the rules that govern these principles in chapters 2 through 6.
 
-# <a name="simplified" style="text-decoration: none;">A Simplified Flowchart
+# <a name="simplified" style="text-decoration: none; pointer-events: none;">A Simplified Flowchart
 
 The following flowchart is an heavily simplified version that is adapted from the system above.[^1]
 
@@ -58,7 +58,7 @@ The following flowchart is an heavily simplified version that is adapted from th
 
 Because of all of the shortcuts we've made here, I can't guarantee that this chart will always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even in the full flowchart model, this is unavoidable, since it won't always be clear which path to take.
 
-# Extra: Unpredictability of は and が
+## EXTRA: The Unpredictability of は and が
 
 There is evidence that the usage of は and が is not entirely predictable. The following examples (1) and (2) are introductory sentences from two different newspaper reports about the same story. But (1) is a topicless sentence, and (2) is a topic sentence.
 

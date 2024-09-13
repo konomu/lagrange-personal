@@ -46,8 +46,8 @@ There are many different factors to consider at this stage. Let's summarize all 
     <td class="tg-0lax"><b>Unidentified noun (e.g. 誰か, 何か, 知らない人)</b></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Familiar Information</td>
-    <td class="tg-0lax">Not Familiar Information</td>
+    <td class="tg-0lax">Familiar information</td>
+    <td class="tg-0lax">Not familiar information</td>
   </tr>
   <tr>
     <td style="text-align: center;" class="tg-0lax">Sentence Function</td>
@@ -66,7 +66,7 @@ There are many different factors to consider at this stage. Let's summarize all 
   </tr>
 </tbody></table>
 
-# <a name="topic-sentences" style="text-decoration: none;">Topic Sentences
+# <a name="topic-sentences" style="text-decoration: none; pointer-events: none;">Topic Sentences
 
 Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
 
@@ -123,7 +123,7 @@ By contrast, sentences with nothing between the subject and the predicate tend t
 
 >11\. <u>オムロンは</u>家庭用向け地震警報装置｢揺れっ太｣を開発、二十日から発売する。<br>*Omron will release its household earthquake warning device "Yuretta" on the 20th.*
 
-# <a name="topicless-sentences" style="text-decoration: none;">Topicless Sentences
+# <a name="topicless-sentences" style="text-decoration: none; pointer-events: none;">Topicless Sentences
 
 There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある, and 来る. Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
 
@@ -159,7 +159,7 @@ Just like we saw with topic sentences, there are cases where a sentence is likel
 
 >19\. 地震発生時に、震度に合わせて ｢火を消しなさい｣ などの音声でとるべき行動を指示する、一般家庭用地震警報器 ｢揺れっ太｣ を、<u>オムロンが</u>20日から、通信販売ルートを中心に売り出す。<br>*Omron will begin selling "Yuretta," a household earthquake alarm which gives voice instructions to help you act accordingly based on the seismic intensity when an earthquake occurs, mainly through online sales starting from the 20th.*
 
-# <a name="duality" style="text-decoration: none;">Duality of the Topic
+# <a name="duality" style="text-decoration: none; pointer-events: none;">Duality of the Topic
 
 From what we have discussed above, we can say that there are **two main reasons** why something in Japanese may become a topic.
 
@@ -171,32 +171,34 @@ b. The topic is **familiar information**. It is something the listener knows abo
 
 >21\. 姉と2人でパンを食べていた。<u>姉は</u> ｢真夏もおわりね｣ と言った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
 
-Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. The only case where topicless sentences should be used is when we are not declaring a permanent state, and the subject is not familiar information. This is a useful mental shortcut and it'll cover almost all sentences, but it is not 100% accurate. Remember, usage of は/が is not always predictable.
+Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it'll cover most sentences, but it is not 100% accurate. Remember, usage of は/が is not always predictable.
 
-## <a name="new-old" style="text-decoration: none;">Extra: Misconceptions About Familiar Information and New/Old Information
+## <a name="new-old" style="text-decoration: none; pointer-events: none;">EXTRA: Familiar Information and New/Old Information
 
-The concept of new/old information is not used in this book. We have instead opted for another concept, that of "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
+A once popular way of teaching the difference between は/が was through the concept of "new information" and "old information", but this idea is not used in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
 
-As 上林 (1988) points out, the definition of this new/old distinction has never been made clear and fails if we simply define old information in the same way that we define familiar information. One idea behind new information in the new/old dichotomy is that it refers to knowledge the listener does not know, regardless of whether or not they are aware of it. For this reason, new/old information is also sometimes called unknown/known information.[^6]
+As 上林 (1988) points out, the definition of this new/old distinction has never been made rigorously clear and does not entirely describe functions of は/が if we simply define old information in the same way that we define familiar information. Noda brings up familiar information only to describe tendencies regarding topicalization, not to differentiate between functions of は and が.
 
-A common explanation about は/が is that "Important information comes after は and before が." Another common one you might hear is that "は marks old information, and が marks new information."
+One explanation for the new/old dichotomy is that new information refers to something the listener presumably does not know, regardless of whether or not they are aware of it. For this reason, new/old information is also sometimes called unknown/known information.[^6]
 
-[^6]: But, even this definition of new/old information fails in certain cases (as discussed in 上林 (1988)). For a more recently proposed model, see 天野 (1998). 野田 (1996) discards the concept of new/old information in his description, although he builds off of it as foundational research.
+[^6]: But, even this definition of new/old information fails in certain cases (as discussed in 上林 (1988)). For more recently proposed information-structure models, see 天野 (1998) and 今田 (2010). 野田 (1996) discards the concept of new/old information in his description, although he builds off of it as foundational research.
 
-While these generalizations are true for some sentences, there are many, many sentences to which they don't apply. These rules fail because:
-
-- The concept of new/old information doesn't apply in subordinate clauses
-- Old information doesn't appear at all in topicless sentences.
-- Contrastive は and exclusive が may violate this principle.
-
-The following is a chart marking the topic, comment, new information, and old information in our three most important sentence structures. Remember that inverted sentences are also topic sentences.
+The following is a diagram marking the topic, comment, new information, and old information in our three most important sentence structures. Remember that inverted sentences are also topic sentences.
 
 ![Locations of New/Old Information in topic sentences, inverted sentences, and topicless sentences.](assets/img/newoldinfo.png)
 
-New information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣.
-Thus, the two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. The principle of old/new information functions differently in topicless sentences. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. We must recognize the **entirety** of the sentence ｢富士山が見えるよ。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+As highlighted in the diagram, new information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣.
 
-[^7]: The exclusive interpretation (marking "富士山" as new information) is sometimes possible, but this is not usually the case.
+The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. Thus, it is natural to recognize the **entirety** of the sentence ｢富士山が見えるよ。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+
+[^7]: The exclusive interpretation (marking "富士山" as new information) is possible, but disqualifies it as a topicless sentence.
+
+A common explanation provided to learners about は/が is that "Important information comes after は and before が." Another common one you might hear is that "は marks old information, and が marks new information." These rules-of-thumb are a simplification of the concept of new/old information. While they are true for some sentences, there are many instances to which they don't apply. They fail because:
+
+- The concept of new/old information doesn't apply in subordinate clauses
+- Contrastive は and exclusive が may violate this principle.
+
+Also, considering how old information does not appear in topicless sentences, the rules-of-thumb do not account for the nature of emphasis in topicless sentences. This might mislead learners into thinking there is some nuance of exclusion present in all subjects marked by が.
 
 <h1 style="text-align:right;">
   <a href="/wa-ga-topic-position">Continued in 6. The Principle of Topic Position…</a>

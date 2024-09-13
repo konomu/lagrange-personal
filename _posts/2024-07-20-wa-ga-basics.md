@@ -13,7 +13,7 @@ This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚�
         <a href="wa-ga-flowchart.html" class="nav-arrow">2. The Flowchart Model →</a>
 </div>  
 
-# <a name="pri" style="margin: 0; text-decoration: none;">The Primary Functions of は and が
+# <a name="pri" style="margin: 0; text-decoration: none; pointer-events: none;">The Primary Functions of は and が
 
 ## Topic-marking は
 
@@ -29,7 +29,7 @@ A **subject** is one of two main components of a sentence, the other being the *
 
 > `Subject` + `が` + `Predicate`
 
-# <a name="topicalization" style="text-decoration: none;">Topicalization
+# <a name="topicalization" style="text-decoration: none; pointer-events: none;">Topicalization
 
 All kinds of words may become a topic in Japanese. When は marks some word in Japanese, we say that the word has been **topicalized**. That is, it has been made into a topic through the process of **topicalization**. After some part of the sentence is topicalized, it will usually appear at the front of the sentence. 
 
@@ -55,7 +55,7 @@ The topic and the subject exist on different dimensions in Japanese.[^1] A word 
 
 [^1]: Noda (1996) proposes that topic-marking は exists on the lowest "situational mood layer", while subject-marking が exists on the highest "voice layer". Contrastive は and exclusive が exist between the two, on the "polarity layer" (as in affirmative/negative predicates).
 
-# <a name="sec" style="text-decoration: none;">The Secondary Functions of は and が
+# <a name="sec" style="text-decoration: none; pointer-events: none;">The Secondary Functions of は and が
 
 ## Contrastive は
 
@@ -69,7 +69,7 @@ The two underlined は in example (1) above are uses of contrastive は. This se
 
 The example above is a sentence with one contrastive は. Even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that has not been cooked yet.
 
-## <a name="xga" style="text-decoration: none;">Exclusive が
+## <a name="xga" style="text-decoration: none; pointer-events: none;">Exclusive が
 
 You may have also heard this form of が referred to before as exhaustive-listing が, or exhaustive が.
 
@@ -101,7 +101,7 @@ The first seven structures are called は structures because they all contain to
 
 By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out **what** は or が is doing in that sentence. In chapters 2 through 6 of this series, you'll learn **why** one particle is used over the other, and how we can use that knowledge to choose between using は and が.
 
-# <a name="topic-sentences" style="text-decoration: none;">｢父はこの本を買ってくれた。｣: Basic Topic Sentences
+# <a name="topic-sentences" style="text-decoration: none; pointer-events: none;">｢父はこの本を買ってくれた。｣: Basic Topic Sentences
 
 > 父はこの本を買ってくれた。<br>*My dad bought this book for me.*
 
@@ -146,7 +146,7 @@ Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalize
 >13\. <span style="color: #ff0040">？<u>大島とは</u>このまえ僕がけんかしたよ。</span>
 
 
-# <a name="topicless-sentences" style="text-decoration: none;">｢富士山が見えるよ。｣: Topicless Sentences
+# <a name="topicless-sentences" style="text-decoration: none; pointer-events: none;">｢富士山が見えるよ。｣: Topicless Sentences
 
 > 富士山が見えるよ。<br>*I can see Mount Fuji.*
 
@@ -154,7 +154,7 @@ Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalize
 
 ![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.png)
 
-Topicless sentences rely on previous sentences or the environmental context as their topic. We call them topicless sentences because the topic isn't contained within them, but strictly speaking, they are stand-alone comments which mention something about a topic. For example, the topic of ｢富士山が見えるよ。｣ may be a previous sentence like, ｢そこの景色はどうだ？｣ ("How's the view over there?"). Previous sentences do not need to contain topic-marking は to establish a topic.
+Topicless sentences may rely on previous sentences or the environmental context as their topic. We call them topicless sentences because a topic isn't contained within them, but strictly speaking, they are usually stand-alone comments which mention something about a topic. For example, the topic of ｢富士山が見えるよ。｣ may be a previous sentence like, ｢そこの景色はどうだ？｣ ("How's the view over there?"). Previous sentences do not need to contain topic-marking は to establish a topic.
 
 These sentences only come up in certain cases. Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. There are three broad categories of situations where topicless sentences may be used.
 
@@ -198,11 +198,15 @@ We'll learn more about when to use a topic in [Principle of Subordination](wa-ga
 
 >23\. ｢そういえば今朝、君が帰ってすぐお袋から<u>電話が</u>あったよ｣<br>*"Now that you mention it, my mother did call me this morning as soon as you got home."*
 
-# <a name="inverted-sentences" style="text-decoration: none;">｢君が主役だ。｣: Inverted Topic Sentences
+# <a name="inverted-sentences" style="text-decoration: none; pointer-events: none;">｢君が主役だ。｣: Inverted Topic Sentences
 
 > 君が主役だ。<br>*You're the lead actor.*
 
-The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic. The topic here is the predicate, "主役" (lead actor). This is what we call an **inverted sentence**.[^5] This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
+The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inaccurate to say that it has no topic.[^4] The topic here is the predicate, "主役" (lead actor). 
+
+[^4]:Since 野田 (1996) was published it has been contested whether or not this structure contains a topic; namely, by 天野 (1998) through grounds that this topic is actually a presuppositional phrase (前提句). The classification of copular sentences found in 今田 (2010) also uses this convention. 丹羽 (2007) claims that its predicate is the topic in meaning, and not the syntactic topic.
+
+This is what we call an **inverted sentence**.[^5] This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
 
 [^5]:This term is a personal choice and may be confusing to people who are already familiar with research in Japanese grammar. This structure is known as a specificational sentence (指定文), which is the inverse of inverted specificational sentences (倒置指定文). Both the predicational sentence (措定文) and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
 

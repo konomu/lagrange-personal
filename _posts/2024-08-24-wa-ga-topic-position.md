@@ -24,9 +24,9 @@ The topic is something that you want to talk about, and the comment is something
 
 ![Chart explaining the above rule with the example 父がこの本を買ってくれたのだ。](assets/img/topic.png)
 
-# <a name="choosing-topic" style="text-decoration: none;">Choosing the Topic
+# <a name="choosing-topic" style="text-decoration: none; pointer-events: none;">Choosing the Topic
 
-### <a name="cwlc" style="text-decoration: none;">Word-level Considerations
+### <a name="cwlc" style="text-decoration: none; pointer-events: none;">Word-level Considerations
 
 Many rules besides this general one are useful for choosing the topic and comment. First, we'll take a look at one case that **must** become a comment.
 
@@ -38,7 +38,7 @@ This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marke
 
 >1\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
 
-### <a name="cslc" style="text-decoration: none;">Sentence-level Considerations
+### <a name="cslc" style="text-decoration: none; pointer-events: none;">Sentence-level Considerations
 
 The next set of rules I'll introduce aren't hard-set, but general tendencies of topics in sentences. They can be summarized in the following table:
 
@@ -111,7 +111,7 @@ The に case is typically expressed before the subject-marking が case in sente
 
 >10\. <u>｢アンチ百恵｣としての聖子には</u>、百恵的エロティシズムを歌わないという宿命がありました。<br>*As the "anti-Momoe", Seiko was destined to never sing with Momoe-esque eroticism.*
 
-### <a name="cclc" style="text-decoration: none;">Context-level Considerations
+### <a name="cclc" style="text-decoration: none; pointer-events: none;">Context-level Considerations
 
 The concept of **familiar information**, as introduced in [Topic Sentences](#wa-ga-presence#topic-sentences), is also useful for determining the topic. Once again, this isn't a hard-set rule, just a broad tendency topic sentences have. 
 
@@ -146,11 +146,11 @@ Some sentences violate this rule. In this next example, an inverted sentence, fa
 
 >13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes in weather. This is why weather forecasts are sometimes off.*
 
-The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule in this case. In fact, it is very common for inverted sentences to express familiar information as its comment.
+The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule. In fact, it is very common for inverted sentences to express familiar information as its comment.
 
-# <a name="where-placed" style="text-decoration: none;">Where is the Topic Placed?
+# <a name="where-placed" style="text-decoration: none; pointer-events: none;">Where is the Topic Placed?
 
-In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall back to Part 1 when we saw the topicalization of "この本" (this book) in the case structure "父がこの本を買ってくれた(こと)".
+In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall back to chapter 1 when we saw the topicalization of "この本" (this book) in the case structure "父がこの本を買ってくれた(こと)".
 
 >14\. <u>この本</u><b>は</b>父が買ってくれた。
 
@@ -172,7 +172,7 @@ Notice how (2) and (3) have **approximately the same meaning**. In many cases, a
 
 Not all sentences make sense when they're inverted. Before we go over when to use inverted sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
 
-# <a name="spec-sup" style="text-decoration: none;">How to Tell When Inversion is Possible
+# <a name="spec-sup" style="text-decoration: none; pointer-events: none;">How to Tell When Inversion is Possible
 
 To find out when it's possible to invert a sentence, we need to look at the meaning of its topic and comment. In topic sentences, the topic is either **referential** or **predicative**. If the topic is referential, the comment is predicative; and if the comment is referential, then the topic is predicative.
 
@@ -211,7 +211,7 @@ Adjectives and verbs are always predicative in this system. In other words, it's
 
 >27\. <u>いちばんいいのは</u>ダイヤだ。<br>28\. <u>ダイヤが</u>いちばんいい。<br>*Diamonds are the best.*
 
-# <a name="when-to-invert" style="text-decoration: none;">When to Use Inverted Sentences
+# <a name="when-to-invert" style="text-decoration: none; pointer-events: none;">When to Use Inverted Sentences
 
 When it comes to inversion, there are three types of sentences:
 

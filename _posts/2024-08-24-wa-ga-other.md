@@ -13,7 +13,7 @@ hidden: true
         <a href="wa-ga-topic-position.html" class="nav-arrow">← 6. Principle of Topic Position</a>
 </div>
 
-# <a name="object-ga" style="text-decoration: none;">が as an Object Marker for Adjectives
+# <a name="object-ga" style="text-decoration: none; pointer-events: none;">が as an Object Marker for Adjectives
 
 が has a function that is not usually included in analyses of double-subject structures. This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
 
@@ -59,9 +59,9 @@ hidden: true
 </ol> 
 
 
-# <a name="questions" style="text-decoration: none;">The Topic in Questions
+# <a name="questions" style="text-decoration: none; pointer-events: none;">The Topic in Questions
 
-**Questions are usually topic sentences.** As we learned in [Topicless Sentences](/wa-ga-basics#topicless-sentences), sentences without a topic usually fall into one of three categories: descriptions of something perceptible, descriptions of events, and descriptions of consequences. All three of these encompass descriptions, and it is unnatural to question something as if you are describing it.
+**Questions have a tendency to be topic sentences.** As we learned in [Topicless Sentences](/wa-ga-basics#topicless-sentences), sentences without a topic usually fall into one of three categories: descriptions of something perceptible, descriptions of events, and descriptions of consequences. All three of these encompass descriptions, and it is unnatural to question something as if you are describing it.
 
 >12\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span>
 
@@ -69,7 +69,7 @@ However, it is nonetheless possible for these topicless questions to exist if th
 
 >13\. ワハハ、陰気の夕立はいい、<u>夕立のあと虹が</u>立ちますか？<br>*Haha, I don't mind the gloomy showers, but will there be a rainbow afterwards?*
 
-# <a name="additional" style="text-decoration: none;">Additional は structures
+# <a name="additional" style="text-decoration: none; pointer-events: none;">Additional は structures
 
 Of the other six は structures introduced alongside the basic topic sentence structure ｢父はこの本を買ってくれた。｣, four of them (excluding ｢花が咲くのは7月ごろだ。｣ and ｢このにおいはガスが漏れてるよ。｣) are **double-subject structures**. Double-subject structures are clauses that contain two subjects, which is ungrammatical in English, but quite common in Japanese. They are marked in bold in the following table.
 
@@ -85,7 +85,7 @@ Of the other six は structures introduced alongside the basic topic sentence st
 
 Notice that not all sentences that follow the pattern 〜は〜が... count as double-subject structures. For example, in the sentence ｢この本は父が買ってくれた。｣ (introduced in [Basic Topic Sentences](wa-ga-basics#topic-sentences)), "この本" is a topicalized object, not a subject.
 
-## <a name="zou" style="text-decoration: none;">The ｢象は鼻が長い。｣ Structure
+## <a name="zou" style="text-decoration: none; pointer-events: none;">The ｢象は鼻が長い。｣ Structure
 
 > 象は鼻が長い。<br>*Elephants have long trunks.*
 
@@ -113,7 +113,7 @@ Sentences that derive from topicalization of the modifier marked by の in ｢�
 
 >17\. <u>普通車は</u>、腰掛を主体として<u>車内設備を</u>変更した。<br>*The design of interior fittings in passenger vehicles, especially their seats, has changed over time.*
 
-## <a name="kaki" style="text-decoration: none;">The ｢かき料理は広島が本場だ。｣ Structure
+## <a name="kaki" style="text-decoration: none; pointer-events: none;">The ｢かき料理は広島が本場だ。｣ Structure
 
 > かき料理は広島が本場だ。<br>*Hiroshima is the place for oyster cuisine.*
 
@@ -139,7 +139,7 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 >22\. 輸入攻勢もあるが、<u>消しゴムは</u>ほかの商品と違い、国産品が圧倒的に強いのが特徴だ。<br>*Of course there's overseas competition, but when it comes to erasers, Japan-made dominates the national market.*
 
-## <a name="jisho" style="text-decoration: none;">The ｢辞書は新しいのがいい。｣ Structure
+## <a name="jisho" style="text-decoration: none; pointer-events: none;">The ｢辞書は新しいのがいい。｣ Structure
 
 > 辞書は新しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
@@ -169,7 +169,7 @@ The parallel type sentence of this structure, on the other hand, **does not use 
 
 >26\. <u>値段は</u>Lサイズが500円、Sサイスが300円だ。<br>*The large is 500 yen, and the small is 300 yen.*
 
-## <a name="mondai" style="text-decoration: none;">The ｢この問題は解くのが難しい。｣ Structure
+## <a name="mondai" style="text-decoration: none; pointer-events: none;">The ｢この問題は解くのが難しい。｣ Structure
 
 > この問題は解くのが難しい。<br>*This problem is hard to solve.*
 
@@ -187,7 +187,7 @@ In this structure, が is not exclusive.
 
 >34\. <u>ゴミの量は</u>増えているのが現状だ。<br>*The current situation is that the amount of garbage is increasing.*
 
-## <a name="hana" style="text-decoration: none;">The ｢花が咲くのは7月ごろだ。｣ Structure
+## <a name="hana" style="text-decoration: none; pointer-events: none;">The ｢花が咲くのは7月ごろだ。｣ Structure
 
 > 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
 
@@ -211,7 +211,7 @@ Notice that because we can't put は directly after "花が咲く", we have to n
 
 
 
-## <a name="nioi" style="text-decoration: none;">The ｢このにおいはガスが漏れてるよ。｣ Structure
+## <a name="nioi" style="text-decoration: none; pointer-events: none;">The ｢このにおいはガスが漏れてるよ。｣ Structure
 
 > このにおいはガスが漏れてるよ。<br>*This smell must be a gas leak.*
 
@@ -241,11 +241,11 @@ Another reason we might not be able to reduce a sentence to its case structure i
 
 >37\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なんですね。<br>*What's great about our company is it's easygoing.*
 
-(37) would be typical if we instead structured it like in (38).
+(37) would be a typical topic sentence if we instead structured it like in (38).
 
 >38\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なことなんですね。<br>*What's great about our company is that it's easygoing.*
 
-You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topic-marking は. These sentences get their name from the prototypical sentence in (39).
+You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topic-marking は. These sentences get their name from the prototypical sentence (39).
 
 >39\. ｢<u>僕は</u>うなぎだ。｣<br>*"I'm eating eel."*
 
@@ -267,11 +267,13 @@ Sentences with a comment that don't semantically serve as an exact explanation o
 
 The topics in (41) and (42), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
 
-# <a name="citations" style="text-decoration: none;">Citations
+# <a name="citations" style="text-decoration: none; pointer-events: none;">Citations
 
 天野, みどり. (1998). 「前提・焦点」構造からみた「は」と「が」の機能. 日本語科学 = Japanese Linguistics, 3, 67-85.
 
 庵, 功雄. (2012).『新しい日本語学入門 ことばのしくみを考える（第2版）』スリーエーネットワーク, 86.
+
+今田, 水穂. (2010). 日本語名詞述語文の意味論的・機能論的分析. (Doctoral dissertation, 筑波大学).
 
 上林, 洋二. (1988). 措定文と指定文: ハとガの一面. 文藝言語研究. 言語篇, 14, 57-74.
 
@@ -282,6 +284,8 @@ The topics in (41) and (42), "作り方" (recipe) and "練習" (practice), only 
 Susumu, Kuno. (1973). The Structure of the Japanese Language.
 
 長友, 和彦. (1991). ｢｢が｣・｢は｣ の揺れと既出名詞句に付く ｢が｣『言語習得及び異文化適応の理論的・実践的研究』. 3, 13-20. 広島大学教育学部日本語教育学科.
+
+丹羽, 哲也. (2007). 『日本語の題目文』, 2006年1月25日発行, 和泉書院刊, A5判, 392ページ, 10,000円+税. 日本語の研究, 3(4), 63-68.
 
 松下, 大三郎. (1930). 標準日本口語法. 中文館書店.
 
@@ -299,19 +303,18 @@ Susumu, Kuno. (1973). The Structure of the Japanese Language.
 
 # Further Reading
 
+庵功雄 - [｢は｣ と ｢が｣ の使い分けを学習者に伝えるための試み (2020)](https://hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/71055/gengo0057000250.pdf)
+
+石出靖雄 - [小説における主題のない文 (2020)](https://meiji.repo.nii.ac.jp/record/8804/files/kyouyoronshu_546_1.pdf)
+
+石出靖雄 - [文章における無題文の役割についての研究-新聞社説を対象として (2024)](https://meiji.repo.nii.ac.jp/record/2000477/files/kyouyoronshu_576_1.pdf)
+
 野田尚史 - 『｢は｣ と ｢が｣』(1996)
 
 野田尚史 - 『文の構造と機能からみた日本語の主題』(1998)
 
 Masayoshi Shibatani, Shigeru Miyagawa, Hisashi Noda -  Handbook of Japanese Syntax (2017)
 
-庵功雄 - [｢は｣ と ｢が｣ の使い分けを学習者に伝えるための試み (2020)](https://hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/71055/gengo0057000250.pdf)
-
 劉志偉 - [ハとガに関する平面式説明の提案 : フローチャート式の対案として (2022)](https://sucra.repo.nii.ac.jp/records/19577)
-
-石出靖雄 - [小説における主題のない文 (2020)](https://meiji.repo.nii.ac.jp/record/8804/files/kyouyoronshu_546_1.pdf)
-
-石出靖雄 - [文章における無題文の役割についての研究-新聞社説を対象として (2024)](https://meiji.repo.nii.ac.jp/record/2000477/files/kyouyoronshu_576_1.pdf)
-
 
 # Notes

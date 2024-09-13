@@ -30,7 +30,7 @@ When a sentence has two or more clauses, the clause with its predicate at the en
 
 Sometimes, a subordinate clause without a subject will take the subject of the main clause. This is the case for the fifth sentence of the examples above (the subject of "読みながら" is "お父さん").
 
-# <a name="subj-subord" style="text-decoration: none;">The Subject in Subordinate Clauses
+# <a name="subj-subord" style="text-decoration: none; pointer-events: none;">The Subject in Subordinate Clauses
 
 The method for choosing は vs. が in the main clause is generally the same one used in sentences with one clause. We will go over this in future sections. For now, let's focus on how to use these particles in subordinate clauses.
 
@@ -60,7 +60,7 @@ Thus, "太郎" is seen as the subject of both the subordinate clause and the mai
 
 The subordinate clause in both (1) and (2) can't contain a topic. But this isn't true of all subordinate clauses. These subordinate clauses in particular are **strongly subordinate**, which means they can't exist without the main clause.
 
-# <a name="levels" style="text-decoration: none;">Levels of Subordination
+# <a name="levels" style="text-decoration: none; pointer-events: none;">Levels of Subordination
 
 There are four **levels of subordination**, described in the following table.
 

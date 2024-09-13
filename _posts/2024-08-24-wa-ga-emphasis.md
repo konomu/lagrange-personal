@@ -16,7 +16,7 @@ hidden: true
 
 ![Location of page content in flowchart](assets/img/flowchart_emphasis.png)
 
-# <a name="how-emph" style="text-decoration: none;">How is it Emphasized?
+# <a name="how-emph" style="text-decoration: none; pointer-events: none;">How is it Emphasized?
 
 The first step of our flowchart is the **principle of emphasis**. Its purpose in the flowchart is to catch the **usages of contrastive は and exclusive が that don't mark any type of subject or topic**. But in this section, we will discuss all sorts of usages of contrastive は and exclusive が.
 
@@ -68,7 +68,7 @@ In the flowchart, the "exclusive が" after the "Principle of Emphasis" refers t
 
 [^2]: In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.
 
-# <a name="contrast-types" style="text-decoration: none;">Types of Contrast
+# <a name="contrast-types" style="text-decoration: none; pointer-events: none;">Types of Contrast
 
 All usages of contrastive は have one of two forms of contrast: **explicit** or **implicit**.
 
@@ -162,7 +162,7 @@ However, you may notice that in (19), the more contrastive は marks a 〜に el
 >23\. 子供たちは<u>キャンプファイヤーは</u>しなかった。<br>*The kids didn't light a campfire.*
 
 
-# <a name="contrast-neg" style="text-decoration: none;">Contrastive は in Negative Statements
+# <a name="contrast-neg" style="text-decoration: none; pointer-events: none;">Contrastive は in Negative Statements
 
 Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in ～じゃない, ～ていない, ～くない, ～ではない, ～じゃなくて, ～ません, ～ず, etc. For example, if we were to make the statement (24) negative, we would likely have to add contrastive は, as is shown in (25).
 
@@ -216,7 +216,7 @@ The second case listed in the table, where the negative predicate is strongly bo
 
 The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Can the Clause Have a Topic?](#subord)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
 
-# <a name="contrast-words" style="text-decoration: none;">Types of Words Contrastive は Can Mark
+# <a name="contrast-words" style="text-decoration: none; pointer-events: none;">Types of Words Contrastive は Can Mark
 
 Generally speaking, contrastive は can attach to all case-marked nouns (〜が, 〜を, 〜に, 〜で, 〜へ, 〜と, 〜から, 〜より, and 〜まで).
 
@@ -283,7 +283,7 @@ Finally, contrastive は may appear within a predicate. The predicates 聞いて
 
 >47\. また、日本IBM製のパソコンでも、日本語モードを使っていれば<u>感染は</u>するが<u>発病は</u>しないのである。<br>*Using a computer from IBM Japan with a Japanese locale will not stop the virus from infecting your computer, but it will prevent it from delivering its payload.*
 
-# <a name="exclusion-types" style="text-decoration: none;">Types of Exclusion
+# <a name="exclusion-types" style="text-decoration: none; pointer-events: none;">Types of Exclusion
 
 All forms of exclusive が can have one of two forms of exclusion: strong or weak.
 
@@ -318,7 +318,7 @@ Another case where weak exclusion appears is in commands where the subject is ex
 
 >53\. ｢どいて｣<br>と、桃子は、良介のショッピングカーをつついた。<br>｢<u>そっちが</u>どけや｣<br>*"Move," said Momoko, nudging Ryosuke's shopping cart.<br>"You move."*
 
-# <a name="exclusion-words" style="text-decoration: none;">Types of Words Exclusive が Can Mark
+# <a name="exclusion-words" style="text-decoration: none; pointer-events: none;">Types of Words Exclusive が Can Mark
 
 We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart.
 
@@ -354,7 +354,7 @@ The set of adverbs that subjectivizing exclusive が can mark is also narrower t
 
 >60\. 洗濯屋さんは<u>いまが</u>一年で一番忙しい。<br>*The cleaners are at their busiest at this time of year.*
 
-# <a name="cwa-vs-xga" style="text-decoration: none;">Contrastive は and Exclusive が In Negative Statements
+# <a name="cwa-vs-xga" style="text-decoration: none; pointer-events: none;">Contrastive は and Exclusive が In Negative Statements
 
 Consider the two following sentences:
 
