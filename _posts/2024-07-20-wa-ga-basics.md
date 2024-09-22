@@ -107,13 +107,13 @@ By familiarizing yourself with the prototypical sentence structures of Japanese 
 
 The first structure we'll learn about is the simplest of all the は structures. It's what we get when we topicalize a **case-marked noun** (anything marked by the case particles が, を, に, etc.) or an **adverb**.
 
-The following diagram shows the topicalization of the subject "父" (dad) in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢父はこの本を買ってくれた。｣
+The following diagram shows the topicalization of the subject "父" (dad) in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢父はこの本を買ってくれた。｣.
 
 ![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.png)
 
 The "こと" in the diagram above represents that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**.
 
-Remember that は can also mark objects, which are generally marked by を. When the object is topicalized, は replaces を. Then, the topic is moved to the beginning of the sentence. Just like the subject, the object doesn't stop being an object when it's topicalized. The following diagram shows the topicalization of the object "この本" (this book) in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢この本は父が買ってくれた。｣
+Remember that は can also mark objects, which are generally marked by を. When the object is topicalized, は replaces を. Then, the topic is moved to the beginning of the sentence. Just like the subject, the object doesn't stop being an object when it's topicalized. The following diagram shows the topicalization of the object "この本" (this book) in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢この本は父が買ってくれた。｣.
 
 ![Diagram showing topicalization of この本 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi2.png)
 
@@ -238,7 +238,7 @@ whereas the inversion of this topic sentence will take on the structure
 
 >28\. <u>大阪と京都の境から次第に川幅を広げ、堂々と街を横切りつつ大阪湾に流れ込むのが</u>淀川だ。広々とした河川敷の野草広場には天然記念物のイタセンパラやアユモドキなどの魚をはじめ、多くの野生生物が生息。<br>*The Yodo River gradually widens from the border between Osaka and Kyoto, cutting across cities before flowing into Osaka Bay. The spacious riverbed is home to many wildlife species, including fish such as the deepbody bitterling and the kissing loach, which are designated as natural monuments.*
 
-Sometimes, this structure can be used even if there is little exclusive nuance, as in (27). It is used in this case so that the topic, "淀川" (Yodo River) can be placed towards the end, closer to its following sentences which also take "淀川" as a topic.
+Sometimes, this structure can be used even if there is little exclusive nuance, as in (28). It is used in this case so that the topic, "淀川" (Yodo River) can be placed towards the end, closer to its following sentences which also take "淀川" as a topic.
 
 You'll learn more about inverted sentences in [When to Use Inverted Sentences](/wa-ga-topic-position#when-to-invert).
 
