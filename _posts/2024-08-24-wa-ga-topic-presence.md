@@ -18,11 +18,13 @@ hidden: true
 
 # Is There a Topic?
 
-This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that it'll always be marked by subject-marking が (sometimes contrastive は) and never topic-marking は.
+This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that a subject within it will always be marked by subject-marking が (sometimes contrastive は) and never topic-marking は.
 
 Once we arrive at this stage in the flowchart, the next step is to distinguish topic sentences from topicless sentences. Topicless sentences fit into [the ｢富士山が見えるよ。｣ structure](wa-ga-basics#topicless-sentences), and topic sentences fit into all other structures.
 
-There are many different factors to consider at this stage. Let's summarize all of them in a simple table. The cells in bold are cases where the sentence/clause will **always** fall into the category it is under. The cases that aren't in bold will sometimes fall into the other category. If a sentence fulfills a property but is expressed under the other category, that is usually because it also fulfills some properties in that other category.
+There are many different factors to consider at this stage. Let's summarize all of them in a simple table. The cells in bold are cases where the sentence/clause will **always** fall into the category it is under. 
+
+The cases that aren't in bold will sometimes fall into the other sentence category. Usually, this happens because the sentence also fulfills some properties in that other category.
 
 <table class="tg"><thead>
   <tr>

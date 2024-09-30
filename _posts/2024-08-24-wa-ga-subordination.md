@@ -235,7 +235,7 @@ The subject of successive clauses is **not** the same as the the subject of the 
 
 >30\. なぜ猫には、こんなに派手に変化する瞳孔があるのだろう。それは、<span style="color: #b2ffff">[猫<u>が</u>優れた夜のハンターだから]</span>だ。<br>*Why do cats' pupils narrow and widen like so? It is because they are top-notch night hunters.*
 
-〜から, 〜ので, and 〜のに clauses are weakly subordinate (may take は or が) if it does not have this function. The method for choosing between は or が is the same as it is for the main clause (which will be covered in future chapters).
+〜から, 〜ので, and 〜のに clauses are weakly subordinate (may take は or が) if it does not have this function. The method for choosing between は or が in this case is the same as it is for the main clause (covered in chapter 5 and 6).
 
 >31\. <span style="color: #b2ffff">[この本は面白いので、]</span>読んでみてください。<br>*This book is very interesting, so please read it.*
 
@@ -255,7 +255,7 @@ The subject of successive clauses is **not** the same as the the subject of the 
 
 Contrastive は is common in 〜が and 〜けど clauses.
 
->38\. 一般労働者の意識調査によれば、<span style="color: #b2ffff">["政党離れ"は進んでいるが、]</span>政党への関心は決して低くない。<br>*According to the survey of general workers, respondants increasingly report no affiliation to any party, but interest in political parties has remained steady.*
+>38\. 一般労働者の意識調査によれば、<span style="color: #b2ffff">["政党離れ"は進んでいるが、]</span>政党への関心は決して低くない。<br>*According to a survey of general workers, respondants increasingly report no affiliation to any party, but interest in political parties has remained steady.*
 
 ### Quotative Clauses (引用節)
 
