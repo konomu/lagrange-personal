@@ -37,7 +37,7 @@
 
 .fa-github {
   padding: 5px;
-  @include social-media-icon($github-color, $icon-transition-time);
+  @include social-media-icon(#096BDE, $icon-transition-time);
 }
 
 .fa-linkedin {
@@ -67,10 +67,33 @@
 
 .fa-youtube {
   padding: 5px;
-  @include social-media-icon(rgb(220, 0, 0), $icon-transition-time);
+  @include social-media-icon(#FF0000, $icon-transition-time);
 }
 
 .fa-rss-square {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
+}
+
+.fa-coffee {
+  padding: 5px;
+  @include social-media-icon(#13C3FF, $icon-transition-time);
+}
+
+/* ko-fi icon */
+.fa-coffee::before {
+  content: "\f0f4";
+  display: inline-block;
+  font-size: 1.1em;
+  line-height: 0.45em;
+  overflow-y: hidden;
+  padding-top: 0.45em;
+}
+.fa-coffee::after {
+  color: #000;
+  content: "\f004";
+  font-size: 45%;
+  font-weight: 900;
+  margin: 1.05em 0 0 -2em;
+  position: absolute;
 }
