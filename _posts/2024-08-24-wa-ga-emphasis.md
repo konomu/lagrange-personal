@@ -64,7 +64,7 @@ The same idea can be roughly applied to が.
 
 There is a crucial difference between (c) and (f) here. が has not fully evolved as an emphasis marker, so there is no usage where exclusive が is fully removed from its subject-marking function, unlike は, which can be fully removed from its topic-marking function. Some instances of exclusive が mark adverbs, clauses, or case-marked nouns other than the subject, but this is only true for those that have subject-like character. Thus, when exclusive が marks a non-subject, we may interpret that non-subject as having become a subject, a process known as **subjectivisation** (Kuno 1973). 
 
-In the flowchart, the "exclusive が" after the "Principle of Emphasis" refers to (f). [^2] The "exclusive が" after the Principle of Topic Position refers to (e).
+In the flowchart, the "exclusive が" after the "Principle of Emphasis" refers to (f).[^2] The "exclusive が" after the "Principle of Topic Position" refers to (e).
 
 [^2]: In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.
 
@@ -141,7 +141,7 @@ Implicit contrastive は can be identified through the following properties.
 
 |Implicit contrastive は tends to..|
 |--|
-| - Appear closer to the predicate <br> - Mark objects, 〜に elements, or adverbs, less often subjects <br> - Mark a noun with a counterpart that is easy to contrast with <br> - Be pronounced with a higher pitch along with what it marks |
+| - Appear closer to the predicate <br> - Mark objects, 〜に elements, or adverbs; less often subjects <br> - Mark a noun with a counterpart that is easy to contrast with <br> - Be pronounced with a higher pitch along with what it marks |
 
 The more of these properties a sentence has, the stronger its contrastive nuance becomes. Consider the following examples:
 
@@ -204,7 +204,7 @@ Look at the structure of ｢日本の老人はシャワーではがまんでき�
 
 > ```日本の老人``` + ```は``` + (```シャワーでがまんできる``` + ```ない```)
 
-The contrastive は is added as a result of ない acting upon the portion シャワーで. The structure of (28) is instead
+The contrastive は (after シャワーで) is added as a result of ない acting upon the portion シャワーで. On the other hand, the structure of (28) is
 
 > ```ホタル``` + ```が``` + (```いる``` + ```ない```)
 

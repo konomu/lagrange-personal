@@ -34,7 +34,7 @@ Sometimes, a subordinate clause without a subject will take the subject of the m
 
 The method for choosing は vs. が in the main clause is generally the same one used in sentences with one clause. We will go over this in future sections. For now, let's focus on how to use these particles in subordinate clauses.
 
-There's a general rule that when は marks a subject at the start of a sentence with multiple clauses, it usually marks the subject of all of the clauses.[^1] が, on the other hand, usually only marks the subject within its own clause. In other words, whatever は marks is relevant to everything until the end of the sentence, while whatever が marks stays in its own clause. 
+There's a general rule that states: when は marks a subject at the start of a sentence with multiple clauses, it usually marks the subject of all of the clauses.[^1] が, on the other hand, usually only marks the subject within its own clause. In other words, whatever は marks is relevant to everything until the end of the sentence, and whatever が marks stays in its own clause. 
 
 [^1]: This general rule doesn't apply to weakly subordinate clauses or quotative clauses.
 
