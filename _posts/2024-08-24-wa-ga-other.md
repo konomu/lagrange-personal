@@ -197,7 +197,7 @@ What sets this structure apart from the other structures introduced in this chap
 
 The function of this sentence is that the predicate "7月ごろ" (around July) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (flowers bloom) without using exclusive が.
 
-The "Related to the Clause" part of the chart is commonly some kind of word/phrase that expresses the reason or time for whatever is in the clause. It can be a case-marked noun (like a subject) or an adverb.
+The "Adverb or Case-Marked Noun" in this structure is often some word/phrase that expresses the reason or time for whatever is in the clause. 
 
 Notice that because we can't put は directly after "花が咲く", we have to nominalize the clause first with の. This also happens with the sentence ｢辞書は新しいのがいい。｣. Common nominalizers include の, もの, 人, and ところ.
 
