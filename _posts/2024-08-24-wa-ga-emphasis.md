@@ -186,7 +186,7 @@ You may also be familiar with the set phrase ではない/ではありません.
 
 ### Negative Statements without Contrastive は
 
-Some statements will not contain contrastive は even when it is negative. Such cases are listed below.
+Some statements will not contain contrastive は even if they are negative. Such cases are listed below.
 
 |Cases Where Negative Statements Don't Contain Contrastive は |
 |--|
@@ -198,7 +198,7 @@ Some statements will not contain contrastive は even when it is negative. Such 
 
 >29\. ウイルスのプログラムは、単に行動形態がウイルスに似ているから、そう名付けられているだけで、あらかじめプログラムの上で決められた行動をする以外の何者でもない。そして、自然界に存在するウイルスと違って、人間が作ったものだということである。<u>この点が</u>、意外と知られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
-(28) is a topicless sentence, while (29) is an inverted topic sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
+(28) is a topicless sentence, while (29) is an inverted topic sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence "ホタルがいる" which is negated, but only the word "いる". "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
 
 Look at the structure of ｢日本の老人はシャワーではがまんできない。｣
 

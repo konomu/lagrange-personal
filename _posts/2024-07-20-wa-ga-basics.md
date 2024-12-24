@@ -23,7 +23,7 @@ The Japanese language has a special concept known as the **topic**. As its name 
 
 Whatever comes after topic-marking は is known as a **comment**, which is **something we want to say about the topic**. The comment contains the focus of the sentence, so it expresses information the speaker wants the listener to know about the topic.
 
-## Subject-marking が
+## <a name="subj-ga" style="text-decoration: none; pointer-events: none;">Subject-marking が
 
 A **subject** is one of two main components of a sentence, the other being the **predicate**. The subject is usually a noun; and the predicate is usually a noun, adjective, or verb. The subject in Japanese is typically marked by が. A sentence with a subject may look like:
 

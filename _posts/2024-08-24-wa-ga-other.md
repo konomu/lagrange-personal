@@ -25,7 +25,7 @@ hidden: true
   <p>1. 誰が<u>英語が</u>上手ですか？<br><em>Who is good at English?</em></p>
   </blockquote>
   <blockquote>
-  <p>2. 僕は<u>日本語が</u>苦手なことはみんなよく知っています<br><em>Everyone knows well that I am bad at Japanese.</em></p>
+  <p>2. 僕は<u>日本語が</u>苦手なことはみんなよく知っています。<br><em>Everyone knows well that I am bad at Japanese.</em></p>
   </blockquote>
   <blockquote>
   <p>3. 誰が<u>日本語が</u>うまいですか？<br><em>Who is good at Japanese?</em></p>
@@ -119,7 +119,7 @@ Sentences that derive from topicalization of the modifier marked by の in ｢�
 
 At first glance, this sentence seems to fit into the ｢象は鼻が長い。｣ structure we just saw because of the ｢～は～が...｣ pattern. However, we can't work backward to find the untopicalized structure by just replacing ｢～は～が...｣ with ｢～の～が...｣ like we did with ｢象は鼻が長い。｣
 
-If we try anyway, we get <span style="color: #ff0040">｢かき料理の広島が本場(であること)｣</span>, which makes no sense.
+If we try anyway, we get <span style="color: #ff0040">"×かき料理の広島が本場(であること)"</span>, which makes no sense.
 
 ｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. [^3] The predicate of this structure will always be a noun.
 
