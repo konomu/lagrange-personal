@@ -47,7 +47,6 @@ section {
   margin-left: auto;
   margin-right: auto;
   padding: 0.5rem 0.7rem 0rem;
-  margin-bottom: 4rem;
   max-width: 75rem;
   font-family: $sans-serif-font-family;
 }
@@ -61,6 +60,9 @@ section {
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none; 
+}
+h3.header-title {
+  margin-bottom: 0px;
 }
 
 /*
@@ -99,8 +101,10 @@ section {
 */
 
 .menu {
-  padding-top: 0.5rem;
-  display: block;
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .menu-content {
@@ -110,12 +114,13 @@ section {
 
 .menu-content a {
   color: white;
-  font-size: 1rem;
+  font-size: 1.1rem;
   padding-right: 10px;
 }
 
 .social-icons {
   float: right;
+  text-align: right;
 }
 
 .social-icons a {
@@ -167,16 +172,22 @@ section {
   100% { opacity: 0; }
 }
 
-@media (max-width: $container-responsive-width) {
+@media (max-width: $elements-responsive-width) {
   .social-icons {
     float: right;
     padding-top: 0px;
   }
+  .menu {
+    justify-content: center;
+  }
   .menu-content a {
-    font-size: 0.8rem;
+    font-size: 1rem;
     line-height: 1.5rem;
     margin-bottom: 0px;
   }
+}
+
+@media (max-width: $container-responsive-width) {
 
   /* Floating Menu Button */
   .sidebar-toggle-label {
