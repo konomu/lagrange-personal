@@ -11,7 +11,7 @@ hidden: true
 
 <div class="arrow-container">
         <a href="wa-ga-topic-presence.html" class="nav-arrow">← 5. Principle of Topic Presence</a>
-        <a href="wa-ga-other.html" class="nav-arrow">7. Other Usages and More は Structures </a>
+        <a href="wa-ga-other.html" class="nav-arrow">7. Other Usages and More は Structures →</a>
 </div>
 
 ![Location of page content in flowchart](assets/img/flowchart_topic_position.png)

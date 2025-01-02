@@ -8,6 +8,10 @@ image: tanaka.jpg
 published: true
 ---
 
+<div style="justify-content: flex-start !important; margin-top: 1rem;" class="arrow-container">
+     <a href="wa-ga-other.html" class="nav-arrow">← 7. Other Usages and More は Structures </a>
+</div>
+
 Since writing [A Guide to は and が](wa-ga-basics), I've come to realize that some usages of が are difficult to explain with the typology given by Noda (野田 1996). Technically, his sentence typology covers most of the sentences I will explain in this article, but they function distinctly from typical sentences you will see in Noda's categories, so I believe they deserve their own descriptions. Also, I am writing this because I've never seen any of these sentence forms described in English-language Japanese-learning resources (except for a mention of breakdown sentences in Kuno's *The Structure of the Japanese Language*). All information and examples that follow come from 今田 (2010).
 
 "Noun sentences" are sentences with a noun as its predicate. We will look at four sentence forms, all of which are topicless noun sentences, and all of which contain が.
@@ -22,7 +26,7 @@ When we use が in a noun sentence with no further context, the interpretation o
 
 >1\. 私が田中です。(Exclusive が)<br>***I** am Tanaka.*
 
->2\. (?) 私が田中です。(Neutral-description が)<br>(?) *Look, I am Tanaka!*
+>2\. (?) 私が田中です。(Neutral-description が)<br>(?) *Look, I'm Tanaka!*
 
 Consider example (1), a noun sentence using exclusive が. We can imagine that this is a sentence spoken by Tanaka in response to someone asking "Who in this group is Tanaka?" Tanaka is specifying that **he** is Tanaka, so this is the natural interpretation.
 
@@ -176,13 +180,13 @@ For example, consider the identificational sentences (30) and (31).
 
 >30\. ニュートンは<span style="color: #b2ffff">[<u>物体から微粒子が飛んでくるのが</u>光だ]</span>と考えたが、ハイゲンスが出て来て波動説を称えこれが承認されるに幾多の年月がかかった。<br>*Newton believed that light was particles emitted from a source, but Huygens voiced his support for wave theory, and it took many years for Newton's idea to garner recognition.*
 
-In this sentence, "光" (light) is being tied to "物体から微粒子が飛んでくるの" (particles emitted from a source). The listener/reader of this sentence probably already has an idea of what light is in their own mind. The sentence adds onto that idea of light and **characterizes** it by connecting light to another idea in a scientific context.
+In (30), "光" (light) is being tied to "物体から微粒子が飛んでくるの" (particles emitted from a source). The listener/reader of this sentence probably already has an idea of what light is in their own mind. The sentence adds onto that idea of light and **characterizes** it by connecting light to another idea in a scientific context.
 
 >31\. 次に卓上に現われたのが、献立表に単に ｢熊肉｣ と書いてある料理だ[^1]。 これについても、張伊三が解説を加えるのである。これは、 熊の腿の肉であった。<span style="color: #b2ffff">[<u>まず、肉を高熱で充分煮込み、さらに五香の粉に漬け込んで一昼夜を経、それを本胡麻の油でいためて、塩と醤油で味をつけ、野菜を添えて供したのが、</u>これであります、]</span>と言うのだ。<br>*The next dish to appear at our table was something simply labeled "bear meat" on the menu. Chou Izou also explained this dish to us. It was meat from the thigh of a bear. He told us that the dish in front of us was meat, first thoroughly stewed at high heat, then soaked in five-spice powder for a full day, fried in sesame oil, seasoned with salt and soy sauce, and served with vegetables.*
 
 [^1]: The first sentence in this example is a neutral-description noun sentence.
 
-In (31), the narrator, who was listening to Chou Izou, did not know what the dish "bear meat" entailed. An identificational sentence is used to recount Chou Izou's explanation of the dish, where "これ" (referring to the dish) is the predicate. "これ" is **defined** with a long explanation that serves as the subject of the sentence ("まず、肉を高熱で充分煮込み、さらに..."). This subject exists among other ideas within the context of cooking, like other dishes, techniques for preparing food, common objects found in a kitchen, etc. The sentence makes a connection between the dish "bear meat" and its method of preparation, as well as the contexts that method of preparation resides in and its related ideas.
+In (31), the narrator, who was listening to "Chou Izou", did not know what the dish "bear meat" entailed. An identificational sentence is used to recount Chou Izou's explanation of the dish, where "これ" (referring to the dish) is the predicate. "これ" is **defined** with a long explanation that serves as the subject of the sentence ("まず、肉を高熱で充分煮込み、さらに..."). This subject exists among other ideas within the context of cooking, like other dishes, techniques for preparing food, common objects found in a kitchen, etc. The sentence makes a connection between the dish "bear meat" and its method of preparation, as well as the contexts that method of preparation resides in and its related ideas.
 
 
 ## Subjects in Identificational Sentences
@@ -208,7 +212,7 @@ Apart from this difference, presentational sentences mostly function in the same
 
 >33\. フェラーリは第二次世界大戦が終わってレースが再開された時から、クルマを製作し、チームを作ってレースに参加している。その後、現在に至るまで1年として休んだことはない。そのフェラーリがクルマを作るようになる以前、すなわち1920年代や30年代に、<u>ちょうどこの現代のフェラーリの役割を果たしていたのが、</u>アルファ・ロメオだった。<br>*Ferrari has been building cars, forming teams, and participating in races since racing resumed after the end of World War II. This practice of theirs has continued every year, all the way up to current day. But in the 1920s and 1930s, before Ferrari was a carmaker, it was Alfa Romeo that played the role of the modern Ferrari.*
 
->34\. <u>トイレの装置として急速に普及しているのが</u>「音姫」だ。男の人にはあまり知られていないようなので紹介すると、衛生陶器最大手のTOTOが発売している擬音装置で、ボタンを押したり、手をかざすとスピーカーから流水音が流れるもの。<br>*The toilet appliance "Otohime" is now seeing more widespread use. It's not well known among men, so to explain: "Otohime" is a device produced by the toilet manufacturer Toto that plays a flushing sound when you place your hand near it or push a button.*
+>34\. <u>トイレの装置として急速に普及しているのが</u>「音姫」だ。男の人にはあまり知られていないようなので紹介すると、衛生陶器最大手のTOTOが発売している擬音装置で、ボタンを押したり、手をかざすとスピーカーから流水音が流れるもの。<br>*The toilet appliance "Otohime" is now seeing more widespread use. It's not well known among men, so to explain: The "Otohime" is a device produced by the toilet manufacturer Toto that plays a flushing sound when you place your hand near it or push a button.*
 
 >35\. 人々は賃金の目減りを副業、内職で補ってきたが、副収入を加えた実質所得も昨年秋のルーブル暴落を境に減少に転じた。<u>これに追い打ちをかけたのが、</u>今年初め以来の公共料金の大幅アップだ。公営住宅の家賃や鉄道運賃は二・四倍、ガス料金は五倍に跳ね上がった。<br>*Many have been making up for the reduced wages by taking on second jobs, but their real income has also been declining since the ruble crashed last fall. Compounding this is the sharp increase in public utility fees since the beginning of this year. Rents for public housing and train fares are up 140%, and gas prices have risen five-fold.*
 

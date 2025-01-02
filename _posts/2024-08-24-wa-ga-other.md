@@ -9,8 +9,9 @@ hidden: true
 
 *This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
-<div style="justify-content: flex-start !important;" class="arrow-container">
+<div class="arrow-container">
         <a href="wa-ga-topic-position.html" class="nav-arrow">← 6. Principle of Topic Position</a>
+        <a href="wa-ga-addendum.html" class="nav-arrow">8. Atypical Noun Sentences →</a>
 </div>
 
 # <a name="object-ga" style="text-decoration: none; pointer-events: none;">が as an Object Marker for Adjectives
