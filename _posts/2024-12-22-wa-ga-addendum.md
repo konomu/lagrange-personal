@@ -10,7 +10,9 @@ published: true
 
 Since writing [A Guide to は and が](wa-ga-basics), I've come to realize that some usages of が are difficult to explain with the typology given by Noda (野田 1996). Technically, his sentence typology covers most of the sentences I will explain in this article, but they function distinctly from typical sentences you will see in Noda's categories, so I believe they deserve their own descriptions. Also, I am writing this because I've never seen any of these sentence forms described in English-language Japanese-learning resources (except for a mention of breakdown sentences in Kuno's *The Structure of the Japanese Language*). All information and examples that follow come from 今田 (2010).
 
-I call these "atypical" noun sentences, but that doesn't mean that they are exceedingly rare. I notice these sentences used in both speech and writing quite often, but the "typical" sentences described in the main guide still make up the vast majority of sentences. We will look at four sentence forms, all of which are topicless noun sentences, and all of which contain が.
+"Noun sentences" are sentences with a noun as its predicate. We will look at four sentence forms, all of which are topicless noun sentences, and all of which contain が.
+
+I call these "atypical" noun sentences, but that doesn't mean that they are exceedingly rare. I notice these sentences used in both speech and writing quite often, but the "typical" sentences described in the main guide still make up the vast majority of sentences.
 
 # <a name="ndns" style="text-decoration: none; pointer-events: none;">Neutral-Description Noun Sentences (中立叙述型名詞述語文)
 

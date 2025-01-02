@@ -141,9 +141,9 @@ Adverbs that express tense or extent (such as きょう, 今, その頃, いく�
 
 Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalized.
 
->12\. <span style="color: #ff0040">×<u>船では</u>, 暇がある学生が沖縄に行った。</span>
+>12\. <span style="color: #ff0040">×<u>船では</u>, 暇がある学生が沖縄に行った。<br>*By boat, the students with free time went to Okinawa.*</span>
 
->13\. <span style="color: #ff0040">？<u>大島とは</u>このまえ僕がけんかしたよ。</span>
+>13\. <span style="color: #ff0040">？<u>大島とは</u>このまえ僕がけんかしたよ。<br>*With Oozima, I recently argued.*</span>
 
 
 # <a name="topicless-sentences" style="text-decoration: none; pointer-events: none;">｢富士山が見えるよ。｣: Topicless Sentences
@@ -242,7 +242,7 @@ You'll learn more about specificational sentences in [When to Use Specificationa
 
 
 <h1 style="text-align:right;">
-  <a href="/wa-ga-flowchart">Continued in 2. The Flowchart Model…</a>
+  <a href="/wa-ga-flowchart">Continued in 2. The Flowchart Model...</a>
 </h1>
 
 # Notes

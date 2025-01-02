@@ -183,33 +183,29 @@ For sentences with は, it may not be obvious if we can invert the sentence. To 
 
 Let's look at a sentence that can't be inverted. Consider sentence (17) and its inversion (18).
 
->17\. <u>ビルの高さは</u>85mです。<br>*The building is 85 meters tall.*
-
->18\. <span style="color: #ff0040">×85mがビルの高さです。</span>
+>17\. <u>ビルの高さは</u>85mです。<br>*The height of the building is 85 meters.*<br><br>18\. <span style="color: #ff0040">×85mがビルの高さです。</span><br>Intended reading: <span style="color: #ff0040">*85 meters is the building's height.*</span>
 
 The topic in (17) and (18) is "ビルの高さ" (the height of the building), and the comment is "85m" (85 meters). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
 
 Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (you) is the referential element, and "主役" (lead actor) is the predicative element because it is the "role" of "君." Since the predicative element is the topic, this sentence can be inverted.
 
->19\. <u>主役は</u>君だ。<br>20\. <u>君が</u>主役だ。<br>*You're the lead actor.*
+>19\. <u>主役は</u>君だ。<br>*The lead actor is you.*<br><br>20\. <u>君が</u>主役だ。<br>*You are the lead actor.*
 
 If, however, we topicalize the referential element "君", it is no longer possible to invert the sentence.
 
->21\. <u>君は</u>主役だ。<br>*You're a lead actor.*
-
->22\. <span style="color: #ff0040">×主役が君だ。</span>
+>21\. <u>君は</u>主役だ。<br>*You are a lead actor.*<br><br>22\. <span style="color: #ff0040">×主役が君だ。</span><br>Intended reading: <span style="color: #ff0040">*A lead actor is you.*</span>
 
 In the example ｢その火事の原因は漏電だ。｣, the referential element is "漏電" (electrical fault) and the predicative element is "その火事の原因" (the cause of the fire). We can invert this sentence because the predicative element is topicalized.
 
->23\. <u>その火事の原因は</u>漏電だ。<br>24\. <u>漏電が</u>その火事の原因だ。<br>*The cause of the fire was an electrical fault.*
+>23\. <u>その火事の原因は</u>漏電だ。<br>*The cause of the fire is an electrical fault.*<br><br>24\. <u>漏電が</u>その火事の原因だ。<br>*An electrical fault is the cause of the fire.*
 
-It makes little sense to topicalize the referential element here, so neither (25) nor (26) are natural.
+It makes little sense to topicalize the referential element “漏電” here, because in the context of this sentence, the cause of the fire is unknown. So neither (25) nor (26) are natural.
 
->25\. <span style="color: #ff0040">×漏電はその火事の原因だ。</span><br>26\. <span style="color: #ff0040">×その火事の原因が漏電だ。</span>
+>25\. <span style="color: #ff0040">×漏電はその火事の原因だ。</span><br>Intended reading: <span style="color: #ff0040">*The electrical fault is the cause of the fire.*</span><br><br>26\. <span style="color: #ff0040">×その火事の原因が漏電だ。</span><br>Intended reading: <span style="color: #ff0040">*The cause of the fire is the electrical fault.*</span>
 
 Adjectives and verbs are always predicative in this system. In other words, it's almost always possible to invert a sentence when an adjective or verb is the topic.
 
->27\. <u>いちばんいいのは</u>ダイヤだ。<br>28\. <u>ダイヤが</u>いちばんいい。<br>*Diamonds are the best.*
+>27\. <u>いちばんいいのは</u>ダイヤだ。<br>*The best one is the diamond.*<br><br>28\. <u>ダイヤが</u>いちばんいい。<br>*The diamond is the best one.*
 
 # <a name="when-to-invert" style="text-decoration: none; pointer-events: none;">When to Use Specificational Sentences
 
@@ -231,13 +227,13 @@ Example (23) falls into type (b) (sometimes specificational) because it has a no
 
 (29) also falls into type (b), because it has a (nominalized) verb topic. You are more likely to see ｢そう言ったのは山田だ。｣ than its inversion ｢山田がそう言ったのだ。｣.
 
->29\. <u>そう言ったのは</u>山田だ。<br>*Yamada said that.*
+>29\. <u>そう言ったのは</u>山田だ。<br>*The person who said that was Yamada.*
 
 In (30), the second sentence is type (c). 
 
 >30\. ｢バリバリしゃぶりついてるじゃないの、いつもは。｣<br>｢<u>そう、しゃぶりつくのが</u>、本当は一番おいしいんだよ。｣<br>*"Why do you always suck on it like that?"<br>"It tastes better when you suck on it."*
 
-Although its topic is a nominalized adjective, the sentence is expressed as an specificational sentence because its topic is nonetheless derived from an adjective. The last example in the previous section, (27), is also more commonly expressed as an specificational sentence because its topic is an adjective.
+Although its topic is a nominalized adjective, the sentence is expressed as an specificational sentence because its topic is nonetheless derived from an adjective. The last example in the previous section, (27), is also more commonly expressed as an specificational sentence (instead of (28)) because its topic is an adjective.
 
 Sometimes, you'll have conflicting principles in the same sentence.
 
@@ -252,7 +248,7 @@ In (31), the topic is a noun, but the comment "これ" refers to familiar inform
 (32) has a nominalized verb predicate, but it also has an interrogative word as its comment. Here, the rule about interrogative words is taking precedence, making it an specificational sentence of type (c). The uninverted ｢結局勝ったのはどちらですか？｣ is also possible, but less common.
 
 <h1 style="text-align:right;">
-  <a href="/wa-ga-other">Continued in 7. Other Usages and More は Structures…</a>
+  <a href="/wa-ga-other">Continued in 7. Other Usages and More は Structures...</a>
 </h1>
 
 # Notes

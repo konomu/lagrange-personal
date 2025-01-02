@@ -206,11 +206,12 @@ The two topic sentences fit the generalization that "は marks old information, 
 A common explanation provided to learners about は/が is that "Important information comes after は and before が." Another common one you might hear is that "は marks old information, and が marks new information." These rules-of-thumb are a simplification of the concept of new/old information. While they are true for some sentences, there are many instances to which they don't apply. They fail because:
 
 - The concept of new/old information doesn't apply in subordinate clauses
-- Contrastive は and exclusive が may violate these rules-of-thumb.
+- Contrastive は may violate this rule-of-thumb.
 - Old information does not appear in topicless sentences, so the rules-of-thumb do not account for the nature of emphasis in topicless sentences. This might mislead learners into thinking there is some nuance of exclusion present in all subjects marked by が.
+- Debatably, one semantic structure actually allows for が to mark old information (See [Presentational Sentences](wa-ga-addendum#presentation)).
 
 <h1 style="text-align:right;">
-  <a href="/wa-ga-topic-position">Continued in 6. The Principle of Topic Position…</a>
+  <a href="/wa-ga-topic-position">Continued in 6. The Principle of Topic Position...</a>
 </h1>
 
 # Notes

@@ -63,11 +63,11 @@ hidden: true
 
 **Questions have a tendency to be topic sentences.** As we learned in [Topicless Sentences](/wa-ga-basics#topicless-sentences), sentences without a topic usually fall into one of three categories: descriptions of something perceptible, descriptions of events, and descriptions of consequences. All three of these encompass descriptions, and it is unnatural to question something as if you are describing it.
 
->12\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span>
+>12\. <u>太郎は</u>来ましたか。<br>*Has Tarou come?*<br><br>13\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br>Intended reading: <span style="color: #ff0040">*Tarou has come?*</span>
 
 However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them.
 
->13\. ワハハ、陰気の夕立はいい、<u>夕立のあと虹が</u>立ちますか？<br>*Haha, I don't mind the gloomy showers, but will there be a rainbow afterwards?*
+>14\. ワハハ、陰気の夕立はいい、<u>夕立のあと虹が</u>立ちますか？<br>*Haha, I don't mind the gloomy showers, but does the rainbow appear afterward?*
 
 # <a name="additional" style="text-decoration: none; pointer-events: none;">Additional は structures
 
@@ -101,15 +101,15 @@ Thus, the ｢象は鼻が長い。｣ structure is just another way of topicaliz
 
 Notice that the が in this structure is just a subject-marking が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
 
->14\. <u>わが国で栽培されるトマトは</u>、ホルモン剤を利用することを前提に栽培管理技術ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
+>15\. <u>わが国で栽培されるトマトは</u>、ホルモン剤を利用することを前提に栽培管理技術ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
 
->15\. <u>仙台の県営球場は</u>グラウンドが荒れている。<br>*Sendai's prefectural baseball field is in bad condition.*
+>16\. <u>仙台の県営球場は</u>グラウンドが荒れている。<br>*Sendai's prefectural baseball field is in bad condition.*
 
->16\. <u>大橋のシンボルともいえる主塔は</u>高さが海面から297m。<br>*The main tower, a symbol of Akashi Kaikyo Bridge, reaches 297 meters above the surface of the ocean.*
+>17\. <u>大橋のシンボルともいえる主塔は</u>高さが海面から297m。<br>*The main tower, a symbol of Akashi Kaikyo Bridge, reaches 297 meters above the surface of the ocean.*
 
-Sentences that derive from topicalization of the modifier marked by の in ｢～の～を...｣ can also be grouped into the ｢象は鼻が長い。｣ structure. These sentences take comments that express actions often.
+Sentences that derive from topicalization of the modifier marked by の in ｢～の～を...｣ like (18) can also be grouped into the ｢象は鼻が長い。｣ structure, although these are not double-subject sentences.
 
->17\. <u>普通車は</u>、腰掛を主体として<u>車内設備を</u>変更した。<br>*The design of interior fittings in passenger vehicles, especially their seats, has changed over time.*
+>18\. <u>普通車は</u>、腰掛を主体として<u>車内設備を</u>変更した。<br>*The design of interior fittings in passenger vehicles, especially their seats, has changed over time.*
 
 ## <a name="kaki" style="text-decoration: none; pointer-events: none;">The ｢かき料理は広島が本場だ。｣ Structure
 
@@ -127,15 +127,15 @@ If we try anyway, we get <span style="color: #ff0040">"×かき料理の広島�
 
 The が in this structure is a strongly exclusive が. This is a major difference between this structure and the ｢象は鼻が長い。｣ structure. We're specifying that it's Hiroshima, not any other place like Sendai or Hamamatsu, that's famous for its oyster dishes. 
 
->18\. <u>雷の発生は</u>、雲の中に電気が蓄えられることが原因だ。<br>*Thunder forms when electricity builds up inside of clouds.*
+>19\. <u>雷の発生は</u>、雲の中に電気が蓄えられることが原因だ。<br>*Thunder forms when electricity builds up inside of clouds.*
 
->19\. <u>経営は</u>、冬の本土出荷インゲンが主体ね。<br>*Our business mainly involves shipping green beans off to the mainland during the winter.*
+>20\. <u>経営は</u>、冬の本土出荷インゲンが主体ね。<br>*Our business mainly involves shipping green beans off to the mainland during the winter.*
 
->20\. <u>あの芝居は</u>, こいつが主役だ。<br>*For that production, he's the lead actor.*
+>21\. <u>あの芝居は</u>, こいつが主役だ。<br>*For that production, he's the lead actor.*
 
->21\. <u>商社は</u>人が財産。<br>*To corporations, people are capitol.*
+>22\. <u>商社は</u>人が財産。<br>*To corporations, people are capitol.*
 
->22\. 輸入攻勢もあるが、<u>消しゴムは</u>ほかの商品と違い、国産品が圧倒的に強いのが特徴だ。<br>*Of course there's overseas competition, but when it comes to erasers, Japan-made dominates the national market.*
+>23\. 輸入攻勢もあるが、<u>消しゴムは</u>ほかの商品と違い、国産品が圧倒的に強いのが特徴だ。<br>*Of course there's overseas competition, but when it comes to erasers, Japan-made dominates the national market.*
 
 ## <a name="jisho" style="text-decoration: none; pointer-events: none;">The ｢辞書は新しいのがいい。｣ Structure
 
@@ -149,23 +149,23 @@ Sentences of this structure can be categorized into two types: the selective typ
 
 ### The Selective Type
 
-｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure. The nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. Thus, selective-type sentences of this structure **use exclusive が**. Here are some more examples of selective-type sentences:
+｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure. The nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. Thus, selective-type sentences of this structure **use exclusive が**. (24) through (27) are examples of selective-type sentences.
 
->23\. <u>温泉は</u>、高台にある女性専用の露天風呂がお勧めだ。<br>*As for onsen, I recommend the open-air womens' baths that are high up.*
+>24\. <u>温泉は</u>、高台にある女性専用の露天風呂がお勧めだ。<br>*As for onsen, I recommend the open-air womens' baths that are high up.*
 
->24\. <u>同じ歳月成長した魚は</u>、大きいものより小さいもののほうが"年輪"が詰まっていて、コリコリして甘いのだそうだ。<br>*If the fish are the same age, I've heard smaller fish have more growth rings than bigger fish, so they're much crunchier and sweeter.*
+>25\. <u>同じ歳月成長した魚は</u>、大きいものより小さいもののほうが"年輪"が詰まっていて、コリコリして甘いのだそうだ。<br>*If the fish are the same age, I've heard smaller fish have more growth rings than bigger fish, so they're much crunchier and sweeter.*
 
->25\. <u>福祉機器は</u>高価・高度な品より年金の枠内で日常生活に密着して気軽に利用できる品が必要だ。<br>*When it comes to welfare equipment, we need things that can be integrated into everyday life and are affordable through pensions, rather than expensive, overengineered items.*
+>26\. <u>福祉機器は</u>高価・高度な品より年金の枠内で日常生活に密着して気軽に利用できる品が必要だ。<br>*When it comes to welfare equipment, we need things that can be integrated into everyday life and are affordable through pensions, rather than expensive, overengineered items.*
 
->26\. <u>辞書は</u>白水社がいい。<br>*When it comes to dictionaries, Hakusuisha is the way to go.*
+>27\. <u>辞書は</u>白水社がいい。<br>*When it comes to dictionaries, Hakusuisha is the way to go.*
 
 ### The Parallel Type
 
-The parallel type sentence of this structure, on the other hand, **does not use exclusive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects.
+The parallel type sentence of this structure, on the other hand, **does not use exclusive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が.
 
->25\. <u>全国製麺連が調べた一人当り麺類消費量の全国平均は</u>、うどんが年間1.9キロ、ラーメン類が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
+>28\. <u>全国製麺連が調べた一人当り麺類消費量の全国平均は</u>、うどんが年間1.9キロ、ラーメン類が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
 
->26\. <u>値段は</u>Lサイズが500円、Sサイスが300円だ。<br>*The large is 500 yen, and the small is 300 yen.*
+>29\. <u>値段は</u>Lサイズが500円、Sサイスが300円だ。<br>*The large is 500 yen, and the small is 300 yen.*
 
 ## <a name="mondai" style="text-decoration: none; pointer-events: none;">The ｢この問題は解くのが難しい。｣ Structure
 
@@ -177,13 +177,13 @@ In this structure, the topicalized element is **inside of a subordinate clause**
 
 In this structure, が is not exclusive.
 
->31\. 当時、<u>安藤さんは</u>経営していた食料品輸入会社が破産し無一文に近かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
+>30\. 当時、<u>安藤さんは</u>経営していた食料品輸入会社が破産し無一文に近かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
 
->32\. <u>この問題は</u>解いた人が何人もいる。<br>*Several people have solved this problem.*
+>31\. <u>この問題は</u>解いた人が何人もいる。<br>*Several people have solved this problem.*
 
->33\. <u>台風は</u>四国に上陸する可能性が高い。<br>*The typhoon has a high chance of making landfall at Shikoku.*
+>32\. <u>台風は</u>四国に上陸する可能性が高い。<br>*The typhoon has a high chance of making landfall at Shikoku.*
 
->34\. <u>ゴミの量は</u>増えているのが現状だ。<br>*The current situation is that the amount of garbage is increasing.*
+>33\. <u>ゴミの量は</u>増えているのが現状だ。<br>*The current situation is that the amount of garbage is increasing.*
 
 ## <a name="hana" style="text-decoration: none; pointer-events: none;">The ｢花が咲くのは7月ごろだ。｣ Structure
 
@@ -199,13 +199,13 @@ The "Adverb or Case-Marked Noun" in this structure is often some word/phrase tha
 
 Notice that because we can't put は directly after "花が咲く", we have to nominalize the clause first with の. This also happens with the sentence ｢辞書は新しいのがいい。｣. Common nominalizers include の, もの, 人, and ところ.
 
->27\. <u>俳句が流行したのは</u>、そのためである。<br>*That is the reason why haikus became popular.*
+>34\. <u>俳句が流行したのは</u>、そのためである。<br>*That is the reason why haikus became popular.*
 
->28\. <u>空席があっても客を入れないのは</u>、人手不足だからですよ。<br>*The reason nobody is being let in despite there being open seats is because we're understaffed.*
+>35\. <u>空席があっても客を入れないのは</u>、人手不足だからですよ。<br>*The reason nobody is being let in despite there being open seats is because we're understaffed.*
 
->29\. <u>フィリピンで終戦を迎えた竹内鉄男が復員してきたのは</u>、昭和二十一年だった。<br>*Takeuchi Tetsuo, who was in the Philippines when the war ended, was demobilized in 1946.*
+>36\. <u>フィリピンで終戦を迎えた竹内鉄男が復員してきたのは</u>、昭和二十一年だった。<br>*Takeuchi Tetsuo, who was in the Philippines when the war ended, was demobilized in 1946.*
 
->30\. <u>こんなに地球を悪くしているのは</u>、｢アメリカン・ドリーム｣ だ。<br>*The "American Dream" is killing the planet.*
+>37\. <u>こんなに地球を悪くしているのは</u>、｢アメリカン・ドリーム｣ だ。<br>*The "American Dream" is killing the planet.*
 
 
 
@@ -223,13 +223,13 @@ The reason we can't find the case structure for these kinds of sentences is beca
 
 Sometimes, we cannot reduce a sentence to its basic case marker structure because some portion of the sentence has been repeated before and after は, making it redundant. An example of this is:
 
->34\. <u>500円硬貨の両替は</u>、左側5番の機械で両替してください。<br>*To exchange 500 yen coins, please exchange them at machine number 5 to your left.*
+>38\. <u>500円硬貨の両替は</u>、左側5番の機械で両替してください。<br>*To exchange 500 yen coins, please exchange them at machine number 5 to your left.*
 
-The redundant portion of (34) is "両替" (exchange). This sentence is an overlapping of (35) and (36).
+The redundant portion of (38) is "両替" (exchange). This sentence is an overlapping of (39) and (40).
 
->35\. <u>500円硬貨の両替は</u>、左側5番の機械でしてください。<br>*To exchange 500 yen coins, please refer to machine number 5 to your left.*
+>39\. <u>500円硬貨の両替は</u>、左側5番の機械でしてください。<br>*To exchange 500 yen coins, please refer to machine number 5 to your left.*
 
->36\. <u>500円硬貨は</u>、左側5番の機械で両替してください。<br>*As for 500 yen coins, please exchange them at machine number 5 to your left.*
+>40\. <u>500円硬貨は</u>、左側5番の機械で両替してください。<br>*As for 500 yen coins, please exchange them at machine number 5 to your left.*
 
 By repeating a portion of this sentence, we can tell that the speaker may have been trying to make their message clearer.
 
@@ -237,31 +237,35 @@ By repeating a portion of this sentence, we can tell that the speaker may have b
 
 Another reason we might not be able to reduce a sentence to its case structure is because some portion of the sentence has been left out.
 
->37\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なんですね。<br>*What's great about our company is it's easygoing.*
+>41\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なんですね。<br>*What's great about our company is it's easygoing.*
 
-(37) would be a typical topic sentence if we instead structured it like in (38).
+(41) would be a typical topic sentence if we instead structured it like in (42).
 
->38\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なことなんですね。<br>*What's great about our company is that it's easygoing.*
+>42\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なことなんですね。<br>*What's great about our company is that it's easygoing.*
 
-You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topic-marking は. These sentences get their name from the prototypical sentence (39).
+You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topic-marking は. These sentences get their name from the prototypical sentence (43).
 
->39\. ｢<u>僕は</u>うなぎだ。｣<br>*"I'm eating eel."*
+>43\. ｢<u>僕は</u>うなぎだ。｣<br>*"I'm eating eel."*
 
 The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" (I) is the subject of this sentence, because then the sentence would literally mean, "I am an eel." 
 
-We can say that eel sentences are omissive-type sentences of this structure. (39) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence.
+We can say that eel sentences are omissive-type sentences of this structure. (43) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence, as in (44).
 
->40\. ｢<u>僕は</u>うなぎを食べている。｣<br>*"I'm eating eel."*
+>44\. ｢<u>僕は</u>うなぎを食べている。｣<br>*"I'm eating eel."*
 
 ### The Inexact Type
 
 Sentences with a comment that don't semantically serve as an exact explanation of the topic fall into this category.
 
->41\. <u>作り方は</u>、材料を弱火で1時間ほど煮込みます。<br>*As for its recipe, simmer the ingredients on low heat for one hour.*
+>45\. <u>作り方は</u>、材料を弱火で1時間ほど煮込みます。<br>*As for its recipe, simmer the ingredients on low heat for one hour.*
 
->42\. <u>練習は</u>、聞きだす回数を徐々に減らしていきましょう。<br>*As you practice, try gradually reducing the amount of questions you ask.*
+>46\. <u>練習は</u>、聞きだす回数を徐々に減らしていきましょう。<br>*As you practice, try gradually reducing the amount of questions you ask.*
 
-The topics in (41) and (42), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
+The topics in (45) and (46), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
+
+<h1 style="text-align:right;">
+  <a href="/wa-ga-addendum">Addendum: Atypical Noun Sentences...</a>
+</h1>
 
 # <a name="citations" style="text-decoration: none; pointer-events: none;">Citations
 

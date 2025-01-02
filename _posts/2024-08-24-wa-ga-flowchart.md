@@ -16,7 +16,7 @@ hidden: true
 
 # The Flowchart Model
 
-We can broadly categorize prior research findings about the Japanese topic into five main principles. 
+We can broadly categorize prior research findings about the Japanese topic into five main principles. There's no need to memorize these. 
 
 1. Exclusive が vs. Contrastive は (三上章 1963, 久野章 1973)
 2. Subordinate Clauses vs. Main Clauses (南不二男 1974)
@@ -75,7 +75,7 @@ Here is another example. 長友和彦 (1991) conducted a survey asking people to
 In our flowchart, this unpredictability in the examples above stems from the "Principle of Topic Presence" stage. However, there is slight unpredictability at all stages of the flowchart.
 
 <h1 style="text-align:right;">
-  <a href="/wa-ga-emphasis">Continued in 3. The Principle of Emphasis…</a>
+  <a href="/wa-ga-emphasis">Continued in 3. The Principle of Emphasis...</a>
 </h1>
 
 # Notes

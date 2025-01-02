@@ -106,12 +106,12 @@ In sentences with **adjacent** contrast, the predicates of the contrasted elemen
 
 Both of these usages of contrastive は are often connected with 〜が or 〜けど clauses. 
 
-Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (I). Thus, all usages of contrastive は in (9) and (10) don't mark a topic. But generally speaking, non-topical contrastive は is more common in sentences with opposite contrast than it is in ones with adjacent contrast.
+Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (I). None of the contrastive は in (9) and (10) following the topic "私は" mark the topic, so they are examples of type (c) は.
 
 
 ### Misfortunate Contrast
 
-Misfortunate contrast is a relatively minor usage of contrastive は that appears when something with negative connotations is being described, so it is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
+Misfortunate contrast is a relatively minor usage of explicit contrastive は that appears when something with negative connotations is being described, so it is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
 
 >11\. <u>家は</u>取られ、<u>妻には</u>逃げられた。<br>*They took my house, and my wife left me.<br>*
 
@@ -166,7 +166,7 @@ However, you may notice that in (19), the more contrastive は marks a 〜に el
 
 # <a name="contrast-neg" style="text-decoration: none; pointer-events: none;">Contrastive は in Negative Statements
 
-Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in ～じゃない, ～ていない, ～くない, ～ではない, ～じゃなくて, ～ません, ～ず, etc. For example, if we were to make the statement (24) negative, we would likely have to add contrastive は, as is shown in (25).
+Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in ～じゃない, ～ていない, ～くない, ～ではない, ～じゃなくて, ～ません, ～ず, etc. For example, if we were to make the statement (24) negative, it is natural to add contrastive は, as shown in (25).
 
 >24\. 日本の老人はシャワーでがまんできる。<br>*The elderly of Japan can tolerate showering.*
 
@@ -204,19 +204,23 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 Look at the structure of ｢日本の老人はシャワーではがまんできない。｣
 
-> ```日本の老人``` + ```は``` + (```シャワーでがまんできる``` + ```ない```)
+> ```日本の 老人``` + ```は``` + (```シャワーで がまんできる``` + ```ない```)
 
-The contrastive は (after シャワーで) is added as a result of ない acting upon the portion シャワーで. On the other hand, the structure of (28) is
+The contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで". 
+
+On the other hand, the structure of (28) is
 
 > ```ホタル``` + ```が``` + (```いる``` + ```ない```)
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known). However, exclusive が is used here because "この点" (this detail) is the comment of the sentence. More details about the difference between topicless sentences and specificational sentences will be discussed in [Principle of Topic Presence](wa-ga-topic-presence).
+No contrastive は is added in this sentence because ない does not act on anything before いる.
+
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known).
 
 The second case listed in the table, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
 >30\. 野上は、学生の頃から、<u>女がいないことが</u>なかった...それも、いつも複数で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
-The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Can the Clause Have a Topic?](#subord)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
+The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Levels of Subordination](wa-ga-subordination#levels)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
 
 # <a name="contrast-words" style="text-decoration: none; pointer-events: none;">Types of Words Contrastive は Can Mark
 
@@ -232,9 +236,9 @@ However, contrastive は cannot attach to the following cases:
 
 (32) and (33) are ungrammatical, because contrastive は are attaching to words marked by で expressing means and cause.
 
->32\. <span style="color: #ff0040"> ×きょうは<u>電車では</u>来なかった。</span>
+>32\. <span style="color: #ff0040"> ×きょうは<u>電車では</u>来なかった。</span><br>Intended reading: <span style="color: #ff0040">*Today, I didn't come by bus.*</span>
 
->33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u>休まなかった。</span>
+>33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u>休まなかった。</span><br>Intended reading: <span style="color: #ff0040">*Today, I didn't stay home because of my cold.*</span>
 
 If the speaker is mentioning some condition instead of a matter of fact, however, then contrastive は can attach to these cases. 
 
@@ -253,13 +257,13 @@ Now, let's take a look at which adverbs contrastive は can mark.
 | Mood | きっと, ぜひ | × | 
 | Quantity | 3人, 100円, ちょっと | ○ | 
 
->36\. <span style="color: #ff0040"> ×これは<u>たいへんは</u>面白くない。</span>
+>36\. <span style="color: #ff0040"> ×これは<u>たいへんは</u>面白くない。</span><br>Intended reading: <span style="color: #ff0040">*This is very uninteresting.*</span>
 
->37\. <span style="color: #ff0040"> ×<u>もうは</u>着いていないと思う。</span>
+>37\. <span style="color: #ff0040"> ×<u>もうは</u>着いていないと思う。</span><br>Intended reading: <span style="color: #ff0040">*I think they haven't arrived yet.*</span>
 
 >38\. <u>お昼ごろまでは</u>家にいた。<br>*I was at home until noon.*
 
->39\. <span style="color: #ff0040"> ×<u>きっとは</u>来ないと思う。</span>
+>39\. <span style="color: #ff0040"> ×<u>きっとは</u>来ないと思う。</span><br>Intended reading: <span style="color: #ff0040">*I think he will definitely not come.*</span>
 
 >40\. <u>二百本は</u>売れない。<br>*Two hundred copies is too much for me to sell.*
 
@@ -267,9 +271,9 @@ Now, let's take a look at which adverbs contrastive は can mark.
 
 Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, similarly to (34) and (35).
 
->42\. <span style="color: #ff0040"> ×<u>そっとは</u>手渡さなかった。</span>
+>42\. <span style="color: #ff0040"> ×<u>そっとは</u>手渡さなかった。</span><br>Intended reading: <span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
 
->43\. <u>そっとは</u>手渡せない。<br>*We can't hand it over without putting up a fight.*
+>43\. <u>そっとは</u>手渡せない。<br>*I can't hand it over without putting up a fight.*
 
 Contrastive は may also mark 〜て appearing in successive phrases (See [Successive Phrases](/wa-ga-subordination/#successive-phrases)).
 
@@ -328,7 +332,7 @@ Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusi
 
 >54\. わたしは<u>ジュースは</u>飲んだが、お酒は飲まなかった。<br>*I had juice, but no alcohol.*
 
->55\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span>
+>55\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span><br>Intended reading: <span style="color: #ff0040">*I did not drink alcohol, but juice.*</span>
 
 The following table details the markers of case-marked nouns that subjectivizing exclusive が may replace. The original case particles must be deleted and replaced with が.
 
@@ -374,7 +378,7 @@ Thus, contrastive は is not interchangeable with exclusive が in statements th
 
 
 <h1 style="text-align:right;">
-  <a href="/wa-ga-subordination">Continued in 4. The Principle of Subordination…</a>
+  <a href="/wa-ga-subordination">Continued in 4. The Principle of Subordination...</a>
 </h1>
 
 # Notes

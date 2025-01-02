@@ -7,6 +7,8 @@ tags: [japanese]
 published: false
 ---
 
+However, exclusive が is used here because "この点" (this detail) is the comment of the sentence. More details about the difference between topicless sentences and specificational sentences will be discussed in [Principle of Topic Presence](wa-ga-topic-presence).
+
 Another important thing to note about the ｢象は鼻が長い。｣ structure is that it's very common for the comment to express a **state** or **quality** of the topic instead of an **action**.
 
 Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. 
