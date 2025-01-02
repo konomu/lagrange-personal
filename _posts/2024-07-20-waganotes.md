@@ -7,6 +7,20 @@ tags: [japanese]
 published: false
 ---
 
+Another important thing to note about the ｢象は鼻が長い。｣ structure is that it's very common for the comment to express a **state** or **quality** of the topic instead of an **action**.
+
+Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. 
+
+>52\. <u>一人ひとり違っているお客様の味を的確に読みとって、お好みどおりの飲み物を作って差し上げるのが</u>私たちバーテンダーの仕事なんですよ。<br>*Our job as bartenders is to pick up on the subtleties of our customers' preferences, and to make and serve drinks that they will enjoy.*
+
+>28\. <u>大阪と京都の境から次第に川幅を広げ、堂々と街を横切りつつ大阪湾に流れ込むのが</u>淀川だ。広々とした河川敷の野草広場には天然記念物のイタセンパラやアユモドキなどの魚をはじめ、多くの野生生物が生息。<br>*The Yodo River gradually widens from the border between Osaka and Kyoto, cutting across cities before flowing into Osaka Bay. The spacious riverbed is home to many wildlife species, including fish such as the deepbody bitterling and the kissing loach, which are designated as natural monuments.*
+
+Sometimes, this structure can be used even if there is little exclusive nuance, as in (28). It is used in this case so that the topic, "淀川" (Yodo River) can be placed towards the end, closer to its following sentences which also take "淀川" as a topic.
+
+TODO:Figure out good referential/predicative definition
+Get rid of that weak exclusion example and replace it with a proper one.
+Replace "inverted sentence" with "specificational sentence."
+
 # [は and が: An In-Depth Guide](https://konomu.github.io/wa-ga-basics)
 
 This is my writing, but most material is from 『｢は｣ と ｢が｣』by Hisashi Noda. I believe it is probably the most comprehensive learner-oriented explanations of the Japanese topic system in English to date. I found that there was a lack of English resources on this subject that could accurately and adequately explain its intricacies, so this is an attempt to provide an accessible and easily digestible resource. There are 7 chapters of content, built around a flowchart model and prototypical sentences structures in Japanese. Feedback is appreciated.

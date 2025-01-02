@@ -75,12 +75,12 @@ Of the other six は structures introduced alongside the basic topic sentence st
 
 | Structure | Topicalized Part |
 |--|--|
-| ｢父はこの本を買ってくれた。｣| Case-marked Noun or Adverb |
-| **｢象は鼻が長い。｣**| Modifier of a Case-marked Noun |
+| ｢父はこの本を買ってくれた。｣| Case-Marked Noun or Adverb |
+| **｢象は鼻が長い。｣**| Modifier of a Case-Marked Noun |
 | **｢かき料理は広島が本場だ。｣**| Modifier of the Predicate |
-| **｢辞書は新しいのがいい。｣**| Modified Case-marked Noun |
-| **｢この問題は解くのが難しい。｣**| Element Inside Clause |
-| ｢花が咲くのは7月ごろだ。｣| Clause |
+| **｢辞書は新しいのがいい。｣**| Modified Case-Marked Noun |
+| **｢この問題は解くのが難しい。｣**| Element Inside Subordinate Clause |
+| ｢花が咲くのは7月ごろだ。｣| Subordinate Clause |
 | ｢このにおいはガスが漏れてるよ。｣| *n/a* |
 
 Notice that not all sentences that follow the pattern 〜は〜が... count as double-subject structures. For example, in the sentence ｢この本は父が買ってくれた。｣ (introduced in [Basic Topic Sentences](wa-ga-basics#topic-sentences)), "この本" is a topicalized object, not a subject.
@@ -100,8 +100,6 @@ Thus, the ｢象は鼻が長い。｣ structure is just another way of topicaliz
 ![Diagram showing topicalization of 象 in the case structure 象の鼻が長い(こと)](assets/img/zou.png)
 
 Notice that the が in this structure is just a subject-marking が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
-
-Another important thing to note about the ｢象は鼻が長い。｣ structure is that it's very common for the comment to express a **state** or **quality** of the topic instead of an **action**.
 
 >14\. <u>わが国で栽培されるトマトは</u>、ホルモン剤を利用することを前提に栽培管理技術ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
 
@@ -143,11 +141,11 @@ The が in this structure is a strongly exclusive が. This is a major differenc
 
 > 辞書は新しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
-Here's another structure that has the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case structure, we topicalize some **case-marked noun**, and the modifier of that element becomes the subject in the comment.
+Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case structure, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
 ![Diagram showing topicalization of 辞書 in the case structure 新しい辞書がいい(こと)](assets/img/jisho.png)
 
-There are two types of sentences that fall into this structure: the selective type and the parallel type.
+Sentences of this structure can be categorized into two types: the selective type and the parallel type.
 
 ### The Selective Type
 
@@ -215,11 +213,11 @@ Notice that because we can't put は directly after "花が咲く", we have to n
 
 > このにおいはガスが漏れてるよ。<br>*This smell must be a gas leak.*
 
-This structure is the rarest of all the ones we've seen so far. Some linguists even consider it ungrammatical. But as you will see later, these sentences have legitimate functions. This structure covers sentences like ｢このにおいはガスが漏れてるよ。｣. 
+This structure is rarely seen in written language. Some linguists even consider it ungrammatical, but it has legitimate functions. It covers sentences like ｢このにおいはガスが漏れてるよ。｣. 
 
 If we try to work backward to uncover the case structure of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case structure.
 
-The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. We can't construct a topicalization chart for this structure, so instead, here's a primer on the three major types of this structure you will encounter.
+The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. We can't construct a topicalization chart for this structure, so instead, we'll look at three major types of this structure you will encounter.
 
 ### The Redundant Type
 
@@ -254,8 +252,6 @@ The context is that someone says this in response when a waiter asks who ordered
 We can say that eel sentences are omissive-type sentences of this structure. (39) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence.
 
 >40\. ｢<u>僕は</u>うなぎを食べている。｣<br>*"I'm eating eel."*
-
-This type of sentence occurs often in spoken Japanese. 
 
 ### The Inexact Type
 

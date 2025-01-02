@@ -3,16 +3,18 @@ toc2:
     subfolderitems:
       - page: Primary Functions
         url: /wa-ga-basics#pri
-      - page: Secondary Functions
-        url: /wa-ga-basics#sec
       - page: Topicalization
         url: /wa-ga-basics#topicalization
+      - page: Secondary Functions
+        url: /wa-ga-basics#sec
+      - page: Sentence Structures
+        url: /wa-ga-basics#structures
       - page: Basic Topic Sentence Structure
         url: /wa-ga-basics#topic-sentences
       - page: Topicless Sentence Structure
         url: /wa-ga-basics#topicless-sentences
-      - page: Inverted Topic Sentence Structure
-        url: /wa-ga-basics#inverted-sentences
+      - page: Specificational Sentence Structure
+        url: /wa-ga-basics#spec-sentences
   - title: 2. The Flowchart Model
     subfolderitems:
       - page: Full Flowchart
@@ -45,7 +47,7 @@ toc2:
         url: /wa-ga-subordination#levels
   - title: 5. Principle of Topic Presence
     subfolderitems:
-      - page: Is the Topic Present?
+      - page: Is There a Topic?
         url: /wa-ga-topic-presence
       - page: Topic Sentences
         url: /wa-ga-topic-presence#topic-sentences
@@ -63,7 +65,7 @@ toc2:
         url: /wa-ga-topic-position#where-placed
       - page: How to Tell When Inversion is Possible
         url: /wa-ga-topic-position#spec-sup
-      - page: When to Use Inverted Sentences
+      - page: When to Use Specificational Sentences
         url: /wa-ga-topic-position#when-to-invert
   - title: 7. Other Important Usages
     subfolderitems:
@@ -75,3 +77,15 @@ toc2:
         url: /wa-ga-other#additional
       - page: Citations and Further Reading
         url: /wa-ga-other#citations
+  - title: 8. Atypical Noun Sentences
+    subfolderitems:
+      - page: Addendum
+        url: /wa-ga-addendum
+      - page: Neutral-Description Noun Sentences
+        url: /wa-ga-addendum#ndns
+      - page: Enumeration and Breakdown
+        url: /wa-ga-addendum#enumeration
+      - page: Identificational Sentences
+        url: /wa-ga-addendum#identification
+      - page: Presentational Sentences
+        url: /wa-ga-addendum#presentation

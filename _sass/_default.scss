@@ -34,7 +34,7 @@ section {
 .slanted {
   display: inline-block; /* Ensures transform applies correctly */
   transform: rotate(-5deg) skew(-5deg);
-  background-color: magenta;
+  background-color: $link-color;
   padding: 0.7rem 1.5rem 1rem;
   margin-bottom: 1rem;
   position: relative;

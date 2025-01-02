@@ -100,16 +100,18 @@ In the following examples, (9) shows opposite contrast, and (10) shows adjacent 
 
 >10\. 私は<u>肉は</u>スーパーで買い、<u>魚は</u>市場で買う。<br>*I buy meat at the supermarket, but I buy fish at the street market.*
 
-In sentences with opposite contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate. They may also be predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (like) and "好きではない" (don't like). In sentences with adjacent contrast, the predicates of the contrasted elements are similar but express some subtle differences. This is illustrated in example (10), where the predicates are both "買う" (buy), but the location where the food is bought is different. Opposite contrast is more common than adjacent contrast.
+In sentences with **opposite** contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate. They may also be predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (like) and "好きではない" (don't like). 
 
-These usages of contrastive は are often connected with 〜が or 〜けど clauses. 
+In sentences with **adjacent** contrast, the predicates of the contrasted elements are similar but express some subtle differences. This is illustrated in example (10), where the predicates are both "買う" (buy), but the location where the food is bought is different.
+
+Both of these usages of contrastive は are often connected with 〜が or 〜けど clauses. 
 
 Both (9) and (10) show contrastive は marking objects, while the topic of the sentence is "私" (I). Thus, all usages of contrastive は in (9) and (10) don't mark a topic. But generally speaking, non-topical contrastive は is more common in sentences with opposite contrast than it is in ones with adjacent contrast.
 
 
 ### Misfortunate Contrast
 
-This is a relatively minor usage of contrastive は that appears when something with negative connotations is being described. It is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
+Misfortunate contrast is a relatively minor usage of contrastive は that appears when something with negative connotations is being described, so it is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
 
 >11\. <u>家は</u>取られ、<u>妻には</u>逃げられた。<br>*They took my house, and my wife left me.<br>*
 
@@ -198,7 +200,7 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 >29\. ウイルスのプログラムは、単に行動形態がウイルスに似ているから、そう名付けられているだけで、あらかじめプログラムの上で決められた行動をする以外の何者でもない。そして、自然界に存在するウイルスと違って、人間が作ったものだということである。<u>この点が</u>、意外と知られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
-(28) is a topicless sentence, while (29) is an inverted topic sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence "ホタルがいる" which is negated, but only the word "いる". "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
+(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence "ホタルがいる" which is negated, but only the word "いる". "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
 
 Look at the structure of ｢日本の老人はシャワーではがまんできない。｣
 
@@ -208,7 +210,7 @@ The contrastive は (after シャワーで) is added as a result of ない actin
 
 > ```ホタル``` + ```が``` + (```いる``` + ```ない```)
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known). However, exclusive が is used here because "この点" (this detail) is the comment of the sentence. More details about the difference between topicless sentences and inverted topic sentences will be discussed in [Principle of Topic Presence](wa-ga-topic-presence).
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known). However, exclusive が is used here because "この点" (this detail) is the comment of the sentence. More details about the difference between topicless sentences and specificational sentences will be discussed in [Principle of Topic Presence](wa-ga-topic-presence).
 
 The second case listed in the table, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
@@ -310,9 +312,9 @@ With weak exclusion, whatever is marked by exclusive が is still being singled 
 
 >51\. <u>君が</u>主役だ。<br>*You're the lead actor.*
 
->52\. <u>一人ひとり違っているお客様の味を的確に読みとって、お好みどおりの飲み物を作って差し上げるのが</u>私たちバーテンダーの仕事なんですよ。<br>*Our job as bartenders is to pick up on the subtleties of our customers' preferences, and to make and serve drinks that they will enjoy.*
+>52\. 暇を見つけては遊ぶ。<u>これが</u>仕事の極意!<br>*Slack off whenever you have the chance. That is the secret to working!*
 
-(51) and (52) are both inverted sentences. Sentences with weak exclusion will always be inverted sentences, but not all inverted sentences will exhibit weak exclusion.
+(51), (52), and the previous example (29) are all specificational sentences with weak exclusion.
 
 Another case where weak exclusion appears is in commands where the subject is explicitly stated. It's rare for the subject to be mentioned in commands, so when it is, it's likely because the speaker is specifying who should carry out the command, adding exclusive nuance.
 

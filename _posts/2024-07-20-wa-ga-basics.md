@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: "は and が - An In-Depth Guide"
+title: "A Guide to は and が"
 author: "konomu"
 categories: journal
 tags: [japanese]
-image: hatoga.jpg
+image: hatoga1.jpg
 ---
 
 This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚史) published works『｢は｣ と ｢が｣』(1996) and『文の構造と機能からみた日本語の主題』(1998), including his model for the nine sentence structures and their syntax. The flowchart model is loosely based on the flowchart in these books. Unless explicitly mentioned, all examples I feature here are examples from these two books. If you wish to go further into this topic, I recommend purchasing [a copy of『｢は｣ と ｢が｣』](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X).
@@ -79,9 +79,9 @@ Exclusive が is a special usage of が that **emphasizes** what it's marking. T
 
 The sentence above clarifies that it's not Osaka, but Kobe that has better stores.
 
-You'll learn more about exclusive が when we go over the [ ｢君が主役だ。｣ structure](#inverted-sentences) and the [Principle of Emphasis](/wa-ga-emphasis).
+You'll learn more about exclusive が when we go over the [ ｢君が主役だ。｣ structure](#spec-sentences) and the [Principle of Emphasis](/wa-ga-emphasis).
 
-# Sentence Structure
+# <a name="structures" style="text-decoration: none; pointer-events: none;">Sentence Structures
 
 All sentences in Japanese that use は or が can be categorized into one of nine structures, each represented by one of the following sentences.
 
@@ -150,15 +150,15 @@ Some usages of ｢〜で｣, ｢〜へ｣, and ｢〜と｣ cannot be topicalize
 
 > 富士山が見えるよ。<br>*I can see Mount Fuji.*
 
- ｢富士山が見えるよ。｣ is a sentence that **does not feature a topic within it**. We call these types of sentences **topicless sentences**. Naturally, the sentences of this structure will have **subject-marking が**. 
+ ｢富士山が見えるよ。｣ is a sentence that **does not feature a topic within it**. We call these types of sentences **topicless sentences**. Naturally, the sentences of this structure will have **subject-marking が**.
 
 ![Diagram showing structure of  ｢富士山が見えるよ。｣](assets/img/fuji.png)
 
 Topicless sentences may rely on previous sentences or the environmental context as their topic. We call them topicless sentences because a topic isn't contained within them, but strictly speaking, they are usually stand-alone comments which mention something about a topic. For example, the topic of ｢富士山が見えるよ。｣ may be a previous sentence like, ｢そこの景色はどうだ？｣ ("How's the view over there?"). Previous sentences do not need to contain topic-marking は to establish a topic.
 
-These sentences only come up in certain cases. Usually, we may use subject-marking が in topicless sentences when the subject is being introduced to the listener, something unexpected happens, or to change the topic. There are three broad categories of situations where topicless sentences may be used.
+There are three broad categories of topicless sentences.
 
-#### Descriptions of Something Perceptible
+### Descriptions of Something Perceptible
 
 A sentence fits into this category when it describes something that the speaker can directly see or perceive. These sentences appear often in spoken Japanese.
 
@@ -170,13 +170,13 @@ Sentences that describe perceptible events that will happen very soon also fall 
 
 >16\. いいか...今...<u>血管が</u>ふさがる<br>*Listen... his veins will constrict soon...*
 
-#### Descriptions of Events
+### Descriptions of Events
 
 A sentence fits into this category when it describes an event that the speaker cannot directly see or perceive. This may be something that happened in the past, right now, or even in the future that the speaker cannot perceive. The event cannot be permanent, it has to happen within a given frame of time. These sentences appear often in written Japanese.
 
 >17\. きのう<u>合格発表が</u>あった。<br>*The exam results were announced yesterday.*
 
-#### Descriptions of Consequences
+### Descriptions of Consequences
 
 A sentence fits into this category when it describes something that will happen if some other condition is fulfilled.
 
@@ -198,7 +198,7 @@ We'll learn more about when to use a topic in [Principle of Subordination](wa-ga
 
 >23\. ｢そういえば今朝、君が帰ってすぐお袋から<u>電話が</u>あったよ｣<br>*"Now that you mention it, my mother did call me this morning as soon as you got home."*
 
-# <a name="inverted-sentences" style="text-decoration: none; pointer-events: none;">｢君が主役だ。｣: Inverted Topic Sentences
+# <a name="spec-sentences" style="text-decoration: none; pointer-events: none;">｢君が主役だ。｣: Specificational Sentences
 
 > 君が主役だ。<br>*You're the lead actor.*
 
@@ -206,15 +206,17 @@ The sentence ｢君が主役だ。｣ has no topic-marking は, but it'd be inac
 
 [^4]:Since 野田 (1996) was published it has been contested whether or not this structure contains a topic; namely, by 天野 (1998) through grounds that this topic is actually a presuppositional phrase (前提句). The classification of copular sentences found in 今田 (2010) also uses this convention. 丹羽 (2007) claims that its predicate is the topic in meaning, and not the syntactic topic.
 
-This is what we call an **inverted sentence**.[^5] This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
+This is what we call an **specificational sentence**.[^5] This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the subject-marking が we saw in topicless sentences.
 
-[^5]:This term is a personal choice and may be confusing to people who are already familiar with research in Japanese grammar. This structure is known as a specificational sentence (指定文), which is the inverse of inverted specificational sentences (倒置指定文). Both the predicational sentence (措定文) and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
+[^5]:The specificational sentence (指定文) is the inverse of inverted specificational sentences (倒置指定文). In Noda's sentence typology, it does not differentiate between the inverted specificational sentence and the predicational sentence (措定文), both of which we consider to be "basic topic sentences." The section on [how to tell when inversion is possible](wa-ga-topic-position#spec-sup) is dedicated to teaching how to differentiate between the two, but I avoided alluding to 措定, as Noda also does. Both the predicational sentence and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
 
 ![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.png)
 
-Remember that exclusive が functions as a way of **emphasizing** something. With this usage of が, whatever exclusive が marks is singled out from a set of other things. We are specifying that "You, not someone else, are the lead actor." However, the nuance of exclusion in this specific sentence is relatively weak, because we haven't talked about any other person who could be the lead actor in the context of this example (See [Types of Exclusion](/wa-ga-emphasis#exclusion-types)). 
+Remember that exclusive が functions as a way of **emphasizing** something. With this usage of が, whatever exclusive が marks is singled out from a set of other things. We are specifying that "You, not anyone else, are the lead actor."[^6]
 
-One way of interpreting the sentence ｢君が主役だ。｣ is to derive it from the sentence ｢主役は君だ。｣. **These two sentences have approximately the same meaning.** To achieve this, all we have to do is to reverse the order of the topic and the comment, and then replace は with exclusive が. This process is known as **inversion**, and it's why we call sentences of this structure inverted sentences.
+[^6]:However, the nuance of exclusion in this specific sentence is relatively weak, because we haven't talked about any other person who could be the lead actor in the context of this example (See [Types of Exclusion](/wa-ga-emphasis#exclusion-types)). 
+
+One way of interpreting the specificational sentence ｢君が主役だ。｣ is to derive it from the sentence ｢主役は君だ。｣. These two sentences have approximately the same meaning. To achieve this, all we have to do is to reverse the order of the topic and the comment, and then replace は with exclusive が. This process is known as **inversion**. If a sentence with は is inverted, it becomes a specificational sentence.
 
 ![Diagram showing inversion of 主役は君だ。](assets/img/kimi.png)
 
@@ -222,25 +224,21 @@ A typical topic sentence takes the structure of
 
 > `Topic` + `は` + `Comment`
 
-whereas the inversion of this topic sentence will take on the structure
+whereas the inversion of this topic sentence, the specificational sentence, will take on the structure
 
 > `Comment` + `Exclusive が` + `Topic`
 
-### Examples of Inverted Sentences
+### Examples of Specificational Sentences
 
 >24\. ｢あ、<u>あれが</u>、おれのところに来た女性記者だよ｣<br>*"Sh- She's the journalist that came to my office!"*
 
->25\. ｢<u>そこが</u>出口よ。｣と彼女は言った。<br>*"The exit's that way," she said.*
+>25\. ｢<u>そこが</u>出口よ。｣<br>*"The exit's that way."*
 
 >26\. ｢<u>これが</u>君の言っていた大変なことなのかい？｣<br>*"Is this the 'big problem' you were getting worked up about?"*
 
 >27\. ｢この映画観ましたよ。｣と僕は言った。<br>｢<u>誰が</u>出てるの？｣<br>*"I've seen this movie before," I said.<br>"Who's in it?"*
 
->28\. <u>大阪と京都の境から次第に川幅を広げ、堂々と街を横切りつつ大阪湾に流れ込むのが</u>淀川だ。広々とした河川敷の野草広場には天然記念物のイタセンパラやアユモドキなどの魚をはじめ、多くの野生生物が生息。<br>*The Yodo River gradually widens from the border between Osaka and Kyoto, cutting across cities before flowing into Osaka Bay. The spacious riverbed is home to many wildlife species, including fish such as the deepbody bitterling and the kissing loach, which are designated as natural monuments.*
-
-Sometimes, this structure can be used even if there is little exclusive nuance, as in (28). It is used in this case so that the topic, "淀川" (Yodo River) can be placed towards the end, closer to its following sentences which also take "淀川" as a topic.
-
-You'll learn more about inverted sentences in [When to Use Inverted Sentences](/wa-ga-topic-position#when-to-invert).
+You'll learn more about specificational sentences in [When to Use Specificational Sentences](/wa-ga-topic-position#when-to-invert).
 
 
 <h1 style="text-align:right;">

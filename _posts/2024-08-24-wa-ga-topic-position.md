@@ -142,11 +142,11 @@ In (11), "俺" (I) is topicalized as familiar information because it refers to t
 
 In (12), "同駅" (the station of the same name) is topicalized because it is related to "西宮名塩" (Nishinomiya-Najio), a town which was mentioned in the previous sentence.
 
-Some sentences violate this rule. In this next example, an inverted sentence, familiar information is marked by exclusive が, making it the comment.
+Some sentences violate this rule. In this next example, an specificational sentence, familiar information is marked by exclusive が, making it the comment.
 
->13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes in weather. This is why weather forecasts are sometimes off.*
+>13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes. This is why weather forecasts are sometimes off.*
 
-The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule. In fact, it is very common for inverted sentences to express familiar information as its comment.
+The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule. In fact, it is very common for specificational sentences to express familiar information as its comment.
 
 # <a name="where-placed" style="text-decoration: none; pointer-events: none;">Where is the Topic Placed?
 
@@ -160,26 +160,26 @@ Likewise, we can topicalize the clause "この本を買ってくれた" (bought 
 
 >15\. <u>この本を買ってくれたの</u><b>は</b>父だ。
 
-[Inverting](wa-ga-basics/#kimi) this sentence will then give us
+[Inverting](wa-ga-basics/#kimi) this sentence will then give us (16).
 
 >16\. 父<b>が</b><u>この本を買ってくれたのだ</u>。
 
-which is the same structure as ｢君が主役だ。｣. 
+Thus, the usage of は/が changes depending on what part of the sentence the topic is in. If the topic is **before** the predicate, it is marked by は. If the topic **is** the predicate, the subject will be marked with exclusive が. Remember that sentences with the topic in the predicate like (16) are called **specificational sentences**.
 
-Thus, the usage of は/が changes depending on what part of the sentence the topic is in. If the topic is **before** the predicate, it is marked by は. If the topic **is** the predicate, the subject will be marked with exclusive が. Remember that sentences with the topic in the predicate are called **inverted sentences**.
+Notice how (15) and (16) have **approximately the same meaning**. In many cases, a sentence and its inversion are interchangeable, but there are certain tendencies towards which version of the sentence is more likely to be expressed depending on context and what kinds of words are contained in it.
 
-Notice how (2) and (3) have **approximately the same meaning**. In many cases, a sentence and its inversion are interchangeable, but there are certain tendencies towards which version of the sentence is more likely to be expressed depending on context and what kinds of words are contained in it.
-
-Not all sentences make sense when they're inverted. Before we go over when to use inverted sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
+Not all sentences make sense when they're inverted. Before we go over when to use specificational sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
 
 # <a name="spec-sup" style="text-decoration: none; pointer-events: none;">How to Tell When Inversion is Possible
 
-To find out when it's possible to invert a sentence, we need to look at the meaning of its topic and comment. In topic sentences, the topic is either **referential** or **predicative**. If the topic is referential, the comment is predicative; and if the comment is referential, then the topic is predicative.
+First of all, if a sentence is specificational (i.e. uses exclusive が), it is already inverted, and we know for certain that it can be uninverted. 
+
+For sentences with は, it may not be obvious if we can invert the sentence. To find out when it's possible to invert a basic topic sentence into a specificational sentence, we need to look at the meaning of its topic and comment. The topic is either **referential** or **predicative**. If the topic is referential, the comment is predicative; and if the comment is referential, then the topic is predicative.
 
 |  | Definition | If Topicalized |
 | :----: | ---- |
 | Referential | Some individual object/concept | Sentence <b>cannot</b> be inverted |
-| Predicative | Some aspect/category of <br>the referential element | Sentence <b>can</b> be inverted |
+| Predicative | Some aspect, category, or role<br>of the referential element | Sentence <b>can</b> be inverted |
 
 Let's look at a sentence that can't be inverted. Consider sentence (17) and its inversion (18).
 
@@ -189,7 +189,7 @@ Let's look at a sentence that can't be inverted. Consider sentence (17) and its 
 
 The topic in (17) and (18) is "ビルの高さ" (the height of the building), and the comment is "85m" (85 meters). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
 
-Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (you) is the referential element, and "主役" (lead actor) is the predicative element. Since the predicative element is the topic, this sentence can be inverted.
+Now let's go back to our classic example ｢君が主役だ。｣. In this sentence, "君" (you) is the referential element, and "主役" (lead actor) is the predicative element because it is the "role" of "君." Since the predicative element is the topic, this sentence can be inverted.
 
 >19\. <u>主役は</u>君だ。<br>20\. <u>君が</u>主役だ。<br>*You're the lead actor.*
 
@@ -211,25 +211,25 @@ Adjectives and verbs are always predicative in this system. In other words, it's
 
 >27\. <u>いちばんいいのは</u>ダイヤだ。<br>28\. <u>ダイヤが</u>いちばんいい。<br>*Diamonds are the best.*
 
-# <a name="when-to-invert" style="text-decoration: none; pointer-events: none;">When to Use Inverted Sentences
+# <a name="when-to-invert" style="text-decoration: none; pointer-events: none;">When to Use Specificational Sentences
 
 When it comes to inversion, there are three types of sentences:
 
 <ol type="a">
-  <li>Sentences that can't be inverted sentences</li>
-  <li>Sentences that are sometimes inverted sentences</li>
-  <li>Sentences that are often inverted sentences</li>
+  <li>Sentences that <b>cannot</b> be inverted or expressed as specificational sentences</li>
+  <li>Sentences that <b>can</b> be inverted and are <b>sometimes</b> expressed as specificational sentences</li>
+  <li>Sentences that <b>can</b> be inverted and are <b>often</b> expressed as specificational sentences</li>
 </ol> 
 
-We just learned how to identify sentences that can't be inverted (a). Now, let's go over sentences in type (b) and (c).
+We just learned how to identify sentences that can't be inverted, which necessarily fall into category (a). Now, let's go over sentences in type (b) and (c).
 
-| Sometimes Inverted Sentences | Often Inverted Sentences |
+| Sometimes Specificational | Often Specificational |
 | ---- |
-| - Sentences with a noun topic<br>- Sentences with a verb topic (nominalized or not)<br>- Sentences in which the comments are the details of topics like 特徴 or 原因  | - Sentences with an adjective topic (nominalized or not)<br>- Sentences in which the comment is familiar information<br>- Sentences in which the comment is an interrogative word |
+| - Sentences with a noun topic<br>- Sentences with a verb topic (nominalized or not)<br>- Sentences in which the comment is the <br>details of topics like 特徴 or 原因  | - Sentences with an adjective topic (nominalized or not)<br>- Sentences in which the comment is familiar information<br>- Sentences in which the comment is an interrogative word |
 
-Example (23) falls into type (b) (sometimes inverted sentences) because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than its inversion ｢漏電がその火事の原因だ。｣.
+Example (23) falls into type (b) (sometimes specificational) because it has a noun topic, and its comment expresses the details of the topic "原因". You are more likely to see ｢その火事の原因は漏電だ。｣ than its inversion ｢漏電がその火事の原因だ。｣.
 
-(29) also falls into type (b), because it has a verb topic (nominalized). You are more likely to see ｢そう言ったのは山田だ。｣ than its inversion ｢山田がそう言ったのだ。｣.
+(29) also falls into type (b), because it has a (nominalized) verb topic. You are more likely to see ｢そう言ったのは山田だ。｣ than its inversion ｢山田がそう言ったのだ。｣.
 
 >29\. <u>そう言ったのは</u>山田だ。<br>*Yamada said that.*
 
@@ -237,19 +237,19 @@ In (30), the second sentence is type (c).
 
 >30\. ｢バリバリしゃぶりついてるじゃないの、いつもは。｣<br>｢<u>そう、しゃぶりつくのが</u>、本当は一番おいしいんだよ。｣<br>*"Why do you always suck on it like that?"<br>"It tastes better when you suck on it."*
 
-Although its topic is a nominalized adjective, the sentence is expressed as an inverted sentence because its topic is nonetheless derived from an adjective. The last example in the previous section, (27), is also more commonly expressed as an inverted sentence because its topic is an adjective.
+Although its topic is a nominalized adjective, the sentence is expressed as an specificational sentence because its topic is nonetheless derived from an adjective. The last example in the previous section, (27), is also more commonly expressed as an specificational sentence because its topic is an adjective.
 
 Sometimes, you'll have conflicting principles in the same sentence.
 
 >31\. <u>これが</u>そばの実です。<br>*This is buckwheat grain.*
 
-In (31), the topic is a noun, but the comment "これ" refers to familiar information.[^4] In this case, the rule about familiar information is taking precedence, making it an inverted sentence of type (c). The uninverted ｢そばの実はこれです。｣ is also possible, but less common.
+In (31), the topic is a noun, but the comment "これ" refers to familiar information.[^4] In this case, the rule about familiar information is taking precedence, making it an specificational sentence of type (c). The uninverted ｢そばの実はこれです。｣ is also possible, but less common.
 
 [^4]: This sentence violates the principle of topicalizing familiar information, like the example (16) in [Choosing the Topic: Context-level Considerations](#cclc)
 
 >32\. 結局<u>どちらが</u>勝ったんですか？<br>*So, who won in the end?*
 
-(32) has a nominalized verb predicate, but it also has an interrogative word as its comment. Here, the rule about interrogative words is taking precedence, making it an inverted sentence of type (c). The uninverted ｢結局勝ったのはどちらですか？｣ is also possible, but less common.
+(32) has a nominalized verb predicate, but it also has an interrogative word as its comment. Here, the rule about interrogative words is taking precedence, making it an specificational sentence of type (c). The uninverted ｢結局勝ったのはどちらですか？｣ is also possible, but less common.
 
 <h1 style="text-align:right;">
   <a href="/wa-ga-other">Continued in 7. Other Usages and More は Structures…</a>
