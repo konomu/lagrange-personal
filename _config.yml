@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'コノム'
-description:	       'written'
-author:              'konomu © 2025'
+description:	       'konomu&#39;s notebook'
+author:              'C.L. © 2025'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

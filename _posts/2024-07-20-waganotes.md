@@ -19,9 +19,9 @@ Usually, we may use subject-marking が in topicless sentences when the subject 
 
 Sometimes, this structure can be used even if there is little exclusive nuance, as in (28). It is used in this case so that the topic, "淀川" (Yodo River) can be placed towards the end, closer to its following sentences which also take "淀川" as a topic.
 
-TODO:Figure out good referential/predicative definition
-Get rid of that weak exclusion example and replace it with a proper one.
-Replace "inverted sentence" with "specificational sentence."
+TODO: Maybe change example formatting so it uses one blockquote.
+change title and desc
+fix error example on basics
 
 # [は and が: An In-Depth Guide](https://konomu.github.io/wa-ga-basics)
 
@@ -204,6 +204,8 @@ modifier yellow: ffff70
 predicate red: ff7777
 
 subordinate blue: b2ffff
+
+<blockquote><p><code><span style="color: #fbafff">Topic(</span><span style="color: #8bffcc">Subject</span><span style="color: #fbafff">)</span></code> + <code>は</code> + <code><span style="color: #8290ff">Comment(</span><span style="color: #8bffcc">Subject</span> + が + <span style="color: #ff7777">Predicate</span><span style="color: #8290ff">)</span></code></p></blockquote>
 
 
 

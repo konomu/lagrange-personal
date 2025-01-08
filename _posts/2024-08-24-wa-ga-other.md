@@ -64,11 +64,11 @@ hidden: true
 
 **Questions have a tendency to be topic sentences.** As we learned in [Topicless Sentences](/wa-ga-basics#topicless-sentences), sentences without a topic usually fall into one of three categories: descriptions of something perceptible, descriptions of events, and descriptions of consequences. All three of these encompass descriptions, and it is unnatural to question something as if you are describing it.
 
->12\. <u>太郎は</u>来ましたか。<br>*Has Tarou come?*<br><br>13\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br>Intended reading: <span style="color: #ff0040">*Tarou has come?*</span>
+>12\. <u>太郎は</u>来ましたか。<br>*Has Tarou come?*<br><br>13\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br><span style="color: #ff0040">*Tarou has come?*</span>
 
 However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them.
 
->14\. ワハハ、陰気の夕立はいい、<u>夕立のあと虹が</u>立ちますか？<br>*Haha, I don't mind the gloomy showers, but does the rainbow appear afterward?*
+>14\. ワハハ、陰気の夕立はいい、<u>夕立のあと虹が</u>立ちますか？<br>*Haha, I don't mind the gloomy showers, but does a rainbow appear afterward?*
 
 # <a name="additional" style="text-decoration: none; pointer-events: none;">Additional は structures
 
@@ -100,7 +100,7 @@ Thus, the ｢象は鼻が長い。｣ structure is just another way of topicaliz
 
 ![Diagram showing topicalization of 象 in the case structure 象の鼻が長い(こと)](assets/img/zou.png)
 
-Notice that the が in this structure is just a subject-marking が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
+Notice that the が in this structure is just a descriptive が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
 
 >15\. <u>わが国で栽培されるトマトは</u>、ホルモン剤を利用することを前提に栽培管理技術ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
 
@@ -190,7 +190,7 @@ In this structure, が is not exclusive.
 
 > 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
 
-What sets this structure apart from the other structures introduced in this chapter is that the topic in this one is a **clause**. Also, it is not a double-subject structure.
+This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause**. Formally, this structure is known as a "cleft sentence."
 
 ![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
@@ -198,7 +198,7 @@ The function of this sentence is that the predicate "7月ごろ" (around July) i
 
 The "Adverb or Case-Marked Noun" in this structure is often some word/phrase that expresses the reason or time for whatever is in the clause. 
 
-Notice that because we can't put は directly after "花が咲く", we have to nominalize the clause first with の. This also happens with the sentence ｢辞書は新しいのがいい。｣. Common nominalizers include の, もの, 人, and ところ.
+Notice that because we can't put は directly after "花が咲く," we have to nominalize the clause first with の. This also happens with the sentence ｢辞書は新しいのがいい。｣. Common nominalizers include の, もの, 人, and ところ.
 
 >34\. <u>俳句が流行したのは</u>、そのためである。<br>*That is the reason why haikus became popular.*
 
@@ -244,11 +244,11 @@ Another reason we might not be able to reduce a sentence to its case structure i
 
 >42\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なことなんですね。<br>*What's great about our company is that it's easygoing.*
 
-You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topic-marking は. These sentences get their name from the prototypical sentence (43).
+You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topical は. These sentences get their name from the prototypical sentence (43).
 
 >43\. ｢<u>僕は</u>うなぎだ。｣<br>*"I'm eating eel."*
 
-The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" (I) is the subject of this sentence, because then the sentence would literally mean, "I am an eel." 
+The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" (I) is the strict subject of this sentence, because then the sentence would literally mean, "I am an eel." 
 
 We can say that eel sentences are omissive-type sentences of this structure. (43) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence, as in (44).
 
@@ -264,9 +264,26 @@ Sentences with a comment that don't semantically serve as an exact explanation o
 
 The topics in (45) and (46), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
 
+# EXTRA: The Generic ｢～は～が...｣ Structure
+
+From all of the double-subject structures I described above and the examples discussed in [Basic Topic Sentences](wa-ga-basics#topic-sentences), we can make a generalization to make thinking about them easier. All double-subject sentences that take the form ｢～は～が...｣ will have the basic structure:
+
+> `Topic(Subject)` + `は` + `Comment(Subject + が + Predicate)`
+
+I explained four different double-subject structures, but all of them primarily lead to the same generic ｢～は～が...｣ structure above, even though the information contained in each of these distinct structures is derived differently from their case structures.
+
+There is also a set of ｢～は～が...｣ sentences that come from the [Basic Topic Sentence](wa-ga-basics#topic-sentences) structures, where the element marked by は is not necessarily a subject, but may be some other case-marked noun or adverb.
+
+> `Topic(Object)` + `は` + `Comment(Subject + が + Predicate)`
+
+> `Topic(Adverb)` + `は` + `Comment(Subject + が + Predicate)`
+
+All of these structures are very similar, only differing in the case of the topic. This is why some textbooks introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a topic first, without having them think about the underlying case structure. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
+
 <h1 style="text-align:right;">
   <a href="/wa-ga-addendum">Addendum: Atypical Noun Sentences...</a>
 </h1>
+
 
 # <a name="citations" style="text-decoration: none; pointer-events: none;">Citations
 

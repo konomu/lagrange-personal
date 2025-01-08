@@ -34,7 +34,7 @@ Many rules besides this general one are useful for choosing the topic and commen
 | ------------------- |
 | Interrogative Word (e.g. 誰, どれ, どこ, 何)|
 
-This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see an interrogative word with は, it'll always be contrastive は, not topic-marking は, as is the case in (1).
+This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see an interrogative word with は, it'll always be contrastive は, not topical は, as is the case in (1).
 
 >1\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
 
@@ -107,7 +107,7 @@ Sentences with **verb predicates** often have multiple case-marked nouns. The ge
 
 >9\. その頃、<u>三郎は</u>刑務所の係長の部屋で<ruby>茶坊主<rt>ちゃぼうず</rt></ruby>をしていた。<br>*At that time, Saburou spent his days at the head of the jail's room, tending to his every need.*
 
-The に case is typically expressed before the subject-marking が case in sentences with predicate ある (as in ～に～がある), so ～に is topicalized in (10).
+The に case is typically expressed before the subject in sentences with predicate ある (as in ～に～がある), so ～に is topicalized in (10).
 
 >10\. <u>｢アンチ百恵｣としての聖子には</u>、百恵的エロティシズムを歌わないという宿命がありました。<br>*As the "anti-Momoe", Seiko was destined to never sing with Momoe-esque eroticism.*
 
@@ -183,7 +183,7 @@ For sentences with は, it may not be obvious if we can invert the sentence. To 
 
 Let's look at a sentence that can't be inverted. Consider sentence (17) and its inversion (18).
 
->17\. <u>ビルの高さは</u>85mです。<br>*The height of the building is 85 meters.*<br><br>18\. <span style="color: #ff0040">×85mがビルの高さです。</span><br>Intended reading: <span style="color: #ff0040">*85 meters is the building's height.*</span>
+>17\. <u>ビルの高さは</u>85mです。<br>*The height of the building is 85 meters.*<br><br>18\. <span style="color: #ff0040">×85mがビルの高さです。</span><br><span style="color: #ff0040">*85 meters is the building's height.*</span>
 
 The topic in (17) and (18) is "ビルの高さ" (the height of the building), and the comment is "85m" (85 meters). "ビルの高さ" refers to the concept of the building's height, which is referential in this sentence. "85m" describes the value of the building's height, making it the predicative element of this sentence. In fact, nouns that express some kind of quantity are almost always predicative. As you can see in the table, **sentences where the referential element is topicalized cannot be inverted**, which is why (18) sounds awkward.
 
@@ -193,7 +193,7 @@ Now let's go back to our classic example ｢君が主役だ。｣. In this sente
 
 If, however, we topicalize the referential element "君", it is no longer possible to invert the sentence.
 
->21\. <u>君は</u>主役だ。<br>*You are a lead actor.*<br><br>22\. <span style="color: #ff0040">×主役が君だ。</span><br>Intended reading: <span style="color: #ff0040">*A lead actor is you.*</span>
+>21\. <u>君は</u>主役だ。<br>*You are a lead actor.*<br><br>22\. <span style="color: #ff0040">×主役が君だ。</span><br><span style="color: #ff0040">*A lead actor is you.*</span>
 
 In the example ｢その火事の原因は漏電だ。｣, the referential element is "漏電" (electrical fault) and the predicative element is "その火事の原因" (the cause of the fire). We can invert this sentence because the predicative element is topicalized.
 
@@ -201,7 +201,7 @@ In the example ｢その火事の原因は漏電だ。｣, the referential eleme
 
 It makes little sense to topicalize the referential element “漏電” here, because in the context of this sentence, the cause of the fire is unknown. So neither (25) nor (26) are natural.
 
->25\. <span style="color: #ff0040">×漏電はその火事の原因だ。</span><br>Intended reading: <span style="color: #ff0040">*The electrical fault is the cause of the fire.*</span><br><br>26\. <span style="color: #ff0040">×その火事の原因が漏電だ。</span><br>Intended reading: <span style="color: #ff0040">*The cause of the fire is the electrical fault.*</span>
+>25\. <span style="color: #ff0040">×漏電はその火事の原因だ。</span><br><span style="color: #ff0040">*The electrical fault is the cause of the fire.*</span><br><br>26\. <span style="color: #ff0040">×その火事の原因が漏電だ。</span><br><span style="color: #ff0040">*The cause of the fire is the electrical fault.*</span>
 
 Adjectives and verbs are always predicative in this system. In other words, it's almost always possible to invert a sentence when an adjective or verb is the topic.
 

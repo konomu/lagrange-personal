@@ -20,19 +20,19 @@ I call these "atypical" noun sentences, but that doesn't mean that they are exce
 
 # <a name="ndns" style="text-decoration: none; pointer-events: none;">Neutral-Description Noun Sentences (中立叙述型名詞述語文)
 
-The "neutral-description sentences" are probably most strongly related to the typical topicless sentence structure as described by Noda. The term "neutral-description" refers to a usage of が that doesn't impart any exclusive nuance and it is mostly equivalent to the [subject-marking が](wa-ga-basics#subj-ga) I introduced in the main guide. Thus, the verb and adjective sentences given as examples of topicless sentences by Noda can also be called neutral-description sentences. But in this section, I will specifically be focusing on neutral-description **noun** sentences, as these are much rarer than their adjective or verb counterparts. 
+The "neutral-description sentences" make up the vast majority of typical topicless sentences as described by Noda. The term "neutral-description" is just the formal name for sentences that use [descriptive が](wa-ga-basics#subj-ga), which I introduced in the main guide. Thus, all sentences given as examples of topicless sentences in the main guide are neutral-description sentences. In this section, I will specifically be focusing on neutral-description **noun** sentences, as these are much rarer than their adjective or verb counterparts.
 
 When we use が in a noun sentence with no further context, the interpretation of the sentence which uses exclusive が is usually the one the speaker means. 
 
 >1\. 私が田中です。(Exclusive が)<br>***I** am Tanaka.*
 
->2\. (?) 私が田中です。(Neutral-description が)<br>(?) *Look, I'm Tanaka!*
+>2\. (？) 私が田中です。(Descriptive が)<br>(？) *Look, I'm Tanaka!*
 
 Consider example (1), a noun sentence using exclusive が. We can imagine that this is a sentence spoken by Tanaka in response to someone asking "Who in this group is Tanaka?" Tanaka is specifying that **he** is Tanaka, so this is the natural interpretation.
 
-But if we were to interpret the same sentence using neutral-description が, as in example (2), it comes across as awkward. In [The Principle of Topic Presence](wa-ga-topic-presence), I explained the conditions under which a sentence is likely to be expressed as a topicless sentence (i.e. use neutral-description が). One of those conditions was that "a temporary state directly observable to the speaker, expressed at that moment," was being conveyed. Neutral-description が imparts a nuance that the sentence is describing an event or something the speaker is percieving. Thus, this interpretation is unnatural unless we imagine a fantastical situation where the speaker has magically assumed Tanaka's body and is pointing it out (or something similar).
+But if we were to interpret the same sentence using descriptive が, as in example (2), it comes across as awkward. In [The Principle of Topic Presence](wa-ga-topic-presence), I explained the conditions under which a sentence is likely to be expressed as a topicless sentence (i.e. use descriptive が). One of those conditions was that "a temporary state directly observable to the speaker, expressed at that moment," was being conveyed. Descriptive が imparts a nuance that the sentence is describing an event or something the speaker is percieving. Thus, this interpretation is unnatural unless we imagine a fantastical situation where the speaker has magically assumed Tanaka's body and is pointing it out (or something similar).
 
-Nevertheless, neutral-description noun sentences are grammatical and will sound natural if the context allows for it. The following examples (3) to (10) all use neutral-description が.
+Nevertheless, neutral-description noun sentences are grammatical and will sound natural if the context allows for it. The following examples (3) to (10) all use descriptive が.
 
 >3\. あっ、<u>家が</u>ドーム型だ！<br>*Woah, the house is dome-shaped!*
 
@@ -55,7 +55,7 @@ Examples (3) through (5) are neutral-description noun sentences in which somethi
 
 Examples (6) and (7) are neutral-description noun sentences which don't describe directly perceptible states, but temporary states occurring in the present. 
 
-Examples (8) through (10) are neutral-description noun sentences which function like a description of a temporary state or event as experienced by the speaker. These examples are of recounted stories (events that happened in the past), so they demonstrate that neutral-description が isn't only used in statements narrated in the moment.
+Examples (8) through (10) are neutral-description noun sentences which function like a description of a temporary state or event as experienced by the speaker. These examples are of recounted stories (events that happened in the past), so they demonstrate that descriptive が isn't only used in statements narrated in the moment.
 
 
 # <a name="enumeration" style="text-decoration: none; pointer-events: none;">Enumeration and Breakdown (項目の列挙・内訳)

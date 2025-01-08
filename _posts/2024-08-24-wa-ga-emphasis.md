@@ -20,7 +20,7 @@ hidden: true
 
 The first step of our flowchart is the **principle of emphasis**. Its purpose in the flowchart is to catch the **usages of contrastive は and exclusive が that don't mark any type of subject or topic**. But in this section, we will discuss all sorts of usages of contrastive は and exclusive が.
 
-It's possible to view both は and が as a spectrum. On the **spectrum of は**, we have topic-marking は on one end, and contrastive は on the other end. On the **spectrum of が**, we have subject-marking が on one end, and exclusive が on the other. Between topic-marking は and subject-marking が, we have a **spectrum of topicality**, indicating how topical the word is. Between contrastive は and exclusive が, we have a **spectrum of emphasis**, indicating in which way the word is emphasized.
+It's possible to view both は and が as a spectrum. On the **spectrum of は**, we have topical は on one end, and contrastive は on the other end. On the **spectrum of が**, we have descriptive が on one end, and exclusive が on the other. Between topical は and descriptive が, we have a **spectrum of topicality**, indicating how topical the word is. Between contrastive は and exclusive が, we have a **spectrum of emphasis**, indicating in which way the word is emphasized.
 
 ![Spectra of は and が](assets/img/spectra.jpg)
 
@@ -29,44 +29,39 @@ The idea behind this model is that the two usages of は and the two usages of �
 Generally speaking, there are three categories of は.
 
 <ol type="a">
-  <li>Topic-marking は with no contrastive nuance</li>
+  <li>Topical は marking a topic (no contrastive nuance)</li>
   <blockquote>
   <p>1. <u>父は</u>この本を買ってくれた。<br><em>My dad bought this book for me.</em></p>
   </blockquote>
-  <li>Contrastive は which marks a topic</li>
+  <li>Contrastive は marking a topic (contrastive nuance)</li>
   <blockquote>
   <p>2. <u>兄は</u>肉が好きだが、<u>弟は</u>魚が好きだ。<br><em>My brother likes meat, but my younger brother likes fish.</em></p>
   </blockquote>
-  <li>Contrastive は which marks a non-topic</li>
+  <li>Contrastive は marking a non-topic (contrastive nuance)</li>
   <blockquote>
   <p>3. 私は<u>肉は</u>好きだが、<u>魚は</u>好きではない。<br><em>I like meat, but I don't like fish.</em></p>
   </blockquote>
 </ol> 
 
-In the flowchart, the "contrastive は" that comes after "Topic is Not the Predicate" refers to (b), while all other "contrastive は" on the chart refer to (c).
-
 The same idea can be roughly applied to が.
 
 <ol type="a" start="4">
-  <li>Subject-marking が with no exclusive nuance</li>
+  <li>Descriptive が marking a subject (no exclusive nuance)</li>
   <blockquote>
   <p>4. <u>富士山が</u>見えるよ。<br><em>I can see Mount Fuji.</em></p>
   </blockquote>
-  <li>Exclusive が which marks a subject</li>
+  <li>Exclusive が marking a subject (exclusive nuance)</li>
   <blockquote>
   <p>5. <u>君が</u>主役だ。<br><em>You're the lead actor.</em></p>
   </blockquote>
-  <li>Exclusive が which <b>subjectivises</b> a non-subject</li>
+  <li>Exclusive が which <b>subjectivizes</b> a non-subject (exclusive nuance)<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></li>
   <blockquote>
   <p>6. <u>六本木のディスコが</u>芸能人がよく来る。<br><em>Celebrities come to the discotheques in Roppongi often.</em></p>
   </blockquote>
 </ol> 
 
-There is a crucial difference between (c) and (f) here. が has not fully evolved as an emphasis marker, so there is no usage where exclusive が is fully removed from its subject-marking function, unlike は, which can be fully removed from its topic-marking function. Some instances of exclusive が mark adverbs, clauses, or case-marked nouns other than the subject, but this is only true for those that have subject-like character. Thus, when exclusive が marks a non-subject, we may interpret that non-subject as having become a subject, a process known as **subjectivisation** (Kuno 1973). 
+There is a crucial difference between (c) and (f) here. が has not fully evolved as an emphasis marker, so there is no usage where exclusive が is fully removed from its subject-marking function, unlike は, which can be fully removed from its topic-marking function. Some instances of exclusive が mark adverbs, clauses, or case-marked nouns other than the subject, but this is only true for those that have subject-like character. Thus, when exclusive が marks a non-subject, we may interpret that non-subject as having become a subject, a process known as **subjectivization** (Kuno 1973). 
 
-In the flowchart, the "exclusive が" after the "Principle of Emphasis" refers to (f).[^2] The "exclusive が" after the "Principle of Topic Position" refers to (e).
-
-[^2]: In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.
 
 # <a name="contrast-types" style="text-decoration: none; pointer-events: none;">Types of Contrast
 
@@ -135,7 +130,7 @@ Although there is only one instance of contrastive は in (14), it still has exp
 
 Implicit contrast occurs when something being contrasted against isn't explicitly mentioned, only implied.
 
->18\. 子供たちはカレー<u>は</u>作っている。<br>*The kids are making curry, but...*
+>18\. 子供たちはカレー<u>は</u>作っている。<br>*The kids are making curry. (But...)*
 
 In (18), even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that hasn't been cooked yet.
 
@@ -236,9 +231,9 @@ However, contrastive は cannot attach to the following cases:
 
 (32) and (33) are ungrammatical, because contrastive は are attaching to words marked by で expressing means and cause.
 
->32\. <span style="color: #ff0040"> ×きょうは<u>電車では</u>来なかった。</span><br>Intended reading: <span style="color: #ff0040">*Today, I didn't come by bus.*</span>
+>32\. <span style="color: #ff0040"> ×きょうは<u>電車では</u>来なかった。</span><br><span style="color: #ff0040">*Today, I didn't come by bus.*</span>
 
->33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u>休まなかった。</span><br>Intended reading: <span style="color: #ff0040">*Today, I didn't stay home because of my cold.*</span>
+>33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u>休まなかった。</span><br><span style="color: #ff0040">*Today, I didn't stay home because of my cold.*</span>
 
 If the speaker is mentioning some condition instead of a matter of fact, however, then contrastive は can attach to these cases. 
 
@@ -257,13 +252,13 @@ Now, let's take a look at which adverbs contrastive は can mark.
 | Mood | きっと, ぜひ | × | 
 | Quantity | 3人, 100円, ちょっと | ○ | 
 
->36\. <span style="color: #ff0040"> ×これは<u>たいへんは</u>面白くない。</span><br>Intended reading: <span style="color: #ff0040">*This is very uninteresting.*</span>
+>36\. <span style="color: #ff0040"> ×これは<u>たいへんは</u>面白くない。</span><br><span style="color: #ff0040">*This is very uninteresting.*</span>
 
->37\. <span style="color: #ff0040"> ×<u>もうは</u>着いていないと思う。</span><br>Intended reading: <span style="color: #ff0040">*I think they haven't arrived yet.*</span>
+>37\. <span style="color: #ff0040"> ×<u>もうは</u>着いていないと思う。</span><br><span style="color: #ff0040">*I think they haven't arrived yet.*</span>
 
 >38\. <u>お昼ごろまでは</u>家にいた。<br>*I was at home until noon.*
 
->39\. <span style="color: #ff0040"> ×<u>きっとは</u>来ないと思う。</span><br>Intended reading: <span style="color: #ff0040">*I think he will definitely not come.*</span>
+>39\. <span style="color: #ff0040"> ×<u>きっとは</u>来ないと思う。</span><br><span style="color: #ff0040">*I think he will definitely not come.*</span>
 
 >40\. <u>二百本は</u>売れない。<br>*Two hundred copies is too much for me to sell.*
 
@@ -271,7 +266,7 @@ Now, let's take a look at which adverbs contrastive は can mark.
 
 Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, similarly to (34) and (35).
 
->42\. <span style="color: #ff0040"> ×<u>そっとは</u>手渡さなかった。</span><br>Intended reading: <span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
+>42\. <span style="color: #ff0040"> ×<u>そっとは</u>手渡さなかった。</span><br><span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
 
 >43\. <u>そっとは</u>手渡せない。<br>*I can't hand it over without putting up a fight.*
 
@@ -302,7 +297,7 @@ While strong exclusion may be indicated by subjectivizing exclusive が (the one
 
 ## Strong Exclusion
 
-Strong exclusion often takes the form of 〜のほうが... or 〜がいちばん... because these phrases directly imply the existence of other options that can be marked by exclusive が. The nuance of strongly exclusive が is that we are expressing a clear comparison between one thing marked by exclusive が versus some other thing(s).
+Strong exclusion often takes the form of 〜のほうが... or 〜がいちばん... because these phrases directly imply the existence of other options that can be marked by exclusive が. The nuance of strongly exclusive が expresses a clear comparison between one thing marked by exclusive が versus some other thing(s).
 
 >48\. 神戸より<u>大阪のほうが</u>にぎやかだ。<br>*Osaka is a much more livelier place than Kobe.*
 
@@ -332,7 +327,7 @@ Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusi
 
 >54\. わたしは<u>ジュースは</u>飲んだが、お酒は飲まなかった。<br>*I had juice, but no alcohol.*
 
->55\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span><br>Intended reading: <span style="color: #ff0040">*I did not drink alcohol, but juice.*</span>
+>55\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span><br><span style="color: #ff0040">*I did not drink alcohol, but juice.*</span>
 
 The following table details the markers of case-marked nouns that subjectivizing exclusive が may replace. The original case particles must be deleted and replaced with が.
 
@@ -362,15 +357,15 @@ The set of adverbs that subjectivizing exclusive が can mark is also narrower t
 
 # <a name="cwa-vs-xga" style="text-decoration: none; pointer-events: none;">Contrastive は and Exclusive が In Negative Statements
 
-Consider the two following sentences:
+Consider (61) and (62):
 
 >61\. <u>あいつが</u>許せない。<br>*__He__ is unforgivable.*
 
 >62\. <u>あいつは</u>許せない。<br>*He is __unforgivable__.*
 
-The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this usage of contrastive は makes no implications about other people. 
+The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. 
 
-Thus, contrastive は is not interchangeable with exclusive が in statements that specify something out of a pool of other things, as in:
+Contrastive は is not interchangeable with exclusive が in statements that specify something out of a pool of other things, like (63) and (64).
 
 >63\. こいつより<u>あいつが</u>許せない。<br>*She's okay, but he's unforgiveable.*
 
@@ -382,3 +377,11 @@ Thus, contrastive は is not interchangeable with exclusive が in statements th
 </h1>
 
 # Notes
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>In the full flowchart, the "contrastive は" that comes after "Topic is Not the Predicate" refers to (b), while all other "contrastive は" on the chart refer to (c). The "exclusive が" after the "Principle of Emphasis" refers to (f). The "exclusive が" after the "Principle of Topic Position" refers to (e). In the simplified flowchart, all usages of は with contrastive nuance (b and c) are labeled contrastive は, and all usages of が with exclusive nuance (e and f) are labeled exclusive が.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+  </ol>
+</div>

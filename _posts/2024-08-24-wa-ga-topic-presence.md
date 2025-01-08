@@ -18,7 +18,7 @@ hidden: true
 
 # Is There a Topic?
 
-This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that a subject within it will always be marked by subject-marking が (sometimes contrastive は) and never topic-marking は.
+This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that a subject within it will always be marked by descriptive が (sometimes contrastive は) and never topical は.
 
 Once we arrive at this stage in the flowchart, the next step is to distinguish topic sentences from topicless sentences. Topicless sentences fit into [the ｢富士山が見えるよ。｣ structure](wa-ga-basics#topicless-sentences), and topic sentences fit into all other structures.
 
@@ -199,7 +199,7 @@ The following is a diagram marking the topic, comment, new information, and old 
 
 As highlighted in the diagram, new information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣.
 
-The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but subject-marking. Thus, it is natural to recognize the **entirety** of the sentence ｢富士山が見えるよ。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but descriptive. Thus, it is natural to recognize the **entirety** of the sentence ｢富士山が見えるよ。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
 
 [^7]: The exclusive interpretation (marking "富士山" as new information) is possible, but disqualifies it as a topicless sentence.
 

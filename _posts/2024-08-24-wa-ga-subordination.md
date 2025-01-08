@@ -71,7 +71,7 @@ There are four **levels of subordination**, described in the following table.
 |Weak Subordination | The subordinate clause functions like a separate sentence, but still makes up one sentence with the main clause. It can contain a subject or a topic. Rules for choosing between は/が are generally the same as those for the main clause. |
 |Quotative | The subordinate clause is a quote. It can contain a subject or a topic. Rules for choosing between は/が are generally the same as those for the main clause.|
 
-We can usually figure out a subordinate clause's level of subordination by looking at how it ends. The chart below gives common examples of subordinate clauses, as well as their level of subordination and whether that clause is able to contain subject-marking が and topic-marking は.
+We can usually figure out a subordinate clause's level of subordination by looking at how it ends. The chart below gives common examples of subordinate clauses, their level of subordination, and tells us whether that clause is able to contain descriptive が and topical は.
 
 <table class="tg" style="overflow-x: auto; width: 100%">
     <colgroup>
