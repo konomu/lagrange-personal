@@ -18,13 +18,11 @@ hidden: true
 
 # Is There a Topic?
 
-This principle is also known as the **principle of topic presence**. We use this to decide **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to clauses/sentences without a topic as **topicless sentences**, and clauses/sentences with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that a subject within it will always be marked by descriptive が (sometimes contrastive は) and never topical は.
+The principle of topic presence decides **whether or not the clause/sentence contains a topic**. For brevity, I'll refer to both clauses and sentences without a topic as **topicless sentences**, and those with a topic as **topic sentences** moving forward. If we find that a clause or sentence has no topic, we know that a subject within it will always be marked by descriptive が (sometimes contrastive は) and never topical は.
 
-Once we arrive at this stage in the flowchart, the next step is to distinguish topic sentences from topicless sentences. Topicless sentences fit into [the ｢富士山が見えるよ。｣ structure](wa-ga-basics#topicless-sentences), and topic sentences fit into all other structures.
+At this stage in the flowchart, we need to distinguish topic sentences from topicless sentences. Topicless sentences fit into [the ｢富士山が見えるよ。｣ structure](wa-ga-basics#topicless-sentences), and topic sentences fit into all other structures.
 
-There are many different factors to consider at this stage. Let's summarize all of them in a simple table. The cells in bold are cases where the sentence/clause will **always** fall into the category it is under. 
-
-The cases that aren't in bold will sometimes fall into the other sentence category. Usually, this happens because the sentence also fulfills some properties in that other category.
+There are many different factors to consider at this stage, which I will summarize in the table below. The cells in bold are cases where the sentence/clause will **always** fall into the category it is under. The unbolded cases will sometimes fall into the other sentence category. Usually, this happens because the sentence also fulfills some properties in that other category.
 
 <table class="tg"><thead>
   <tr>
@@ -72,15 +70,17 @@ The cases that aren't in bold will sometimes fall into the other sentence catego
 
 ## Cases That Are Always Topic Sentences
 
-Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. (1) is a topic sentence with an adjective predicate expressing a permanent state.
+Let's look at the cases where the sentence/clause **must** have a topic. As you can see in our table, the first of these cases is when the **predicate describes a permanent or repetitive state not directly observable to the speaker**. In practice, this means that almost all sentences/clauses with a noun as its predicate will be topic sentences since most nouns don't imply a temporary state[^1]. Predicates that are adjectives like 高い or verbs like すぐれている which don't imply a temporary state also commonly lead to topic sentences. Example (1) is a topic sentence with an adjective predicate that expresses a permanent state.
+
+[^1]: For exceptions, see [the addendum](wa-ga-addendum).
 
 >1\. <u>バクテリア類が生物生態系全体の中で果たしている役割は</u>たいへん重要である。<br>*The role bacteria play in our entire ecosystem is incredibly important.*
 
-When the predicate expresses some action or temporary state, the sentence might still have a topic if it's some action that someone does **habitually**. This is effectively a permanent state.
+When the predicate expresses some action or temporary state, the sentence might still have a topic if it's some action done **habitually**. This is effectively a permanent state.
 
 >2\. <u>ゴリラは</u>、毎日昼と夜の二回寝床をつくって寝る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
 
-The next case that necessitates that the sentence/clause has a topic are those that contain an **interrogative word**, which are words like 誰, どれ, どこ, and 何. Remember that specificational sentences count as topic sentences. When exclusive が marks one of these words, the interrogative word is the comment, and the predicate is the topic.
+The other case that necessitates that the sentence/clause has a topic covers questions that contain an **interrogative word**, like 誰, どれ, どこ, and 何. When the interrogative word is the subject of the sentence, it is typically marked by exclusive が, which makes it a specificational sentence. Remember that specificational sentences count as topic sentences, because the topic is contained in the predicate.
 
 >3\. ｢<u>誰が</u>やったんだと思う？｣<br>*"Who do you think did it?"*
 
@@ -107,17 +107,21 @@ Familiar information is defined in the following table:
 </tbody>
 </table>
 
->5\. ｢<u>これは</u>楽器のお札です。受けとって下さい｣ と僕は言った。<br>*Here's the money for your instrument. Please accept it," I said.*
+>5\. ｢<u>これは</u>楽器のお札です。受けとって下さい｣ と僕は言った。<br>*Here's the tag for your instrument. Please take it," I said.*
 
 >6\. ｢<u>これが</u>あのサントス・エルナンデスの、変わり果てた姿かね。｣<br>*"So this is what has become of the great Santos Hernandez?"*
 
 (6) is a specificational sentence where the predicate, not the familiar information, is topicalized. Specificational sentences commonly express familiar information as their subject. For this reason, you shouldn't get into the habit of thinking everything that can be construed as familiar information will be marked as a topic.
 
->7\. パイロットの家庭は、大変なんだ。<u>原因は</u>すべて時差にある。<br>*Being in a pilot's family is tough. It's all because of the time difference.*
+>7\. パイロットの家庭は、大変なんだ。<u>原因は</u>すべて時差にある。<br>*Pilots' families have it rough. It's all because of the time difference.*
 
->8\. <u>気象庁は</u>七日、阪神大震災(兵庫県南部地震)の現地調査結果を発表しました。<br>*The Japan Meteorological Agency announced the findings from its investigation into the Great Hanshin earthquake on the 7th.*
+In (7), the topic "原因" (reason) is familiar information because it refers to the reason for the previous statement.
 
-- Sentences are likely to be have a topic if the subject/topic is separated from the predicate by many words (i.e., the sentence explains something about some topic).
+>8\. <u>気象庁は</u>七日、阪神大震災(兵庫県南部地震)の現地調査結果を発表しました。<br>*The Japan Meteorological Agency announced the findings from its investigation concerning the Great Hanshin earthquake on the 7th.*
+
+(8) is an example sentence from a newspaper, and it assumes the reader is familiar with the Japan Meteorological Agency.
+
+- Sentences are likely to have a topic if the subject/topic is separated from the predicate by many words (i.e., the sentence explains something about some topic).
 
 >9\. <u>日本公開が間近に迫った ｢ジュラシック・パーク｣ は</u>、人気作家マイケル・クライトンのベストセラーの映画化というだけでなく、ダイナミックなビジネス展開でも注目を集めている。<br>*Jurassic Park, scheduled to premiere in Japan soon, isn't just turning heads as a movie adaptation of Michael Crichton's bestselling novel, but also as a bold business development.*
 
@@ -181,15 +185,15 @@ b. The topic is **familiar information**. It is something the listener knows abo
 
 >21\. 姉と2人でパンを食べていた。<u>姉は</u> ｢真夏もおわりね｣ と言った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
 
-Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it'll cover most sentences, but it is not 100% accurate. Remember, usage of は/が is not always predictable.
+Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate because は/が is not fully predictable.
 
 ## <a name="new-old" style="text-decoration: none; pointer-events: none;">EXTRA: Familiar Information and New/Old Information
 
-A once popular way of teaching the difference between は/が was through the concept of "new information" and "old information", but this idea is not used in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
+A once popular way of teaching the difference between は/が was through the concept of "new information" (新情報) and "old information" (旧情報), but this idea is not used in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
 
 As 上林 (1988) points out, the definition of this new/old distinction has never been made rigorously clear and does not entirely describe functions of は/が if we simply define old information in the same way that we define familiar information. Noda brings up familiar information only to describe tendencies regarding topicalization, not to differentiate between functions of は and が.
 
-One explanation for the new/old dichotomy is that new information refers to something the listener presumably does not know, regardless of whether or not they are aware of it. For this reason, new/old information is also sometimes called unknown/known information.[^6]
+One explanation for the new/old dichotomy is that new information refers to something the listener presumably does not know, regardless of whether or not they are aware of it. For this reason, new/old information is also sometimes translated as "unknown" and "known" information.[^6]
 
 [^6]: But, even this definition of new/old information fails in certain cases (as discussed in 上林 (1988)). For more recently proposed information-structure models, see 天野 (1998) and 今田 (2010). 野田 (1996) discards the concept of new/old information in his description, although he builds off of it as foundational research.
 

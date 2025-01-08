@@ -18,15 +18,15 @@ hidden: true
 
 # Which Part is the Topic?
 
-This principle is also known as the **principle of topic position**. We use this to decide **which part of the clause/sentence is the topic and where we should place it**.
+Once we have established that some sentence contains a topic, we move to the next stage of the flowchart. The principle of topic position decides **which part of the clause/sentence is the topic and where we should place it**.
 
-The topic is something that you want to talk about, and the comment is something you want to convey about the topic. So when choosing what becomes the topic and what becomes the comment, we can follow the general rule that **the comment conveys one option among other options relating to the topic**. 
+The topic is what you are talking about, and the comment is something you are conveying about the topic. So when choosing what becomes the topic and what becomes the comment, we can follow the general rule that **the comment conveys one option among other options relating to the topic**. 
 
 ![Chart explaining the above rule with the example 父がこの本を買ってくれたのだ。](assets/img/topic.png)
 
 # <a name="choosing-topic" style="text-decoration: none; pointer-events: none;">Choosing the Topic
 
-### <a name="cwlc" style="text-decoration: none; pointer-events: none;">Word-level Considerations
+### <a name="cwlc" style="text-decoration: none; pointer-events: none;">Word-Level Considerations
 
 Many rules besides this general one are useful for choosing the topic and comment. First, we'll take a look at one case that **must** become a comment.
 
@@ -34,11 +34,11 @@ Many rules besides this general one are useful for choosing the topic and commen
 | ------------------- |
 | Interrogative Word (e.g. 誰, どれ, どこ, 何)|
 
-This is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see an interrogative word with は, it'll always be contrastive は, not topical は, as is the case in (1).
+This rule is the reason why you'll almost never see 誰, どれ, どこ, or 何 marked with は. If you do see an interrogative word with は, it'll always be contrastive は, not topical は, as is the case in (1).
 
 >1\. <u>だれは</u>来て、<u>だれは</u>来なかったの？<br>*Who came, and who didn't?*
 
-### <a name="cslc" style="text-decoration: none; pointer-events: none;">Sentence-level Considerations
+### <a name="cslc" style="text-decoration: none; pointer-events: none;">Sentence-Level Considerations
 
 The next set of rules I'll introduce aren't hard-set, but general tendencies of topics in sentences. They can be summarized in the following table:
 
@@ -63,14 +63,14 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
     <td class="tg-0lax">The explanation</td>
   </tr>
   <tr>
-    <td style="text-align: center;" class="tg-0pky">Adjective Predicate<br>(Comparison)</td>
-    <td class="tg-0pky">The adjective predicate</td>
-    <td class="tg-0pky">The noun subject</td>
+    <td style="text-align: center;" class="tg-0pky">Adjective Predicate<br>(With Comparison)</td>
+    <td class="tg-0pky">Adjective predicate</td>
+    <td class="tg-0pky">Noun subject</td>
   </tr>
   <tr>
     <td style="text-align: center;" class="tg-0lax">Adjective Predicate<br>(No Comparison)</td>
-    <td class="tg-0lax">The noun subject</td>
-    <td class="tg-0lax">The adjective predicate</td>
+    <td class="tg-0lax">Noun subject</td>
+    <td class="tg-0lax">Adjective predicate</td>
   </tr>
   <tr>
     <td style="text-align: center;" class="tg-0lax">Verb Predicate</td>
@@ -79,7 +79,7 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
   </tr>
 </tbody></table>
 
-The rules for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー frequently become the topic, while their content becomes the comment.[^1] These are sentences like:
+The rules for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー frequently become the topic, while their content becomes the comment.[^1] This is shown in examples (2) through (4).
 
 [^1]: These sentences fit into the [｢かき料理は広島が本場だ。｣ structure](wa-ga-other/#kaki).
 
@@ -89,11 +89,11 @@ The rules for sentences with a **noun predicate** are somewhat self-explanatory 
 
 >4\. <u>このナタデココは</u>、ココナッツミルクを静かに寝かせて発行させたもの。<br>*This nata de coco is made by fermenting coconut milk.*
 
-"～というものは" is commonly shortened to "～とは".
+"～というものは" is a phrase commonly used to give something a definition, and it can be shortened to "～とは". In (5), "炭焼きと(いうもの)" is topicalized, and the rest of the sentence explaining what it is serves as the comment.
 
 >5\. <u>炭焼きとは</u>、木材を熱分解して、揮発しやすい成分を可燃性のガスとして燃やしたり、蒸発にして追い出したりした後、炭素が燃えてしまう手前で燃焼を止める作業である。<br>*Sumiyaki is the process of pyrolyzing raw lumber to remove its volatile components to the point just before carbon starts burning away.*
 
-For sentences with **adjective predicates**, we have two different rules. The first one covers adjective sentences that express some kind of comparison, which will often include phrases like "～のほうが (adjective)" and "～がいちばん (adjective)". In this case, the adjective becomes the topic, and the noun subject is marked with exclusive が.
+For sentences with **adjective predicates**, we have two different rules. The first one covers adjective sentences that express some kind of comparison, which includes phrases like "～のほうが [adjective]" and "～がいちばん [adjective]". In this case, the adjective becomes the topic, and the noun subject is marked with exclusive が.
 
 >6\. ｢でも、<u>リカさんと一緒にいる永尾くんが</u>、私の知ってる永尾くんの中で一番元気。｣<br>*"Nagao always looks the happiest when I see him with Rika."*
 
@@ -111,7 +111,7 @@ The に case is typically expressed before the subject in sentences with predica
 
 >10\. <u>｢アンチ百恵｣としての聖子には</u>、百恵的エロティシズムを歌わないという宿命がありました。<br>*As the "anti-Momoe", Seiko was destined to never sing with Momoe-esque eroticism.*
 
-### <a name="cclc" style="text-decoration: none; pointer-events: none;">Context-level Considerations
+### <a name="cclc" style="text-decoration: none; pointer-events: none;">Context-Level Considerations
 
 The concept of **familiar information**, as introduced in [Topic Sentences](#wa-ga-presence#topic-sentences), is also useful for determining the topic. Once again, this isn't a hard-set rule, just a broad tendency topic sentences have. 
 
@@ -132,7 +132,7 @@ Recall our definition for familiar information.
 </tbody>
 </table>
  
-As mentioned in the table, familiar information tends to become the topic. Consider the following examples.
+As mentioned in the table, familiar information tends to become the topic. Consider examples (11) and (12).
 
 >11\. <u>俺は</u>中卒さ。<br>*I'm a middle-school graduate, you see.*
 
@@ -142,7 +142,7 @@ In (11), "俺" (I) is topicalized as familiar information because it refers to t
 
 In (12), "同駅" (the station of the same name) is topicalized because it is related to "西宮名塩" (Nishinomiya-Najio), a town which was mentioned in the previous sentence.
 
-Some sentences violate this rule. In this next example, an specificational sentence, familiar information is marked by exclusive が, making it the comment.
+Some sentences violate this rule. In example (13), a specificational sentence, familiar information is marked by exclusive が, making it the comment.
 
 >13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes. This is why weather forecasts are sometimes off.*
 
@@ -150,7 +150,7 @@ The reason why "これ" in (13) is marked with exclusive が is because the noun
 
 # <a name="where-placed" style="text-decoration: none; pointer-events: none;">Where is the Topic Placed?
 
-In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall back to chapter 1 when we saw the topicalization of "この本" (this book) in the case structure "父がこの本を買ってくれた(こと)".
+In typical sentences with a topic, the topic is placed at the front of the sentence, and the comment is placed after it. Recall chapter 1, when we saw the topicalization of "この本" (this book) in the case structure "父がこの本を買ってくれた(こと)".
 
 >14\. <u>この本</u><b>は</b>父が買ってくれた。
 
@@ -160,7 +160,7 @@ Likewise, we can topicalize the clause "この本を買ってくれた" (bought 
 
 >15\. <u>この本を買ってくれたの</u><b>は</b>父だ。
 
-[Inverting](wa-ga-basics/#kimi) this sentence will then give us (16).
+[Inverting](wa-ga-basics/#spec-sentences) this sentence will then give us (16).
 
 >16\. 父<b>が</b><u>この本を買ってくれたのだ</u>。
 
@@ -179,7 +179,7 @@ For sentences with は, it may not be obvious if we can invert the sentence. To 
 |  | Definition | If Topicalized |
 | :----: | ---- |
 | Referential | Some individual object/concept | Sentence <b>cannot</b> be inverted |
-| Predicative | Some aspect, category, or role<br>of the referential element | Sentence <b>can</b> be inverted |
+| Predicative | Some aspect, category, role, or value<br>of the referential element | Sentence <b>can</b> be inverted |
 
 Let's look at a sentence that can't be inverted. Consider sentence (17) and its inversion (18).
 

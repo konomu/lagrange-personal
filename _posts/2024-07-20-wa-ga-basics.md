@@ -31,7 +31,9 @@ Think of topical は as the default form of は. **All it does is mark the topic
 
 > `Subject` + `Descriptive が` + `Predicate`
 
-There are two main usages of this subject-marking particle が. The most common one is **descriptive が**, and it has its name because it's usually used to describe things or events. The other usage, exclusive が, will be introduced later in the chapter.
+There are two main usages of this subject-marking particle が. The most common one is **descriptive が**, and it has its name because it's usually used to describe things or events[^1]. The other usage, exclusive が, will be introduced later in the chapter.
+
+[^1]: You may have also heard this form of が referred to before as neutral-description が.
 
 Think of descriptive が as the default form of が. **All it does is mark the subject, and it adds no further nuance to the sentence.**
 
@@ -57,9 +59,9 @@ What sets が and を apart from other common case particles is that they are de
 | ここから + は | ここからは |
 | ここまで + は | ここまでは |
 
-The topic and the subject exist on different dimensions in Japanese.[^1] A word can be a topic and subject at the same time, but all subjects are not necessarily topics, and all topics are not necessarily subjects. You will see examples of this dynamic in the topicalization diagrams once we start covering basic sentence structures.
+The topic and the subject exist on different dimensions in Japanese.[^2] A word can be a topic and subject at the same time, but all subjects are not necessarily topics, and all topics are not necessarily subjects. You will see examples of this dynamic in the topicalization diagrams once we start covering basic sentence structures.
 
-[^1]: Noda (1996) proposes that topical は exists on the lowest "situational mood layer", while descriptive が exists on the highest "voice layer". Contrastive は and exclusive が exist between the two, on the "polarity layer" (as in affirmative/negative predicates).
+[^2]: Noda (1996) proposes that topical は exists on the lowest "situational mood layer", while descriptive が exists on the highest "voice layer". Contrastive は and exclusive が exist between the two, on the "polarity layer" (as in affirmative/negative predicates).
 
 # <a name="sec" style="text-decoration: none; pointer-events: none;">The Secondary Functions of は and が
 
@@ -79,9 +81,9 @@ You will learn more about contrastive は in [chapter 3: Principle of Emphasis](
 
 ## <a name="xga" style="text-decoration: none; pointer-events: none;">Exclusive が
 
-You may have also heard this form of が referred to before as exhaustive-listing が, or exhaustive が.
+Exclusive が is a special usage of が that **specifies** what it's marking[^3]. The subject that exclusive が marks is singled out from a set of other possible things. Those other things may or may not be explicitly stated. In other words, everything else except for what exclusive が marks is **excluded** from consideration. 
 
-Exclusive が is a special usage of が that **emphasizes** what it's marking. The subject that exclusive が marks is singled out from a set of other possible things. Those other things may or may not be explicitly stated. In other words, everything else except for what exclusive が marks is **excluded** from consideration. 
+[^3]: You may have also heard this form of が referred to before as exhaustive-listing が, or exhaustive が.
 
 >3\.  大阪より<u>神戸のほうが</u>いい店がある。<br>*Kobe has way better stores than Osaka.*
 
@@ -119,15 +121,23 @@ The following diagram shows the topicalization of the subject "父" (dad) in the
 
 ![Diagram showing topicalization of 父 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi1.png)
 
-The "こと" in the diagram above represents that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**. Case structures are like a sentence's skeleton: they contains the sentence's bare meaning, without any concept of a topic or comment applied yet.
+The "こと" in the diagram above represents that this part isn't being interpreted as a spoken sentence, but as a precursor to the sentence, a **case structure**. Case structures are like a sentence's skeleton: they contains the sentence's bare meaning, without any concept of a topic or comment applied yet. Think of them as tools to help us analyze the meaning of sentences.
 
 Remember that は can also mark objects, which are generally marked by を. When the object is topicalized, は replaces を. Then, the topic is moved to the beginning of the sentence. Just like the subject, the object doesn't stop being an object when it's topicalized. The following diagram shows the topicalization of the object "この本" (this book) in the case structure  ｢父がこの本を買ってくれた(こと)｣. This leads to the sentence  ｢この本は父が買ってくれた。｣.
 
 ![Diagram showing topicalization of この本 in the case structure 父がこの本を買ってくれた(こと)](assets/img/chichi2.png)
 
+The two sentences above come from the same case structure, so they have the same basic meaning. The only difference between the two sentences lies in which word is topicalized, which decides what each sentence is talking about. 
+
+Pay attention to the topic and the comment of each sentence. The sentence ｢父はこの本を買ってくれた。｣ is about the father of the speaker, and it mentions that this father bought the book for her. The sentence ｢この本は父が買ってくれた。｣ is about the book in question, and it mentions that the book is something the speaker's father bought for her. 
+
+The sentence the speaker will choose to use depends on the context of the conversation it is spoken in.
+
 ### Examples of Basic Topic Sentences
 
-Below are examples of sentences where elements marked with other case markers are topicalized. Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**.
+Below are examples of sentences where elements marked with other case markers are topicalized.
+
+Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**, and this is shown in examples (4) and (5).
 
 >4\. 日本に温泉が多い(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本には</u>温泉が多い。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本は</u>温泉が多い。<br>*There are a lot of onsen in Japan.*
 
@@ -143,13 +153,13 @@ Below are examples of sentences where elements marked with other case markers ar
 
 >10\. 大きな<u>窓からは</u>日の光が差し込んでいる。<br>*Through the big window, a ray of sunlight cut into the room.*
 
-Adverbs that express tense or extent (such as きょう, 今, その頃, いくらか, ほとんど, and 時々) may also be topicalized.
+Adverbs that express tense or extent (such as きょう, 今, その頃, いくらか, ほとんど, and 時々) may also be topicalized, like in (11).
 
 >11\. <u>昨日は</u>花子が学校を休んでいた。<br>*Yesterday, Hanako didn't come to school.*
 
 ### Topical vs. Contrastive は
 
-I previously mentioned that ｢〜へ｣, ｢〜と｣, ｢〜から｣, and ｢〜まで｣ can be topicalized by adding は after them. But in reality, when は comes after these case markers, it almost always becomes **contrastive は**, making these usages both topical and contrastive. In many cases, the は stops being topical altogether, becoming purely contrastive. The reason for this lies in the fact that topics usually appear at the beginning of a sentence. In the basic Japanese sentence order, nouns marked by ｢〜へ｣, ｢〜と｣, ｢〜から｣, and ｢〜まで｣ tend to appear nearer to the end of the sentence, after the subject. The act of taking the marked noun and topicalizing it, then placing it before the subject imparts contrastive nuance.
+I previously mentioned that ｢〜へ｣, ｢〜と｣, ｢〜から｣, and ｢〜まで｣ can be topicalized by adding は after them. But in reality, when は comes after these four case markers, it almost always becomes **contrastive は**, making these usages both topical and contrastive. In many cases, the は stops being topical altogether, becoming purely contrastive. The reason for this lies in the fact that topics usually appear at the beginning of a sentence. In the basic Japanese sentence order, nouns marked by ｢〜へ｣, ｢〜と｣, ｢〜から｣, and ｢〜まで｣ tend to appear nearer to the end of the sentence, after the subject. The act of taking these marked noun and topicalizing them imparts contrastive nuance.
 
 Take a look at example (6). If we were to topicalize "東京へ" instead of "沢田が" in the case structure, we would end up with the sentence seen in (12). The は in this sentence is highly contrastive.
 
@@ -202,7 +212,7 @@ Sentences that describe perceptible events that will happen very soon also fall 
 
 ### Descriptions of Events
 
-A sentence fits into this category when it describes an event that the speaker cannot directly see or perceive. This may be something that happened in the past, right now, or even in the future that the speaker cannot perceive. The event cannot be permanent, it has to happen within a given frame of time.
+A sentence fits into this category when it describes an event that the speaker cannot directly see or perceive. This may be something that happened in the past, right now, or even in the future that the speaker cannot perceive. The event cannot be permanent; it has to happen within a given frame of time.
 
 >22\. きのう<u>合格発表が</u>あった。<br>*The exam results were announced yesterday.*
 
@@ -236,13 +246,13 @@ The sentence ｢君が主役だ。｣ has no topical は, but it'd be inaccurate
 
 [^4]:Since 野田 (1996) was published it has been contested whether or not this structure contains a topic; namely, by 天野 (1998) through grounds that this topic is actually a presuppositional phrase (前提句). The classification of copular sentences found in 今田 (2010) also uses this convention. 丹羽 (2007) claims that its predicate is the topic in meaning, and not the syntactic topic.
 
-This is what we call a **specificational sentence**.[^5] This property of the sentence comes from the fact that it uses **exclusive が**, a different form of が from the descriptive が used in topicless sentences.
+This is what we call a **specificational sentence**.[^5] Specificational sentences use **exclusive が**, a different form of が from the descriptive が seen in topicless sentences.
 
-[^5]:The specificational sentence (指定文) is the inverse of inverted specificational sentences (倒置指定文). In Noda's sentence typology, it does not differentiate between the inverted specificational sentence and the predicational sentence (措定文), both of which we consider to be "basic topic sentences." The section on [how to tell when inversion is possible](wa-ga-topic-position#spec-sup) is dedicated to teaching how to differentiate between the two, but I avoided alluding to 措定, as Noda also does. Both the predicational sentence and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
+[^5]:The specificational sentence (指定文) is the inverse of inverted specificational sentences (倒置指定文). Noda's sentence typology does not explicitly differentiate between the inverted specificational sentence and the predicational sentence (措定文). The section on [how to tell when inversion is possible](wa-ga-topic-position#spec-sup) is dedicated to teaching how to differentiate between the two, but I avoided alluding to 措定, as Noda also does. Both the predicational sentence and the inverted specificational sentence take the structure of ｢〜は〜だ。｣, while specificational sentences take the structure of ｢〜が〜だ。｣.
 
 ![Diagram showing topicalization of 主役 in 君が主役(であること)](assets/img/kimitop.png)
 
-Remember that exclusive が functions as a way of **emphasizing** something. With this usage of が, whatever exclusive が marks is singled out from a set of other things. We are specifying that "You, not anyone else, are the lead actor."[^6]
+Remember that exclusive が functions as a way of **specifying** something. With this usage of が, whatever exclusive が marks is singled out from a set of other things. In the example ｢君が主役だ。｣, the speaker is specifying that "You, not anyone else, are the lead actor."[^6]
 
 [^6]:However, the nuance of exclusion in this specific sentence is relatively weak, because we haven't talked about any other person who could be the lead actor in the context of this example (See [Types of Exclusion](/wa-ga-emphasis#exclusion-types)). 
 
@@ -260,7 +270,7 @@ whereas the inversion of this topic sentence, the specificational sentence, will
 
 ### Examples of Specificational Sentences
 
->29\. ｢あ、<u>あれが</u>、おれのところに来た女性記者だよ｣<br>*"Sh- She's the journalist that came to my office!"*
+>29\. ｢あ、<u>あれが</u>、おれのところに来た女性記者だよ｣<br>*"Sh- She's the journalist that came to my house!"*
 
 >30\. ｢<u>そこが</u>出口よ。｣<br>*"The exit's that way."*
 

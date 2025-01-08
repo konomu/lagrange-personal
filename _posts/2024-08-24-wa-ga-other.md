@@ -16,7 +16,7 @@ hidden: true
 
 # <a name="object-ga" style="text-decoration: none; pointer-events: none;">が as an Object Marker for Adjectives
 
-が has a function that is not usually included in analyses of double-subject structures. This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
+This usage was introduced by Kuno (1973), where he proposed that が may mark objects of some adjectives.[^5] The following examples are all borrowed from this source. These adjectives fall into three categories:
 
 [^5]: Kuno also proposed that が could be an object marker for certain transitive verbs. But in the grammar that Noda teaches, these sentences don't need to be described as such. For example, Kuno brings up the example ｢あなたは日本語が分かりますか？｣ (Do you understand Japanese?) where he describes "日本語" (Japanese) as an object and "あなた" (you) as a subject for the predicate "分かる" (understand). However, we can still recognize "日本語" as a subject if we recognize "あなた" as a topicalized に-element expressing an agent (where に has been deleted). The case structure would then be ｢あなたに日本語が分かる(こと)｣
 
@@ -120,7 +120,7 @@ At first glance, this sentence seems to fit into the ｢象は鼻が長い。｣
 
 If we try anyway, we get <span style="color: #ff0040">"×かき料理の広島が本場(であること)"</span>, which makes no sense.
 
-｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. [^3] The predicate of this structure will always be a noun.
+｢かき料理は広島が本場だ。｣ is actually derived from ｢広島がかき料理の本場(であること)｣. In this structure, the noun being topicalized is the **modifier of the predicate**. [^3] The predicate of this structure is always a noun.
 
 ![Diagram showing topicalization of かき料理 in the case structure 広島がかき料理の本場(であること)](assets/img/kaki.png)
 
@@ -148,9 +148,9 @@ Here's another structure with the ｢～は～が...｣ pattern. In the sentence
 
 Sentences of this structure can be categorized into two types: the selective type and the parallel type.
 
-### The Selective Type
+### The Selective-Type
 
-｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure. The nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. Thus, selective-type sentences of this structure **use exclusive が**. (24) through (27) are examples of selective-type sentences.
+Selective-type sentences **use exclusive が**. ｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure, so the nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. (24) through (27) are additional examples of selective-type sentences.
 
 >24\. <u>温泉は</u>、高台にある女性専用の露天風呂がお勧めだ。<br>*As for onsen, I recommend the open-air womens' baths that are high up.*
 
@@ -160,9 +160,9 @@ Sentences of this structure can be categorized into two types: the selective typ
 
 >27\. <u>辞書は</u>白水社がいい。<br>*When it comes to dictionaries, Hakusuisha is the way to go.*
 
-### The Parallel Type
+### The Parallel-Type
 
-The parallel type sentence of this structure, on the other hand, **does not use exclusive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が.
+The parallel-type sentence of this structure, on the other hand, **use descriptive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が. Example (28) and (29) are parallel-type sentences.
 
 >28\. <u>全国製麺連が調べた一人当り麺類消費量の全国平均は</u>、うどんが年間1.9キロ、ラーメン類が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
 
@@ -176,7 +176,7 @@ In this structure, the topicalized element is **inside of a subordinate clause**
 
 ![Diagram showing topicalization of この問題 in the case structure この問題を解くのが難しい。(こと)](assets/img/mondai.png)
 
-In this structure, が is not exclusive.
+In this structure, が is descriptive, not exclusive.
 
 >30\. 当時、<u>安藤さんは</u>経営していた食料品輸入会社が破産し無一文に近かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
 
@@ -190,7 +190,7 @@ In this structure, が is not exclusive.
 
 > 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
 
-This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause**. Formally, this structure is known as a "cleft sentence."
+This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause**. Formally, this structure is known as a cleft sentence.
 
 ![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
@@ -220,7 +220,7 @@ If we try to work backward to uncover the case structure of this sentence, we fi
 
 The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. We can't construct a topicalization chart for this structure, so instead, we'll look at three major types of this structure you will encounter.
 
-### The Redundant Type
+### The Redundant-Type
 
 Sometimes, we cannot reduce a sentence to its basic case marker structure because some portion of the sentence has been repeated before and after は, making it redundant. An example of this is:
 
@@ -234,7 +234,7 @@ The redundant portion of (38) is "両替" (exchange). This sentence is an overla
 
 By repeating a portion of this sentence, we can tell that the speaker may have been trying to make their message clearer.
 
-### The Omissive Type
+### The Omissive-Type
 
 Another reason we might not be able to reduce a sentence to its case structure is because some portion of the sentence has been left out.
 
@@ -254,7 +254,7 @@ We can say that eel sentences are omissive-type sentences of this structure. (43
 
 >44\. ｢<u>僕は</u>うなぎを食べている。｣<br>*"I'm eating eel."*
 
-### The Inexact Type
+### The Inexact-Type
 
 Sentences with a comment that don't semantically serve as an exact explanation of the topic fall into this category.
 
@@ -278,7 +278,7 @@ There is also a set of ｢～は～が...｣ sentences that come from the [Basic
 
 > `Topic(Adverb)` + `は` + `Comment(Subject + が + Predicate)`
 
-All of these structures are very similar, only differing in the case of the topic. This is why some textbooks introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a topic first, without having them think about the underlying case structure. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
+All of these structures are very similar, only differing in the case of the topic. This is why some textbooks introduce ｢～は～が...｣ as a single structure. From a standpoint of teaching beginners, this is completely fine. It's probably easier for most learners to get used to the idea of a は-marked topic and the many forms it takes first, without having them think about the underlying case structure. The only problem with this is that they also tend to talk about the topic as if it were on the same layer as other grammatical features like the subject and the object. Unfortunately, this may mislead learners into thinking they are mutually exclusive, such that a given word in a sentence can't be a topic and subject at the same time.
 
 <h1 style="text-align:right;">
   <a href="/wa-ga-addendum">Addendum: Atypical Noun Sentences...</a>

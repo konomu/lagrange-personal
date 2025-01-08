@@ -24,7 +24,7 @@ It's possible to view both は and が as a spectrum. On the **spectrum of は**
 
 ![Spectra of は and が](assets/img/spectra.jpg)
 
-The idea behind this model is that the two usages of は and the two usages of が we've introduced are not separate from each other. Every usage of は or が falls somewhere on the spectrum.
+The idea behind this figure is to illustrate that the two usages of は and the two usages of が I introduced are not mutually exclusive. Every usage of は or が falls somewhere on the spectrum.
 
 Generally speaking, there are three categories of は.
 
@@ -118,7 +118,7 @@ Misfortunate contrast is a relatively minor usage of explicit contrastive は th
 
 >14\. ｢<u>風は</u>冷たいけど、ええ天気や。｣<br>*"The wind is cold, but it's nice out."*
 
-Although there is only one instance of contrastive は in (14), it still has explicit contrast, because "風は冷たい" (the wind is cold) and "ええ天気" (nice weather) are approximately opposite in meaning. They are being explicitly contrasted.
+Although there is only one instance of contrastive は in (14), it still has explicit contrast, because "風は冷たい" (the wind is cold) and "ええ天気" (nice weather) are approximately opposite in meaning.
 
 >15\. <u>雨は</u>降っているが、<u>雪は</u>降っていない。<br>*It's raining, but not snowing.*
 
@@ -140,15 +140,15 @@ Implicit contrastive は can be identified through the following properties.
 |--|
 | - Appear closer to the predicate <br> - Mark objects, 〜に elements, or adverbs; less often subjects <br> - Mark a noun with a counterpart that is easy to contrast with <br> - Be pronounced with a higher pitch along with what it marks |
 
-The more of these properties a sentence has, the stronger its contrastive nuance becomes. Consider the following examples:
+The more of these properties a sentence has, the stronger its contrastive nuance becomes. Consider examples (19) and (20):
 
->19\. 私は<u>その質問には</u>答えられません。<br>20\. その質問には<u>私は</u>答えられません。<br>*I cannot answer that question.*
+>19\. 私は<u>その質問には</u>答えられません。<br>*I cannot answer **that question**.*<br><br>20\. その質問には<u>私は</u>答えられません。<br>***I** cannot answer that question.*
 
-When there are two or more elements in a sentence marked by は, the one closer to the predicate takes on a more contrastive nuance. This happens because the emphasized portion of the sentence when contrastive は appears is not just the element marked by contrastive は, but also all of the content after the element until the end of its predicate. It is easier to pick up on contrastive nuance if the emphasized portion is uninterrupted. 
+When there are two or more elements in a sentence marked by は, the one closer to the predicate takes on more contrastive nuance. This happens because the emphasized portion of the sentence when contrastive は appears is not just the element marked by contrastive は, but also all of the content after the element until the end of its predicate. It is easier to pick up on contrastive nuance if the emphasized portion is uninterrupted. 
 
 Thus, in example (19), it's natural to interpret that the speaker is clarifying that he cannot answer **that question** specifically. In (20), it's natural to interpret that the speaker is clarifying that **he**, specifically, cannot answer the question.
 
-However, you may notice that in (19), the more contrastive は marks a 〜に element, while in (20), the more contrastive は marks a subject. As we know from the table above, contrastive は tends to mark objects, 〜に elements, or adverbs, instead of subjects. As a result, it is possible to interpret that there is almost no contrastive nuance in (20), but incredibly unnatural to interpret that there is no contrastive nuance in (19).
+However, you may notice that in (19), the more contrastive は marks a 〜に element, while in (20), the more contrastive は marks a subject. As we know from the table above, contrastive は tends to mark objects, 〜に elements, or adverbs, instead of subjects. As a result, it is possible to interpret that there is almost no contrastive nuance on "私" in (20), but incredibly unnatural to interpret that there is no contrastive nuance on "その質問に" in (19).
 
 ### More Examples of Implicit Contrast
 
@@ -161,23 +161,21 @@ However, you may notice that in (19), the more contrastive は marks a 〜に el
 
 # <a name="contrast-neg" style="text-decoration: none; pointer-events: none;">Contrastive は in Negative Statements
 
-Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in ～じゃない, ～ていない, ～くない, ～ではない, ～じゃなくて, ～ません, ～ず, etc. For example, if we were to make the statement (24) negative, it is natural to add contrastive は, as shown in (25).
+Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in じゃない, ていない, くない, ではない, じゃなくて, ません, ず, etc. For example, if we were to make the statement (24) negative, it is natural to add contrastive は, as shown in (25).
 
->24\. 日本の老人はシャワーでがまんできる。<br>*The elderly of Japan can tolerate showering.*
+>24\. 日本の老人はシャワーでがまんできる。<br>*The elderly of Japan can get by with just showering.*
 
->25\. 日本の老人は<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can't stand showering.*
+>25\. 日本の老人は<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can't stand just showering.*
 
-The reasoning for this is that a positive predicate is assumed to be the default state. When something is expressed to go against that default, we are **implicitly contrasting** it with something with the predicate's positive state. If we were to explicitly contrast the example above with this positive state, it would look like (26).
+The reasoning for this is that a positive predicate is assumed to be the default state. When something is expressed to go against that default, we are **implicitly contrasting** it with something with the predicate's positive state. If we were to explicitly contrast the example above with this positive state (i.e. make the contrastive は explicit), it would look like (26).
 
->26\. 日本の老人は入浴なら週2回でもがまんできるけど、<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can tolerate bathing maybe twice a week, but they can't stand showering.* 
+>26\. 日本の老人は入浴なら週2回でもがまんできるけど、<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can get by with bathing as long as it's at least twice a week, but they can't stand just showering.* 
 
 However, we are not always strongly conscious of this implicitly contrasted state, and with some negative statements, it's not easy to imagine such contrast. 
 
 >27\. 人間の麻薬には中毒がつきものだが、猫のマタタビには<u>中毒は</u>ない。<br>*Human drugs are addictive, but there is no addictiveness in silver vine for cats.*
 
-In example (27), there is explicit contrast between "人間の麻薬には" (in human drugs) and "猫のマタタビには" (in silver vine for cats). However, it's hard to imagine some explicit state that can be contrasted with "中毒は" (addictiveness).
-
-Thus, when contrastive は is used with negative statements, the nuance of contrast is often weaker than that of positive statements, or completely absent, as is the case in (27). 
+In example (27), there is explicit contrast between "人間の麻薬には" (in human drugs) and "猫のマタタビには" (in silver vine for cats). However, it's hard to imagine something that can be explicitly contrasted with "中毒は" (addictiveness). Thus, when contrastive は is used with negative statements, the nuance of contrast is often weaker than that of positive statements, or completely absent, as is the case in (27). 
 
 You may also be familiar with the set phrase ではない/ではありません. The は in this phrase is also thought to be implicit contrastive は, but it has almost entirely lost its contrastive nuance.
 
@@ -187,31 +185,37 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 |Cases Where Negative Statements Don't Contain Contrastive は |
 |--|
-| - The inflected negative ending (e.g. 〜ない, 〜ません) of the predicate is strongly bound to its stem. <br> - The negative predicate is strongly bound to its subject. |
+| - The inflected negative ending (e.g. ない, ません) of the predicate is strongly bound to its stem. <br> - The negative predicate is strongly bound to its subject. |
 
 (28) and (29) are cases where the inflected ending is strongly bound to its stem.
 
->28\. <b>杉矢、ボー然としている。</b><br><b>杉矢</b>｢...<u>ホタルが</u>いない...｣<br>*<b>*Sugiya stares into the distance*</b><br><b>Sugiya:</b> "There aren't any fireflies..."*
+>28\. <b>杉矢、ボー然としている。</b><br><b>杉矢</b>｢...<u>ホタルが</u>いない...｣<br>*<b>*Sugiya stares into the distance*</b><br><b>Sugiya:</b> "I don't see a single firefly..."*
 
 >29\. ウイルスのプログラムは、単に行動形態がウイルスに似ているから、そう名付けられているだけで、あらかじめプログラムの上で決められた行動をする以外の何者でもない。そして、自然界に存在するウイルスと違って、人間が作ったものだということである。<u>この点が</u>、意外と知られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
-(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence "ホタルがいる" which is negated, but only the word "いる". "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
+(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence "ホタルがいる" which is negated, but only the word "いる." "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
 
-Look at the structure of ｢日本の老人はシャワーではがまんできない。｣
+The structure of (28) is:
 
-> ```日本の 老人``` + ```は``` + (```シャワーで がまんできる``` + ```ない```)
+> ```ホタル が``` + (```いる``` + ```ない```) → ホタルがいない
 
-The contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで". 
+This statement by Sugiya is simply a description of what he sees. As he stares into the distance, he comments tangentially about how there are no fireflies that he sees. He is not talking topically about fireflies, nor is he answering a question about whether or not there are fireflies there.
 
-On the other hand, the structure of (28) is
+If we were to use は in this statement instead, it would change the implied context of the sentence. As you can see in the following structure, contrastive は may be added if the entire sentence "ホタルがいる" is negated.
 
-> ```ホタル``` + ```が``` + (```いる``` + ```ない```)
+> (```ホタル が いる``` + ```ない```) → ホタルはいない
 
-No contrastive は is added in this sentence because ない does not act on anything before いる.
+A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」("Are there fireflies there?"). Since "ホタルがいる," is being negated, we can rephrase this entire sentence to ｢ホタルがいるわけじゃない。｣ ("It is not true that there are fireflies.").
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate "知られている" (known).
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (known). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known.
 
-The second case listed in the table, where the negative predicate is strongly bound to its subject, covers sentences like (30).
+This is the same concept acting through the addition of は in example (25).
+
+> ```日本の老人 は``` + (```シャワーで がまんできる``` + ```ない```) → 日本の老人はシャワーではがまんできない。
+
+Although the entire sentence is not negated here, the contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで", not just "がまんできる." The question is whether or not Japan's elderly enjoy showering, and the answer is no, they would much prefer taking baths instead. They can't stand it when they can only shower.
+
+The second case listed in the table at the beginning of this section, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
 >30\. 野上は、学生の頃から、<u>女がいないことが</u>なかった...それも、いつも複数で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
@@ -223,7 +227,7 @@ Generally speaking, contrastive は can attach to all case-marked nouns (〜が,
 
 >31\. きょうは<u>パン屋へは</u>行かなかった。<br>*Today, I didn't go to the bread store.*
 
-However, contrastive は cannot attach to the following cases:
+However, contrastive は usually can't attach to the following cases:
 
 |Contrastive は usually does NOT attach to|
 |--|
@@ -359,13 +363,13 @@ The set of adverbs that subjectivizing exclusive が can mark is also narrower t
 
 Consider (61) and (62):
 
->61\. <u>あいつが</u>許せない。<br>*__He__ is unforgivable.*
+>61\. <u>あいつが</u>許せない。(Exclusive が)<br>*__He__ is not forgivable.*
 
->62\. <u>あいつは</u>許せない。<br>*He is __unforgivable__.*
+>62\. <u>あいつは</u>許せない。(Contrastive は)<br>*He is __not__ forgivable.*
 
-The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. 
+The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (62) here into ｢あいつは許せるわけではない。｣ ("It is not true that he is forgivable.") 
 
-Contrastive は is not interchangeable with exclusive が in statements that specify something out of a pool of other things, like (63) and (64).
+Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that specify something out of a pool of other things, like (63) and (64).
 
 >63\. こいつより<u>あいつが</u>許せない。<br>*She's okay, but he's unforgiveable.*
 
