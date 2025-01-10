@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が Addendum: Atypical Noun Sentences"
+title: "Wa and Ga Addendum: Atypical Noun Sentences"
 author: "konomu"
 categories: journal
 tags: [japanese]

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が - The Flowchart Model"
+title: "Wa and Ga - The Flowchart"
 author: "konomu"
 categories: journal
 tags: [japanese]
@@ -56,7 +56,7 @@ The following flowchart is an heavily simplified version that is adapted from th
 
 ![Simplified flowchart](assets/img/simple-flowchart.png)
 
-Because of all of the shortcuts we've made here, I can't guarantee that this chart will always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even in the full flowchart model, this is unavoidable, since it won't always be clear which path to take.
+Because of all of the shortcuts we've made here, I can't guarantee that this chart will always lead to the actual usage of は/が. This is partly because it doesn't account for some rules that you'll read about in the next sections, and partly because usage of は/が is **mostly, but not entirely predictable**. Even with the full flowchart model, this is unavoidable since it's not always clear which path to take.
 
 ## EXTRA: The Unpredictability of は and が
 

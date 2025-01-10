@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が - Principle of Topic Presence"
+title: "Wa and Ga - Principle of Topic Presence"
 author: "hedera"
 categories: journal
 tags: [japanese]

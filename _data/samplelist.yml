@@ -15,9 +15,9 @@ toc2:
         url: /wa-ga-basics#topicless-sentences
       - page: Specificational Sentence Structure
         url: /wa-ga-basics#spec-sentences
-  - title: 2. The Flowchart Model
+  - title: 2. The Flowchart
     subfolderitems:
-      - page: Full Flowchart
+      - page: The Flowchart Model
         url: /wa-ga-flowchart
       - page: Simplified Flowchart
         url: /wa-ga-flowchart#simplified

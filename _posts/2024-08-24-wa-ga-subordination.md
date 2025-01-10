@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が - Principle of Subordination"
+title: "Wa and Ga - Principle of Subordination"
 author: "konomu"
 categories: journal
 tags: [japanese]

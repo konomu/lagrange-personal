@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が - Principle of Topic Position"
+title: "Wa and Ga - Principle of Topic Position"
 author: "konomu"
 categories: journal
 tags: [japanese]

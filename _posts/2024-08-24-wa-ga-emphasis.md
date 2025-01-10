@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が - Principle of Emphasis"
+title: "Wa and Ga - Principle of Emphasis"
 author: "konomu"
 categories: journal
 tags: [japanese]
@@ -10,7 +10,7 @@ hidden: true
 *This article is one in a series that comprehensively explains usage of は vs. が in Japanese. Most content is directly pulled from 『｢は｣ と ｢が｣』 by Hisashi Noda.*
 
 <div class="arrow-container">
-        <a href="wa-ga-flowchart.html" class="nav-arrow">← 2. The Flowchart Model</a>
+        <a href="wa-ga-flowchart.html" class="nav-arrow">← 2. The Flowchart</a>
         <a href="wa-ga-subordination.html" class="nav-arrow">4. Principle of Subordination →</a>
 </div>
 
@@ -18,7 +18,7 @@ hidden: true
 
 # <a name="how-emph" style="text-decoration: none; pointer-events: none;">How is it Emphasized?
 
-The first step of our flowchart is the **principle of emphasis**. Its purpose in the flowchart is to catch the **usages of contrastive は and exclusive が that don't mark any type of subject or topic**. But in this section, we will discuss all sorts of usages of contrastive は and exclusive が.
+Contrastive は and exclusive が are both considered emphasis markers, and the first stage of our flowchart that isn't a simple yes/no question is the **principle of emphasis**. Its purpose is to catch the **usages of contrastive は and exclusive が that don't mark any type of subject or topic**. But in this section, we will discuss all sorts of usages of contrastive は and exclusive が, so you have an idea of when to use them at other points of the chart.
 
 It's possible to view both は and が as a spectrum. On the **spectrum of は**, we have topical は on one end, and contrastive は on the other end. On the **spectrum of が**, we have descriptive が on one end, and exclusive が on the other. Between topical は and descriptive が, we have a **spectrum of topicality**, indicating how topical the word is. Between contrastive は and exclusive が, we have a **spectrum of emphasis**, indicating in which way the word is emphasized.
 
@@ -197,15 +197,15 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 The structure of (28) is:
 
-> ```ホタル が``` + (```いる``` + ```ない```) → ホタルがいない
+> ```ホタル が``` + (```いる``` + ```ない```) → ホタルがいない。
 
 This statement by Sugiya is simply a description of what he sees. As he stares into the distance, he comments tangentially about how there are no fireflies that he sees. He is not talking topically about fireflies, nor is he answering a question about whether or not there are fireflies there.
 
 If we were to use は in this statement instead, it would change the implied context of the sentence. As you can see in the following structure, contrastive は may be added if the entire sentence "ホタルがいる" is negated.
 
-> (```ホタル が いる``` + ```ない```) → ホタルはいない
+> (```ホタル が いる``` + ```ない```) → ホタルはいない。
 
-A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」("Are there fireflies there?"). Since "ホタルがいる," is being negated, we can rephrase this entire sentence to ｢ホタルがいるわけじゃない。｣ ("It is not true that there are fireflies.").
+A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(Are there fireflies there?). Since "ホタルがいる," is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (It is not true that there are fireflies.)
 
 (29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (known). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known.
 
@@ -215,7 +215,7 @@ This is the same concept acting through the addition of は in example (25).
 
 Although the entire sentence is not negated here, the contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで", not just "がまんできる." The question is whether or not Japan's elderly enjoy showering, and the answer is no, they would much prefer taking baths instead. They can't stand it when they can only shower.
 
-The second case listed in the table at the beginning of this section, where the negative predicate is strongly bound to its subject, covers sentences like (30).
+The second point listed in the table at the beginning of this section, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
 >30\. 野上は、学生の頃から、<u>女がいないことが</u>なかった...それも、いつも複数で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
@@ -367,7 +367,7 @@ Consider (61) and (62):
 
 >62\. <u>あいつは</u>許せない。(Contrastive は)<br>*He is __not__ forgivable.*
 
-The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (62) here into ｢あいつは許せるわけではない。｣ ("It is not true that he is forgivable.") 
+The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (62) here into ｢あいつが許せるというわけではない。｣ ("It is not true that he is forgivable.") 
 
 Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that specify something out of a pool of other things, like (63) and (64).
 

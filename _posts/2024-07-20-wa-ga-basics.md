@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "A Guide to は and が"
+title: "A Guide to Wa and Ga in Japanese"
 author: "konomu"
 categories: journal
 tags: [japanese]
@@ -10,7 +10,7 @@ image: hatoga1.jpg
 This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚史) published works『｢は｣ と ｢が｣』(1996) and『文の構造と機能からみた日本語の主題』(1998), including his model for the nine sentence structures and their syntax. The flowchart model is loosely based on the flowchart in these books. Unless explicitly mentioned, all examples I feature here are examples from these two books. If you wish to go further into this topic, I recommend purchasing [a copy of『｢は｣ と ｢が｣』](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X).
 
 <div style="justify-content: flex-end !important;" class="arrow-container">
-        <a href="wa-ga-flowchart.html" class="nav-arrow">2. The Flowchart Model →</a>
+        <a href="wa-ga-flowchart.html" class="nav-arrow">2. The Flowchart →</a>
 </div>  
 
 # <a name="pri" style="margin: 0; text-decoration: none; pointer-events: none;">The Primary Functions of は and が
@@ -131,11 +131,9 @@ The two sentences above come from the same case structure, so they have the same
 
 Pay attention to the topic and the comment of each sentence. The sentence ｢父はこの本を買ってくれた。｣ is about the father of the speaker, and it mentions that this father bought the book for her. The sentence ｢この本は父が買ってくれた。｣ is about the book in question, and it mentions that the book is something the speaker's father bought for her. 
 
-The sentence the speaker will choose to use depends on the context of the conversation it is spoken in.
-
 ### Examples of Basic Topic Sentences
 
-Below are examples of sentences where elements marked with other case markers are topicalized.
+More examples of sentences with topics are shown below.
 
 Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**, and this is shown in examples (4) and (5).
 
@@ -281,10 +279,6 @@ whereas the inversion of this topic sentence, the specificational sentence, will
 >33\. ｢<u>それが</u>ダイヤを見分ける、理想的な明るさなの｣<br>*"That's the ideal brightness for identifying diamonds."*
 
 >34\. ｢ええ。でもずいぶんきれいにかたづいていたでしょ？｣<br>｢<u>君が</u>かたづけたの？｣<br>*"Yep. But it was pretty neat and tidy, wasn't it?"<br>"Did you clean it up?"*
-
-
-
-You'll learn more about specificational sentences in [When to Use Specificational Sentences](/wa-ga-topic-position#when-to-invert).
 
 
 <h1 style="text-align:right;">

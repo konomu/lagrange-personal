@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "は and が - Other Usages and More は Structures"
+title: "Wa and Ga - Other Usages and More は Structures"
 author: "konomu"
 categories: journal
 tags: [japanese]
