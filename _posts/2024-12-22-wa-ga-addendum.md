@@ -12,7 +12,7 @@ published: true
      <a href="wa-ga-other.html" class="nav-arrow">← 7. Other Usages and More は Structures </a>
 </div>
 
-Since writing [A Guide to は and が](wa-ga-basics), I've come to realize that some usages of が are difficult to explain with the typology given by Noda (野田 1996). Technically, his sentence typology covers most of the sentences I will explain in this article, but they function distinctly from typical sentences you will see in Noda's categories, so I believe they deserve their own descriptions. Also, I am writing this because I've never seen any of these sentence forms described in English-language Japanese-learning resources (except for a mention of breakdown sentences in Kuno's *The Structure of the Japanese Language*). All information and examples that follow come from 今田 (2010).
+Since writing [A Guide to Wa and Ga](wa-ga-basics), I've come to realize that some usages of が are difficult to explain with the typology given by Noda (野田 1996). Technically, his sentence typology covers most of the sentences I will explain in this article, but they function distinctly from typical sentences you will see in Noda's categories, so I believe they deserve their own descriptions. Also, I am writing this because I've never seen any of these sentence forms described in English-language Japanese-learning resources (except for a mention of breakdown sentences in Kuno's *The Structure of the Japanese Language*). All information and examples that follow come from 今田 (2010).
 
 "Noun sentences" are sentences with a noun as its predicate. We will look at four sentence forms, all of which are topicless noun sentences, and all of which contain が.
 
@@ -92,7 +92,9 @@ Examples (8) through (10) are neutral-description noun sentences which function 
 
 # <a name="identification" style="text-decoration: none; pointer-events: none;">Identificational Sentences (同定文)
 
-Identificational sentences are noun sentences that use が to **assign characteristics or meanings to their predicate**. They are distinct from both neutral-description sentences and specificational sentences. They may resemble specificational sentences, **but there is no nuance of exclusion within them**. Here are some examples:
+Identificational sentences are noun sentences that use が to **assign characteristics or meanings to their predicate**.[^3] They are distinct from both neutral-description sentences and specificational sentences. They may resemble specificational sentences, **but there is no nuance of exclusion within them**. Here are some examples:
+
+[^3]: Identificational sentences are also called が-cleft sentences (ガ分裂文). The ｢花が咲くのは7月ごろだ。｣ structure covers は-cleft sentences (ハ分裂文). 野田 (1998) defined his 陰題文 to include identificational sentences, but I separated them out of the category (leaving only specificational sentences) in my guide so that I could present them here. I do believe they function distinctly enough to warrant this recategorization, and I feel like lumping identificational sentences into the same category as specificational sentences is confusing.
 
 >23\. <u>苦労してやっと手に入れたのが</u>これだ。<br>*This is what I have finally gotten my hands on after much hard work.*
 
@@ -208,7 +210,9 @@ Eminent researchers in Japanese linguistics disagree on how to characterize pres
 
 Example (32) shows a presentational sentence, where "得におすすめなの" (one I particularly recommend) is the subject and "これ" (this) is the predicate. The reason why presentational sentences are often brought up in their own category is because of their information structure. Namely, **the predicate is new information, and the subject is old information**.[^2] That is, the predicate of presentational sentences are newly introduced to the listener or brought to the listener's attention. This goes against a rule-of-thumb for Japanese commonly repeated to learners, that "は marks old information, and が marks new information." It also differs from regular identificational sentences, where the subject is new information and the predicate is old information.
 
-Apart from this difference, presentational sentences mostly function in the same way as identificational sentences. They are used for the same reasons brought up in (28) through (30).
+[^2]: This is debated. Some linguists consider presentational sentences to be a subcategory of neutral-description noun sentences, which would mean the entirety of the sentence is new information.
+
+Apart from this difference, presentational sentences mostly function in the same way as identificational sentences. They are used for the same reasons brought up in (27) through (29).
 
 >33\. フェラーリは第二次世界大戦が終わってレースが再開された時から、クルマを製作し、チームを作ってレースに参加している。その後、現在に至るまで1年として休んだことはない。そのフェラーリがクルマを作るようになる以前、すなわち1920年代や30年代に、<u>ちょうどこの現代のフェラーリの役割を果たしていたのが、</u>アルファ・ロメオだった。<br>*Ferrari has been building cars, forming teams, and participating in races since racing resumed after the end of World War II. This practice of theirs has continued every year, all the way up to current day. But in the 1920s and 1930s, before Ferrari was a carmaker, it was Alfa Romeo that played the role of the modern Ferrari.*
 
@@ -216,7 +220,7 @@ Apart from this difference, presentational sentences mostly function in the same
 
 >35\. 人々は賃金の目減りを副業、内職で補ってきたが、副収入を加えた実質所得も昨年秋のルーブル暴落を境に減少に転じた。<u>これに追い打ちをかけたのが、</u>今年初め以来の公共料金の大幅アップだ。公営住宅の家賃や鉄道運賃は二・四倍、ガス料金は五倍に跳ね上がった。<br>*Many have been making up for the reduced wages by taking on second jobs, but their real income has also been declining since the ruble crashed last fall. Compounding this is the sharp increase in public utility fees since the beginning of this year. Rents for public housing and train fares are up 140%, and gas prices have risen five-fold.*
 
-[^2]: This is debated. Some linguists consider presentational sentences to be a subcategory of neutral-description noun sentences, which would mean the entirety of the sentence is new information.
+
 
 # Citations
 

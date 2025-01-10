@@ -81,7 +81,7 @@ Of the other six は structures introduced alongside the basic topic sentence st
 | **｢かき料理は広島が本場だ。｣**| Modifier of the Predicate |
 | **｢辞書は新しいのがいい。｣**| Modified Case-Marked Noun |
 | **｢この問題は解くのが難しい。｣**| Element Inside Subordinate Clause |
-| ｢花が咲くのは7月ごろだ。｣| Subordinate Clause |
+| ｢花が咲くのは7月ごろだ。｣| Main Clause |
 | ｢このにおいはガスが漏れてるよ。｣| *n/a* |
 
 Notice that not all sentences that follow the pattern 〜は〜が... count as double-subject structures. For example, in the sentence ｢この本は父が買ってくれた。｣ (introduced in [Basic Topic Sentences](wa-ga-basics#topic-sentences)), "この本" is a topicalized object, not a subject.
@@ -190,11 +190,11 @@ In this structure, が is descriptive, not exclusive.
 
 > 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
 
-This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause**. Formally, this structure is known as a cleft sentence.
+This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause** containing the main predicate of the case structure. Formally, this structure is known as a は-cleft sentence.
 
 ![Diagram showing topicalization of 花が咲く in the case structure 7月ごろ花が咲く(こと)](assets/img/hana.png)
 
-The function of this sentence is that the predicate "7月ごろ" (around July) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (flowers bloom) without using exclusive が.
+The function of this sentence is that the predicate "7月ごろ" (around July) is emphasized like something marked by exclusive が would be, but we are still stating something about the topic "花が咲く" (flowers bloom) without using exclusive が. In other words, there is exclusive nuance on "7月ごろ."
 
 The "Adverb or Case-Marked Noun" in this structure is often some word/phrase that expresses the reason or time for whatever is in the clause. 
 
@@ -214,11 +214,11 @@ Notice that because we can't put は directly after "花が咲く," we have to n
 
 > このにおいはガスが漏れてるよ。<br>*This smell must be a gas leak.*
 
-This structure is rarely seen in written language. Some linguists even consider it ungrammatical, but it has legitimate functions. It covers sentences like ｢このにおいはガスが漏れてるよ。｣. 
+This structure is rarely seen in written language. Some linguists even consider it ungrammatical, but it has legitimate functions. It covers sentences like ｢このにおいはガスが漏れてるよ。｣
 
 If we try to work backward to uncover the case structure of this sentence, we find ourselves at a dead end. It makes little sense to accept <span style="color: #ff0040">"×このにおいがガスが漏れている(こと)"</span> as the case structure.
 
-The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. We can't construct a topicalization chart for this structure, so instead, we'll look at three major types of this structure you will encounter.
+The reason we can't find the case structure for these kinds of sentences is because something about the final spoken sentence has been altered. Formally, this structure is known as an anacoluthon. We can't construct a topicalization chart for this structure, so instead, we'll look at three major types of this structure you will encounter.
 
 ### The Redundant-Type
 
@@ -266,11 +266,11 @@ The topics in (45) and (46), "作り方" (recipe) and "練習" (practice), only 
 
 # EXTRA: The Generic ｢～は～が...｣ Structure
 
-From all of the double-subject structures I described above and the examples discussed in [Basic Topic Sentences](wa-ga-basics#topic-sentences), we can make a generalization to make thinking about them easier. All double-subject sentences that take the form ｢～は～が...｣ will have the basic structure:
+From all of the double-subject structures I described above and the examples discussed in [Basic Topic Sentences](wa-ga-basics#topic-sentences), we can make a generalization to make thinking about them easier. All double-subject sentences that take the form ｢～は～が...｣ will have the generic structure:
 
 > `Topic(Subject)` + `は` + `Comment(Subject + が + Predicate)`
 
-I explained four different double-subject structures, but all of them primarily lead to the same generic ｢～は～が...｣ structure above, even though the information contained in each of these distinct structures is derived differently from their case structures.
+I explained four different double-subject structures, but all of them primarily lead to the same generic ｢～は～が...｣ structure above, even though the information contained in them is derived differently from their case structures.
 
 There is also a set of ｢～は～が...｣ sentences that come from the [Basic Topic Sentence](wa-ga-basics#topic-sentences) structures, where the element marked by は is not necessarily a subject, but may be some other case-marked noun or adverb.
 
@@ -305,6 +305,8 @@ Susumu, Kuno. (1973). The Structure of the Japanese Language.
 
 丹羽, 哲也. (2007). 『日本語の題目文』, 2006年1月25日発行, 和泉書院刊, A5判, 392ページ, 10,000円+税. 日本語の研究, 3(4), 63-68.
 
+野田尚史 - 『｢は｣ と ｢が｣』(1996)
+
 松下, 大三郎. (1930). 標準日本口語法. 中文館書店.
 
 丸山. (2016). 現代日本語における節の分類体系について.
@@ -326,8 +328,6 @@ Susumu, Kuno. (1973). The Structure of the Japanese Language.
 石出靖雄 - [小説における主題のない文 (2020)](https://meiji.repo.nii.ac.jp/record/8804/files/kyouyoronshu_546_1.pdf)
 
 石出靖雄 - [文章における無題文の役割についての研究-新聞社説を対象として (2024)](https://meiji.repo.nii.ac.jp/record/2000477/files/kyouyoronshu_576_1.pdf)
-
-野田尚史 - 『｢は｣ と ｢が｣』(1996)
 
 野田尚史 - 『文の構造と機能からみた日本語の主題』(1998)
 

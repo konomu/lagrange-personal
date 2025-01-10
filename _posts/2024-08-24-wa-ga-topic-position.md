@@ -219,7 +219,7 @@ When it comes to inversion, there are three types of sentences:
 
 We just learned how to identify sentences that can't be inverted, which necessarily fall into category (a). Now, let's go over sentences in type (b) and (c).
 
-| Sometimes Specificational | Often Specificational |
+| (b) Sometimes Specificational | (c) Often Specificational |
 | ---- |
 | - Sentences with a noun topic<br>- Sentences with a verb topic (nominalized or not)<br>- Sentences in which the comment is the <br>details of topics like 特徴 or 原因  | - Sentences with an adjective topic (nominalized or not)<br>- Sentences in which the comment is familiar information<br>- Sentences in which the comment is an interrogative word |
 

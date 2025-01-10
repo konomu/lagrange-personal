@@ -75,7 +75,7 @@ The two underlined は in example (1) above are uses of contrastive は. This se
 
 >2\.  子供たちは<u>カレーは</u>作っている。<br>*The kids are making curry. (But...)*
 
-The example above is a sentence with one contrastive は. Even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that the kids have not cooked yet.
+Example (2) is a sentence with one contrastive は. Even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that the kids have not cooked yet.
 
 You will learn more about contrastive は in [chapter 3: Principle of Emphasis](/wa-ga-emphasis).
 
@@ -163,7 +163,7 @@ Take a look at example (6). If we were to topicalize "東京へ" instead of "沢
 
 >12\. 沢田が東京へ行った(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>東京へは</u>沢田が行った。<br>*To Tokyo, Sawada did go.*
 
-The は in examples (7) through (10) in the previous section can be viewed as topical は, but they all have some contrastive nuance as well. (12) and (13) show examples of sentences with high contrastive nuance.
+The は in examples (7) through (10) in the previous section can be viewed as topical は, but they all have some contrastive nuance as well. (13) and (14) show examples of sentences with high contrastive nuance.
 
 >13\. <u>海へは</u>あっという間に着いた。<br>*To the beach, we arrived in no time.*
 

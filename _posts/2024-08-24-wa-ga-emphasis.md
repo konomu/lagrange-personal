@@ -369,7 +369,7 @@ Consider (61) and (62):
 
 The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (62) here into ｢あいつが許せるというわけではない。｣ ("It is not true that he is forgivable.") 
 
-Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that specify something out of a pool of other things, like (63) and (64).
+Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that explicitly specify something out of a pool of other things, like (63) and (64).
 
 >63\. こいつより<u>あいつが</u>許せない。<br>*She's okay, but he's unforgiveable.*
 

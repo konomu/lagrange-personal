@@ -177,7 +177,7 @@ Just like we saw with topic sentences, there are cases where a sentence is likel
 
 From what we have discussed above, we can say that there are **two main reasons** why something in Japanese may become a topic.
 
-a. We are declaring that the topic has some **permanent state**.
+a. The predicate is some **permanent state**.
 
 >20\. <u><ruby><rb>蘭島海岸</rb><rt>らんしまかいがん</rt></ruby>は</u>日本海に面した海水浴場である。<br>*Ranshima Coast is a beach facing the Sea of Japan.*
 
@@ -185,7 +185,7 @@ b. The topic is **familiar information**. It is something the listener knows abo
 
 >21\. 姉と2人でパンを食べていた。<u>姉は</u> ｢真夏もおわりね｣ と言った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
 
-Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate because は/が is not fully predictable.
+Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate for predicting は/が usage because not all familiar information is topicalized.
 
 ## <a name="new-old" style="text-decoration: none; pointer-events: none;">EXTRA: Familiar Information and New/Old Information
 
@@ -203,7 +203,7 @@ The following is a diagram marking the topic, comment, new information, and old 
 
 As highlighted in the diagram, new information may sometimes be familiar information, such as "君" in the sentence ｢君が主役だ。｣.
 
-The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える".[^7] However, it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but descriptive. Thus, it is natural to recognize the **entirety** of the sentence ｢富士山が見えるよ。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
+The two topic sentences fit the generalization that "は marks old information, and が marks new information." However, the topicless sentence isn't so straightforward. In the example, there is no nuance that we are emphasizing "富士山" as new information in relation to "見える",[^7] yet it is nonetheless marked by が. This is not an exceptional instance. The が in this sentence is not exclusive, but descriptive. Thus, it is natural to recognize the **entirety** of the sentence ｢富士山が見えるよ。｣ as new information. This makes grammatical sense since many topicless sentences serve to describe some spontaneous event or to change the subject. 
 
 [^7]: The exclusive interpretation (marking "富士山" as new information) is possible, but disqualifies it as a topicless sentence.
 
