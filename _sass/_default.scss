@@ -306,12 +306,11 @@ h3.header-title {
 
 .footer a {
   color: $light-gray-color;
-  padding: 10px;
   text-decoration: none;
 }
 
 .footer a:hover {
-  color: $dark-gray-color;
+  color: white;
 }
 
 .footer-description {
@@ -321,4 +320,8 @@ h3.header-title {
   color: $light-gray-color;
   font-family: $sans-serif-font-family;
   font-size:0.8rem;
+}
+
+.fa {
+  font-size: 22px !important;
 }

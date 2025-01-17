@@ -189,7 +189,7 @@ Of these two reasons, the one that takes priority is (a). In other words, even i
 
 ## <a name="new-old" style="text-decoration: none; pointer-events: none;">EXTRA: Familiar Information and New/Old Information
 
-A once popular way of teaching the difference between は/が was through the concept of "new information" (新情報) and "old information" (旧情報), but this idea is not used in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
+A once popular way of teaching the difference between は/が was through the concept of "new information" (新情報) and "old information" (旧情報), but this idea is not explicitly taught in Noda's original book. I have decided to name Noda's concept as "familiar information". Notice that we did not talk about "old" or "new information" when we discussed what elements become topics, but only about what is "familiar information" and "not familiar information". These two concepts are related, but distinct from each other.
 
 As 上林 (1988) points out, the definition of this new/old distinction has never been made rigorously clear and does not entirely describe functions of は/が if we simply define old information in the same way that we define familiar information. Noda brings up familiar information only to describe tendencies regarding topicalization, not to differentiate between functions of は and が.
 
@@ -211,7 +211,7 @@ A common explanation provided to learners about は/が is that "Important infor
 
 - The concept of new/old information doesn't apply in subordinate clauses
 - Contrastive は may violate this rule-of-thumb.
-- Old information does not appear in topicless sentences, so the rules-of-thumb do not account for the nature of emphasis in topicless sentences. This might mislead learners into thinking there is some nuance of exclusion present in all subjects marked by が.
+- Old information does not appear in topicless sentences/clauses, so the rules-of-thumb do not account for the nature of emphasis in them. This might mislead learners into thinking there is some nuance of exclusion present in all subjects marked by が.
 - Debatably, one semantic structure actually allows for が to mark old information (See [Presentational Sentences](wa-ga-addendum#presentation)).
 
 <h1 style="text-align:right;">

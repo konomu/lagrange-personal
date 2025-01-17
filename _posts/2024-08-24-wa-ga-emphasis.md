@@ -207,13 +207,13 @@ If we were to use は in this statement instead, it would change the implied con
 
 A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(Are there fireflies there?). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (It is not true that there are fireflies.)
 
-(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (known). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known.
+(29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (known). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known, but to specify that it is "this detail" that is not well known.
 
 This is the same concept acting through the addition of は in example (25).
 
 > ```日本の老人 は``` + (```シャワーで がまんできる``` + ```ない```) → 日本の老人はシャワーではがまんできない。
 
-Although the entire sentence is not negated here, the contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで", not just "がまんできる." The question is whether or not Japan's elderly enjoy showering, and the answer is no, they would much prefer taking baths instead. They can't stand it when they can only shower.
+Although the entire sentence is not negated here, the contrastive は (after "シャワーで") is added as a result of ない acting upon the portion "シャワーで", not just "がまんできる." The question is whether or not Japan's elderly enjoy showering, and the answer is no, they would much prefer taking baths instead; they can't stand it when they can only shower.
 
 The second point listed in the table at the beginning of this section, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
@@ -297,11 +297,9 @@ All forms of exclusive が can have one of two forms of exclusion: strong or wea
 |Strong Exclusion|One option is picked out of a pool of other options to be marked by exclusive が, and those other options are **apparent**.|
 |Weak Exclusion|One option is picked out of a pool of other options to be marked by exclusive が, but those other options are **not apparent**.|
 
-While strong exclusion may be indicated by subjectivizing exclusive が (the one after "Principle of Emphasis" in the flowchart) or exclusive が marking a subject (the one after "Principle of Topic Position" in the flowchart), weak exclusion may only be indicated by exclusive が marking a subject.
-
 ## Strong Exclusion
 
-Strong exclusion often takes the form of 〜のほうが... or 〜がいちばん... because these phrases directly imply the existence of other options that can be marked by exclusive が. The nuance of strongly exclusive が expresses a clear comparison between one thing marked by exclusive が versus some other thing(s).
+The nuance of strongly exclusive が expresses a clear comparison between one thing marked by exclusive が versus some other thing(s). Strong exclusion often takes the form of 〜のほうが... or 〜がいちばん... because these phrases directly imply the existence of other options that can be marked by exclusive が.
 
 >48\. 神戸より<u>大阪のほうが</u>にぎやかだ。<br>*Osaka is a much more livelier place than Kobe.*
 
@@ -311,27 +309,37 @@ Strong exclusion often takes the form of 〜のほうが... or 〜がいちば�
 
 ## Weak Exclusion
 
-With weak exclusion, whatever is marked by exclusive が is still being singled out, but no clear comparison is drawn between it and some other thing(s).
+With weak exclusion, whatever is marked by exclusive が is still being singled out, but no clear comparison is drawn between it and some other thing(s). (51) through (53) and the previous example (29) are all specificational sentences with weak exclusion.
 
 >51\. <u>君が</u>主役だ。<br>*You're the lead actor.*
 
 >52\. 暇を見つけては遊ぶ。<u>これが</u>仕事の極意!<br>*Slack off whenever you have the chance. That is the secret to working!*
 
-(51), (52), and the previous example (29) are all specificational sentences with weak exclusion.
+>53\. ｢<u>そこが</u>出口よ｣ と彼女は言った。<br>*"The exit's that way," she said.*
+
+Exclusive が used in questions to ask for specification are often weakly exclusive.
+
+>54\. ｢<u>どの辺が</u>スキー場になるんですか？｣<br>*"Where is the ski resort?"*
+
+>55\. ｢<u>あなたが</u>代表者ですか？｣<br>*"Are you the representative?"*
+
+Specificational sentences that express intention are also considered weakly exclusive.
+
+>56\. ｢<u>私が</u>行きます。｣<br>*"I will go."*
 
 Another case where weak exclusion appears is in commands where the subject is explicitly stated. It's rare for the subject to be mentioned in commands, so when it is, it's likely because the speaker is specifying who should carry out the command, adding exclusive nuance.
 
->53\. ｢どいて｣<br>と、桃子は、良介のショッピングカーをつついた。<br>｢<u>そっちが</u>どけや｣<br>*"Move," said Momoko, nudging Ryosuke's shopping cart.<br>"You move."*
+>57\. ｢どいて｣<br>と、桃子は、良介のショッピングカーをつついた。<br>｢<u>そっちが</u>どけや｣<br>*"Move," said Momoko, nudging Ryosuke's shopping cart.<br>"You move."*
 
 # <a name="exclusion-words" style="text-decoration: none; pointer-events: none;">Types of Words Exclusive が Can Mark
 
-We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart.
+We already know that exclusive が can mark a subject, but there also exists another form of exclusive が called **subjectivizing exclusive が** that may mark non-subjects, turning them into subjects. This is the "exclusive が" that appears after the "Principle of Subordination" on the flowchart. Subjectivising esxclusive が is always strongly exclusive (but not all strongly exclusive が are subjectivising).
 
 Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusive が can mark is much more limited. For example, it may not mark objects.
 
->54\. わたしは<u>ジュースは</u>飲んだが、お酒は飲まなかった。<br>*I had juice, but no alcohol.*
+>58\. わたしは<u>ジュースは</u>飲んだが、お酒は飲まなかった。<br>*I had juice, but no alcohol.*
 
->55\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span><br><span style="color: #ff0040">*I did not drink alcohol, but juice.*</span>
+>59\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span><br><span style="color: #ff0040">*I did not drink alcohol, but juice.*</span>
 
 The following table details the markers of case-marked nouns that subjectivizing exclusive が may replace. The original case particles must be deleted and replaced with が.
 
@@ -339,41 +347,43 @@ The following table details the markers of case-marked nouns that subjectivizing
 |--|
 |- の expressing possession <br> - に expressing time, location, or direction <br> - で expressing location |
 
-(56) is an example where の expressing possession has been replaced by subjectivizing exclusive が.
+(60) is an example where の expressing possession has been replaced by subjectivizing exclusive が.
 
->56\. だが、現在はまだ<u>北の高気圧の方が</u>勢力が強い。<br>*But for the time being, the high-pressure system in the north is still the most severe.*
+>60\. だが、現在はまだ<u>北の高気圧の方が</u>勢力が強い。<br>*But for the time being, the high-pressure system in the north is still the most severe.*
 
-(57) is an example where に expressing location has been replaced by subjectivizing exclusive が.
+(61) is an example where に expressing location has been replaced by subjectivizing exclusive が.
 
->57\. 広島は<u><ruby><rb>流川</rb><rt>ながれかわ</rt></ruby>あたりが</u>バーや飲屋がおおいが、広島駅のすぐそばの<ruby><rb>駅西</rb><rt>えきにし</rt></ruby>の路地で飲んだ。<br>*In Hiroshima, there are many bars and drinking establishments around Nagarekawa, but we drank in an alley shop at Ekinishi, which is very close to Hiroshima Station.*
+>61\. 広島は<u><ruby><rb>流川</rb><rt>ながれかわ</rt></ruby>あたりが</u>バーや飲屋がおおいが、広島駅のすぐそばの<ruby><rb>駅西</rb><rt>えきにし</rt></ruby>の路地で飲んだ。<br>*In Hiroshima, there are many bars and drinking establishments around Nagarekawa, but we drank in an alley shop at Ekinishi, which is very close to Hiroshima Station.*
 
-(58) is an example where に expressing direction has been replaced by subjectivizing exclusive が.
+(62) is an example where に expressing direction has been replaced by subjectivizing exclusive が.
 
->58\. <u>六本木のディスコが</u>芸能人がよく来る。<br>*Celebrities come to the discotheques in Roppongi often.*
+>62\. <u>六本木のディスコが</u>芸能人がよく来る。<br>*Celebrities come to the discotheques in Roppongi often.*
 
-(59) is an example where で expressing location has been replaced by subjectivizing exclusive が.
+(63) is an example where で expressing location has been replaced by subjectivizing exclusive が.
 
->59\. <u>この店が</u>つけで買物できる。<br>*You can shop on credit here.*
+>63\. <u>この店が</u>つけで買物できる。<br>*You can shop on credit here.*
+
+This subjectivising function of exclusive が allows for the formation of sentences with multiple subjects. Example (60) and (62) are double-subject sentences, and the first clause of (61) is a triple-subject structure. Double-subject sentences can also be formed with topical は, which I explain in [Additional は Structures](wa-ga-other#additional).
 
 The set of adverbs that subjectivizing exclusive が can mark is also narrower than that of contrastive は. Generally, only adverbs that express **tense**, such as 今 or ことし, may be marked.
 
->60\. 洗濯屋さんは<u>いまが</u>一年で一番忙しい。<br>*The cleaners are at their busiest at this time of year.*
+>64\. 洗濯屋さんは<u>いまが</u>一年で一番忙しい。<br>*The cleaners are at their busiest at this time of year.*
 
 # <a name="cwa-vs-xga" style="text-decoration: none; pointer-events: none;">Contrastive は and Exclusive が In Negative Statements
 
-Consider (61) and (62):
+Consider (65) and (66):
 
->61\. <u>あいつが</u>許せない。(Exclusive が)<br>*__He__ is not forgivable.*
+>65\. <u>あいつが</u>許せない。(Exclusive が)<br>*__He__ is not forgivable.*
 
->62\. <u>あいつは</u>許せない。(Contrastive は)<br>*He is __not__ forgivable.*
+>66\. <u>あいつは</u>許せない。(Contrastive は)<br>*He is __not__ forgivable.*
 
-The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (62) here into ｢あいつが許せるというわけではない。｣ ("It is not true that he is forgivable.") 
+The English translations and the emphasized words are approximations of the sentence's nuance. The first sentence with exclusive が is a statement that specifies **who** is unforgivable out of all people, while the second sentence with contrastive は is a statement that specifies **whether or not** this person is unforgivable (as contrastive は in a negative statement). We can rephrase (66) here into ｢あいつが許せるというわけではない。｣ ("It is not true that he is forgivable.") 
 
-Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that explicitly specify something out of a pool of other things, like (63) and (64).
+Notice that exclusive が makes an implication about other people (that they are not the unforgivable ones), whereas this particular usage of contrastive は makes no implications about other people. Thus, contrastive は is not interchangeable with exclusive が in statements that explicitly specify something out of a pool of other things, like (67) and (68).
 
->63\. こいつより<u>あいつが</u>許せない。<br>*She's okay, but he's unforgiveable.*
+>67\. こいつより<u>あいつが</u>許せない。<br>*She's okay, but he's unforgiveable.*
 
->64\. こいつではなく<u>あいつが</u>許せない。<br>*He's the unforgiveable one, not her.*
+>68\. こいつではなく<u>あいつが</u>許せない。<br>*He's the unforgiveable one, not her.*
 
 
 <h1 style="text-align:right;">
