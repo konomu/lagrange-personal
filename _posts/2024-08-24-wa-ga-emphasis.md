@@ -193,7 +193,7 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 >29\. ウイルスのプログラムは、単に行動形態がウイルスに似ているから、そう名付けられているだけで、あらかじめプログラムの上で決められた行動をする以外の何者でもない。そして、自然界に存在するウイルスと違って、人間が作ったものだということである。<u>この点が</u>、意外と知られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
-(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence "ホタルがいる" which is negated, but only the word "いる." "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
+(28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence ホタルがいる which is negated, but only the word いる. "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
 
 The structure of (28) is:
 
@@ -201,11 +201,11 @@ The structure of (28) is:
 
 This statement by Sugiya is simply a description of what he sees. As he stares into the distance, he comments tangentially about how there are no fireflies that he sees. He is not talking topically about fireflies, nor is he answering a question about whether or not there are fireflies there.
 
-If we were to use は in this statement instead, it would change the implied context of the sentence. As you can see in the following structure, contrastive は may be added if the entire sentence "ホタルがいる" is negated.
+If we were to use は in this statement instead, it would change the implied context of the sentence. As you can see in the following structure, contrastive は may be added if the entire sentence ホタルがいる is negated.
 
 > (```ホタル が いる``` + ```ない```) → ホタルはいない。
 
-A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(Are there fireflies there?). Since "ホタルがいる," is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (It is not true that there are fireflies.)
+A speaker might use this sentence as an answer to someone else asking「ホタルはいますか？」(Are there fireflies there?). Since ホタルがいる is being negated, we can rephrase this entire sentence to ｢ホタルがいるというわけではない。｣ (It is not true that there are fireflies.)
 
 (29) also follows the same principle, where contrastive は does not appear because ない is strongly bound to the predicate 知られている (known). Whether or not "this detail" (この点) is known has not been called into question, and the point of the sentence is not to confirm or deny whether or not "this detail" is well known.
 

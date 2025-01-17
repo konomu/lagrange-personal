@@ -154,7 +154,7 @@ In typical sentences with a topic, the topic is placed at the front of the sente
 
 >14\. <u>この本</u><b>は</b>父が買ってくれた。
 
-Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", and we'll see that it's also placed at the front.[^5]
+Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた" (15).
 
 [^5]:This sentence fits into [the ｢花が咲くのは7月ごろだ。｣ structure](wa-ga-other#hana).
 
@@ -168,7 +168,7 @@ Thus, the usage of は/が changes depending on what part of the sentence the to
 
 Notice how (15) and (16) have **approximately the same meaning**. In many cases, a sentence and its inversion are interchangeable, but there are certain tendencies towards which version of the sentence is more likely to be expressed depending on context and what kinds of words are contained in it.
 
-Not all sentences make sense when they're inverted. Before we go over when to use specificational sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
+**Not all sentences with は will make sense when they're inverted.** If we invert the basic topic sentence in (14), the result is highly unnatural. Before we go over when to use specificational sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
 
 # <a name="spec-sup" style="text-decoration: none; pointer-events: none;">How to Tell When Inversion is Possible
 
