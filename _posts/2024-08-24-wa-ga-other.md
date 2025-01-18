@@ -32,7 +32,7 @@ Notice that not all sentences that follow the pattern 〜は〜が... count as d
 
 ## <a name="zou" style="text-decoration: none; pointer-events: none;">The ｢象は鼻が長い。｣ Structure
 
-> 象は鼻が長い。<br>*Elephants have long trunks.*
+> <ruby>象<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>は<ruby>鼻<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>い。<br>*Elephants have long trunks.*
 
 The sentence ｢象は鼻が長い。｣ is famous in discussions of Japanese grammar because of linguist Akira Mikami. In 1960, Mikami published『象ハ鼻ガ長イナア！』, in which he proposed that this sentence has no subject and advocated for the dismissal of the idea of the subject in Japanese. We'll subscribe to Mikami's interpretation of the sentence but keep the idea of the subject intact.
 
@@ -46,19 +46,19 @@ Thus, the ｢象は鼻が長い。｣ structure is just another way of topicaliz
 
 Notice that the が in this structure is just a descriptive が with no exclusive nuance. We are simply stating that elephants "have long trunks," not specifying what part of elephants is long.
 
->1\. <u>わが国で栽培されるトマトは</u>、ホルモン剤を利用することを前提に栽培管理技術ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
+>1\. <u>わが<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>で<ruby>栽培<rp>(</rp><rt>さいばい</rt><rp>)</rp></ruby>されるトマトは</u>、ホルモン<ruby>剤<rp>(</rp><rt>ざい</rt><rp>)</rp></ruby>を<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>することを<ruby>前提<rp>(</rp><rt>ぜんてい</rt><rp>)</rp></ruby>に<ruby>栽培<rp>(</rp><rt>さいばい</rt><rp>)</rp></ruby><ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby><ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>ができている。<br>*The cultivation techniques for tomatoes grown in our country were developed around hormone use.*
 
->2\. <u>仙台の県営球場は</u>グラウンドが荒れている。<br>*Sendai's prefectural baseball field is in bad condition.*
+>2\. <u><ruby>仙台<rp>(</rp><rt>せんだい</rt><rp>)</rp></ruby>の<ruby>県営球場<rp>(</rp><rt>けんえいきゅうじょう</rt><rp>)</rp></ruby>は</u>グラウンドが<ruby>荒<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>れている。<br>*Sendai's prefectural baseball field is in bad condition.*
 
->3\. <u>大橋のシンボルともいえる主塔は</u>高さが海面から297m。<br>*The main tower, a symbol of Akashi Kaikyo Bridge, reaches 297 meters above the surface of the ocean.*
+>3\. <u><ruby>大橋<rp>(</rp><rt>おおはし</rt><rp>)</rp></ruby>のシンボルともいえる<ruby>主塔<rp>(</rp><rt>しゅとう</rt><rp>)</rp></ruby>は</u><ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>さが<ruby>海面<rp>(</rp><rt>かいめん</rt><rp>)</rp></ruby>から297m。<br>*The main tower, a symbol of Akashi Kaikyo Bridge, reaches 297 meters above the surface of the ocean.*
 
 Sentences that derive from topicalization of the modifier marked by の in ｢～の～を...｣ like (4) can also be grouped into the ｢象は鼻が長い。｣ structure, although these are not double-subject sentences.
 
->4\. <u>普通車は</u>、腰掛を主体として<u>車内設備を</u>変更した。<br>*The design of interior fittings in passenger vehicles, especially their seats, has changed over time.*
+>4\. <u><ruby>普通車<rp>(</rp><rt>ふつうしゃ</rt><rp>)</rp></ruby>は</u>、<ruby>腰掛<rp>(</rp><rt>こしかけ</rt><rp>)</rp></ruby>を<ruby>主体<rp>(</rp><rt>しゅたい</rt><rp>)</rp></ruby>として<u><ruby>車内<rp>(</rp><rt>しゃない</rt><rp>)</rp></ruby><ruby>設備<rp>(</rp><rt>せつび</rt><rp>)</rp></ruby>を</u><ruby>変更<rp>(</rp><rt>へんこう</rt><rp>)</rp></ruby>した。<br>*The design of interior fittings in passenger vehicles, especially their seats, has changed over time.*
 
 ## <a name="kaki" style="text-decoration: none; pointer-events: none;">The ｢かき料理は広島が本場だ。｣ Structure
 
-> かき料理は広島が本場だ。<br>*Hiroshima is the place for oyster cuisine.*
+> かき<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>は<ruby>広島<rp>(</rp><rt>ひろしま</rt><rp>)</rp></ruby>が<ruby>本場<rp>(</rp><rt>ほんば</rt><rp>)</rp></ruby>だ。<br>*Hiroshima is the place for oyster cuisine.*
 
 At first glance, this sentence seems to fit into the ｢象は鼻が長い。｣ structure we just saw because of the ｢～は～が...｣ pattern. However, we can't work backward to find the untopicalized structure by just replacing ｢～は～が...｣ with ｢～の～が...｣ like we did with ｢象は鼻が長い。｣
 
@@ -72,19 +72,19 @@ If we try anyway, we get <span style="color: #ff0040">"×かき料理の広島�
 
 The が in this structure is a strongly exclusive が. This is a major difference between this structure and the ｢象は鼻が長い。｣ structure. We're specifying that it's Hiroshima, not any other place like Sendai or Hamamatsu, that's famous for its oyster dishes. 
 
->5\. <u>雷の発生は</u>、雲の中に電気が蓄えられることが原因だ。<br>*Thunder forms when electricity builds up inside of clouds.*
+>5\. <u><ruby>雷<rp>(</rp><rt>かみなり</rt><rp>)</rp></ruby>の<ruby>発生<rp>(</rp><rt>はっせい</rt><rp>)</rp></ruby>は</u>、<ruby>雲<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>が<ruby>蓄<rp>(</rp><rt>たくわ</rt><rp>)</rp></ruby>えられることが<ruby>原因<rp>(</rp><rt>げんいん</rt><rp>)</rp></ruby>だ。<br>*Thunder forms when electricity builds up inside of clouds.*
 
->6\. <u>経営は</u>、冬の本土出荷インゲンが主体ね。<br>*Our business mainly involves shipping green beans off to the mainland during the winter.*
+>6\. <u><ruby>経営<rp>(</rp><rt>けいえい</rt><rp>)</rp></ruby>は</u>、<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>の<ruby>本土<rp>(</rp><rt>ほんど</rt><rp>)</rp></ruby><ruby>出荷<rp>(</rp><rt>しゅっか</rt><rp>)</rp></ruby>インゲンが<ruby>主体<rp>(</rp><rt>しゅたい</rt><rp>)</rp></ruby>ね。<br>*Our business mainly involves shipping green beans off to the mainland during the winter.*
 
->7\. <u>あの芝居は</u>, こいつが主役だ。<br>*For that production, he's the lead actor.*
+>7\. <u>あの<ruby>芝居<rp>(</rp><rt>しばい</rt><rp>)</rp></ruby>は</u>, こいつが<ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。<br>*For that production, he's the lead actor.*
 
->8\. <u>商社は</u>人が財産。<br>*To corporations, people are capitol.*
+>8\. <u><ruby>商社<rp>(</rp><rt>しょうしゃ</rt><rp>)</rp></ruby>は</u><ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>財産<rp>(</rp><rt>ざいさん</rt><rp>)</rp></ruby>。<br>*To corporations, people are capitol.*
 
->9\. 輸入攻勢もあるが、<u>消しゴムは</u>ほかの商品と違い、国産品が圧倒的に強いのが特徴だ。<br>*Of course there's overseas competition, but when it comes to erasers, Japan-made dominates the national market.*
+>9\. <ruby>輸入<rp>(</rp><rt>ゆにゅう</rt><rp>)</rp></ruby><ruby>攻勢<rp>(</rp><rt>こうせい</rt><rp>)</rp></ruby>もあるが、<u><ruby>消<rp>(</rp><rt>け</rt><rp>)</rp></ruby>しゴムは</u>ほかの<ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby>と<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>い、<ruby>国産品<rp>(</rp><rt>こくさんひん</rt><rp>)</rp></ruby>が<ruby>圧倒的<rp>(</rp><rt>あっとうてき</rt><rp>)</rp></ruby>に<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>いのが<ruby>特徴<rp>(</rp><rt>とくちょう</rt><rp>)</rp></ruby>だ。<br>*Of course there's overseas competition, but when it comes to erasers, Japan-made dominates the national market.*
 
 ## <a name="jisho" style="text-decoration: none; pointer-events: none;">The ｢辞書は新しいのがいい。｣ Structure
 
-> 辞書は新しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
+> <ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのがいい。<br>*When it comes to dictionaries, new ones are better.*
 
 Here's another structure with the ｢～は～が...｣ pattern. In the sentence ｢辞書は新しいのがいい。｣, the modifier is "新しい" (new), and the noun that was topicalized is "辞書" (dictionary). To derive this sentence from its original case structure, we topicalize some **modified case-marked noun**, and the modifier of that element becomes the subject in the comment.
 
@@ -96,25 +96,25 @@ Sentences of this structure can be categorized into two types: the selective typ
 
 Selective-type sentences **use exclusive が**. ｢辞書は新しいのがいい。｣ is an example of a selective-type sentence of this structure, so the nuance here is that of all dictionaries, we select only the set of those that are new to say they're the best. We're specifying that we prefer new dictionaries, as opposed to old dictionaries, small dictionaries, blue dictionaries, etc. (10) through (13) are additional examples of selective-type sentences.
 
->10\. <u>温泉は</u>、高台にある女性専用の露天風呂がお勧めだ。<br>*As for onsen, I recommend the open-air womens' baths that are high up.*
+>10\. <u><ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>は</u>、<ruby>高台<rp>(</rp><rt>たかだい</rt><rp>)</rp></ruby>にある<ruby>女性専用<rp>(</rp><rt>じょせいせんよう</rt><rp>)</rp></ruby>の<ruby>露天風呂<rp>(</rp><rt>ろてんぶろ</rt><rp>)</rp></ruby>がお<ruby>勧<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>めだ。<br>*As for onsen, I recommend the open-air womens' baths that are high up.*
 
->11\. <u>同じ歳月成長した魚は</u>、大きいものより小さいもののほうが"年輪"が詰まっていて、コリコリして甘いのだそうだ。<br>*If the fish are the same age, I've heard smaller fish have more growth rings than bigger fish, so they're much crunchier and sweeter.*
+>11\. <u><ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ<ruby>歳月<rp>(</rp><rt>さいげつ</rt><rp>)</rp></ruby><ruby>成長<rp>(</rp><rt>せいちょう</rt><rp>)</rp></ruby>した<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>は</u>、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きいものより<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さいもののほうが"<ruby>年輪<rp>(</rp><rt>ねんりん</rt><rp>)</rp></ruby>"が<ruby>詰<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>まっていて、コリコリして<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>いのだそうだ。<br>*If the fish are the same age, I've heard smaller fish have more growth rings than bigger fish, so they're much crunchier and sweeter.*
 
->12\. <u>福祉機器は</u>高価・高度な品より年金の枠内で日常生活に密着して気軽に利用できる品が必要だ。<br>*When it comes to welfare equipment, we need things that can be integrated into everyday life and are affordable through pensions, rather than expensive, overengineered items.*
+>12\. <u><ruby>福祉<rp>(</rp><rt>ふくし</rt><rp>)</rp></ruby><ruby>機器<rp>(</rp><rt>きき</rt><rp>)</rp></ruby>は</u><ruby>高価<rp>(</rp><rt>こうか</rt><rp>)</rp></ruby>・<ruby>高度<rp>(</rp><rt>こうど</rt><rp>)</rp></ruby>な<ruby>品<rp>(</rp><rt>しな</rt><rp>)</rp></ruby>より<ruby>年金<rp>(</rp><rt>ねんきん</rt><rp>)</rp></ruby>の<ruby>枠内<rp>(</rp><rt>わくない</rt><rp>)</rp></ruby>で<ruby>日常生活<rp>(</rp><rt>にちじょうせいかつ</rt><rp>)</rp></ruby>に<ruby>密着<rp>(</rp><rt>みっちゃく</rt><rp>)</rp></ruby>して<ruby>気軽<rp>(</rp><rt>きがる</rt><rp>)</rp></ruby>に<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>できる品が<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>だ。<br>*When it comes to welfare equipment, we need things that can be integrated into everyday life and are affordable through pensions, rather than expensive, overengineered items.*
 
->13\. <u>辞書は</u>白水社がいい。<br>*When it comes to dictionaries, Hakusuisha is the way to go.*
+>13\. <u><ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は</u><ruby>白水社<rp>(</rp><rt>はくすいしゃ</rt><rp>)</rp></ruby>がいい。<br>*When it comes to dictionaries, Hakusuisha is the way to go.*
 
 ### The Parallel-Type
 
 The parallel-type sentence of this structure, on the other hand, **use descriptive が**. These sentences start with the ```topic``` + ```は```, followed by several clauses with different subjects marked by が. Example (28) and (29) are parallel-type sentences.
 
->14\. <u>全国製麺連が調べた一人当り麺類消費量の全国平均は</u>、うどんが年間1.9キロ、ラーメン類が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
+>14\. <u><ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby><ruby>製麺<rp>(</rp><rt>せいめん</rt><rp>)</rp></ruby><ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby>が<ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べた<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby><ruby>当<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>り<ruby>麺類消費量<rp>(</rp><rt>めんるいしょうひりょう</rt><rp>)</rp></ruby>の<ruby>全国<rp>(</rp><rt>ぜんこく</rt><rp>)</rp></ruby><ruby>平均<rp>(</rp><rt>へいきん</rt><rp>)</rp></ruby>は</u>、うどんが<ruby>年間<rp>(</rp><rt>ねんかん</rt><rp>)</rp></ruby>1.9キロ、ラーメン<ruby>類<rp>(</rp><rt>るい</rt><rp>)</rp></ruby>が2.8キロ、そばが0.6キロ。<br>*According to a survey by Zenmenren, the national average per capita annual consumption of noodles is 1.9 kilograms for udon, 2.8 kilograms for ramen, and 0.6 kilograms for soba.*
 
->15\. <u>値段は</u>Lサイズが500円、Sサイスが300円だ。<br>*The large is 500 yen, and the small is 300 yen.*
+>15\. <u><ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>は</u>Lサイズが500<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>、Sサイスが300円だ。<br>*The large is 500 yen, and the small is 300 yen.*
 
 ## <a name="mondai" style="text-decoration: none; pointer-events: none;">The ｢この問題は解くのが難しい。｣ Structure
 
-> この問題は解くのが難しい。<br>*This problem is hard to solve.*
+> この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>は<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>くのが<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しい。<br>*This problem is hard to solve.*
 
 In this structure, the topicalized element is **inside of a subordinate clause**. This structure is similar to the basic topic sentence structure ｢父はこの本を買ってくれた。｣, in that the order of the elements does not necessarily change during the process of topicalization. However, notice that whatever becomes topicalized becomes a subject, similar to the topicalization process in the other double-subject structures.
 
@@ -122,17 +122,17 @@ In this structure, the topicalized element is **inside of a subordinate clause**
 
 In this structure, が is descriptive, not exclusive.
 
->16\. 当時、<u>安藤さんは</u>経営していた食料品輸入会社が破産し無一文に近かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
+>16\. <ruby>当時<rp>(</rp><rt>とうじ</rt><rp>)</rp></ruby>、<u><ruby>安藤<rp>(</rp><rt>あんどう</rt><rp>)</rp></ruby>さんは</u><ruby>経営<rp>(</rp><rt>けいえい</rt><rp>)</rp></ruby>していた<ruby>食料品輸入会社<rp>(</rp><rt>しょくりょうひんゆにゅうがいしゃ</rt><rp>)</rp></ruby>が<ruby>破産<rp>(</rp><rt>はさん</rt><rp>)</rp></ruby>し<ruby>無一文<rp>(</rp><rt>むいちもん</rt><rp>)</rp></ruby>に<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>かった。<br>*At the time, the food import company that Mr. Ando was running had gone bankrupt and was nearly penniless.*
 
->17\. <u>この問題は</u>解いた人が何人もいる。<br>*Several people have solved this problem.*
+>17\. <u>この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>は</u><ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>いた<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>何人<rp>(</rp><rt>なんにん</rt><rp>)</rp></ruby>もいる。<br>*Several people have solved this problem.*
 
->18\. <u>台風は</u>四国に上陸する可能性が高い。<br>*The typhoon has a high chance of making landfall at Shikoku.*
+>18\. <u><ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>は</u><ruby>四国<rp>(</rp><rt>しこく</rt><rp>)</rp></ruby>に<ruby>上陸<rp>(</rp><rt>じょうりく</rt><rp>)</rp></ruby>する<ruby>可能性<rp>(</rp><rt>かのうせい</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>い。<br>*The typhoon has a high chance of making landfall at Shikoku.*
 
->19\. <u>ゴミの量は</u>増えているのが現状だ。<br>*The current situation is that the amount of garbage is increasing.*
+>19\. <u>ゴミの<ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>は</u><ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えているのが<ruby>現状<rp>(</rp><rt>げんじょう</rt><rp>)</rp></ruby>だ。<br>*The current situation is that the amount of garbage is increasing.*
 
 ## <a name="hana" style="text-decoration: none; pointer-events: none;">The ｢花が咲くのは7月ごろだ。｣ Structure
 
-> 花が咲くのは7月ごろだ。<br>*The flowers bloom in July.*
+> <ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>くのは<ruby>7月<rp>(</rp><rt>しちがつ</rt><rp>)</rp></ruby>ごろだ。<br>*The flowers bloom in July.*
 
 This structure is not a double-subject structure, and it is constructed by topicalizing a whole **clause** containing the main predicate of the case structure. Formally, this structure is known as a は-cleft sentence.
 
@@ -144,19 +144,19 @@ The "Adverb or Case-Marked Noun" in this structure is often some word/phrase tha
 
 Notice that because we can't put は directly after "花が咲く," we have to nominalize the clause first with の. This also happens with the sentence ｢辞書は新しいのがいい。｣. Common nominalizers include の, もの, 人, and ところ.
 
->20\. <u>俳句が流行したのは</u>、そのためである。<br>*That is the reason why haikus became popular.*
+>20\. <u><ruby>俳句<rp>(</rp><rt>はいく</rt><rp>)</rp></ruby>が<ruby>流行<rp>(</rp><rt>りゅうこう</rt><rp>)</rp></ruby>したのは</u>、そのためである。<br>*That is the reason why haikus became popular.*
 
->21\. <u>空席があっても客を入れないのは</u>、人手不足だからですよ。<br>*The reason nobody is being let in despite there being open seats is because we're understaffed.*
+>21\. <u><ruby>空席<rp>(</rp><rt>くうせき</rt><rp>)</rp></ruby>があっても<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れないのは</u>、<ruby>人手不足<rp>(</rp><rt>ひとでぶそく</rt><rp>)</rp></ruby>だからですよ。<br>*The reason nobody is being let in despite there being open seats is because we're understaffed.*
 
->22\. <u>フィリピンで終戦を迎えた竹内鉄男が復員してきたのは</u>、昭和二十一年だった。<br>*Takeuchi Tetsuo, who was in the Philippines when the war ended, was demobilized in 1946.*
+>22\. <u>フィリピンで<ruby>終戦<rp>(</rp><rt>しゅうせん</rt><rp>)</rp></ruby>を<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えた<ruby>竹内<rp>(</rp><rt>たけうち</rt><rp>)</rp></ruby><ruby>鉄男<rp>(</rp><rt>てつお</rt><rp>)</rp></ruby>が<ruby>復員<rp>(</rp><rt>ふくいん</rt><rp>)</rp></ruby>してきたのは</u>、<ruby>昭和<rp>(</rp><rt>しょうわ</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>だった。<br>*Takeuchi Tetsuo, who was in the Philippines when the war ended, was demobilized in 1946.*
 
->23\. <u>こんなに地球を悪くしているのは</u>、｢アメリカン・ドリーム｣ だ。<br>*The "American Dream" is killing the planet.*
+>23\. <u>こんなに<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>を<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>くしているのは</u>、｢アメリカン<ruby>・<rp>(</rp><rt></rt><rp>)</rp></ruby>ドリーム｣ だ。<br>*The "American Dream" is killing the planet.*
 
 
 
 ## <a name="nioi" style="text-decoration: none; pointer-events: none;">The ｢このにおいはガスが漏れてるよ。｣ Structure
 
-> このにおいはガスが漏れてるよ。<br>*This smell must be a gas leak.*
+> このにおいはガスが<ruby>漏<rp>(</rp><rt>も</rt><rp>)</rp></ruby>れてるよ。<br>*This smell must be a gas leak.*
 
 This structure is rarely seen in written language. Some linguists even consider it ungrammatical, but it has legitimate functions. It covers sentences like ｢このにおいはガスが漏れてるよ。｣
 
@@ -168,11 +168,11 @@ The reason we can't find the case structure for these kinds of sentences is beca
 
 Sometimes, we cannot reduce a sentence to its basic case marker structure because some portion of the sentence has been repeated before and after は, making it redundant. An example of this is:
 
->24\. <u>500円硬貨の両替は</u>、左側5番の機械で両替してください。<br>*To exchange 500 yen coins, please exchange them at machine number 5 to your left.*
+>24\. <u><ruby>500円硬貨<rp>(</rp><rt>ごひゃくえんこうか</rt><rp>)</rp></ruby>の<ruby>両替<rp>(</rp><rt>りょうがえ</rt><rp>)</rp></ruby>は</u>、<ruby>左側<rp>(</rp><rt>ひだりがわ</rt><rp>)</rp></ruby><ruby>5番<rp>(</rp><rt>ごばん</rt><rp>)</rp></ruby>の<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby>で<ruby>両替<rp>(</rp><rt>りょうがえ</rt><rp>)</rp></ruby>してください。<br>*To exchange 500 yen coins, please exchange them at machine number 5 to your left.*
 
 The redundant portion of (24) is "両替" (exchange). This sentence is an overlapping of (25) and (26).
 
->25\. <u>500円硬貨の両替は</u>、左側5番の機械でしてください。<br>*To exchange 500 yen coins, please refer to machine number 5 to your left.*
+>25\. <u>500円硬貨両替は</u>、左側5番の機械でしてください。<br>*To exchange 500 yen coins, please refer to machine number 5 to your left.*
 
 >26\. <u>500円硬貨は</u>、左側5番の機械で両替してください。<br>*As for 500 yen coins, please exchange them at machine number 5 to your left.*
 
@@ -182,7 +182,7 @@ By repeating a portion of this sentence, we can tell that the speaker may have b
 
 Another reason we might not be able to reduce a sentence to its case structure is because some portion of the sentence has been left out.
 
->27\. <u>いまのうちの会社のいいところは</u>、雰囲気が自由なんですね。<br>*What's great about our company is it's easygoing.*
+>27\. <u>いまのうちの<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>のいいところは</u>、<ruby>雰囲気<rp>(</rp><rt>ふんいき</rt><rp>)</rp></ruby>が<ruby>自由<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>なんですね。<br>*What's great about our company is it's easygoing.*
 
 (27) would be a typical topic sentence if we instead structured it like in (28).
 
@@ -190,21 +190,21 @@ Another reason we might not be able to reduce a sentence to its case structure i
 
 You may have heard of the so-called "うなぎ文" (eel sentences) before when discussing topical は. These sentences get their name from the prototypical sentence (29).
 
->29\. ｢<u>僕は</u>うなぎだ。｣<br>*"I'm eating eel."*
+>29\. ｢<u><ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は</u>うなぎだ。｣<br>*"I'm eating eel."*
 
 The context is that someone says this in response when a waiter asks who ordered eel. It makes no sense to assume that "僕" (I) is the strict subject of this sentence, because then the sentence would literally mean, "I am an eel." 
 
 We can say that eel sentences are omissive-type sentences of this structure. (29) in particular is constructed by omitting "を食べている" (am eating) from the end of the sentence, as in (30).
 
->30\. ｢<u>僕は</u>うなぎを食べている。｣<br>*"I'm eating eel."*
+>30\. ｢<u>僕は</u>うなぎを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べている。｣<br>*"I'm eating eel."*
 
 ### The Inexact-Type
 
 Sentences with a topic that has an unclear case relation with the comment fall into this category.
 
->31\. <u>作り方は</u>、材料を弱火で1時間ほど煮込みます。<br>*As for its recipe, simmer the ingredients on low heat for one hour.*
+>31\. <u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>は</u>、<ruby>材料<rp>(</rp><rt>ざいりょう</rt><rp>)</rp></ruby>を<ruby>弱火<rp>(</rp><rt>よわび</rt><rp>)</rp></ruby>で<ruby>1時間<rp>(</rp><rt>いちじかん</rt><rp>)</rp></ruby>ほど<ruby>煮込<rp>(</rp><rt>にこ</rt><rp>)</rp></ruby>みます。<br>*As for its recipe, simmer the ingredients on low heat for one hour.*
 
->32\. <u>練習は</u>、聞きだす回数を徐々に減らしていきましょう。<br>*As you practice, try gradually reducing the amount of questions you ask.*
+>32\. <u><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>は</u>、<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きだす<ruby>回数<rp>(</rp><rt>かいすう</rt><rp>)</rp></ruby>を<ruby>徐々<rp>(</rp><rt>じょじょ</rt><rp>)</rp></ruby>に<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>らしていきましょう。<br>*As you practice, try gradually reducing the amount of questions you ask.*
 
 The topics in (31) and (32), "作り方" (recipe) and "練習" (practice), only serve as a rough "headline" for the entire sentence that follows it.
 
@@ -233,39 +233,39 @@ This usage was introduced by Kuno (1973), where he proposed that が may mark ob
 <ol type="a">
   <li>Competence: adjectives like 上手, 苦手, 下手, 得意, うまい, etc.</li>
   <blockquote>
-  <p>33. 誰が<u>英語が</u>上手ですか？<br><em>Who is good at English?</em></p>
+  <p>33. <ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が<u><ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>が</u><ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>ですか？<br><em>Who is good at English?</em></p>
   </blockquote>
   <blockquote>
-  <p>34. 僕は<u>日本語が</u>苦手なことはみんなよく知っています。<br><em>Everyone knows well that I am bad at Japanese.</em></p>
+  <p>34. <ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<u><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が</u><ruby>苦手<rp>(</rp><rt>にがて</rt><rp>)</rp></ruby>なことはみんなよく<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っています。<br><em>Everyone knows well that I am bad at Japanese.</em></p>
   </blockquote>
   <blockquote>
   <p>35. 誰が<u>日本語が</u>うまいですか？<br><em>Who is good at Japanese?</em></p>
   </blockquote>
   <blockquote>
-  <p>36. ジョンは<u>人を騙すことが</u>うまい。<br><em>John is good at decieving others.</em></p>
+  <p>36. ジョンは<u><ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>騙<rp>(</rp><rt>だま</rt><rp>)</rp></ruby>すことが</u>うまい。<br><em>John is good at decieving others.</em></p>
   </blockquote>
   <li>Feeling: adjectives like 好き, 嫌い, ほしい, 怖い, etc.</li>
   <blockquote>
-  <p>37. ジョンが<u>メアリーが</u>好きなことはよく知っています。<br><em>I know very well that John likes Mary.</em></p>
+  <p>37. ジョンが<u>メアリーが</u><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなことはよく知っています。<br><em>I know very well that John likes Mary.</em></p>
   </blockquote>
   <blockquote>
-  <p>38. 僕は<u>メアリー</u>が怖い。<br><em>I'm afraid of Mary.</em></p>
+  <p>38. 僕は<u>メアリー</u>が<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>い。<br><em>I'm afraid of Mary.</em></p>
   </blockquote>
   <blockquote>
-  <p>39. 僕は<u>お金が</u>ほしい。<br><em>I want money.</em></p>
+  <p>39. 僕は<u>お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>が</u>ほしい。<br><em>I want money.</em></p>
   </blockquote>
   <blockquote>
-  <p>40. きみは<u>何語が</u>得意ですか？<br><em>What language are you good at?</em></p>
+  <p>40. きみは<u><ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>が</u><ruby>得意<rp>(</rp><rt>とくい</rt><rp>)</rp></ruby>ですか？<br><em>What language are you good at?</em></p>
   </blockquote>
   <blockquote>
-  <p>41. 僕は<u>泳ぐことが</u>好きだ。<br><em>I like swimming.</em></p>
+  <p>41. 僕は<ruby>泳<rt>およ</rt></ruby>ぐことが好きだ。<br><em>I like swimming.</em></p>
   </blockquote>
   <li>〜たい Derivatives: adjectives like 読みたい, 食べたい, etc.</li>
   <blockquote>
-  <p>42. 僕は<u>映画が</u>見たい。<br><em>I want to watch a movie.</em></p>
+  <p>42. 僕は<u><ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>が</u><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たい。<br><em>I want to watch a movie.</em></p>
   </blockquote>
   <blockquote>
-  <p>43. 僕が<u>お寿司が</u>食べたいことを、何度言ったら分かるのですか？<br><em>How many times is it that I have to tell you that I want to eat sushi?</em></p>
+  <p>43. 僕が<u>お<ruby>寿司<rp>(</rp><rt>すし</rt><rp>)</rp></ruby>が</u><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいことを、<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かるのですか？<br><em>How many times is it that I have to tell you that I want to eat sushi?</em></p>
   </blockquote>
 </ol> 
 
@@ -276,7 +276,7 @@ The information in this section is from 久野 (1973), ch. 25.
 
 **Questions have a tendency to be topic sentences.** As we learned in [Topicless Sentences](/wa-ga-basics#topicless-sentences), sentences without a topic usually fall into one of three categories: descriptions of something perceptible, descriptions of events, and descriptions of consequences. All three of these encompass descriptions, and it is unnatural to question something as if you are describing it.
 
->44a\. <u>太郎は</u>来ましたか。<br>*Has Taro come?*<br><br>44b\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br><span style="color: #ff0040">*Taro has come?*</span>
+>44a\. <u><ruby>太郎<rp>(</rp><rt>たろう</rt><rp>)</rp></ruby>は</u><ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ましたか。<br>*Has Taro come?*<br><br>44b\. <span style="color: #ff0040">×<u>太郎が</u>来ましたか。</span><br><span style="color: #ff0040">*Taro has come?*</span>
 
 However, it is nonetheless possible for these topicless questions to exist if the descriptive nuance fits inside of them. In example (45), the speaker is not asking about Tarou and whether or not he has come, but confirming that "Tarou has come." with the listener.
 
@@ -284,15 +284,15 @@ However, it is nonetheless possible for these topicless questions to exist if th
 
 In other words, **descriptive が can appear in questions if the subject it marks is not the topic of the question.** It is unnatural to mark "雨" with が like in (46b), but the sentence is completely natural if we just add a topic like "外(で)" (outside), which is shown in 47.
 
->46a\. <u>雨は</u>降っていますか。<br>*Is it raining?*<br><br>46b\. <span style="color: #ff0040">×<u>雨が</u>降っていますか。</span><br><span style="color: #ff0040">*It is raining?*</span>
+>46a\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていますか。<br>*Is it raining?*<br><br>46b\. <span style="color: #ff0040">×<u>雨が</u>降っていますか。</span><br><span style="color: #ff0040">*It is raining?*</span>
 
->47\. 外は、<u>雨が</u>降っていますか。<br>*Outside, it is raining?*
+>47\. <ruby>外<rp>(</rp><rt>そと</rt><rp>)</rp></ruby>は、<u>雨が</u>降っていますか。<br>*Outside, it is raining?*
 
 Examples (48a-b) and (49a-b) are perfectly natural sentences which contain descriptive が.
 
 >48a\. いつ、<u>太郎が</u>来ましたか？<br>48b. <u>太郎が</u>来たのは、いつですか？<br>*When did Taro come?*
 
->49a\. どこに、<u>太郎が</u>立っていますか？<br>49b. <u>太郎が</u>立っているのは、どこですか？<br>*Where is Taro standing?*
+>49a\. どこに、<u>太郎が</u><ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っていますか？<br>49b. <u>太郎が</u>立っているのは、どこですか？<br>*Where is Taro standing?*
 
 In example (48a), "太郎" (Taro) is marked by が because he is not the topic of the question. The topic is the clause "太郎が来ました," and this is an example of a topic which is not explicitly marked by は. The question is not about Taro the person, but the action of "coming" by Taro. 
 

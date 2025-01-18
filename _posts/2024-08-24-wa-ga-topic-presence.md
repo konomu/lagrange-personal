@@ -74,15 +74,15 @@ Let's look at the cases where the sentence/clause **must** have a topic. As you 
 
 [^1]: For exceptions, see [the addendum](wa-ga-addendum).
 
->1\. <u>バクテリア類が生物生態系全体の中で果たしている役割は</u>たいへん重要である。<br>*The role bacteria play in our entire ecosystem is incredibly important.*
+>1\. <u>バクテリア<ruby>類<rp>(</rp><rt>るい</rt><rp>)</rp></ruby>が<ruby>生物<rp>(</rp><rt>せいぶつ</rt><rp>)</rp></ruby><ruby>生態系<rp>(</rp><rt>せいたいけい</rt><rp>)</rp></ruby><ruby>全体<rp>(</rp><rt>ぜんたい</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>たしている<ruby>役割<rp>(</rp><rt>やくわり</rt><rp>)</rp></ruby>は</u>たいへん<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>である。<br>*The role bacteria play in our entire ecosystem is incredibly important.*
 
 When the predicate expresses some action or temporary state, the sentence might still have a topic if it's some action done **habitually**. This is effectively a permanent state.
 
->2\. <u>ゴリラは</u>、毎日昼と夜の二回寝床をつくって寝る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
+>2\. <u>ゴリラは</u>、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>と<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>の<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>寝床<rp>(</rp><rt>ねどこ</rt><rp>)</rp></ruby>をつくって<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る。<br>*Gorillas build their nests and sleep twice a day, once at noon and once at night.*
 
 The other case that necessitates that the sentence/clause has a topic covers questions that contain an **interrogative word**, like 誰, どれ, どこ, and 何. When the interrogative word is the subject of the sentence, it is typically marked by exclusive が, which makes it a specificational sentence. Remember that specificational sentences count as topic sentences, because the topic is contained in the predicate.
 
->3\. ｢<u>誰が</u>やったんだと思う？｣<br>*"Who do you think did it?"*
+>3\. ｢<u><ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が</u>やったんだと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？｣<br>*"Who do you think did it?"*
 
 ## Cases That Are Likely Topic Sentences
 
@@ -90,7 +90,7 @@ Apart from these cases, there are also situations where a topic is more likely t
 
 - Sentences are likely to be have a topic if the predicate is a **transitive verb**.
 
->4\. 陸上競技場の下はでっかい浄水場に⸺ <u>大阪府水道部は</u>二十三日、こんな新浄水場の建設計画を発表しました。<br>*An enormous water purification plant under the track and field! The Osaka Water Supply Authority announced its plans for such a construction project on the 23rd.*
+>4\. <ruby>陸上競技場<rp>(</rp><rt>りくじょうきょうぎじょう</rt><rp>)</rp></ruby>の<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>はでっかい<ruby>浄水場<rp>(</rp><rt>じょうすいじょう</rt><rp>)</rp></ruby>に⸺ <u><ruby>大阪府<rp>(</rp><rt>おおさかふ</rt><rp>)</rp></ruby><ruby>水道<rp>(</rp><rt>すいどう</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>は</u><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>、こんな<ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>浄水場の<ruby>建設計画<rp>(</rp><rt>けんせつけいかく</rt><rp>)</rp></ruby>を<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>しました。<br>*An enormous water purification plant under the track and field! The Osaka Water Supply Authority announced its plans for such a construction project on the 23rd.*
 
 - Sentences are likely to be have a topic if the subject/topic is **familiar information**.
 
@@ -107,31 +107,31 @@ Familiar information is defined in the following table:
 </tbody>
 </table>
 
->5\. ｢<u>これは</u>楽器のお札です。受けとって下さい｣ と僕は言った。<br>*Here's the tag for your instrument. Please take it," I said.*
+>5\. ｢<u>これは</u><ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>のお<ruby>札<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>です。<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けとって<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい｣ と<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*Here's the tag for your instrument. Please take it," I said.*
 
->6\. ｢<u>これが</u>あのサントス・エルナンデスの、変わり果てた姿かね。｣<br>*"So this is what has become of the great Santos Hernandez?"*
+>6\. ｢<u>これが</u>あのサントス・エルナンデスの、<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わり<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>てた<ruby>姿<rp>(</rp><rt>すがた</rt><rp>)</rp></ruby>かね。｣<br>*"So this is what has become of the great Santos Hernandez?"*
 
 (6) is a specificational sentence where the predicate, not the familiar information, is topicalized. Specificational sentences commonly express familiar information as their subject. For this reason, you shouldn't get into the habit of thinking everything that can be construed as familiar information will be marked as a topic.
 
->7\. パイロットの家庭は、大変なんだ。<u>原因は</u>すべて時差にある。<br>*Pilots' families have it rough. It's all because of the time difference.*
+>7\. パイロットの<ruby>家庭<rp>(</rp><rt>かてい</rt><rp>)</rp></ruby>は、<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>なんだ。<u><ruby>原因<rp>(</rp><rt>げんいん</rt><rp>)</rp></ruby>は</u>すべて<ruby>時差<rp>(</rp><rt>じさ</rt><rp>)</rp></ruby>にある。<br>*Pilots' families have it rough. It's all because of the time difference.*
 
 In (7), the topic "原因" (reason) is familiar information because it refers to the reason for the previous statement.
 
->8\. <u>気象庁は</u>七日、阪神大震災(兵庫県南部地震)の現地調査結果を発表しました。<br>*The Japan Meteorological Agency announced the findings from its investigation concerning the Great Hanshin earthquake on the 7th.*
+>8\. <u><ruby>気象庁<rp>(</rp><rt>きしょうちょう</rt><rp>)</rp></ruby>は</u><ruby>七日<rp>(</rp><rt>なのか</rt><rp>)</rp></ruby>、<ruby>阪神大震災<rp>(</rp><rt>はんしんだいしんさい</rt><rp>)</rp></ruby>(<ruby>兵庫県南部地震<rp>(</rp><rt>ひょうごけんなんぶじしん</rt><rp>)</rp></ruby>)の<ruby>現地<rp>(</rp><rt>げんち</rt><rp>)</rp></ruby><ruby>調査結果<rp>(</rp><rt>ちょうさけっか</rt><rp>)</rp></ruby>を<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>しました。<br>*The Japan Meteorological Agency announced the findings from its investigation concerning the Great Hanshin earthquake on the 7th.*
 
 (8) is an example sentence from a newspaper, and it assumes the reader is familiar with the Japan Meteorological Agency.
 
 - Sentences are likely to have a topic if the subject/topic is separated from the predicate by many words (i.e., the sentence explains something about some topic).
 
->9\. <u>日本公開が間近に迫った ｢ジュラシック・パーク｣ は</u>、人気作家マイケル・クライトンのベストセラーの映画化というだけでなく、ダイナミックなビジネス展開でも注目を集めている。<br>*Jurassic Park, scheduled to premiere in Japan soon, isn't just turning heads as a movie adaptation of Michael Crichton's bestselling novel, but also as a bold business development.*
+>9\. <u><ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby><ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby>が<ruby>間近<rp>(</rp><rt>まぢか</rt><rp>)</rp></ruby>に<ruby>迫<rp>(</rp><rt>せま</rt><rp>)</rp></ruby>った ｢ジュラシック<ruby>・<rp>(</rp><rt></rt><rp>)</rp></ruby>パーク｣ は</u>、<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby><ruby>作家<rp>(</rp><rt>さっか</rt><rp>)</rp></ruby>マイケル<ruby>・<rp>(</rp><rt></rt><rp>)</rp></ruby>クライトンのベストセラーの<ruby>映画化<rp>(</rp><rt>えいがか</rt><rp>)</rp></ruby>というだけでなく、ダイナミックなビジネス<ruby>展開<rp>(</rp><rt>てんかい</rt><rp>)</rp></ruby>でも<ruby>注目<rp>(</rp><rt>ちゅうもく</rt><rp>)</rp></ruby>を<ruby>集<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>めている。<br>*Jurassic Park, scheduled to premiere in Japan soon, isn't just turning heads as a movie adaptation of Michael Crichton's bestselling novel, but also as a bold business development.*
 
 By contrast, sentences with nothing between the subject and the predicate tend to be topicless, like (10).
 
->10\. 最近、｢特定の食物｣ 摂取後の運動、あるいは食事内容によらず<u>｢食後二時間以内｣の運動中に出るショックが</u>注目されている。<br>*As of late, attention has been brought to the dangers associated with exercise after eating certain diet foods, or exercise within two hours of eating regardless of the meal.*
+>10\. <ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>、｢<ruby>特定<rp>(</rp><rt>とくてい</rt><rp>)</rp></ruby>の<ruby>食物<rp>(</rp><rt>しょくもつ</rt><rp>)</rp></ruby>｣ <ruby>摂取<rp>(</rp><rt>せっしゅ</rt><rp>)</rp></ruby><ruby>後<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>、あるいは<ruby>食事<rp>(</rp><rt>しょくじ</rt><rp>)</rp></ruby><ruby>内容<rp>(</rp><rt>ないよう</rt><rp>)</rp></ruby>によらず<u>｢<ruby>食後<rp>(</rp><rt>しょくご</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby><ruby>以内<rp>(</rp><rt>いない</rt><rp>)</rp></ruby>｣の<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>に<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>るショックが</u><ruby>注目<rp>(</rp><rt>ちゅうもく</rt><rp>)</rp></ruby>されている。<br>*As of late, attention has been brought to the dangers associated with exercise after eating certain diet foods, or exercise within two hours of eating regardless of the meal.*
 
 - Sentences are likely to be have a topic if it follows the structure `Subject` + `Other Case-marked Noun` + `Predicate`.
 
->11\. <u>オムロンは</u>家庭用向け地震警報装置｢揺れっ太｣を開発、二十日から発売する。<br>*Omron will release its household earthquake warning device "Yuretta" on the 20th.*
+>11\. <u>オムロンは</u><ruby>家庭<rp>(</rp><rt>かてい</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby><ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>け<ruby>地震警報<rp>(</rp><rt>じしんけいほう</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>｢<ruby>揺<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>れっ<ruby>太<rp>(</rp><rt>た</rt><rp>)</rp></ruby>｣を<ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby>、<ruby>二十日<rp>(</rp><rt>にじゅうにち</rt><rp>)</rp></ruby>から<ruby>発売<rp>(</rp><rt>はつばい</rt><rp>)</rp></ruby>する。<br>*Omron will release its household earthquake warning device "Yuretta" on the 20th.*
 
 # <a name="topicless-sentences" style="text-decoration: none; pointer-events: none;">Topicless Sentences
 
@@ -139,19 +139,19 @@ By contrast, sentences with nothing between the subject and the predicate tend t
 
 There are two cases where a sentence will always become a topicless sentence. The first one is when **the predicate describes some event or temporary state directly observable to the speaker**. Furthermore, the sentence has to be spoken/narrated **as it is being perceived**. Sentences of this nature usually have verb predicates, such as 見える, 聞こえる, ある, and 来る. Example (12) shows one of these topicless sentences with a verb predicate. The important detail about these predicates is that they all express something happening within some time frame (as opposed to something with a permanent state). Adjective predicates are less common, and noun predicates in topicless sentences are rare.
 
->12\. るり子ーッ、 <u>高原さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
+>12\. るり子ーッ、 <u><ruby>高原<rp>(</rp><rt>たかはら</rt><rp>)</rp></ruby>さんが</u>いらしたわよーッ｣<br>*Ruriko! Takahara is here!*
 
 Topicless sentences with an adjective predicate like (13) are more likely when the speaker is describing something that is directly observable, and spoken/narrated as it is being perceived.
 
->13\. ほーら、<u>月が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
+>13\. ほーら、<u><ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>が</u>きれいだよ。<br>*Look, the moon is gorgeous!*
 
 Example (14) shows a topicless sentence with a noun predicate, which is relatively rare. These sentences violate the rule about permanent states and are easy to mistake as specificational sentences, but we can tell that this one is not an specificational sentence because its predicate is not a topic. More information about topicless noun sentences is presented in [the addendum](wa-ga-addendum#ndns).
 
->14\. <u>そこに現れたのが</u>陽子だった。<br>*It was Yoko that showed up there.*
+>14\. <u>そこに<ruby>現<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>れたのが</u><ruby>陽子<rp>(</rp><rt>ようこ</rt><rp>)</rp></ruby>だった。<br>*It was Yoko that showed up there.*
 
 The other case that necessitates a topicless sentence is when the subject is an **unidentified noun**. This includes words such as 誰か, なにか, and 知らない人.
 
->15\. 十一時に<u>誰かが</u>やってきた。<br>*Someone came at eleven o'clock.*
+>15\. <ruby>十一時<rp>(</rp><rt>じゅういちじ</rt><rp>)</rp></ruby>に<u><ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かが</u>やってきた。<br>*Someone came at eleven o'clock.*
 
 ## Cases That Are Likely Topicless Sentences
 
@@ -159,19 +159,19 @@ Just like we saw with topic sentences, there are cases where a sentence is likel
 
 - Sentences are likely to be topicless if the predicate is an **intransitive verb** or the **passive form of a transitive verb**.
 
->16\. 吹田市の万国博記念公園内にある陸上競技場の地下に、<u>大阪府営水道の浄水場を設置することが</u>二十三日、大阪府と日本万国博覧会記念協会から発表された。<br>*A plan to construct a water purification plant underneath the running track grounds of the Expo Commemorative Park in Suita City was jointly announced by the Prefecture of Osaka and the Commemorative Organization for the Japan World Exposition on the 23rd.*
+>16\. <ruby>吹田市<rp>(</rp><rt>すいたし</rt><rp>)</rp></ruby>の<ruby>万国博<rp>(</rp><rt>ばんこくはく</rt><rp>)</rp></ruby><ruby>記念<rp>(</rp><rt>きねん</rt><rp>)</rp></ruby><ruby>公園<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby><ruby>内<rp>(</rp><rt>ない</rt><rp>)</rp></ruby>にある<ruby>陸上競技場<rp>(</rp><rt>りくじょうきょうぎじょう</rt><rp>)</rp></ruby>の<ruby>地下<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>に、<u><ruby>大阪府営<rp>(</rp><rt>おおさかふえい</rt><rp>)</rp></ruby><ruby>水道<rp>(</rp><rt>すいどう</rt><rp>)</rp></ruby>の<ruby>浄水場<rp>(</rp><rt>じょうすいじょう</rt><rp>)</rp></ruby>を<ruby>設置<rp>(</rp><rt>せっち</rt><rp>)</rp></ruby>することが</u><ruby>二三日<rp>(</rp><rt>にじゅうさんにち</rt><rp>)</rp></ruby>、<ruby>大阪府<rp>(</rp><rt>おおさかふ</rt><rp>)</rp></ruby>と<ruby>日本万国博覧会記念協会<rp>(</rp><rt>にっぽんばんこくはくらんかいきねんきょうかい</rt><rp>)</rp></ruby>から<ruby>発表<rp>(</rp><rt>はっぴょう</rt><rp>)</rp></ruby>された。<br>*A plan to construct a water purification plant underneath the running track grounds of the Expo Commemorative Park in Suita City was jointly announced by the Prefecture of Osaka and the Commemorative Organization for the Japan World Exposition on the 23rd.*
 
 - Sentences are likely to be topicless if the subject is **not familiar information**.
 
->17\. ところが、その翌年、1989年の初夏にパソコン雑誌で <u>｢サージョンウイルス｣ が</u>騒がれだした。<br>*However, that following year in the summer of 1989, several PC magazines published articles about the "Surgeon virus".*
+>17\. ところが、その<ruby>翌年<rp>(</rp><rt>よくねん</rt><rp>)</rp></ruby>、1989年の<ruby>初夏<rp>(</rp><rt>しょか</rt><rp>)</rp></ruby>にパソコン<ruby>雑誌<rp>(</rp><rt>ざっし</rt><rp>)</rp></ruby>で <u>｢サージョンウイルス｣ が</u><ruby>騒<rp>(</rp><rt>さわ</rt><rp>)</rp></ruby>がれだした。<br>*However, that following year in the summer of 1989, several PC magazines published articles about the "Surgeon virus".*
 
 - Sentences are likely to be topicless if it describes **something unexpected** happening.
 
->18\. <u>奈良平城宮の幹線排水路｢東大溝｣跡を発掘調査している奈良国立文化財研究所が</u>奈良時代の木彫り面を初めて見つけ、十六日公開した。<br>*The Nara National Institute for Cultural Properties, which has been conducting an excavation at the main drainage channel "East Oomizo" of Heijo Palace, announced on the 16th that they uncovered a carved wooden mask dating back to the Nara Period for the first time.*
+>18\. <u><ruby>奈良平城宮<rp>(</rp><rt>ならへいじょうきゅう</rt><rp>)</rp></ruby>の<ruby>幹線<rp>(</rp><rt>かんせん</rt><rp>)</rp></ruby><ruby>排水路<rp>(</rp><rt>はいすいろ</rt><rp>)</rp></ruby>｢<ruby>東大<rp>(</rp><rt>とうだい</rt><rp>)</rp></ruby><ruby>溝<rp>(</rp><rt>みぞ</rt><rp>)</rp></ruby>｣<ruby>跡<rp>(</rp><rt>せき</rt><rp>)</rp></ruby>を<ruby>発掘<rp>(</rp><rt>はっくつ</rt><rp>)</rp></ruby><ruby>調査<rp>(</rp><rt>ちょうさ</rt><rp>)</rp></ruby>している<ruby>奈良国立文化財研究所<rp>(</rp><rt>ならこくりつぶんかざいけんきゅうしょ</rt><rp>)</rp></ruby>が</u><ruby>奈良時代<rp>(</rp><rt>ならじだい</rt><rp>)</rp></ruby>の<ruby>木彫<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>り<ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby>を<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけ、<ruby>十六日<rp>(</rp><rt>じゅうろくにち</rt><rp>)</rp></ruby><ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby>した。<br>*The Nara National Institute for Cultural Properties, which has been conducting an excavation at the main drainage channel "East Oomizo" of Heijo Palace, announced on the 16th that they uncovered a carved wooden mask dating back to the Nara Period for the first time.*
 
 - Sentences are likely to be topicless if it follows the structure `Other Case-marked Noun` + `Subject` + `Predicate`.
 
->19\. 地震発生時に、震度に合わせて ｢火を消しなさい｣ などの音声でとるべき行動を指示する、一般家庭用地震警報器 ｢揺れっ太｣ を、<u>オムロンが</u>20日から、通信販売ルートを中心に売り出す。<br>*Omron will begin selling "Yuretta," a household earthquake alarm which gives voice instructions to help you act accordingly based on the seismic intensity when an earthquake occurs, mainly through online sales starting from the 20th.*
+>19\. <ruby>地震<rp>(</rp><rt>じしん</rt><rp>)</rp></ruby><ruby>発生<rp>(</rp><rt>はっせい</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に、<ruby>震度<rp>(</rp><rt>しんど</rt><rp>)</rp></ruby>に<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わせて ｢<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>を<ruby>消<rp>(</rp><rt>け</rt><rp>)</rp></ruby>しなさい｣ などの<ruby>音声<rp>(</rp><rt>おんせい</rt><rp>)</rp></ruby>でとるべき<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby>を<ruby>指示<rp>(</rp><rt>しじ</rt><rp>)</rp></ruby>する、<ruby>一般家庭<rp>(</rp><rt>いっぱんかてい</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby><ruby>地震警報<rp>(</rp><rt>じしんけいほう</rt><rp>)</rp></ruby><ruby>器<rp>(</rp><rt>き</rt><rp>)</rp></ruby> ｢<ruby>揺<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>れっ<ruby>太<rp>(</rp><rt>た</rt><rp>)</rp></ruby>｣ を、<u>オムロンが</u><ruby>20日<rp>(</rp><rt>はつか</rt><rp>)</rp></ruby>から、<ruby>通信販売<rp>(</rp><rt>つうしんはんばい</rt><rp>)</rp></ruby>ルートを<ruby>中心<rp>(</rp><rt>ちゅうしん</rt><rp>)</rp></ruby>に<ruby>売<rp>(</rp><rt>う</rt><rp>)</rp></ruby>り<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>す。<br>*Omron will begin selling "Yuretta," a household earthquake alarm which gives voice instructions to help you act accordingly based on the seismic intensity when an earthquake occurs, mainly through online sales starting from the 20th.*
 
 # <a name="duality" style="text-decoration: none; pointer-events: none;">Duality of the Topic
 
@@ -179,11 +179,11 @@ From what we have discussed above, we can say that there are **two main reasons*
 
 a. The predicate is some **permanent state**.
 
->20\. <u><ruby><rb>蘭島海岸</rb><rt>らんしまかいがん</rt></ruby>は</u>日本海に面した海水浴場である。<br>*Ranshima Coast is a beach facing the Sea of Japan.*
+>20\. <u><ruby>蘭島<rp>(</rp><rt>らんしま</rt><rp>)</rp></ruby><ruby>海岸<rp>(</rp><rt>かいがん</rt><rp>)</rp></ruby>は</u><ruby>日本海<rp>(</rp><rt>にほんかい</rt><rp>)</rp></ruby>に<ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby>した<ruby>海水浴場<rp>(</rp><rt>かいすいよくじょう</rt><rp>)</rp></ruby>である。<br>*Ranshima Coast is a beach facing the Sea of Japan.*
 
 b. The topic is **familiar information**. It is something the listener knows about or has been previously mentioned.
 
->21\. 姉と2人でパンを食べていた。<u>姉は</u> ｢真夏もおわりね｣ と言った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
+>21\. <ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>と<ruby>2人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>でパンを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べていた。<u><ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>は</u> ｢<ruby>真夏<rp>(</rp><rt>まなつ</rt><rp>)</rp></ruby>もおわりね｣ と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*I was eating bread with my sister. My sister said, "So the peak of summer is over, huh?"*
 
 Of these two reasons, the one that takes priority is (a). In other words, even if something is not familiar information, it may still become a topic if the statement has a predicate expressing a permanent state. This is a useful mental shortcut and it will cover most sentences, but it is not 100% accurate for predicting は/が usage because not all familiar information is topicalized.
 

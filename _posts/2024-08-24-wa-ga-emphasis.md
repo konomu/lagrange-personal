@@ -31,11 +31,11 @@ Generally speaking, there are three categories of は.
 <ol type="a">
   <li>Topical は marking a topic (no contrastive nuance)</li>
   <blockquote>
-  <p>1. <u>父は</u>この本を買ってくれた。<br><em>My dad bought this book for me.</em></p>
+  <p>1. <u><ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>は</u>この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。<br><em>My dad bought this book for me.</em></p>
   </blockquote>
   <li>Contrastive は marking a topic (contrastive nuance)</li>
   <blockquote>
-  <p>2. <u>兄は</u>肉が好きだが、<u>弟は</u>魚が好きだ。<br><em>My brother likes meat, but my younger brother likes fish.</em></p>
+  <p>2. <u><ruby>兄<rp>(</rp><rt>あに</rt><rp>)</rp></ruby>は</u><ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだが、<u>弟は</u><ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>が好きだ。<br><em>My brother likes meat, but my younger brother likes fish.</em></p>
   </blockquote>
   <li>Contrastive は marking a non-topic (contrastive nuance)</li>
   <blockquote>
@@ -48,15 +48,15 @@ The same idea can be roughly applied to が.
 <ol type="a" start="4">
   <li>Descriptive が marking a subject (no exclusive nuance)</li>
   <blockquote>
-  <p>4. <u>富士山が</u>見えるよ。<br><em>I can see Mount Fuji.</em></p>
+  <p>4. <u><ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が</u><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。<br><em>I can see Mount Fuji.</em></p>
   </blockquote>
   <li>Exclusive が marking a subject (exclusive nuance)</li>
   <blockquote>
-  <p>5. <u>君が</u>主役だ。<br><em>You're the lead actor.</em></p>
+  <p>5. <u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が</u><ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。<br><em>You're the lead actor.</em></p>
   </blockquote>
   <li>Exclusive が which <b>subjectivizes</b> a non-subject (exclusive nuance)<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></li>
   <blockquote>
-  <p>6. <u>六本木のディスコが</u>芸能人がよく来る。<br><em>Celebrities come to the discotheques in Roppongi often.</em></p>
+  <p>6. <u><ruby>六本木<rp>(</rp><rt>ろっぽんぎ</rt><rp>)</rp></ruby>のディスコが</u><ruby>芸能人<rp>(</rp><rt>げいのうじん</rt><rp>)</rp></ruby>がよく<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>る。<br><em>Celebrities come to the discotheques in Roppongi often.</em></p>
   </blockquote>
 </ol> 
 
@@ -76,11 +76,11 @@ All usages of contrastive は have one of two forms of contrast: **explicit** or
 
 Explicit contrast occurs when two explicit things are being contrasted.
 
->7\. 子供たちはカレー<u>は</u>作っているが、ごはん<u>は</u>まだ炊いていない。<br>*The kids are making curry, but the rice is not even cooked yet.*
+>7\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちはカレー<u>は</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っているが、ごはん<u>は</u>まだ<ruby>炊<rp>(</rp><rt>た</rt><rp>)</rp></ruby>いていない。<br>*The kids are making curry, but the rice is not even cooked yet.*
 
 It often appears with multiple contrastive は, but it is possible with just one contrastive は as well. 
 
->8\. <u>形は</u>いいが、色が悪い。<br>*It has a nice shape, but that color is horrendous.*
+>8\. <u><ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>は</u>いいが、<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>が<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>い。<br>*It has a nice shape, but that color is horrendous.*
 
 Explicit contrast can be further divided into two types: **opposite** or **adjacent**. 
 
@@ -91,9 +91,9 @@ Explicit contrast can be further divided into two types: **opposite** or **adjac
 
 In the following examples, (9) shows opposite contrast, and (10) shows adjacent contrast.
 
->9\. 私は<u>肉は</u>好きだが、<u>魚は</u>好きではない。<br>*I like eating meat, but I don't like fish.*
+>9\. 私は<u><ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>は</u><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだが、<u><ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>は</u>好きではない。<br>*I like eating meat, but I don't like fish.*
 
->10\. 私は<u>肉は</u>スーパーで買い、<u>魚は</u>市場で買う。<br>*I buy meat at the supermarket, but I buy fish at the street market.*
+>10\. 私は<u>肉は</u>スーパーで<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>い、<u>魚は</u><ruby>市場<rp>(</rp><rt>いちば</rt><rp>)</rp></ruby>で買う。<br>*I buy meat at the supermarket, but I buy fish at the street market.*
 
 In sentences with **opposite** contrast, the predicates of the contrasted elements are usually positive and negative forms of the same predicate. They may also be predicates with opposite meanings. This is illustrated in example (9), with the predicates "好き" (like) and "好きではない" (don't like). 
 
@@ -108,29 +108,29 @@ Both (9) and (10) show contrastive は marking objects, while the topic of the s
 
 Misfortunate contrast is a relatively minor usage of explicit contrastive は that appears when something with negative connotations is being described, so it is often followed by statements such as ｢困ったことだ｣, or ｢いけないことだ｣.
 
->11\. <u>家は</u>取られ、<u>妻には</u>逃げられた。<br>*They took my house, and my wife left me.<br>*
+>11\. <u><ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>は</u><ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>られ、<u><ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>には</u><ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げられた。<br>*They took my house, and my wife left me.<br>*
 
->12\. ｢<u>出席日数は</u>足りないし、レポートも提出していないし、受験も受けていない。｣<br>*"My attendence is too low, I never turned in a report, and I didn't even take the final."*
+>12\. ｢<u><ruby>出席日数<rp>(</rp><rt>しゅっせきにっすう</rt><rp>)</rp></ruby>は</u><ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りないし、レポートも<ruby>提出<rp>(</rp><rt>ていしゅつ</rt><rp>)</rp></ruby>していないし、<ruby>受験<rp>(</rp><rt>じゅけん</rt><rp>)</rp></ruby>も<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けていない。｣<br>*"My attendence is too low, I never turned in a report, and I didn't even take the final."*
 
 ### More Examples of Explicit Contrast
 
->13\. サブは<u>ゴルフは</u>やるが、<u>生活は</u>派手ではない。<br>*Sahb plays golf, but doesn't live a flashy life.*
+>13\. サブは<u>ゴルフは</u>やるが、<u><ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>は</u><ruby>派手<rp>(</rp><rt>はで</rt><rp>)</rp></ruby>ではない。<br>*Sahb plays golf, but doesn't live a flashy life.*
 
->14\. ｢<u>風は</u>冷たいけど、ええ天気や。｣<br>*"The wind is cold, but it's nice out."*
+>14\. ｢<u><ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>は</u><ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たいけど、ええ<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>や。｣<br>*"The wind is cold, but it's nice out."*
 
 Although there is only one instance of contrastive は in (14), it still has explicit contrast, because "風は冷たい" (the wind is cold) and "ええ天気" (nice weather) are approximately opposite in meaning.
 
->15\. <u>雨は</u>降っているが、<u>雪は</u>降っていない。<br>*It's raining, but not snowing.*
+>15\. <u><ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>は</u><ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っているが、<u><ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>は</u>降っていない。<br>*It's raining, but not snowing.*
 
->16\. 私たちは<u>数十秒間イキを止めていることは</u>できますが、<u>心臓を止めておくことは</u>できません。<br>*We can hold our breaths for just under a minute, but we can't stop our heartbeat.*
+>16\. 私たちは<u><ruby>数十秒間<rp>(</rp><rt>すうじゅうびょうかん</rt><rp>)</rp></ruby>イキを<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めていることは</u>できますが、<u><ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>を<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めておくことは</u>できません。<br>*We can hold our breaths for just under a minute, but we can't stop our heartbeat.*
 
->17\. みりんは、<u>魚には</u>煮崩れを防いで味をしめるため最初に入れ、<u>野菜には</u>ツヤを出し、やわらかくするため最後に入れる、というのも大切なポイントだ。<br>*Mirin should be added first to the fish so that it keeps its flavor and doesn't fall apart during boiling, and afterwards to the vegetables for softness, and to give them a nice finish.*
+>17\. みりんは、<u><ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>には</u><ruby>煮<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>崩<rp>(</rp><rt>くず</rt><rp>)</rp></ruby>れを<ruby>防<rp>(</rp><rt>ふせ</rt><rp>)</rp></ruby>いで<ruby>味<rp>(</rp><rt>あじ</rt><rp>)</rp></ruby>をしめるため<ruby>最初<rp>(</rp><rt>さいしょ</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れ、<u><ruby>野菜<rp>(</rp><rt>やさい</rt><rp>)</rp></ruby>には</u>ツヤを<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>し、やわらかくするため<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>に入れる、というのも<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>なポイントだ。<br>*Mirin should be added first to the fish so that it keeps its flavor and doesn't fall apart during boiling, and afterwards to the vegetables for softness, and to give them a nice finish.*
 
 ## Implicit Contrast
 
 Implicit contrast occurs when something being contrasted against isn't explicitly mentioned, only implied.
 
->18\. 子供たちはカレー<u>は</u>作っている。<br>*The kids are making curry. (But...)*
+>18\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちはカレー<u>は</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っている。<br>*The kids are making curry. (But...)*
 
 In (18), even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that hasn't been cooked yet.
 
@@ -142,7 +142,7 @@ Implicit contrastive は can be identified through the following properties.
 
 The more of these properties a sentence has, the stronger its contrastive nuance becomes. Consider examples (19) and (20):
 
->19\. 私は<u>その質問には</u>答えられません。<br>*I cannot answer **that question**.*<br><br>20\. その質問には<u>私は</u>答えられません。<br>***I** cannot answer that question.*
+>19\. 私は<u>その<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>には</u><ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えられません。<br>*I cannot answer **that question**.*<br><br>20\. その質問には<u>私は</u>答えられません。<br>***I** cannot answer that question.*
 
 When there are two or more elements in a sentence marked by は, the one closer to the predicate takes on more contrastive nuance. This happens because the emphasized portion of the sentence when contrastive は appears is not just the element marked by contrastive は, but also all of the content after the element until the end of its predicate. It is easier to pick up on contrastive nuance if the emphasized portion is uninterrupted. 
 
@@ -152,28 +152,28 @@ However, you may notice that in (19), the more contrastive は marks a 〜に el
 
 ### More Examples of Implicit Contrast
 
->21\. こうしたなかで、<u>子宮がんだけは</u>年々確実に減っていく。<br>*Amidst all this, uterine cancer is the only cancer that is steadily decreasing year by year.*
+>21\. こうしたなかで、<u><ruby>子宮<rp>(</rp><rt>しきゅう</rt><rp>)</rp></ruby>がんだけは</u><ruby>年々<rp>(</rp><rt>ねんねん</rt><rp>)</rp></ruby><ruby>確実<rp>(</rp><rt>かくじつ</rt><rp>)</rp></ruby>に<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>っていく。<br>*Amidst all this, uterine cancer is the only cancer that is steadily decreasing year by year.*
 
->22\. 私は<u>みかんは</u>好きだ。<br>*I do enjoy oranges.*
+>22\. 私は<u>みかんは</u><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだ。<br>*I do enjoy oranges.*
 
->23\. 子供たちは<u>キャンプファイヤーは</u>しなかった。<br>*The kids didn't light a campfire.*
+>23\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちは<u>キャンプファイヤーは</u>しなかった。<br>*The kids didn't light a campfire.*
 
 
 # <a name="contrast-neg" style="text-decoration: none; pointer-events: none;">Contrastive は in Negative Statements
 
 Implicit contrastive は is extremely common when the predicate is negative. These are predicates that end in じゃない, ていない, くない, ではない, じゃなくて, ません, ず, etc. For example, if we were to make the statement (24) negative, it is natural to add contrastive は, as shown in (25).
 
->24\. 日本の老人はシャワーでがまんできる。<br>*The elderly of Japan can get by with just showering.*
+>24\. <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>はシャワーでがまんできる。<br>*The elderly of Japan can get by with just showering.*
 
 >25\. 日本の老人は<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can't stand just showering.*
 
 The reasoning for this is that a positive predicate is assumed to be the default state. When something is expressed to go against that default, we are **implicitly contrasting** it with something with the predicate's positive state. If we were to explicitly contrast the example above with this positive state (i.e. make the contrastive は explicit), it would look like (26).
 
->26\. 日本の老人は入浴なら週2回でもがまんできるけど、<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can get by with bathing as long as it's at least twice a week, but they can't stand just showering.* 
+>26\. <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>は<ruby>入浴<rp>(</rp><rt>にゅうよく</rt><rp>)</rp></ruby>なら<ruby>週2回<rp>(</rp><rt>しゅうにかい</rt><rp>)</rp></ruby>でもがまんできるけど、<u>シャワーでは</u>がまんできん。<br>*The elderly of Japan can get by with bathing as long as it's at least twice a week, but they can't stand just showering.* 
 
 However, we are not always strongly conscious of this implicitly contrasted state, and with some negative statements, it's not easy to imagine such contrast. 
 
->27\. 人間の麻薬には中毒がつきものだが、猫のマタタビには<u>中毒は</u>ない。<br>*Human drugs are addictive, but there is no addictiveness in silver vine for cats.*
+>27\. <ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>の<ruby>麻薬<rp>(</rp><rt>まやく</rt><rp>)</rp></ruby>には<ruby>中毒<rp>(</rp><rt>ちゅうどく</rt><rp>)</rp></ruby>がつきものだが、<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>のマタタビには<u>中毒は</u>ない。<br>*Human drugs are addictive, but there is no addictiveness in silver vine for cats.*
 
 In example (27), there is explicit contrast between "人間の麻薬には" (in human drugs) and "猫のマタタビには" (in silver vine for cats). However, it's hard to imagine something that can be explicitly contrasted with "中毒は" (addictiveness). Thus, when contrastive は is used with negative statements, the nuance of contrast is often weaker than that of positive statements, or completely absent, as is the case in (27). 
 
@@ -189,9 +189,9 @@ Some statements will not contain contrastive は even if they are negative. Such
 
 (28) and (29) are cases where the inflected ending is strongly bound to its stem.
 
->28\. <b>杉矢、ボー然としている。</b><br><b>杉矢</b>｢...<u>ホタルが</u>いない...｣<br>*<b>*Sugiya stares into the distance*</b><br><b>Sugiya:</b> "I don't see a single firefly..."*
+>28\. <b><ruby>杉矢<rp>(</rp><rt>すぎや</rt><rp>)</rp></ruby>、ボー<ruby>然<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>としている。</b><br><b>杉矢</b>｢...<u>ホタルが</u>いない...｣<br>*<b>*Sugiya stares into the distance*</b><br><b>Sugiya:</b> "I don't see a single firefly..."*
 
->29\. ウイルスのプログラムは、単に行動形態がウイルスに似ているから、そう名付けられているだけで、あらかじめプログラムの上で決められた行動をする以外の何者でもない。そして、自然界に存在するウイルスと違って、人間が作ったものだということである。<u>この点が</u>、意外と知られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
+>29\. ウイルスのプログラムは、<ruby>単<rp>(</rp><rt>たん</rt><rp>)</rp></ruby>に<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>形態<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>がウイルスに<ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>ているから、そう<ruby>名付<rp>(</rp><rt>なづ</rt><rp>)</rp></ruby>けられているだけで、あらかじめプログラムの<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>で<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>められた行動をする<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>の<ruby>何者<rp>(</rp><rt>なにもの</rt><rp>)</rp></ruby>でもない。そして、<ruby>自然界<rp>(</rp><rt>しぜんかい</rt><rp>)</rp></ruby>に<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>するウイルスと<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>って、<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>が<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったものだということである。<u>この<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>が</u>、<ruby>意外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>と<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られていない。<br>*Computer viruses are named so simply because their behavior resembles that of a virus, but they are nothing more than programs that carry out predetermined actions. And unlike viruses that exist in nature, these viruses are man-made. This detail is, surprisingly, not widely known.*
 
 (28) is a topicless sentence, while (29) is an specificational sentence. The ending ない seen in the predicate いる in (28) has a negating effect on the entirety of the word "いない", but unlike in negative statements with contrastive は, this effect does not extend to other words. So it is not the entire sentence ホタルがいる which is negated, but only the word いる. "いない" may be viewed as one component separate from all other phrases, similarly to the word "不在" (absent). 
 
@@ -217,7 +217,7 @@ Although the entire sentence is not negated here, the contrastive は (after "�
 
 The second point listed in the table at the beginning of this section, where the negative predicate is strongly bound to its subject, covers sentences like (30).
 
->30\. 野上は、学生の頃から、<u>女がいないことが</u>なかった...それも、いつも複数で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
+>30\. <ruby>野上<rp>(</rp><rt>のがみ</rt><rp>)</rp></ruby>は、<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>の<ruby>頃<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>から、<u><ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>がいないことが</u>なかった...それも、いつも<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>で...<br>*Nogami's never been without a girl, ever since we were students... and it's always been at least two at the same time...*
 
 The portion "女がいない" (without a girl) takes が because it's a strongly subordinate clause (see [Levels of Subordination](wa-ga-subordination#levels)). The が after こと, however, is present because it belongs to the set phrase ことがない. Usually, you can tell that something is a set phrase if it appears as one entry in a dictionary. If it appears with が, it is less likely to be expressed with contrastive は.
 
@@ -225,7 +225,7 @@ The portion "女がいない" (without a girl) takes が because it's a strongly
 
 Generally speaking, contrastive は can attach to all case-marked nouns (〜が, 〜を, 〜に, 〜で, 〜へ, 〜と, 〜から, 〜より, and 〜まで).
 
->31\. きょうは<u>パン屋へは</u>行かなかった。<br>*Today, I didn't go to the bread store.*
+>31\. きょうは<u>パン<ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>へは</u><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かなかった。<br>*Today, I didn't go to the bread store.*
 
 However, contrastive は usually can't attach to the following cases:
 
@@ -235,15 +235,15 @@ However, contrastive は usually can't attach to the following cases:
 
 (32) and (33) are ungrammatical, because contrastive は are attaching to words marked by で expressing means and cause.
 
->32\. <span style="color: #ff0040"> ×きょうは<u>電車では</u>来なかった。</span><br><span style="color: #ff0040">*Today, I didn't come by bus.*</span>
+>32\. <span style="color: #ff0040"> ×きょうは<u><ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>では</u><ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>なかった。</span><br><span style="color: #ff0040">*Today, I didn't come by bus.*</span>
 
->33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u>休まなかった。</span><br><span style="color: #ff0040">*Today, I didn't stay home because of my cold.*</span>
+>33\. <span style="color: #ff0040"> ×きょうは<u>かぜでは</u><ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>まなかった。</span><br><span style="color: #ff0040">*Today, I didn't stay home because of my cold.*</span>
 
 If the speaker is mentioning some condition instead of a matter of fact, however, then contrastive は can attach to these cases. 
 
->34\. 頂上までは、<u>車では</u>行けない。<br>*You can't get to the peak with a car.*
+>34\. <ruby>頂上<rp>(</rp><rt>ちょうじょう</rt><rp>)</rp></ruby>までは、<u><ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>では</u><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けない。<br>*You can't get to the peak with a car.*
 
->35\. あいつは、<u>ちょっとしたかぜでは</u>休まない。<br>*He wouldn't take the day off just because of a cold.*
+>35\. あいつは、<u>ちょっとしたかぜでは</u><ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>まない。<br>*He wouldn't take the day off just because of a cold.*
 
 Now, let's take a look at which adverbs contrastive は can mark.
 
@@ -256,37 +256,37 @@ Now, let's take a look at which adverbs contrastive は can mark.
 | Mood | きっと, ぜひ | × | 
 | Quantity | 3人, 100円, ちょっと | ○ | 
 
->36\. <span style="color: #ff0040"> ×これは<u>たいへんは</u>面白くない。</span><br><span style="color: #ff0040">*This is very uninteresting.*</span>
+>36\. <span style="color: #ff0040"> ×これは<u>たいへんは</u><ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>くない。</span><br><span style="color: #ff0040">*This is very uninteresting.*</span>
 
->37\. <span style="color: #ff0040"> ×<u>もうは</u>着いていないと思う。</span><br><span style="color: #ff0040">*I think they haven't arrived yet.*</span>
+>37\. <span style="color: #ff0040"> ×<u>もうは</u><ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いていないと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。</span><br><span style="color: #ff0040">*I think they haven't arrived yet.*</span>
 
->38\. <u>お昼ごろまでは</u>家にいた。<br>*I was at home until noon.*
+>38\. <u>お<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ごろまでは</u><ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>にいた。<br>*I was at home until noon.*
 
->39\. <span style="color: #ff0040"> ×<u>きっとは</u>来ないと思う。</span><br><span style="color: #ff0040">*I think he will definitely not come.*</span>
+>39\. <span style="color: #ff0040"> ×<u>きっとは</u><ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ないと思う。</span><br><span style="color: #ff0040">*I think he will definitely not come.*</span>
 
->40\. <u>二百本は</u>売れない。<br>*Two hundred copies is too much for me to sell.*
+>40\. <u><ruby>二百本<rp>(</rp><rt>にひゃっぽん</rt><rp>)</rp></ruby>は</u><ruby>売<rp>(</rp><rt>う</rt><rp>)</rp></ruby>れない。<br>*Two hundred copies is too much for me to sell.*
 
->41\. <u>全部は</u>食べなかった。<br>*I didn't eat all of it.*
+>41\. <u><ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>は</u><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べなかった。<br>*I didn't eat all of it.*
 
 Generally speaking, the only adverbs that can be marked by は express tense or a quantity of something. In some cases, contrastive は can mark adverbs that express manner, but only when mentioning some condition instead of a matter of fact, similarly to (34) and (35).
 
->42\. <span style="color: #ff0040"> ×<u>そっとは</u>手渡さなかった。</span><br><span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
+>42\. <span style="color: #ff0040"> ×<u>そっとは</u><ruby>手渡<rp>(</rp><rt>てわた</rt><rp>)</rp></ruby>さなかった。</span><br><span style="color: #ff0040">*I didn't hand it over without putting up a fight.*</span>
 
 >43\. <u>そっとは</u>手渡せない。<br>*I can't hand it over without putting up a fight.*
 
-Contrastive は may also mark 〜て appearing in successive phrases (See [Successive Phrases](/wa-ga-subordination/#successive-phrases)).
+Contrastive は may also mark 〜て appearing in [successive phrases](/wa-ga-subordination/#successive-phrases).
 
->44\. かすかな音を立てて降りそそぐ雨が、<u>睡蓮の葉に似た輪を描いては</u>消えて行く。<br>*The rain falls with a soft sound, making short-lived circles on the water like lily leaves.*
+>44\. かすかな<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>を<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てて<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>りそそぐ<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が、<u><ruby>睡蓮<rp>(</rp><rt>すいれん</rt><rp>)</rp></ruby>の<ruby>葉<rp>(</rp><rt>は</rt><rp>)</rp></ruby>に<ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>た<ruby>輪<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>を<ruby>描<rp>(</rp><rt>えが</rt><rp>)</rp></ruby>いては</u><ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えて<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く。<br>*The rain falls with a soft sound, making short-lived circles on the water like lily leaves.*
 
 Contrastive は may also mark conditional clauses. When it marks 〜たら, 〜(れ)ば, or 〜と, the clause ending must change into 〜ては. When it marks 〜なら, the clause ending must change into 〜のでは.
 
->45\. 甘いものを食べても太らない人もいますし、<u>そんな子が無理に甘いものをガマンしてノイローゼになっては</u>、元も子もありません。<br>*There are people who don't gain weight even if they eat sweets, so I think it's counterproductive for her to resist them so hard if it just stresses her out.*
+>45\. <ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>いものを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べても<ruby>太<rp>(</rp><rt>ふと</rt><rp>)</rp></ruby>らない<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>もいますし、<u>そんな<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>が<ruby>無理<rp>(</rp><rt>むり</rt><rp>)</rp></ruby>に<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>いものをガマンしてノイローゼになっては</u>、<ruby>元<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>も<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>もありません。<br>*There are people who don't gain weight even if they eat sweets, so I think it's counterproductive for her to resist them so hard if it just stresses her out.*
 
 Finally, contrastive は may appear within a predicate. The predicates 聞いてはくれた, 愛しはする, おいしくはある, and 雨ではある are all examples of this case.
 
->46\. 女性は凡庸さに近いものを<u>愛しは</u>しますが、それだけのことです。<br>*Women love mediocre things sometimes, that's all.*
+>46\. <ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>は<ruby>凡庸<rp>(</rp><rt>ぼんよう</rt><rp>)</rp></ruby>さに<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>いものを<u><ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>しは</u>しますが、それだけのことです。<br>*Women love mediocre things sometimes, that's all.*
 
->47\. また、日本IBM製のパソコンでも、日本語モードを使っていれば<u>感染は</u>するが<u>発病は</u>しないのである。<br>*Using a computer from IBM Japan with a Japanese locale will not stop the virus from infecting your computer, but it will prevent it from delivering its payload.*
+>47\. また、<ruby>日本IBM製<rp>(</rp><rt>にほんあいびーえむせい</rt><rp>)</rp></ruby>のパソコンでも、<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>モードを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>っていれば<u><ruby>感染<rp>(</rp><rt>かんせん</rt><rp>)</rp></ruby>は</u>するが<u><ruby>発病<rp>(</rp><rt>はつびょう</rt><rp>)</rp></ruby>は</u>しないのである。<br>*Using a computer from IBM Japan with a Japanese locale will not stop the virus from infecting your computer, but it will prevent it from delivering its payload.*
 
 # <a name="exclusion-types" style="text-decoration: none; pointer-events: none;">Types of Exclusion
 
@@ -301,35 +301,35 @@ All forms of exclusive が can have one of two forms of exclusion: strong or wea
 
 The nuance of strongly exclusive が expresses a clear comparison between one thing marked by exclusive が versus some other thing(s). Strong exclusion often takes the form of 〜のほうが... or 〜がいちばん... because these phrases directly imply the existence of other options that can be marked by exclusive が.
 
->48\. 神戸より<u>大阪のほうが</u>にぎやかだ。<br>*Osaka is a much more livelier place than Kobe.*
+>48\. <ruby>神戸<rp>(</rp><rt>こうべ</rt><rp>)</rp></ruby>より<u><ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>のほうが</u>にぎやかだ。<br>*Osaka is a much more livelier place than Kobe.*
 
->49\. あれも嫌い、これも嫌い、と否定を表明しつづける人より、<u>あれも好き、これも好き、と肯定を表明しつづける人のほうが</u>、なにごとによらず喜びは多い。<br>*People who are vocal about the things they love will always be more happy than people who are vocal about the things they hate.*
+>49\. あれも<ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>い、これも嫌い、と<ruby>否定<rp>(</rp><rt>ひてい</rt><rp>)</rp></ruby>を<ruby>表明<rp>(</rp><rt>ひょうめい</rt><rp>)</rp></ruby>しつづける<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>より、<u>あれも<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>き、これも好き、と<ruby>肯定<rp>(</rp><rt>こうてい</rt><rp>)</rp></ruby>を表明しつづける人のほうが</u>、なにごとによらず<ruby>喜<rp>(</rp><rt>よろこ</rt><rp>)</rp></ruby>びは<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い。<br>*People who are vocal about the things they love will always be more happy than people who are vocal about the things they hate.*
 
->50\. 一度帰ったら、なかなか出てこられないことは、<u>桃子が</u>一番よく知ってるでしょう？<br>*Out of all of us, Momoko knows better than anyone how hard it is to leave home after coming back.*
+>50\. <ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby><ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ったら、なかなか<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>てこられないことは、<u><ruby>桃子<rp>(</rp><rt>ももこ</rt><rp>)</rp></ruby>が</u><ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby>よく<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ってるでしょう？<br>*Out of all of us, Momoko knows better than anyone how hard it is to leave home after coming back.*
 
 ## Weak Exclusion
 
 With weak exclusion, whatever is marked by exclusive が is still being singled out, but no clear comparison is drawn between it and some other thing(s). (51) through (53) and the previous example (29) are all specificational sentences with weak exclusion.
 
->51\. <u>君が</u>主役だ。<br>*You're the lead actor.*
+>51\. <u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が</u><ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。<br>*You're the lead actor.*
 
->52\. 暇を見つけては遊ぶ。<u>これが</u>仕事の極意!<br>*Slack off whenever you have the chance. That is the secret to working!*
+>52\. <ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけては<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ぶ。<u>これが</u><ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>の<ruby>極意<rp>(</rp><rt>ごくい</rt><rp>)</rp></ruby>!<br>*Slack off whenever you have the chance. That is the secret to working!*
 
->53\. ｢<u>そこが</u>出口よ｣ と彼女は言った。<br>*"The exit's that way," she said.*
+>53\. ｢<u>そこが</u><ruby>出口<rp>(</rp><rt>でぐち</rt><rp>)</rp></ruby>よ｣ と<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。<br>*"The exit's that way," she said.*
 
 Exclusive が used in questions to ask for specification are often weakly exclusive.
 
->54\. ｢<u>どの辺が</u>スキー場になるんですか？｣<br>*"Where is the ski resort?"*
+>54\. ｢<u>どの<ruby>辺<rp>(</rp><rt>あたり</rt><rp>)</rp></ruby>が</u>スキー<ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>になるんですか？｣<br>*"Where is the ski resort?"*
 
->55\. ｢<u>あなたが</u>代表者ですか？｣<br>*"Are you the representative?"*
+>55\. ｢<u>あなたが</u><ruby>代表者<rp>(</rp><rt>だいひょうしゃ</rt><rp>)</rp></ruby>ですか？｣<br>*"Are you the representative?"*
 
 Specificational sentences that express intention are also considered weakly exclusive.
 
->56\. ｢<u>私が</u>行きます。｣<br>*"I will go."*
+>56\. ｢<u>私が</u><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。｣<br>*"I will go."*
 
 Another case where weak exclusion appears is in commands where the subject is explicitly stated. It's rare for the subject to be mentioned in commands, so when it is, it's likely because the speaker is specifying who should carry out the command, adding exclusive nuance.
 
->57\. ｢どいて｣<br>と、桃子は、良介のショッピングカーをつついた。<br>｢<u>そっちが</u>どけや｣<br>*"Move," said Momoko, nudging Ryosuke's shopping cart.<br>"You move."*
+>57\. ｢どいて｣<br>と、<ruby>桃子<rp>(</rp><rt>ももこ</rt><rp>)</rp></ruby>は、<ruby>良介<rp>(</rp><rt>りょうすけ</rt><rp>)</rp></ruby>のショッピングカーをつついた。<br>｢<u>そっちが</u>どけや｣<br>*"Move," said Momoko, nudging Ryosuke's shopping cart.<br>"You move."*
 
 # <a name="exclusion-words" style="text-decoration: none; pointer-events: none;">Types of Words Exclusive が Can Mark
 
@@ -337,7 +337,7 @@ We already know that exclusive が can mark a subject, but there also exists ano
 
 Unlike contrastive は, the set of case-marked nouns that subjectivizing exclusive が can mark is much more limited. For example, it may not mark objects.
 
->58\. わたしは<u>ジュースは</u>飲んだが、お酒は飲まなかった。<br>*I had juice, but no alcohol.*
+>58\. わたしは<u>ジュースは</u><ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んだが、お<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>は飲まなかった。<br>*I had juice, but no alcohol.*
 
 >59\. <span style="color: #ff0040">×わたしはお酒ではなくジュースが飲んだ。</span><br><span style="color: #ff0040">*I did not drink alcohol, but juice.*</span>
 
@@ -349,31 +349,31 @@ The following table details the markers of case-marked nouns that subjectivizing
 
 (60) is an example where の expressing possession has been replaced by subjectivizing exclusive が.
 
->60\. だが、現在はまだ<u>北の高気圧の方が</u>勢力が強い。<br>*But for the time being, the high-pressure system in the north is still the most severe.*
+>60\. だが、<ruby>現在<rp>(</rp><rt>げんざい</rt><rp>)</rp></ruby>はまだ<u><ruby>北<rp>(</rp><rt>きた</rt><rp>)</rp></ruby>の<ruby>高気圧<rp>(</rp><rt>こうきあつ</rt><rp>)</rp></ruby>の<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>が</u><ruby>勢力<rp>(</rp><rt>せいりょく</rt><rp>)</rp></ruby>が<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>い。<br>*But for the time being, the high-pressure system in the north is still the most severe.*
 
 (61) is an example where に expressing location has been replaced by subjectivizing exclusive が.
 
->61\. 広島は<u><ruby><rb>流川</rb><rt>ながれかわ</rt></ruby>あたりが</u>バーや飲屋がおおいが、広島駅のすぐそばの<ruby><rb>駅西</rb><rt>えきにし</rt></ruby>の路地で飲んだ。<br>*In Hiroshima, there are many bars and drinking establishments around Nagarekawa, but we drank in an alley shop at Ekinishi, which is very close to Hiroshima Station.*
+>61\. <ruby>広島<rp>(</rp><rt>ひろしま</rt><rp>)</rp></ruby>は<u><ruby><rb>流川</rb><rt>ながれかわ</rt></ruby>あたりが</u>バーや<ruby>飲屋<rp>(</rp><rt>のみや</rt><rp>)</rp></ruby>がおおいが、<ruby>広島駅<rp>(</rp><rt>ひろしまえき</rt><rp>)</rp></ruby>のすぐそばの<ruby><rb>駅西</rb><rt>えきにし</rt></ruby>の<ruby>路地<rp>(</rp><rt>ろじ</rt><rp>)</rp></ruby>で<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んだ。<br>*In Hiroshima, there are many bars and drinking establishments around Nagarekawa, but we drank in an alley shop at Ekinishi, which is very close to Hiroshima Station.*
 
 (62) is an example where に expressing direction has been replaced by subjectivizing exclusive が.
 
->62\. <u>六本木のディスコが</u>芸能人がよく来る。<br>*Celebrities come to the discotheques in Roppongi often.*
+>62\. <u><ruby>六本木<rp>(</rp><rt>ろっぽんぎ</rt><rp>)</rp></ruby>のディスコが</u><ruby>芸能人<rp>(</rp><rt>げいのうじん</rt><rp>)</rp></ruby>がよく<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>る。<br>*Celebrities come to the discotheques in Roppongi often.*
 
 (63) is an example where で expressing location has been replaced by subjectivizing exclusive が.
 
->63\. <u>この店が</u>つけで買物できる。<br>*You can shop on credit here.*
+>63\. <u>この<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>が</u>つけで<ruby>買物<rp>(</rp><rt>かいもの</rt><rp>)</rp></ruby>できる。<br>*You can shop on credit here.*
 
 This subjectivising function of exclusive が allows for the formation of sentences with multiple subjects. Example (60) and (62) are double-subject sentences, and the first clause of (61) is a triple-subject structure. Double-subject sentences can also be formed with topical は, which I explain in [Additional は Structures](wa-ga-other#additional).
 
 The set of adverbs that subjectivizing exclusive が can mark is also narrower than that of contrastive は. Generally, only adverbs that express **tense**, such as 今 or ことし, may be marked.
 
->64\. 洗濯屋さんは<u>いまが</u>一年で一番忙しい。<br>*The cleaners are at their busiest at this time of year.*
+>64\. <ruby>洗濯<rp>(</rp><rt>せんたく</rt><rp>)</rp></ruby><ruby>屋<rp>(</rp><rt>や</rt><rp>)</rp></ruby>さんは<u>いまが</u><ruby>一年<rp>(</rp><rt>いちねん</rt><rp>)</rp></ruby>で<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しい。<br>*The cleaners are at their busiest at this time of year.*
 
 # <a name="cwa-vs-xga" style="text-decoration: none; pointer-events: none;">Contrastive は and Exclusive が In Negative Statements
 
 Consider (65) and (66):
 
->65\. <u>あいつが</u>許せない。(Exclusive が)<br>*__He__ is not forgivable.*
+>65\. <u>あいつが</u><ruby>許<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>せない。(Exclusive が)<br>*__He__ is not forgivable.*
 
 >66\. <u>あいつは</u>許せない。(Contrastive は)<br>*He is __not__ forgivable.*
 

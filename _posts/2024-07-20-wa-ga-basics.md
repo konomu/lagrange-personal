@@ -17,7 +17,7 @@ This guide heavily borrows concepts and examples from Hisashi Noda's (野田尚�
 
 ## Topical は
 
-The Japanese language has a special concept known as the **topic**. As its name implies, the topic is simply something that the speaker is broadly talking about. In Japanese, **the topic is typically marked by は**. That means whatever comes immediately before は is a topic. Once a topic has been introduced in Japanese, it can even persist across the end of its sentence and set the general theme for the following sentences. Almost all sentences that have a topic marked by は take the structure of:
+The Japanese language has a special concept known as the **topic**. As its name implies, the topic is simply something that the speaker is broadly talking about. In Japanese, **topics are typically marked by は**. That means whatever comes immediately before は is a topic. Once a topic has been introduced in Japanese, it can even persist across the end of its sentence and set the general theme for the following sentences. Almost all sentences that have a topic marked by は take the structure of:
 
 > `Topic` + `Topical は` + `Comment`
 
@@ -69,11 +69,11 @@ The topic and the subject exist on different dimensions in Japanese.[^2] A word 
 
 Contrastive は is a special usage of は that **contrasts** what it's marking with something else. When a speaker uses contrastive は, they're pointing out a difference about what it marks with some other thing, whether or not that other thing is explicitly mentioned.
 
->1\. <ruby>子供<rt>こども</rt></ruby>たちは<u>カレーは</u><ruby>作<rt>つく</rt></ruby>っているが、<u>ごはんは</u>まだ<ruby>炊<rt>た</rt></ruby>いていない。<br>*The kids are making curry, but they haven't even cooked the rice yet.*
+>1\. <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちは<u>カレーは</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っているが、<u>ごはんは</u>まだ<ruby>炊<rp>(</rp><rt>た</rt><rp>)</rp></ruby>いていない。<br>*The kids are making curry, but they haven't even cooked the rice yet.*
 
 The two underlined は in example (1) above are uses of contrastive は. This sentence contrasts the state of the curry "カレーは作っている" (*the curry is being made*) with the state of the rice "ごはんはまだ炊いていない" (*the rice is not cooked yet*). In general, when there are two or more は in a clause, the first は may or may not be contrastive, and the は following the first は are increasingly contrastive.
 
->2\.  子供たちは<u>カレーは</u>作っている。<br>*The kids are making curry. (But...)*
+>2\.  <ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちは<u>カレーは</u><ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>っている。<br>*The kids are making curry. (But...)*
 
 Example (2) is a sentence with one contrastive は. Even though the making of curry is not explicitly being compared against something else, the contrastive は here implies that there is some other thing that the kids have not cooked yet.
 
@@ -85,7 +85,7 @@ Exclusive が is a special usage of が that **specifies** what it's marking[^3]
 
 [^3]: You may have also heard this form of が referred to before as exhaustive-listing が, or exhaustive が.
 
->3\.  大阪より<u>神戸のほうが</u>いい店がある。<br>*Kobe has way better stores than Osaka.*
+>3\.  <ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>より<ruby>神戸<rp>(</rp><rt>こうべ</rt><rp>)</rp></ruby>のほうがいい店がある。<br>*Kobe has way better stores than Osaka.*
 
 Example (3) clarifies that it's not Osaka, but Kobe that has better stores.
 
@@ -96,24 +96,24 @@ You'll learn more about exclusive が when we go over the [ ｢君が主役だ�
 All sentences in Japanese that use は or が can be categorized into one of nine structures, each represented by one of the following sentences.
 
 <ol type="i">
-  <b><li>｢父はこの本を買ってくれた。｣</li></b>
-  <li>｢象は鼻が長い。｣</li>
-  <li>｢かき料理は広島が本場だ。｣</li>
-  <li>｢辞書は新しいのがいい。｣</li>
-  <li>｢花が咲くのは7月ごろだ。｣</li>
-  <li>｢この問題は解くのが難しい。｣</li>
-  <li>｢このにおいはガスが漏れてるよ。｣</li>
-  <b><li>｢富士山が見えるよ。｣</li></b>
-  <b><li>｢君が主役だ。｣</li></b>
+  <b><li>｢<ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>はこの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。｣</li></b>
+  <li>｢<ruby>象<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>は<ruby>鼻<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>い。｣</li>
+  <li>｢かき<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>は<ruby>広島<rp>(</rp><rt>ひろしま</rt><rp>)</rp></ruby>が<ruby>本場<rp>(</rp><rt>ほんば</rt><rp>)</rp></ruby>だ。｣</li>
+  <li>｢<ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>は<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのがいい。｣</li>
+  <li>｢<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>くのは<ruby>7月<rp>(</rp><rt>しちがつ</rt><rp>)</rp></ruby>ごろだ。｣</li>
+  <li>｢この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>は<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>くのが<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しい。｣</li>
+  <li>｢このにおいはガスが<ruby>漏<rp>(</rp><rt>も</rt><rp>)</rp></ruby>れてるよ。｣</li>
+  <b><li>｢<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。｣</li></b>
+  <b><li>｢<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。｣</li></b>
 </ol>
 
-The first seven structures are called は structures because they all contain topical は. The last two structures are called が structures because they only contain が. **viii** uses descriptive が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold, as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other#additional).
+The first seven structures are called は structures because they all contain topical は. The last two structures are called が structures because they only contain が. **viii** uses descriptive が, and **ix** uses exclusive が. In the following chapter, we will learn about the three structures in bold (**i**, **viii**, and **ix**), as these are the most basic and common sentence structures in Japanese. The rest of the structures will be introduced in [Additional は Structures](wa-ga-other#additional).
 
 By familiarizing yourself with the prototypical sentence structures of Japanese grammar, my hope is that you'll be able to read a sentence and figure out **what** は or が is doing in that sentence. In chapters 2 through 6 of this series, you'll learn **why** one particle is used over the other, and how we can use that knowledge to choose between using は and が.
 
 # <a name="topic-sentences" style="text-decoration: none; pointer-events: none;">｢父はこの本を買ってくれた。｣: Basic Topic Sentences
 
-> 父はこの本を買ってくれた。<br>*My dad bought this book for me.*
+> <ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>はこの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくれた。<br>*My dad bought this book for me.*
 
 The first structure we'll learn about is the simplest of all the は structures. It's what we get when we topicalize a **case-marked noun** (anything marked by the case particles が, を, に, etc.) or an **adverb**.
 
@@ -137,23 +137,23 @@ More examples of sentences with topics are shown below.
 
 Remember that when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ are topicalized, they may become  ｢〜&#8288;は｣ instead of  ｢〜&#8288;には｣, ｢〜&#8288;では｣, or ｢〜&#8288;へは｣. This happens when ｢〜に｣, ｢〜で｣, or ｢〜へ｣ mark **location**, and this is shown in examples (4) and (5).
 
->4\. 日本に温泉が多い(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本には</u>温泉が多い。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本は</u>温泉が多い。<br>*There are a lot of onsen in Japan.*
+>4\. <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>に<ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>が<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本には</u>温泉が多い。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>日本は</u>温泉が多い。<br>*There are a lot of onsen in Japan.*
 
->5\. 弟に特技がある(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>弟には</u>特技がある。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>弟は</u>特技がある。<br>*My brother has a special skill.*
+>5\. 弟に<ruby>特技<rp>(</rp><rt>とくぎ</rt><rp>)</rp></ruby>がある(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>弟には</u>特技がある。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>弟は</u>特技がある。<br>*My brother has a special skill.*
 
->6\. 沢田が東京へ行った(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>沢田は</u>東京へ行った。<br>*Sawada went to Tokyo.*
+>6\. <ruby>沢田<rp>(</rp><rt>さわだ</rt><rp>)</rp></ruby>が<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>沢田は</u>東京へ行った。<br>*Sawada went to Tokyo.*
 
->7\. だが、<u>ヨーロッパでは</u>最近、ペアの両方の内側にダイヤを埋め込んだ既成品の結婚指輪が、一般にも売られるようになってきた。<br>*But in Europe, pairs of wedding rings with diamonds set in both rings have recently become available to the general public.*
+>7\. だが、<u>ヨーロッパでは</u><ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>、ペアの<ruby>両方<rp>(</rp><rt>りょうほう</rt><rp>)</rp></ruby>の<ruby>内側<rp>(</rp><rt>うちがわ</rt><rp>)</rp></ruby>にダイヤを<ruby>埋<rp>(</rp><rt>う</rt><rp>)</rp></ruby>め込んだ<ruby>既成<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>結婚指輪<rp>(</rp><rt>けっこんゆびわ</rt><rp>)</rp></ruby>が、<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby>にも<ruby>売<rp>(</rp><rt>う</rt><rp>)</rp></ruby>られるようになってきた。<br>*But in Europe, pairs of wedding rings with diamonds set in both rings have recently become available to the general public.*
 
->8\. 結局、それ以来<u>彼とは</u>会っていない。<br>*I haven't met with him since.*
+>8\. <ruby>結局<rp>(</rp><rt>けっきょく</rt><rp>)</rp></ruby>、それ<ruby>以来<rp>(</rp><rt>いらい</rt><rp>)</rp></ruby><u>彼とは</u><ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>っていない。<br>*I haven't met with him since.*
 
->9\. ｢<u>最近までは</u>プロレスラーだったんだ。｣ <br>*"Until recently, I was a pro wrestler."*
+>9\. ｢<u><ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>までは</u>プロレスラーだったんだ。｣<br>*"Until recently, I was a pro wrestler."*
 
->10\. 大きな<u>窓からは</u>日の光が差し込んでいる。<br>*Through the big window, a ray of sunlight cut into the room.*
+>10\. <ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな<u><ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>からは</u>日の<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>が<ruby>差<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>し<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んでいる。<br>*Through the big window, a ray of sunlight cut into the room.*
 
 Adverbs that express tense or extent (such as きょう, 今, その頃, いくらか, ほとんど, and 時々) may also be topicalized, like in (11).
 
->11\. <u>昨日は</u>花子が学校を休んでいた。<br>*Yesterday, Hanako didn't come to school.*
+>11\. <u><ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>は</u><ruby>花子<rp>(</rp><rt>はなこ</rt><rp>)</rp></ruby>が<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>を<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでいた。<br>*Yesterday, Hanako didn't come to school.*
 
 ### Topical vs. Contrastive は
 
@@ -161,28 +161,28 @@ I previously mentioned that ｢〜へ｣, ｢〜と｣, ｢〜から｣, and ｢
 
 Take a look back at example (6). If we were to topicalize "東京へ" instead of "沢田が" in the case structure, we would end up with the sentence seen in (12). The は in this sentence is highly contrastive.
 
->12\. 沢田が東京へ行った(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>東京へは</u>沢田が行った。<br>*To Tokyo, Sawada did go.*
+>12\. <ruby>沢田<rp>(</rp><rt>さわだ</rt><rp>)</rp></ruby>が東京へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った(こと)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓ Topicalization<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>東京へは</u>沢田が行った。<br>*To Tokyo, Sawada did go.*
 
 The は in examples (7) through (10) in the previous section can be viewed as topical は, but they all have some contrastive nuance as well. (13) and (14) show examples of sentences with high contrastive nuance.
 
->13\. <u>海へは</u>あっという間に着いた。<br>*To the beach, we arrived in no time.*
+>13\. <u><ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>へは</u>あっという<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>に<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いた。<br>*To the beach, we arrived in no time.*
 
->14\. <u>大島とは</u>このまえ僕がけんかしたよ。<br>*With Ojima, I did recently argue.*
+>14\. <u><ruby>大島<rp>(</rp><rt>おおじま</rt><rp>)</rp></ruby>とは</u>このまえ<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>がけんかしたよ。<br>*With Ojima, I did recently argue.*
 
 ｢〜を｣ expressing movement (15) and ｢〜に｣ expressing destination (16) also tend to be contrastive when marked by は.
 
->15\. <u>本町は</u>このバスが通ります。<br>*As for Honmachi, this bus will pass it.*
+>15\. <u><ruby>本町<rp>(</rp><rt>ほんまち</rt><rp>)</rp></ruby>は</u>このバスが<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>ります。<br>*As for Honmachi, this bus will pass it.*
 
->16\. <u>神戸には</u>5時ごろ選手たちが着きます。<br>*To Kobe, the players will arrive around 5 'o clock.*
+>16\. <u><ruby>神戸<rp>(</rp><rt>こうべ</rt><rp>)</rp></ruby>には</u>5時ごろ<ruby>選手<rp>(</rp><rt>せんしゅ</rt><rp>)</rp></ruby>たちが<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>きます。<br>*To Kobe, the players will arrive around 5 'o clock.*
 
 ｢〜で｣ expressing means cannot be topicalized, so (17) is highly unnatural.
 
->17\. <span style="color: #ff0040">×<u>船では</u>, 暇がある学生が沖縄に行った。<br>*By boat, the students with free time went to Okinawa.*</span>
+>17\. <span style="color: #ff0040">×<u><ruby>船<rp>(</rp><rt>ふね</rt><rp>)</rp></ruby>では</u>, <ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>がある<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>が<ruby>沖縄<rp>(</rp><rt>おきなわ</rt><rp>)</rp></ruby>に行った。<br>*By boat, the students with free time went to Okinawa.*</span>
 
 
 # <a name="topicless-sentences" style="text-decoration: none; pointer-events: none;">｢富士山が見えるよ。｣: Topicless Sentences
 
-> 富士山が見えるよ。<br>*I can see Mount Fuji.*
+> <ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。<br>*I can see Mount Fuji.*
 
  ｢富士山が見えるよ。｣ is a sentence that **does not contain a topic**. We call these types of sentences **topicless sentences**. Naturally, sentences of this structure use **descriptive が**.
 
@@ -190,7 +190,7 @@ The は in examples (7) through (10) in the previous section can be viewed as to
 
 Topicless sentences may **rely on previous sentences or the environmental context as their topic**. We call them topicless sentences because a topic isn't contained within them, but strictly speaking, they may be viewed as stand-alone comments which mention something about a topic. For example, the topic of ｢富士山が見えるよ。｣ may come from a previous question like, ｢そこの景色はどうだ？｣. 
 
->18\. ｢そこの景色はどうだ？｣<br>(ここの景色は)｢<u>富士山が</u>見えるよ。｣<br>*"How's the view over there?"*<br>*(As for the view here,) "I can see Mount Fuji."*
+>18\. ｢そこの<ruby>景色<rp>(</rp><rt>けしき</rt><rp>)</rp></ruby>はどうだ？｣<br>(ここの景色は) ｢<u><ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>が</u><ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるよ。｣<br>*"How's the view over there?"*<br>*(As for the view here,) "I can see Mount Fuji."*
 
 Previous sentences do not need to contain topical は to establish a topic. Remember that a topic is just something the sentence is broadly talking about. By not explicitly stating the topic with は, these sentences may rely solely on context to provide the topic.
 
@@ -200,25 +200,25 @@ There are three broad categories of topicless sentences, and all of them are **d
 
 A sentence fits into this category when it describes something that the speaker can directly see or perceive.
 
->19\. 何か<u>音が</u>聞こえるわ。耳を澄ませて!<br>*I hear something. Listen closely!*
+>19\. <ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か<u><ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が</u><ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえるわ。<ruby>耳<rp>(</rp><rt>みみ</rt><rp>)</rp></ruby>を<ruby>澄<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ませて!<br>*I hear something. Listen closely!*
 
->20\. <u>月が</u>きれいですね。<br>*Look, isn't the moon gorgeous?*
+>20\. <u><ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>が</u>きれいですね。<br>*Look, isn't the moon gorgeous?*
 
 Sentences that describe perceptible events that will happen very soon also fall into this category.
 
->21\. いいか...今...<u>血管が</u>ふさがる<br>*Listen... his veins will constrict soon...*
+>21\. いいか...<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>...<u><ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>が</u>ふさがる<br>*Listen... his veins will constrict soon...*
 
 ### Descriptions of Events
 
 A sentence fits into this category when it describes an event that the speaker cannot directly see or perceive. This may be something that happened in the past, right now, or even in the future that the speaker cannot perceive. The event cannot be permanent; it has to happen within a given frame of time.
 
->22\. きのう<u>合格発表が</u>あった。<br>*The exam results were announced yesterday.*
+>22\. きのう<u><ruby>合格発表<rp>(</rp><rt>ごうかくはっぴょう</rt><rp>)</rp></ruby>が</u>あった。<br>*The exam results were announced yesterday.*
 
 ### Descriptions of Consequences
 
 A sentence fits into this category when it describes something that will happen if some other condition is fulfilled.
 
->23\. ボタンを押すと、<u>音が</u>出る。<br>*A sound will play when you press the button.*
+>23\. ボタンを<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すと、<u><ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が</u><ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る。<br>*A sound will play when you press the button.*
 
 There is a caveat to this categorization system. **Just because a sentence fits into one of these categories, doesn't necessarily mean the subject will always be marked by が.** If some portion of the sentence has been topicalized, it will feature は and fit into one of the は structures. If the subject has been topicalized, が will be dropped completely and be replaced by topical は.
 
@@ -226,19 +226,19 @@ We'll learn more about when to use topical は in [chapter 4](wa-ga-subordinatio
 
 ### Examples of Topicless Sentences
 
->24\. <u>ファーストフードもついにここまで⸺と思わせる ｢さしみバーガー｣が</u>、神戸・<ruby><rb>三宮</rb><rt>さんのみや</rt></ruby>の高架下で人気を呼んでいる。<br>*These "Sashimi Burgers" served under the railways at Sannomiya, Kobe have been turning heads, and it'll make you think, "Just how far will they take fast food?"*
+>24\. <u>ファーストフードもついにここまで⸺と<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>わせる ｢さしみバーガー｣が</u>、<ruby>神戸<rp>(</rp><rt>こうべ</rt><rp>)</rp></ruby>・<ruby><rb>三宮</rb><rt>さんのみや</rt></ruby>の<ruby>高架下<rp>(</rp><rt>こうかした</rt><rp>)</rp></ruby>で<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby>を<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んでいる。<br>*These "Sashimi Burgers" served under the railways at Sannomiya, Kobe have been turning heads, and it'll make you think, "Just how far will they take fast food?"*
 
->25\. カニといえば冬。が、北の海、オホーツクでは夏の味覚とか。八日朝、<u>オホーツク産のズワイガニが</u>大阪中央卸売市場に初入荷しました。<br>*When it comes to crabs, we think of winter. But in ​the Sea of ​Okhotsk to the north, they're a summer delicacy. On the morning of the 8th, a shipment of snow crabs from Okhotsk arrived at Osaka Central Market for the first time.*
+>25\. カニといえば<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>。が、<ruby>北<rp>(</rp><rt>きた</rt><rp>)</rp></ruby>の<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>、オホーツクでは<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>の<ruby>味覚<rp>(</rp><rt>みかく</rt><rp>)</rp></ruby>とか。<ruby>八日<rp>(</rp><rt>ようか</rt><rp>)</rp></ruby><ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>、<u>オホーツク<ruby>産<rp>(</rp><rt>さん</rt><rp>)</rp></ruby>のズワイガニが</u><ruby>大阪中央<rp>(</rp><rt>おおさかちゅうおう</rt><rp>)</rp></ruby><ruby>卸売市場<rp>(</rp><rt>おろしうりいちば</rt><rp>)</rp></ruby>に<ruby>初<rp>(</rp><rt>はつ</rt><rp>)</rp></ruby><ruby>入荷<rp>(</rp><rt>にゅうか</rt><rp>)</rp></ruby>しました。<br>*When it comes to crabs, we think of winter. But in ​the Sea of ​Okhotsk to the north, they're a summer delicacy. On the morning of the 8th, a shipment of snow crabs from Okhotsk arrived at Osaka Central Market for the first time.*
 
->26\. <u>松下電器産業が</u>小型の自転車にモーターを組み込んだ ｢電気自転車｣ を八月からテスト販売する。<br>*Panasonic will release its "electric bicycle", a small, motorized bicycle for test sales starting August.*
+>26\. <u><ruby>松下電器産業<rp>(</rp><rt>まつしたでんきさんぎょう</rt><rp>)</rp></ruby>が</u><ruby>小型<rp>(</rp><rt>こがた</rt><rp>)</rp></ruby>の<ruby>自転車<rp>(</rp><rt>じてんしゃ</rt><rp>)</rp></ruby>にモーターを<ruby>組<rp>(</rp><rt>く</rt><rp>)</rp></ruby>み<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んだ ｢<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby><ruby>自転車<rp>(</rp><rt>じてんしゃ</rt><rp>)</rp></ruby>｣ を<ruby>八月<rp>(</rp><rt>はちがつ</rt><rp>)</rp></ruby>からテスト<ruby>販売<rp>(</rp><rt>はんばい</rt><rp>)</rp></ruby>する。<br>*Panasonic will release its "electric bicycle", a small, motorized bicycle for test sales starting August.*
 
->27\. ｢<u>水道の水が</u>油臭い。｣ <br>*"The tap water smells oily."*
+>27\. ｢<u><ruby>水道<rp>(</rp><rt>すいどう</rt><rp>)</rp></ruby>の<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>が</u><ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby><ruby>臭<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>い。｣<br>*"The tap water smells oily."*
 
->28\. ｢そういえば今朝、君が帰ってすぐお袋から<u>電話が</u>あったよ｣<br>*"Now that you mention it, my mother did call me this morning as soon as you got home."*
+>28\. ｢そういえば<ruby>今朝<rp>(</rp><rt>けさ</rt><rp>)</rp></ruby>、<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってすぐお<ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>から<u><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>が</u>あったよ｣<br>*"Now that you mention it, my mother did call me this morning as soon as you got home."*
 
 # <a name="spec-sentences" style="text-decoration: none; pointer-events: none;">｢君が主役だ。｣: Specificational Sentences
 
-> 君が主役だ。<br>*You're the lead actor.*
+> <ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>主役<rp>(</rp><rt>しゅやく</rt><rp>)</rp></ruby>だ。<br>*You're the lead actor.*
 
 The sentence ｢君が主役だ。｣ has no topical は, but it'd be inaccurate to say that it has no topic.[^4] The topic here is the predicate, "主役" (lead actor). 
 
@@ -268,17 +268,17 @@ whereas the inversion of this topic sentence, the specificational sentence, will
 
 ### Examples of Specificational Sentences
 
->29\. ｢あ、<u>あれが</u>、おれのところに来た女性記者だよ｣<br>*"Sh- She's the journalist that came to my house!"*
+>29\. ｢あ、<u>あれが</u>、おれのところに<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>た<ruby>女性記者<rp>(</rp><rt>じょせいきしゃ</rt><rp>)</rp></ruby>だよ｣<br>*"Sh- She's the journalist that came to my house!"*
 
->30\. ｢<u>そこが</u>出口よ。｣<br>*"The exit's that way."*
+>30\. ｢<u>そこが</u><ruby>出口<rp>(</rp><rt>でぐち</rt><rp>)</rp></ruby>よ。｣<br>*"The exit's that way."*
 
->31\. ｢<u>これが</u>君の言っていた大変なことなのかい？｣<br>*"Is this the 'big problem' you were getting worked up about?"*
+>31\. ｢<u>これが</u>君の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っていた<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>なことなのかい？｣<br>*"Is this the 'big problem' you were getting worked up about?"*
 
->32\. ｢この映画観ましたよ。｣と僕は言った。<br>｢<u>誰が</u>出てるの？｣<br>*"I've seen this movie before," I said.<br>"Who's in it?"*
+>32\. ｢この<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby><ruby>観<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ましたよ。｣と<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は言った。<br>｢<u><ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が</u><ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>てるの？｣<br>*"I've seen this movie before," I said.<br>"Who's in it?"*
 
->33\. ｢<u>それが</u>ダイヤを見分ける、理想的な明るさなの｣<br>*"That's the ideal brightness for identifying diamonds."*
+>33\. ｢<u>それが</u>ダイヤを<ruby>見分<rp>(</rp><rt>みわ</rt><rp>)</rp></ruby>ける、<ruby>理想<rp>(</rp><rt>りそう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>明<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>るさなの｣<br>*"That's the ideal brightness for identifying diamonds."*
 
->34\. ｢ええ。でもずいぶんきれいにかたづいていたでしょ？｣<br>｢<u>君が</u>かたづけたの？｣<br>*"Yep. But it was pretty neat and tidy, wasn't it?"<br>"Did you clean it up?"*
+>34\. ｢ええ。でもずいぶんきれいにかたづいていたでしょ？｣<br>｢<u><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が</u>かたづけたの？｣<br>*"Yep. But it was pretty neat and tidy, wasn't it?"<br>"Did you clean it up?"*
 
 
 <h1 style="text-align:right;">
