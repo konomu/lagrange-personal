@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: "Wa and Ga Addendum: Atypical Noun Sentences"
+title: "Wa and Ga Addendum - Atypical Noun Sentences"
 author: "konomu"
 categories: journal
 tags: [japanese]
@@ -60,7 +60,7 @@ Examples (8) through (10) are neutral-description noun sentences which function 
 
 # <a name="enumeration" style="text-decoration: none; pointer-events: none;">Enumeration and Breakdown (項目の列挙・内訳)
 
-が may be used to list items or to present a breakdown of data in a noun sentence. These sentences are a subcategory of the neutral-description noun sentences, so there is no nuance of exclusion in these sentences.
+が may be used to list items or to present a breakdown of data in a noun sentence. These sentences are a subcategory of the neutral-description noun sentences, so there is no nuance of exclusion in them.
 
 ## Examples of Sentences With Enumeration
 
@@ -94,7 +94,7 @@ Examples (8) through (10) are neutral-description noun sentences which function 
 
 Identificational sentences are noun sentences that use が to **assign characteristics or meanings to their predicate**.[^3] They are distinct from both neutral-description sentences and specificational sentences. They may resemble specificational sentences, **but there is no nuance of exclusion within them**. Here are some examples:
 
-[^3]: Identificational sentences are also called が-cleft sentences (ガ分裂文). The ｢花が咲くのは7月ごろだ。｣ structure covers は-cleft sentences (ハ分裂文). 野田 (1998) defined his 陰題文 to include identificational sentences, but I separated them out of the category (leaving only specificational sentences) in my guide so that I could present them here. I do believe they function distinctly enough to warrant this recategorization, and I feel like lumping identificational sentences into the same category as specificational sentences is confusing.
+[^3]: Identificational sentences are also called が-cleft sentences (ガ分裂文). The ｢花が咲くのは7月ごろだ。｣ structure covers は-cleft sentences (ハ分裂文). 野田 (1998) defined his 陰題文 to include identificational sentences, but I separated them out of the category (leaving only specificational sentences) in my guide so that I could present them here. I do believe they function distinctly enough to warrant this recategorization, and I feel like lumping identificational sentences into the same category as 陰題文 is confusing.
 
 >23\. <u>苦労してやっと手に入れたのが</u>これだ。<br>*This is what I have finally gotten my hands on after much hard work.*
 

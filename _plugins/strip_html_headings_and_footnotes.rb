@@ -7,6 +7,10 @@ module Jekyll
     def strip_sup_tags(input)
       input.gsub(/<sup[^>]*?>.*?<\/sup>/i, '') # Remove HTML <sup> tags and their content
     end
+
+    def strip_arrow(input)
+      input.gsub(/<div[^>]*?class=["']arrow-container["'][^>]*?>.*?<a[^>]*?>.*?<\/a>.*?<\/div>/im, '')
+    end
   end
 end
 

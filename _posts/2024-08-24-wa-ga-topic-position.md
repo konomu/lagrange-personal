@@ -40,7 +40,7 @@ This rule is the reason why you'll almost never see 誰, どれ, どこ, or 何 
 
 ### <a name="cslc" style="text-decoration: none; pointer-events: none;">Sentence-Level Considerations
 
-The next set of rules I'll introduce aren't hard-set, but general tendencies of topics in sentences. They can be summarized in the following table:
+The next set of rules I'll introduce aren't hard-set, but describe the general tendencies of topics in sentences. They can be summarized in the following table:
 
 <table class="tg"><thead>
   <tr>
@@ -79,7 +79,7 @@ The next set of rules I'll introduce aren't hard-set, but general tendencies of 
   </tr>
 </tbody></table>
 
-The rules for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー frequently become the topic, while their content becomes the comment.[^1] This is shown in examples (2) through (4).
+The rules for sentences with a **noun predicate** are somewhat self-explanatory according to our general rule. Words like 中心, 目的, 基盤, 限度, 値段, 年齢, 名前, and メニュー frequently become the topic, while their content becomes the comment. This is shown in examples (2) through (4).[^1]
 
 [^1]: These sentences fit into the [｢かき料理は広島が本場だ。｣ structure](wa-ga-other/#kaki).
 
@@ -144,7 +144,7 @@ In (12), "同駅" (the station of the same name) is topicalized because it is re
 
 Some sentences violate this rule. In example (13), a specificational sentence, familiar information is marked by exclusive が, making it the comment.
 
->13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes. This is why weather forecasts are sometimes off.*
+>13\. しかし、天気は、大気の循環というか、気象全体がカオスになっているため、初期条件がほんの少し変わると、天候大異変になってしまう。<u>これが</u>天気予報の当たらない物理学的な理由である。<br>*Weather isn't a set cycle, but a chaotic system, where even the slightest alteration in starting conditions can cause massive changes. That is the reason why weather forecasts are sometimes off.*
 
 The reason why "これ" in (13) is marked with exclusive が is because the noun sentence rule we saw in [Sentence-level Considerations](#cslc) took precedence over the familiar information rule. In fact, it is very common for specificational sentences to express familiar information as its comment.
 
@@ -154,7 +154,7 @@ In typical sentences with a topic, the topic is placed at the front of the sente
 
 >14\. <u>この本</u><b>は</b>父が買ってくれた。
 
-Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた" (15).
+Likewise, we can topicalize the clause "この本を買ってくれた" (bought this book for me) in the case structure "父がこの本を買ってくれた(こと)", so that it's placed at the front.[^5] The result is shown in (15). Notice that when we topicalize the verb predicate, it has to be **nominalized** first (made into a noun). We do this by adding a nominalizer like の, もの, こと, 人, ところ, or some other noun that the verb can modify. This is why の is added to the end of "この本を買ってくれた".
 
 [^5]:This sentence fits into [the ｢花が咲くのは7月ごろだ。｣ structure](wa-ga-other#hana).
 
@@ -168,7 +168,7 @@ Thus, the usage of は/が changes depending on what part of the sentence the to
 
 Notice how (15) and (16) have **approximately the same meaning**. In many cases, a sentence and its inversion are interchangeable, but there are certain tendencies towards which version of the sentence is more likely to be expressed depending on context and what kinds of words are contained in it.
 
-**Not all sentences with は will make sense when they're inverted.** If we invert the basic topic sentence in (14), the result is highly unnatural. Before we go over when to use specificational sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
+**Not all sentences with は will make sense when they're inverted.** For example, if we invert the basic topic sentence in (14), the result is highly unnatural. Before we go over when to use specificational sentences, we should learn how to recognize which sentences can be inverted and which ones can't.
 
 # <a name="spec-sup" style="text-decoration: none; pointer-events: none;">How to Tell When Inversion is Possible
 

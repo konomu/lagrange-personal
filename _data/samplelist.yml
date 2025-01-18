@@ -69,10 +69,6 @@ toc2:
         url: /wa-ga-topic-position#when-to-invert
   - title: 7. Other Important Usages
     subfolderitems:
-      - page: Object-marking が
-        url: /wa-ga-other#object-ga
-      - page: Topic in Questions
-        url: /wa-ga-other#questions
       - page: Additional は Structures
         url: /wa-ga-other#additional
       - page: ｢象は鼻が長い。｣
@@ -87,6 +83,10 @@ toc2:
         url: /wa-ga-other#hana
       - page: ｢このにおいはガスが漏れてるよ。｣
         url: /wa-ga-other#nioi
+      - page: Object-marking が
+        url: /wa-ga-other#object-ga
+      - page: Topic in Questions
+        url: /wa-ga-other#questions
       - page: Citations and Further Reading
         url: /wa-ga-other#citations
   - title: 8. Atypical Noun Sentences

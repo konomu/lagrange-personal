@@ -69,7 +69,7 @@ The topic and the subject exist on different dimensions in Japanese.[^2] A word 
 
 Contrastive は is a special usage of は that **contrasts** what it's marking with something else. When a speaker uses contrastive は, they're pointing out a difference about what it marks with some other thing, whether or not that other thing is explicitly mentioned.
 
->1\. 子供たちは<u>カレーは</u>作っているが、<u>ごはんは</u>まだ炊いていない。<br>*The kids are making curry, but they haven't even cooked the rice yet.*
+>1\. <ruby>子供<rt>こども</rt></ruby>たちは<u>カレーは</u><ruby>作<rt>つく</rt></ruby>っているが、<u>ごはんは</u>まだ<ruby>炊<rt>た</rt></ruby>いていない。<br>*The kids are making curry, but they haven't even cooked the rice yet.*
 
 The two underlined は in example (1) above are uses of contrastive は. This sentence contrasts the state of the curry "カレーは作っている" (*the curry is being made*) with the state of the rice "ごはんはまだ炊いていない" (*the rice is not cooked yet*). In general, when there are two or more は in a clause, the first は may or may not be contrastive, and the は following the first は are increasingly contrastive.
 

@@ -52,9 +52,9 @@ Highlighting the clauses gives us the following diagram.
 
 Here are the correct interpretations of these sentences. 
 
->1'\. 太郎<u>は</u>部屋に入ると、すぐに電気をつけた。<br>*After Tarou entered the room, <b><u>he</u></b> turned on the light.*
+>1\. 太郎<u>は</u>部屋に入ると、すぐに電気をつけた。<br>*After Tarou entered the room, <b><u>he</u></b> turned on the light.*
 
->2'\. 太郎<u>が</u>部屋に入ると、すぐに電気をつけた。<br>*After Tarou entered the room, <b><u>I</u></b> turned on the light.*
+>2\. 太郎<u>が</u>部屋に入ると、すぐに電気をつけた。<br>*After Tarou entered the room, <b><u>I</u></b> turned on the light.*
 
 We change our interpretation of who turns on the light depending on whether は or が is used. In example (1) with は, the subject/topic "太郎" (Tarou) **cannot** be a part of the subordinate clause "部屋に入ると" (after × entered the room). This is only possible when "太郎" is not a topic and marked by が. 
 

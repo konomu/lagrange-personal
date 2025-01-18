@@ -12,7 +12,7 @@ layout: default
       </div>
     {% endif %}
     <p>
-      {{ post.content | strip_html_headings | strip_sup_tags | strip_html | truncate: 340 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+      {{ post.content | strip_html_headings | strip_sup_tags | strip_arrow | strip_html | truncate: 400 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
     </p>
     <div class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }}</div>
   </div>
